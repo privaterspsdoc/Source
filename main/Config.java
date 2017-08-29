@@ -132,17 +132,17 @@ public class Config {
 	/**
 	 * If administrators can trade or not.
 	 */
-	public static final boolean ADMIN_CAN_TRADE = false;
+	public static final boolean ADMIN_CAN_TRADE = true;
 
 	/**
 	 * If administrators can sell items or not.
 	 */
-	public static final boolean ADMIN_CAN_SELL_ITEMS = false;
+	public static final boolean ADMIN_CAN_SELL_ITEMS = true;
 
 	/**
 	 * If administrators can drop items or not.
 	 */
-	public static final boolean ADMIN_DROP_ITEMS = false;
+	public static final boolean ADMIN_DROP_ITEMS = true;
 
 	/**
 	 * The starting location of your server.
@@ -192,7 +192,7 @@ public class Config {
 	 * Wilderness levels and combat level differences. Used when attacking
 	 * players.
 	 */
-	public static final boolean COMBAT_LEVEL_DIFFERENCE = true;
+	public static final boolean COMBAT_LEVEL_DIFFERENCE = false;
 
 	/**
 	 * Combat level requirements needed to wield items.
