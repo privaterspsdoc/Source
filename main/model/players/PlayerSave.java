@@ -128,7 +128,7 @@ public class PlayerSave {
 
     /**
      * Loading
-	 *
+     *
      */
     public static int loadGame(Client p, String playerName, String playerPass) {
         String line = "";
@@ -311,6 +311,8 @@ public class PlayerSave {
                             p.slayerTask = Integer.parseInt(token2);
                         } else if (token.equals("slayerPoints")) {
                             p.slayerPoints = Integer.parseInt(token2);
+                        } else if (token.equals("honorPoints")) {
+                            p.honorPoints = Integer.parseInt(token2);
                         } else if (token.equals("taskAmount")) {
                             p.taskAmount = Integer.parseInt(token2);
                         } else if (token.equals("magePoints")) {
@@ -435,7 +437,7 @@ public class PlayerSave {
 
     /**
      * Saving
-	 *
+     *
      */
     public static boolean saveGame(Client p) {
         if (!p.saveFile || p.newPlayer || !p.saveCharacter) {
@@ -533,6 +535,10 @@ public class PlayerSave {
             characterfile.write("slayerPoints = ", 0, 14);
             characterfile.write(Integer.toString(p.slayerPoints), 0, Integer
                     .toString(p.slayerPoints).length());
+            characterfile.newLine();
+            characterfile.write("honorPoints = ", 0, 14);
+            characterfile.write(Integer.toString(p.honorPoints), 0, Integer
+                    .toString(p.honorPoints).length());
             characterfile.newLine();
             characterfile.write("crystal-bow-shots = ", 0, 20);
             characterfile.write(Integer.toString(p.crystalBowArrowCount), 0,

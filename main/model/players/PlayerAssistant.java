@@ -654,6 +654,7 @@ public class PlayerAssistant {
         sendFrame126("@or2@Welcome to Zaros!", 29162);
         sendFrame126("@or1@Kills: @or2@" + c.KC, 29165);
         sendFrame126("@or1@Player Name: @or2@" + c.playerName + "", 29163);
+        sendFrame126("@or1@Honor Points: @or2@ 5", 29164);
         sendFrame126("@or1@Deaths: @or2@" + c.DC, 29166);
         sendFrame126("      @or2@Player Information", 663);
         sendFrame126("@or1@Slayer Points: @or2@" + c.slayerPoints + " ", 29167);
@@ -3540,6 +3541,7 @@ public class PlayerAssistant {
         } else if (Connection.hasRecieved1stStarter(PlayerHandler.players[c.playerId].connectedFrom)
                 && Connection.hasRecieved2ndStarter(PlayerHandler.players[c.playerId].connectedFrom)) {
         }
+
         for (int j = 0; j < PlayerHandler.players.length; j++) {
             if (PlayerHandler.players[j] != null) {
                 Client c2 = (Client) PlayerHandler.players[j];

@@ -78,6 +78,7 @@ public abstract class Player {
     public long buySlayerTimer;
     public boolean needsNewTask = false;
     public int slayerPoints = 0;
+    public int honorPoints = 0;
     public boolean eliteTask;
     public long vault = 0;
 
