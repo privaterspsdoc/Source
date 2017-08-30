@@ -1,5 +1,6 @@
 package main;
 
+import java.util.Calendar;
 import java.util.Date;
 import main.util.Misc;
 
@@ -297,7 +298,7 @@ public class Config {
 
     /**
      * Teleport spells.
-	 *
+     *
      */
     /*
 	 * Modern spells
@@ -405,7 +406,7 @@ public class Config {
     public static final int FLETCHING_EXPERIENCE = 40;
     public static final int SUMMONING_EXPERIENCE = 40;
     //New shit
-    public static Date lastChar = new Date();
+    public static Calendar lastChar = Calendar.getInstance();
     public static String lastCharName = "";
 }
 // 18/4/2015

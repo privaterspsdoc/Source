@@ -3546,8 +3546,8 @@ public class PlayerAssistant {
         PlayerHandler.worldMessage("Please welcome " + c.playerName + " to " + Config.SERVER_NAME + "!");
         Calendar now = Calendar.getInstance();
         now.add(Calendar.MINUTE, 2);
-        Config.lastChar = now.getTime();
-        Config.lastCharName = c.playerName;
+        Config.lastChar = now;
+        Config.lastCharName = "test";
     }
 
     public void sendFrame34P2(int item, int slot, int frame, int amount) {
