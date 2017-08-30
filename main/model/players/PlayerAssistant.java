@@ -3540,6 +3540,12 @@ public class PlayerAssistant {
         } else if (Connection.hasRecieved1stStarter(PlayerHandler.players[c.playerId].connectedFrom)
                 && Connection.hasRecieved2ndStarter(PlayerHandler.players[c.playerId].connectedFrom)) {
         }
+        for (int j = 0; j < PlayerHandler.players.length; j++) {
+            if (PlayerHandler.players[j] != null) {
+                Client c2 = (Client) PlayerHandler.players[j];
+                c2.sendMessage("Please welcome " + c.playerName + " to " + Config.SERVER_NAME + "!");
+            }
+        }
     }
 
     public void sendFrame34P2(int item, int slot, int frame, int amount) {
