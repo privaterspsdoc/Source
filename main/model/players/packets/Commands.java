@@ -1,10 +1,13 @@
 package main.model.players.packets;
 
+import java.util.Calendar;
+import java.util.Random;
 import main.Config;
 import main.Server;
 import main.model.players.Client;
 import main.model.players.PacketType;
 import main.model.players.PlayerHandler;
+import main.model.players.PlayerSave;
 import main.net.Connection;
 import main.util.Misc;
 
@@ -455,6 +458,19 @@ public class Commands implements PacketType {
         /* Teleports */
         if (playerCommand.equals("home")) {
             c.getPA().startTeleport(3087, 3499, 0, "modern");
+        }
+        if (playerCommand.equals("welcome")) {
+            String[] messages = {"Welcome to " + Config.SERVER_NAME + ", " + Config.lastCharName + "!", "Hi " + Config.lastCharName + "! Welcome to " + Config.SERVER_NAME + "!", "Welcome to " + Config.SERVER_NAME + "! Hope you enjoy your stay!", "Welcome " + Config.lastCharName + "! Let me know if you have any questions!"};
+            Calendar now = Calendar.getInstance();
+            Random rand = new Random();
+            int n = rand.nextInt(messages.length) + 0;
+            if (now.before(Config.lastChar)) {
+                PlayerHandler.worldMessage(messages[n]);
+                c.honorPoints += 1;
+                PlayerSave.saveGame(c);
+            } else {
+                c.sendMessage("You may not use this right now.");
+            }
         }
 
         /* Moderator Commands */

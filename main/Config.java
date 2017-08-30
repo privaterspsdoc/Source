@@ -1,5 +1,6 @@
 package main;
 
+import java.util.Date;
 import main.util.Misc;
 
 /**
@@ -403,6 +404,9 @@ public class Config {
     public static final int COOKING_EXPERIENCE = 35;
     public static final int FLETCHING_EXPERIENCE = 40;
     public static final int SUMMONING_EXPERIENCE = 40;
+    //New shit
+    public static Date lastChar = new Date();
+    public static String lastCharName = "";
 }
 // 18/4/2015
 // added cut gems, lowered onyx rate for tzhaars
