@@ -1,7 +1,9 @@
 package main;
 
+import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
+import java.util.List;
 import main.util.Misc;
 
 /**
@@ -408,6 +410,8 @@ public class Config {
     //New shit
     public static Calendar lastChar = Calendar.getInstance();
     public static String lastCharName = "";
+    public static ArrayList usedWelcome = new ArrayList();
+;
 }
 // 18/4/2015
 // added cut gems, lowered onyx rate for tzhaars

@@ -3544,6 +3544,7 @@ public class PlayerAssistant {
                 && Connection.hasRecieved2ndStarter(PlayerHandler.players[c.playerId].connectedFrom)) {
         }
         PlayerHandler.worldMessage("Please welcome " + c.playerName + " to " + Config.SERVER_NAME + "!");
+        Config.usedWelcome.clear();
         Calendar now = Calendar.getInstance();
         now.add(Calendar.MINUTE, 2);
         Config.lastChar = now;

@@ -464,10 +464,11 @@ public class Commands implements PacketType {
             Calendar now = Calendar.getInstance();
             Random rand = new Random();
             int n = rand.nextInt(messages.length) + 0;
-            if (now.before(Config.lastChar)) {
-                PlayerHandler.worldMessage(messages[n]);
+            if (now.before(Config.lastChar) && !Config.usedWelcome.contains(c.playerName)) {
+                PlayerHandler.worldMessage(c.playerName + ": " + messages[n]);
                 c.honorPoints += 1;
                 PlayerSave.saveGame(c);
+                Config.usedWelcome.add(c.playerName);
             } else {
                 c.sendMessage("You may not use this right now.");
             }
