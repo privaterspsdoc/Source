@@ -481,8 +481,12 @@ public class Commands implements PacketType {
                 c.getPA().sendFrame126("", i);
             }
             String[] r = result.toArray(new String[result.size()]);
-            c.getPA().sendFrame126("              Highscores :", 8144);//Incr by 1
-               c.getPA().sendFrame126("             " + r[0] + ":", 8145);//Incr by 1
+            int asf = 8147;
+            c.getPA().sendFrame126("                  @dre@    @red@Highscores :", 8144);//Incr by 1
+            for (int i = 0; i < r.length; i++) {
+                c.getPA().sendFrame126("             " + r[i], asf);
+                asf++;
+            }
             c.getPA().showInterface(8134);
         }
 

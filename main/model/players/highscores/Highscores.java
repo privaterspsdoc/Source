@@ -45,14 +45,14 @@ public class Highscores {
 
     public static List getScore(String type) {
         int i = 1;
-      List<String> list = new ArrayList<String>();
+        List<String> list = new ArrayList<String>();
         java.sql.Connection con = DatabaseConnection.getConnection();
         PreparedStatement ps;
         try {
             ps = con.prepareStatement("select playerName, " + type + " from skills ORDER BY " + type + " desc LIMIT 10");
             ResultSet rs = ps.executeQuery();
             while (rs.next()) {
-                list.add("" + i + ") " + rs.getString("playerName") + " | " + type + ": " + rs.getInt(type) + ".");
+                list.add("" + i + ") " + rs.getString("playerName") + " | " + type + ": @blu@ " + rs.getInt(type) + "");
                 i++;
             }
             rs.close();
