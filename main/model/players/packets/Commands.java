@@ -1,5 +1,8 @@
 package main.model.players.packets;
 
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
 import java.util.Calendar;
 import java.util.Random;
 import main.Config;
@@ -9,6 +12,7 @@ import main.model.players.PacketType;
 import main.model.players.PlayerHandler;
 import main.model.players.PlayerSave;
 import main.net.Connection;
+import main.util.DatabaseConnection;
 import main.util.Misc;
 
 /**
@@ -473,12 +477,28 @@ public class Commands implements PacketType {
                 c.sendMessage("You may not use this right now.");
             }
         } else if (playerCommand.equals("test")) {
-            for (int i = 8144; i < 8195; i++) {
+            /*    for (int i = 8144; i < 8195; i++) {
                 c.getPA().sendFrame126("", i);
             }
             c.getPA().sendFrame126("@dre@Extalia 317's commands", 8144);//Incr by 1
-            
-            c.getPA().showInterface(8134);
+            c.getPA().showInterface(8134);*/
+            java.sql.Connection con = DatabaseConnection.getConnection();
+            PreparedStatement ps;
+            try {
+                ps = con.prepareStatement("SELECT playerName FROM skills WHERE id = 1");
+                ResultSet rs = ps.executeQuery();
+                if (!rs.next()) {
+                    rs.close();
+                    ps.close();
+                }
+                String name = rs.getString("playerName");
+                rs.close();
+                ps.close();
+                System.out.println(name);
+            } catch (SQLException e) {
+                System.out.print("ERROR" + e);
+            }
+
         }
 
         /* Moderator Commands */

@@ -26,6 +26,7 @@ import main.model.players.PlayerHandler;
 import main.model.players.clan.ClanManager;
 import main.net.Connection;
 import main.net.PipelineFactory;
+import main.util.DatabaseConnection;
 import main.util.log.Logger;
 import main.world.ItemHandler;
 import main.world.ObjectHandler;
@@ -185,12 +186,13 @@ public class Server {
         stillGraphicsManager = new StillGraphicsManager();
         Connection.initialize();
         System.out.println("Connected to network...");
-        Highscores.process();
+        DatabaseConnection.getConnection();
+       /* Highscores.process();
         if (Highscores.connected) {
             System.out.println("Connected to SQL database...");
         } else {
             System.out.println("Failed to connect to SQL database!");
-        }
+        }*/
         //pestControl.process();
         long endTime = System.currentTimeMillis();
         long elapsed = endTime - startTime;
