@@ -1,6 +1,8 @@
 package main.model.players.highscores;
 
 import java.sql.*;
+import java.util.ArrayList;
+import java.util.List;
 import main.model.players.Client;
 import main.util.DatabaseConnection;
 
@@ -41,16 +43,16 @@ public class Highscores {
         }
     }
 
-    public static String getScore(String type) {
+    public static List getScore(String type) {
         int i = 1;
-        String idk = "";
+      List<String> list = new ArrayList<String>();
         java.sql.Connection con = DatabaseConnection.getConnection();
         PreparedStatement ps;
         try {
             ps = con.prepareStatement("select playerName, " + type + " from skills ORDER BY " + type + " desc LIMIT 10");
             ResultSet rs = ps.executeQuery();
             while (rs.next()) {
-                idk += "" + i + ") " + rs.getString("playerName") + " | " + type + ": " + rs.getInt(type) + "\r\n";
+                list.add("" + i + ") " + rs.getString("playerName") + " | " + type + ": " + rs.getInt(type) + ".");
                 i++;
             }
             rs.close();
@@ -58,6 +60,7 @@ public class Highscores {
         } catch (SQLException e) {
             e.printStackTrace();
         }
-        return idk;
+        System.out.println(list);
+        return list;
     }
 }

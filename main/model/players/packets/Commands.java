@@ -1,9 +1,8 @@
 package main.model.players.packets;
 
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.sql.SQLException;
+import java.util.ArrayList;
 import java.util.Calendar;
+import java.util.List;
 import java.util.Random;
 import main.Config;
 import main.Server;
@@ -13,7 +12,6 @@ import main.model.players.PlayerHandler;
 import main.model.players.PlayerSave;
 import main.model.players.highscores.Highscores;
 import main.net.Connection;
-import main.util.DatabaseConnection;
 import main.util.Misc;
 
 /**
@@ -478,10 +476,13 @@ public class Commands implements PacketType {
                 c.sendMessage("You may not use this right now.");
             }
         } else if (playerCommand.equals("test")) {
-                for (int i = 8144; i < 8195; i++) {
+            List<String> result = Highscores.getScore("Attacklvl");
+            for (int i = 8144; i < 8195; i++) {
                 c.getPA().sendFrame126("", i);
             }
-            c.getPA().sendFrame126(Highscores.getScore("Attacklvl"), 8144);//Incr by 1
+            String[] r = result.toArray(new String[result.size()]);
+            c.getPA().sendFrame126("              Highscores :", 8144);//Incr by 1
+               c.getPA().sendFrame126("             " + r[0] + ":", 8145);//Incr by 1
             c.getPA().showInterface(8134);
         }
 
