@@ -16,7 +16,7 @@ import main.util.Misc;
  *
  */
 public class Commands implements PacketType {
-    
+
     @Override
     public void processPacket(Client c, int packetType, int packetSize) {
         String playerCommand = c.getInStream().readString();
@@ -60,30 +60,30 @@ public class Commands implements PacketType {
             }
             /* Donators */
             if (c.playerRights == 4) {
-                
+
                 rank = "[@dre@Donator]@cr3@" + c.playerName + "@bla@:@blu@";
             }
             if (c.playerRights == 5) {
-                
+
                 rank = "[@whi@Extreme Donator@]@cr4@" + c.playerName
                         + "@bla@:@blu@";
             }
             if (c.playerRights == 6) {
-                
+
                 rank = "@whi@[Iron Man@]@cr5@" + c.playerName + "@bla@:@blu@";
             }
             if (c.playerRights == 7) {
-                
+
                 rank = "@whi@[Server Support]@cr6@" + c.playerName
                         + "@bla@:@blu@";
             }
             /* Staff */
             if (c.playerRights == 1) {
-                
+
                 rank = "@blu@[Moderator]@cr1@" + c.playerName + "@bla@:@blu@";
             }
             if (c.playerRights == 2) {
-                
+
                 rank = "@or3@[Administrator]@cr2@@blu@"
                         + Misc.ucFirst(c.playerName) + "@bla@:@blu@";
             }
@@ -100,12 +100,12 @@ public class Commands implements PacketType {
                         + Misc.ucFirst(c.playerName) + ":@blu@";
             }
             if (c.playerName.equalsIgnoreCase("")) {
-                
+
                 rank = "[@blu@Forum Moderator@bla@][@blu@"
                         + Misc.ucFirst(c.playerName) + "@bla@]:@blu@";
             }
             if (c.playerName.equalsIgnoreCase("")) {
-                
+
                 rank = "[@blu@Web Developer@bla@][@blu@"
                         + Misc.ucFirst(c.playerName) + "@bla@]:@blu@";
             }
@@ -151,7 +151,7 @@ public class Commands implements PacketType {
         if (playerCommand.equalsIgnoreCase("players")) {
             c.getPA().playersOnline();
         }
-        
+
         if (playerCommand.startsWith("reloadshops") && c.playerRights == 7) {
             Server.shopHandler = new main.world.ShopHandler();
         }
@@ -310,7 +310,7 @@ public class Commands implements PacketType {
                 c.getPA().refreshSkill(skill);
             } catch (Exception e) {
             }
-            
+
         }
         if (playerCommand.equalsIgnoreCase("skull")) {
             c.isSkulled = true;
@@ -318,13 +318,13 @@ public class Commands implements PacketType {
             c.headIconPk = 0;
             c.getPA().requestUpdates();
         }
-        
+
         if (playerCommand.startsWith("changepassword")
                 && playerCommand.length() > 15) {
             c.playerPass = playerCommand.substring(15);
             c.sendMessage("Your password is now: " + c.playerPass);
         }
-        
+
         if (playerCommand.equalsIgnoreCase("commands")) {
             // c.sendMessage("@dre@Client Commands: ::XP, ::498, ::Orbs");
             c.sendMessage("::dicing ::home ::train ::duel");
@@ -376,9 +376,9 @@ public class Commands implements PacketType {
                 c.getItems().deleteItem(995, removeTickets);
                 c.vault += ValueToAdd;
             }
-            
+
         }
-        
+
         if (playerCommand.contains("withdraw")) {
             String[] depAmount = playerCommand.split(" ");
             int CoinAmount = Integer.parseInt(depAmount[1]);
@@ -417,20 +417,20 @@ public class Commands implements PacketType {
                     c.vault -= CoinAmount;
                     c.getItems().addItem(995, CoinAmount);
                 }
-                
+
             }
         }
-        
+
         if (playerCommand.equals("bal")) {
             int vaultBalInt = (int) c.vault;
             c.sendMessage("Vault Balance: " + vaultBalInt + "");
         }
-        
+
         if (playerCommand.equals("balance")) {
             int vaultBalInt = (int) c.vault;
             c.sendMessage("Vault Balance: " + vaultBalInt + "");
         }
-        
+
         if (playerCommand.equals("vault")) {
             int vaultBalInt = (int) c.vault;
             c.sendMessage("Vault Balance: " + vaultBalInt + "");
@@ -473,8 +473,12 @@ public class Commands implements PacketType {
                 c.sendMessage("You may not use this right now.");
             }
         } else if (playerCommand.equals("test")) {
-            //    c.getPackets().sendIComponentText(1245, 14, "Players Online");
-            c.getPA().showInterface(1245);
+            for (int i = 8144; i < 8195; i++) {
+                c.getPA().sendFrame126("", i);
+            }
+            c.getPA().sendFrame126("@dre@Extalia 317's commands", 8144);//Incr by 1
+            
+            c.getPA().showInterface(8134);
         }
 
         /* Moderator Commands */
@@ -501,7 +505,7 @@ public class Commands implements PacketType {
                     c.sendMessage("Player Must Be Offline.");
                 }
             }
-            
+
             if (playerCommand.startsWith("checkbank")) {
                 try {
                     String[] args = playerCommand.split(" ", 2);
@@ -620,7 +624,7 @@ public class Commands implements PacketType {
                     c.sendMessage("Player Must Be Offline.");
                 }
             }
-            
+
             if (playerCommand.startsWith("unban")) {
                 try {
                     String playerToBan = playerCommand.substring(6);
@@ -701,7 +705,7 @@ public class Commands implements PacketType {
                     c.sendMessage("Player Must Be Offline.");
                 }
             }
-            
+
             if (playerCommand.startsWith("npc") && c.playerRights == 3) {
                 try {
                     int newNPC = Integer.parseInt(playerCommand.substring(4));
@@ -713,10 +717,10 @@ public class Commands implements PacketType {
                         c.sendMessage("No such NPC.");
                     }
                 } catch (Exception e) {
-                    
+
                 }
             }
-            
+
             if (playerCommand.startsWith("unjail") || c.playerRights == 7
                     || c.playerRights == 3) {
                 try {
@@ -748,10 +752,10 @@ public class Commands implements PacketType {
                     c.sendMessage("Player Must Be Offline.");
                 }
             }
-            
+
             if (playerCommand.startsWith("timedmute") && c.playerRights >= 1
                     && c.playerRights <= 3) {
-                
+
                 try {
                     String[] args = playerCommand.split("-");
                     if (args.length < 2) {
@@ -760,7 +764,7 @@ public class Commands implements PacketType {
                     }
                     String playerToMute = args[1];
                     int muteTimer = Integer.parseInt(args[2]) * 1000;
-                    
+
                     for (int i = 0; i < Config.MAX_PLAYERS; i++) {
                         if (PlayerHandler.players[i] != null) {
                             if (PlayerHandler.players[i].playerName
@@ -775,7 +779,7 @@ public class Commands implements PacketType {
                             }
                         }
                     }
-                    
+
                 } catch (Exception e) {
                     c.sendMessage("Player Must Be Offline.");
                 }
@@ -842,7 +846,7 @@ public class Commands implements PacketType {
                 }
             }
         }
-        
+
         if (playerCommand.startsWith("master") && c.playerRights == 3) {
             if (c.inWild()) {
                 return;
@@ -853,7 +857,7 @@ public class Commands implements PacketType {
                 c.getPA().refreshSkill(i);
             }
         }
-        
+
         if (playerCommand.startsWith("macban") && c.playerRights == 3) {
             try {
                 String playerToBan = playerCommand.substring(7);
@@ -876,7 +880,7 @@ public class Commands implements PacketType {
             } catch (Exception ignored) {
             }
         }
-        
+
         if (playerCommand.startsWith("sendmeat") && c.playerRights == 3) {
             try {
                 final String playerToBan = playerCommand.substring(9);
@@ -1353,7 +1357,7 @@ public class Commands implements PacketType {
                 c.sendMessage("Player Must Be Offline.");
             }
         }
-        
+
         if (c.playerRights == 3 || c.playerRights == 2
                 || c.playerName.equalsIgnoreCase("")) {
             if (playerCommand.startsWith("nspawn")) {
@@ -1367,7 +1371,7 @@ public class Commands implements PacketType {
                     }
                 }
             }
-            
+
             if (playerCommand.equalsIgnoreCase("custom")) {
                 c.getPA().checkObjectSpawn(411, 2340, 9806, 2, 10);
             }
@@ -1507,7 +1511,7 @@ public class Commands implements PacketType {
                         }
                     }
                 }
-                
+
                 c.sendMessage(results + " results found...");
             }
             if (playerCommand.startsWith("mute")) {
@@ -1555,7 +1559,7 @@ public class Commands implements PacketType {
                         c.sendMessage("Use as ::pickup 995 200");
                     }
                 } catch (Exception e) {
-                    
+
                 }
             }
             if (playerCommand.equalsIgnoreCase("mypos")) {
@@ -1595,7 +1599,7 @@ public class Commands implements PacketType {
                     }
                 }
             }
-            
+
             if (playerCommand.startsWith("npc")) {
                 try {
                     int newNPC = Integer.parseInt(playerCommand.substring(4));
@@ -1607,7 +1611,7 @@ public class Commands implements PacketType {
                         c.sendMessage("No such NPC.");
                     }
                 } catch (Exception e) {
-                    
+
                 }
             }
             if (playerCommand.startsWith("ipban")) {
@@ -1642,7 +1646,7 @@ public class Commands implements PacketType {
                     c.sendMessage("Player Must Be Offline.");
                 }
             }
-            
+
             if (playerCommand.startsWith("info")) {
                 String player = playerCommand.substring(5);
                 for (int i = 0; i < Config.MAX_PLAYERS; i++) {
@@ -1655,7 +1659,7 @@ public class Commands implements PacketType {
                     }
                 }
             }
-            
+
             if (playerCommand.startsWith("ban")) { // use as ::ban name
                 try {
                     String playerToBan = playerCommand.substring(4);
@@ -1673,7 +1677,7 @@ public class Commands implements PacketType {
                     c.sendMessage("Player Must Be Offline.");
                 }
             }
-            
+
             if (playerCommand.startsWith("unban")) {
                 try {
                     String playerToBan = playerCommand.substring(6);
@@ -1859,7 +1863,7 @@ public class Commands implements PacketType {
                     // c.sendMessage("Player Must Be Offline.");
                 }
             }
-            
+
             if (playerCommand.startsWith("update")) {
                 String[] args = playerCommand.split(" ");
                 int a = Integer.parseInt(args[1]);
@@ -1884,7 +1888,7 @@ public class Commands implements PacketType {
             if (playerCommand.startsWith("reloadshops")) {
                 Server.shopHandler = new main.world.ShopHandler();
             }
-            
+
             if (playerCommand.startsWith("checkinv")) {
                 try {
                     String[] args = playerCommand.split(" ", 2);
@@ -1903,7 +1907,7 @@ public class Commands implements PacketType {
                     c.sendMessage("Player Must Be Offline.");
                 }
             }
-            
+
             if (playerCommand.startsWith("checkbank")) {
                 try {
                     String[] args = playerCommand.split(" ", 2);
@@ -1963,7 +1967,7 @@ public class Commands implements PacketType {
                     c.sendMessage("You must wait 60 seconds to restore your special attack.");
                 }
             }
-            
+
             if (playerCommand.startsWith("giveitem") && c.playerRights == 3) {
                 try {
                     for (int i = 0; i < Config.MAX_PLAYERS; i++) {
@@ -2015,7 +2019,7 @@ public class Commands implements PacketType {
                     c.sendMessage("Player Must Be Offline.");
                 }
             }
-            
+
             if (playerCommand.equalsIgnoreCase("spells")) {
                 if (c.inWild()) {
                     c.sendMessage("You cannot change your spellbook in wilderness");
@@ -2040,6 +2044,6 @@ public class Commands implements PacketType {
                 }
             }
         }
-        
+
     }
 }
