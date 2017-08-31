@@ -26,9 +26,8 @@ public class DatabaseConnection {
             ret = new DatabaseConnection.ConWrapper(retCon);
             ret.id = threadID;
             connections.put(threadID, ret);
-           
+
         }
-        System.out.println(ret != null);
         return ret.getConnection();
     }
 
@@ -64,7 +63,7 @@ public class DatabaseConnection {
 
     private static Connection connectToDB() {
         try {
-            Class.forName("com.mysql.jdbc.Driver");  
+            Class.forName("com.mysql.jdbc.Driver");
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         }
@@ -78,7 +77,6 @@ public class DatabaseConnection {
                 }
                 propsInited = true;
             }
-            System.out.println("Connected to SQL!");
             return con;
         } catch (SQLException e) {
             e.printStackTrace();

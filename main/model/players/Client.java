@@ -862,7 +862,7 @@ public class Client extends Player {
     }
 
     public void logout() {
-        //Highscores.save(this);
+        Highscores.saveData(this);
         if (clan != null) {
             clan.removeMember(this);
         }
