@@ -81,7 +81,6 @@ public abstract class Player {
     public int honorPoints = 0;
     public boolean eliteTask;
     public long vault = 0;
-
     public int vetKills;
     public int scorpiaKills;
     public int venKills;

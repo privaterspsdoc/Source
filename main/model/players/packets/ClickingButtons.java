@@ -19,7 +19,7 @@ import main.model.players.clan.Clan;
  *
  */
 public class ClickingButtons implements PacketType {
-    
+
     @Override
     public void processPacket(final Client c, int packetType, int packetSize) {
         int actionButtonId = Misc.hexToInt(c.getInStream().buffer, 0,
@@ -185,175 +185,175 @@ public class ClickingButtons implements PacketType {
                 // c.getItems().makeSpiritWolf(2859, 12225);
                 // c.getPA().refreshSkill(22);
                 break;
-            
+
             case 91183:
                 c.Summoning().ItemonItem(2138, 12225);
                 c.getPA().refreshSkill(22);
                 break;
-            
+
             case 91184:
                 c.Summoning().ItemonItem(6291, 12225);
                 break;
-            
+
             case 91185:
                 c.Summoning().ItemonItem(440, 12225);
                 break;
-            
+
             case 91186:
                 c.Summoning().ItemonItem(12168, 12225);
                 break;
-            
+
             case 91187:
                 c.Summoning().ItemonItem(3138, 12225);
                 break;
-            
+
             case 91188:
                 // c.Summoning().ItemonItem(12164, 12225);
                 c.sendMessage("[Pouch not available.]");
                 break;
-            
+
             case 91189:
                 // c.Summoning().ItemonItem(12165, 12225);
                 c.sendMessage("[Pouch not available.]");
                 break;
-            
+
             case 91190:
                 // c.Summoning().ItemonItem(, 12225);
                 c.sendMessage("[Pouch not available.]");
                 break;
-            
+
             case 91191:
                 // c.Summoning().ItemonItem(12167, 12225);
                 c.sendMessage("[Pouch not available.]");
                 break;
-            
+
             case 91192:
                 c.Summoning().ItemonItem(2349, 12225);
                 break;
-            
+
             case 91193:
                 //c.Summoning().ItemonItem(249, 12225);
                 c.sendMessage("[Pouch not available.]");
                 break;
-            
+
             case 91194:
                 c.Summoning().ItemonItem(2351, 12225);
                 // c.sendMessage("[Pouch not available.]");
                 break;
-            
+
             case 91195:
                 c.sendMessage("[Pouch not available.]");
                 // c.Summoning().ItemonItem(13403, 12225);
                 break;
-            
+
             case 91196:
                 c.Summoning().ItemonItem(9978, 12225);
                 break;
-            
+
             case 91197:
                 c.Summoning().ItemonItem(2353, 12225);
                 break;
-            
+
             case 91198:
                 // c.Summoning().ItemonItem(, 12225);
                 c.sendMessage("[Pouch not available.]");
                 break;
-            
+
             case 91199:
                 // c.Summoning().ItemonItem(, 12225);
                 c.sendMessage("[Pouch not available.]");
                 break;
-            
+
             case 91200:
                 c.sendMessage("[Pouch not available.]");
                 // c.Summoning().ItemonItem(, 12225);
                 break;
-            
+
             case 91201:
                 c.Summoning().ItemonItem(2359, 12225);
                 break;
-            
+
             case 91202:
                 c.sendMessage("[Pouch not available.]");
                 // c.Summoning().ItemonItem(, 12225);
                 break;
-            
+
             case 91203:
                 c.sendMessage("[Pouch not available.]");
                 // c.Summoning().ItemonItem(, 12225);
                 break;
-            
+
             case 91204:
                 c.sendMessage("[Pouch not available.]");
                 // c.Summoning().ItemonItem(, 12225);
                 break;
-            
+
             case 91205:
                 c.sendMessage("[Pouch not available.]");
                 // c.Summoning().ItemonItem(, 12225);
                 break;
-            
+
             case 91206:
                 // c.sendMessage("[Pouch not available.]");
                 c.Summoning().ItemonItem(2361, 12225);
                 break;
-            
+
             case 91207:
                 c.sendMessage("[Pouch not available.]");
                 // c.Summoning().ItemonItem(, 12225);
                 break;
-            
+
             case 91208:
                 c.sendMessage("[Pouch not available.]");
                 // c.Summoning().ItemonItem(, 12225);
                 break;
-            
+
             case 91209:
                 c.sendMessage("[Pouch not available.]");
                 // c.Summoning().ItemonItem(, 12225);
                 break;
-            
+
             case 91210:
                 c.sendMessage("[Pouch not available.]");
                 // c.Summoning().ItemonItem(, 12225);
                 break;
-            
+
             case 91211:
                 c.Summoning().ItemonItem(2363, 12225);
                 break;
-            
+
             case 91212:
                 c.sendMessage("[Pouch not available.]");
                 // c.Summoning().ItemonItem(, 12225);
                 break;
-            
+
             case 91213:
                 c.sendMessage("[Pouch not available.]");
                 // c.Summoning().ItemonItem(, 12225);
                 break;
-            
+
             case 91214:
                 c.sendMessage("[Pouch not available.]");
                 // c.Summoning().ItemonItem(, 12225);
                 break;
-            
+
             case 91215:
                 c.Summoning().ItemonItem(1444, 12225);
                 break;
-            
+
             case 91216:
                 c.sendMessage("[Pouch not available.]");
                 // c.Summoning().ItemonItem(, 12225);
                 break;
-            
+
             case 91217:
                 c.Summoning().ItemonItem(10818, 12225);
                 break;
-            
+
             case 91218:
                 c.Summoning().ItemonItem(1119, 12225);
                 break;
-            
+
             case 226170:
             case 89236:
                 for (int i = 0; i < c.playerEquipment.length; i++) {
@@ -364,7 +364,7 @@ public class ClickingButtons implements PacketType {
                 }
                 c.sendMessage("You successfully bank all your worn items.");
                 break;
-            
+
             case 89223: // Bank All
             case 226162:
             case 86000:
@@ -400,7 +400,7 @@ public class ClickingButtons implements PacketType {
                     c.updateRequired = true;
                 }
                 break;
-            
+
             case 154:
                 if (c.getPA().wearingCape(c.playerEquipment[c.playerCape])) {
                     c.stopMovement();
@@ -411,7 +411,7 @@ public class ClickingButtons implements PacketType {
                 }
                 break;
             /* End Quest */
-            
+
             case 15163:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -431,7 +431,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 15162:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -451,7 +451,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 15161:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -471,7 +471,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 15160:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -491,7 +491,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 15147:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -512,7 +512,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 15146:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -533,7 +533,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 15247:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -554,7 +554,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 9110:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -575,7 +575,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 15151:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -595,7 +595,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 15149:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -615,7 +615,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 15150:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -635,7 +635,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 15148:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -655,7 +655,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 15159:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -676,7 +676,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 15158:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -697,7 +697,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 15157:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -718,7 +718,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 15156:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -739,7 +739,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 29017:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -759,7 +759,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 29016:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -779,7 +779,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 24253:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -799,7 +799,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 16062:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -838,7 +838,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 29020:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -915,7 +915,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 29025:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -935,7 +935,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 29024:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -955,7 +955,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 29023:
                 if (c.smeltInterface) {
                     c.getPA().closeAllWindows();
@@ -975,7 +975,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetVariables();
                 }
                 break;
-            
+
             case 53152:
                 Cooking.getAmount(c, 1);
                 break;
@@ -988,7 +988,7 @@ public class ClickingButtons implements PacketType {
             case 53149:
                 Cooking.getAmount(c, 28);
                 break;
-            
+
             case 121135: // attack
                 c.getSI().attackComplex(1);
                 c.getSI().selected = 0;
@@ -1065,58 +1065,58 @@ public class ClickingButtons implements PacketType {
                 c.getSI().farmingComplex(1);
                 c.getSI().selected = 20;
                 break;
-            
+
             case 34142: // tab 1
                 c.getSI().menuCompilation(1);
                 break;
-            
+
             case 34119: // tab 2
                 c.getSI().menuCompilation(2);
                 break;
-            
+
             case 34120: // tab 3
                 c.getSI().menuCompilation(3);
                 break;
-            
+
             case 34123: // tab 4
                 c.getSI().menuCompilation(4);
                 break;
-            
+
             case 34133: // tab 5
                 c.getSI().menuCompilation(5);
                 break;
-            
+
             case 34136: // tab 6
                 c.getSI().menuCompilation(6);
                 break;
-            
+
             case 34139: // tab 7
                 c.getSI().menuCompilation(7);
                 break;
-            
+
             case 34155: // tab 8
                 c.getSI().menuCompilation(8);
                 break;
-            
+
             case 34158: // tab 9
                 c.getSI().menuCompilation(9);
                 break;
-            
+
             case 34161: // tab 10
                 c.getSI().menuCompilation(10);
                 break;
-            
+
             case 59199: // tab 11
                 c.getSI().menuCompilation(11);
                 break;
-            
+
             case 59202: // tab 12
                 c.getSI().menuCompilation(12);
                 break;
             case 59203: // tab 13
                 c.getSI().menuCompilation(13);
                 break;
-            
+
             case 150:
                 if (c.autoRet == 0) {
                     c.autoRet = 1;
@@ -1222,7 +1222,7 @@ public class ClickingButtons implements PacketType {
                 } else {
                     DiceHandler.handleClick(c, actionButtonId);
                 }
-                
+
                 if (c.dialogueAction == 10) {
                     c.getPA().spellTeleport(2845, 4832, 0);
                     c.dialogueAction = -1;
@@ -1327,7 +1327,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetAutocast();
                 } else if (c.teleAction == 5) {
                     c.getPA().spellTeleport(3079, 9502, 0);
-                    
+
                 } else if (c.teleAction == 20) {
                     c.getPA().spellTeleport(3210, 3424, 0);// 3210 3424
                     c.sendMessage("You teleport to varrock.");
@@ -1517,7 +1517,7 @@ public class ClickingButtons implements PacketType {
                     // Fala
                     c.getPA().resetAutocast();
                     c.getPA().spellTeleport(3321, 3895, 0);
-                    
+
                 } else if (c.teleAction == 5) {
                     c.getPA().spellTeleport(2724, 3484, 0);
                     c.sendMessage("For magic logs, try north of the duel arena.");
@@ -1567,7 +1567,7 @@ public class ClickingButtons implements PacketType {
                     c.teleAction = 16;
                     break;
                 }
-                
+
                 if (c.teleAction == 8) {
                     c.getDH()
                             .sendOption5("Goblins", "Baby blue dragon",
@@ -1651,7 +1651,7 @@ public class ClickingButtons implements PacketType {
                     c.getDH().sendDialogues(c.dialogueId, 0);
                 }
                 break;
-            
+
             case 34185:
             case 34184:
             case 34183:
@@ -1785,11 +1785,11 @@ public class ClickingButtons implements PacketType {
                 c.ResetKeepItems();
                 c.getPA().showInterface(17100);
                 break;
-            
+
             case 59004:
                 c.getPA().removeAllWindows();
                 break;
-            
+
             case 9178:
                 if (c.teleAction == 21) {
                     c.getPA().spellTeleport(Config.ARDOUGNE_X, Config.ARDOUGNE_Y, 0);
@@ -1869,7 +1869,7 @@ public class ClickingButtons implements PacketType {
                     // barrows
                     c.getPA().spellTeleport(3565, 3314, 0);
                 }
-                
+
                 if (c.caOption4a) {
                     c.getDH().sendDialogues(102, c.npcType);
                     c.caOption4a = false;
@@ -1879,7 +1879,7 @@ public class ClickingButtons implements PacketType {
                     c.caOption4c = false;
                 }
                 break;
-            
+
             case 9179:
                 if (c.teleAction == 45) {
                     c.getPA().spellTeleport(2820, 3460, 0);
@@ -1968,7 +1968,7 @@ public class ClickingButtons implements PacketType {
                     c.caPlayerTalk1 = false;
                 }
                 break;
-            
+
             case 9180:
                 if (c.teleAction == 45) {
                     c.getPA().spellTeleport(2470, 3436, 0);
@@ -2041,7 +2041,7 @@ public class ClickingButtons implements PacketType {
                     c.caPlayerTalk1 = false;
                 }
                 break;
-            
+
             case 9181:
                 /*if (c.teleAction == 45) {
 				c.getPA().spellTeleport(2608, 4775, 0);
@@ -2103,7 +2103,7 @@ public class ClickingButtons implements PacketType {
                     c.caPlayerTalk1 = false;
                 }
                 break;
-            
+
             case 1093:
             case 1094:
             case 1097:
@@ -2129,10 +2129,10 @@ public class ClickingButtons implements PacketType {
                             c.setSidebarInterface(0, 1829);
                         }
                     }
-                    
+
                 }
                 break;
-            
+
             case 9157:
                 if (c.dialogueAction == 4343) {
                     c.headIconPk = 0;
@@ -2198,7 +2198,7 @@ public class ClickingButtons implements PacketType {
                         c.getPA().closeAllWindows();
                     }
                 }
-                
+
                 if (c.dialogueAction == 105) {
                     if (c.slayerPoints >= 5) {
                         c.slayerPoints -= 5;
@@ -2300,7 +2300,7 @@ public class ClickingButtons implements PacketType {
                     }
                     c.dtOption2 = false;
                 }
-                
+
                 if (c.caOption2) {
                     c.getDH().sendDialogues(106, c.npcType);
                     c.caOption2 = false;
@@ -2309,12 +2309,12 @@ public class ClickingButtons implements PacketType {
                     c.getDH().sendDialogues(102, c.npcType);
                     c.caOption2a = false;
                 }
-                
+
                 if (c.dialogueAction == 1) {
                     c.getDH().sendDialogues(38, -1);
                 }
                 break;
-            
+
             case 9167:
                 if (c.dialogueAction == 1758) {
                     c.calculateTotalPKP();
@@ -2427,7 +2427,7 @@ public class ClickingButtons implements PacketType {
                     c.getDH().sendDialogues(299, 284);
                 }
                 break;
-            
+
             case 9158:
                 if (c.dialogueAction == 4343) {
                     c.getPA().removeAllWindows();
@@ -2464,7 +2464,7 @@ public class ClickingButtons implements PacketType {
                     c.dialogueAction = 0;
                     c.getPA().closeAllWindows();
                 }
-                
+
                 if (c.newPlayerAct == 1) {
                     c.newPlayerAct = 0;
                     c.sendMessage("@red@There is nothing to do in Crandor, i must teleport home and start playing Zaros.");
@@ -2499,19 +2499,19 @@ public class ClickingButtons implements PacketType {
                 c.usingSpecial = !c.usingSpecial;
                 c.getItems().updateSpecialBar();
                 break;
-            
+
             case 29163:
                 c.specBarId = 7611;
                 c.usingSpecial = !c.usingSpecial;
                 c.getItems().updateSpecialBar();
                 break;
-            
+
             case 33033:
                 c.specBarId = 8505;
                 c.usingSpecial = !c.usingSpecial;
                 c.getItems().updateSpecialBar();
                 break;
-            
+
             case 29038:
                 if (c.playerEquipment[c.playerWeapon] == 4153) {
                     c.specBarId = 7486;
@@ -2523,7 +2523,7 @@ public class ClickingButtons implements PacketType {
                     c.getItems().updateSpecialBar();
                 }
                 break;
-            
+
             case 29063:
                 if (c.inDuelArena()) {
                     c.sendMessage("You can't use dragon battleaxe special attack in Duel Arena, sorry sir.");
@@ -2542,37 +2542,37 @@ public class ClickingButtons implements PacketType {
                     }
                 }
                 break;
-            
+
             case 48023:
                 c.specBarId = 12335;
                 c.usingSpecial = !c.usingSpecial;
                 c.getItems().updateSpecialBar();
                 break;
-            
+
             case 29138:
                 c.specBarId = 7586;
                 c.usingSpecial = !c.usingSpecial;
                 c.getItems().updateSpecialBar();
                 break;
-            
+
             case 29113:
                 c.specBarId = 7561;
                 c.usingSpecial = !c.usingSpecial;
                 c.getItems().updateSpecialBar();
                 break;
-            
+
             case 113228:
                 c.setSidebarInterface(2, 29265);
                 break;
-            
+
             case 114083:
                 c.setSidebarInterface(2, 638);
                 break;
-            
+
             case 113247:
                 c.getPA().viewBossLog();
                 break;
-            
+
             case 29238:
                 c.specBarId = 7686;
                 c.usingSpecial = !c.usingSpecial;
@@ -2587,117 +2587,117 @@ public class ClickingButtons implements PacketType {
                 c.duelSlot = -1;
                 c.getTradeAndDuel().selectRule(0);
                 break;
-            
+
             case 26066: // no movement
             case 26048:
                 c.duelSlot = -1;
                 c.getTradeAndDuel().selectRule(1);
                 break;
-            
+
             case 26069: // no range
             case 26042:
                 c.duelSlot = -1;
                 c.getTradeAndDuel().selectRule(2);
                 break;
-            
+
             case 26070: // no melee
             case 26043:
                 c.duelSlot = -1;
                 c.getTradeAndDuel().selectRule(3);
                 break;
-            
+
             case 26071: // no mage
             case 26041:
                 c.duelSlot = -1;
                 c.getTradeAndDuel().selectRule(4);
                 break;
-            
+
             case 26072: // no drinks
             case 26045:
                 c.duelSlot = -1;
                 c.getTradeAndDuel().selectRule(5);
                 break;
-            
+
             case 26073: // no food
             case 26046:
                 c.duelSlot = -1;
                 c.getTradeAndDuel().selectRule(6);
                 break;
-            
+
             case 26074: // no prayer
             case 26047:
                 c.duelSlot = -1;
                 c.getTradeAndDuel().selectRule(7);
                 break;
-            
+
             case 26076: // obstacles
             case 26075:
                 c.duelSlot = -1;
                 c.getTradeAndDuel().selectRule(8);
                 break;
-            
+
             case 2158: // fun weapons
             case 2157:
                 c.duelSlot = -1;
                 c.getTradeAndDuel().selectRule(9);
                 break;
-            
+
             case 30136: // sp attack
             case 30137:
                 c.duelSlot = -1;
                 c.getTradeAndDuel().selectRule(10);
                 break;
-            
+
             case 53245: // no helm
                 c.duelSlot = 0;
                 c.getTradeAndDuel().selectRule(11);
                 break;
-            
+
             case 53246: // no cape
                 c.duelSlot = 1;
                 c.getTradeAndDuel().selectRule(12);
                 break;
-            
+
             case 53247: // no ammy
                 c.duelSlot = 2;
                 c.getTradeAndDuel().selectRule(13);
                 break;
-            
+
             case 53249: // no weapon.
                 c.duelSlot = 3;
                 c.getTradeAndDuel().selectRule(14);
                 break;
-            
+
             case 53250: // no body
                 c.duelSlot = 4;
                 c.getTradeAndDuel().selectRule(15);
                 break;
-            
+
             case 53251: // no shield
                 c.duelSlot = 5;
                 c.getTradeAndDuel().selectRule(16);
                 break;
-            
+
             case 53252: // no legs
                 c.duelSlot = 7;
                 c.getTradeAndDuel().selectRule(17);
                 break;
-            
+
             case 53255: // no gloves
                 c.duelSlot = 9;
                 c.getTradeAndDuel().selectRule(18);
                 break;
-            
+
             case 53254: // no boots
                 c.duelSlot = 10;
                 c.getTradeAndDuel().selectRule(19);
                 break;
-            
+
             case 53253: // no rings
                 c.duelSlot = 12;
                 c.getTradeAndDuel().selectRule(20);
                 break;
-            
+
             case 53248: // no arrows
                 c.duelSlot = 13;
                 c.getTradeAndDuel().selectRule(21);
@@ -2710,7 +2710,7 @@ public class ClickingButtons implements PacketType {
                         o.getTradeAndDuel().declineDuel();
                         return;
                     }
-                    
+
                     if (c.duelRule[2] && c.duelRule[3] && c.duelRule[4]) {
                         c.sendMessage("You won't be able to attack the player with the rules you have set.");
                         break;
@@ -2724,7 +2724,7 @@ public class ClickingButtons implements PacketType {
                         o.getPA().sendFrame126("Waiting for other player...", 6684);
                         c.getPA().sendFrame126("Other player has accepted.", 6684);
                     }
-                    
+
                     if (c.duelStatus == 2 && o.duelStatus == 2) {
                         c.canOffer = false;
                         o.canOffer = false;
@@ -2740,7 +2740,7 @@ public class ClickingButtons implements PacketType {
                     c.sendMessage("You can't stake out of Duel Arena.");
                 }
                 break;
-            
+
             case 25120:
                 if (c.inDuelArena()) {
                     if (c.duelStatus == 5) {
@@ -2751,7 +2751,7 @@ public class ClickingButtons implements PacketType {
                         c.getTradeAndDuel().declineDuel();
                         return;
                     }
-                    
+
                     c.duelStatus = 4;
                     if (o1.duelStatus == 4 && c.duelStatus == 4) {
                         c.getTradeAndDuel().startDuel();
@@ -2771,13 +2771,13 @@ public class ClickingButtons implements PacketType {
                     c.sendMessage("You can't stake out of Duel Arena.");
                 }
                 break;
-            
+
             case 4169: // god spell charge
                 c.usingMagic = true;
                 if (!c.getCombat().checkMagicReqs(48)) {
                     break;
                 }
-                
+
                 if (System.currentTimeMillis() - c.godSpellDelay < Config.GOD_SPELL_CHARGE) {
                     c.sendMessage("You still feel the charge in your body!");
                     break;
@@ -2806,7 +2806,7 @@ public class ClickingButtons implements PacketType {
                     buttonDelay = System.currentTimeMillis();
                 }
                 break;
-            
+
             case 226154:
                 if (c.takeAsNote == false) {
                     c.takeAsNote = true;
@@ -2814,11 +2814,11 @@ public class ClickingButtons implements PacketType {
                     c.takeAsNote = false;
                 }
                 break;
-            
+
             case 21010:
                 c.takeAsNote = true;
                 break;
-            
+
             case 21011:
                 c.takeAsNote = false;
                 break;
@@ -2938,7 +2938,7 @@ public class ClickingButtons implements PacketType {
                         "Slayer Tower", "Brimhaven Dungeon", "Next");
                 c.teleAction = 1;
                 break;
-            
+
             case 4143:
             case 50245:
             case 117123:
@@ -2946,7 +2946,7 @@ public class ClickingButtons implements PacketType {
                         "Duel Arena", "More");
                 c.teleAction = 2;
                 break;
-            
+
             case 50253:
             case 117131:
             case 4146:
@@ -2955,7 +2955,7 @@ public class ClickingButtons implements PacketType {
                         "Godwars", "More");
                 c.teleAction = 3;
                 break;
-            
+
             case 94142:
                 if (c.lastsummon > 0) {
                     c.firstslot();
@@ -2976,7 +2976,7 @@ public class ClickingButtons implements PacketType {
                     c.sendMessage("You do not have a familiar currently spawned");
                 }
                 break;
-            
+
             case 66126: // Summoning Special Moves
                 if (c.summonSpec < 1) {
                     if (c.lastsummon == 7344) {
@@ -3085,7 +3085,7 @@ public class ClickingButtons implements PacketType {
                             c.playerLevel[3] = c.getLevelForXP(c.playerXP[3]);
                         }
                         c.sendMessage("Your Bunyip's Special Heals you for 130 HP!");
-                        
+
                         c.getPA().refreshSkill(3);
                     } else if (c.lastsummon == 6870) {
                         c.playerLevel[3] += 15;
@@ -3108,7 +3108,7 @@ public class ClickingButtons implements PacketType {
                     c.sendMessage("You must wait at least 4 Minutes before using this again.");
                 }
                 break;
-            
+
             case 77036:
                 if (c.lastsummon > 0) {
                     c.firstslot();
@@ -3129,7 +3129,7 @@ public class ClickingButtons implements PacketType {
                     c.sendMessage("You do not have a npc currently spawned");
                 }
                 break;
-            
+
             case 51005:
             case 117154:
             case 4150:
@@ -3140,7 +3140,7 @@ public class ClickingButtons implements PacketType {
                         "Dark Castle Multi @red@(17 Wild)");
                 c.teleAction = 4;
                 break;
-            
+
             case 51023:
             case 6005:
             case 117186:
@@ -3148,14 +3148,14 @@ public class ClickingButtons implements PacketType {
                         "More");
                 c.teleAction = 20;
                 break;
-            
+
             case 51013:
             case 6004:
             case 117162:
                 c.getDH().sendOption4("Woodcutting", "Farming", "Agility", "More");
                 c.teleAction = 45;
                 break;
-            
+
             case 9125: //Accurate
             case 6221: // range accurate
             case 22230: //punch (unarmed)
@@ -3171,7 +3171,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetAutocast();
                 }
                 break;
-            
+
             case 9126: //Defensive
             case 48008: //deflect (whip)
             case 22228: //block (unarmed)
@@ -3186,7 +3186,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetAutocast();
                 }
                 break;
-            
+
             case 9127: // Controlled
             case 48009: //lash (whip)
             case 33018: //jab (hally)
@@ -3201,7 +3201,7 @@ public class ClickingButtons implements PacketType {
                     c.getPA().resetAutocast();
                 }
                 break;
-            
+
             case 9128: //Aggressive
             case 6220: // range rapid
             case 22229: //kick (unarmed)
@@ -3302,7 +3302,7 @@ public class ClickingButtons implements PacketType {
             case 70094: // piety
                 c.getCombat().activatePrayer(25);
                 break;
-            
+
             case 13092:
                 if (c.inWild()) {
                     c.getTradeAndDuel().declineTrade();
@@ -3313,15 +3313,15 @@ public class ClickingButtons implements PacketType {
                     break;
                 }
                 if (System.currentTimeMillis() - c.lastButton < 400) {
-                    
+
                     c.lastButton = System.currentTimeMillis();
-                    
+
                     break;
-                    
+
                 } else {
-                    
+
                     c.lastButton = System.currentTimeMillis();
-                    
+
                 }
                 Client ot = (Client) PlayerHandler.players[c.tradeWith];
                 if (ot == null) {
@@ -3333,7 +3333,7 @@ public class ClickingButtons implements PacketType {
                 ot.getPA().sendFrame126("Other player has accepted", 3431);
                 c.goodTrade = true;
                 ot.goodTrade = true;
-                
+
                 for (GameItem item : c.getTradeAndDuel().offeredItems) {
                     if (item.id > 0) {
                         if (ot.getItems().freeSlots() < c.getTradeAndDuel().offeredItems
@@ -3375,24 +3375,24 @@ public class ClickingButtons implements PacketType {
                         ot.getTradeAndDuel().confirmScreen();
                         break;
                     }
-                    
+
                 }
-                
+
                 break;
-            
+
             case 13218:
                 if (System.currentTimeMillis() - c.lastButton < 400) {
-                    
+
                     c.lastButton = System.currentTimeMillis();
-                    
+
                     break;
-                    
+
                 } else {
-                    
+
                     c.lastButton = System.currentTimeMillis();
-                    
+
                 }
-                
+
                 Client ot1 = (Client) PlayerHandler.players[c.tradeWith];
                 c.tradeAccepted = true;
                 if (ot1 == null) {
@@ -3400,7 +3400,7 @@ public class ClickingButtons implements PacketType {
                     c.sendMessage("Trade declined as the other player has disconnected.");
                     break;
                 }
-                
+
                 if (c.inTrade && c.tradeConfirmed && ot1.tradeConfirmed
                         && !c.tradeConfirmed2) {
                     c.tradeConfirmed2 = true;
@@ -3415,7 +3415,7 @@ public class ClickingButtons implements PacketType {
                             .sendFrame126("Other player has accepted.", 3535);
                     c.getPA().sendFrame126("Waiting for other player...", 3535);
                 }
-                
+
                 break;
             /* Rules Interface Buttons */
             case 125011: // Click agree
@@ -3509,7 +3509,7 @@ public class ClickingButtons implements PacketType {
                 c.getPA().sendFrame36(508, 0);
                 c.getPA().sendFrame36(166, 2);
                 break;
-            
+
             case 74204:// brightness3
                 c.getPA().sendFrame36(505, 0);
                 c.getPA().sendFrame36(506, 0);
@@ -3517,7 +3517,7 @@ public class ClickingButtons implements PacketType {
                 c.getPA().sendFrame36(508, 0);
                 c.getPA().sendFrame36(166, 3);
                 break;
-            
+
             case 74205:// brightness4
                 c.getPA().sendFrame36(505, 0);
                 c.getPA().sendFrame36(506, 0);
@@ -3661,7 +3661,7 @@ public class ClickingButtons implements PacketType {
                 }
                 c.dialogueAction = 0;
                 break;
-            
+
             case 49024:
                 if (c.dialogueAction == 879) {
                     if (!c.asked) {
@@ -3686,12 +3686,12 @@ public class ClickingButtons implements PacketType {
                 // c.playerMagicBook == 1 ? 12855 : 1151);
                 break;
             case 113236:
-                c.sendMessage("You have " + c.honorPoints + " honor points.");
+                c.sendMessage("Honor points are obtained through several features. For example using ::welcome when a new player joins. Staff also award honor points.");
                 break;
         }
         if (c.isAutoButton(actionButtonId)) {
             c.assignAutocast(actionButtonId);
         }
     }
-    
+
 }

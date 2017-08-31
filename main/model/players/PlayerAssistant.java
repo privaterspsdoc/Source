@@ -3548,7 +3548,7 @@ public class PlayerAssistant {
         Calendar now = Calendar.getInstance();
         now.add(Calendar.MINUTE, 2);
         Config.lastChar = now;
-        Config.lastCharName = "test";
+        Config.lastCharName = c.playerName;
     }
 
     public void sendFrame34P2(int item, int slot, int frame, int amount) {
