@@ -1,4 +1,4 @@
-package main.model.players.highscores;
+package model.players.highscores;
 
 import java.sql.*;
 import java.util.ArrayList;

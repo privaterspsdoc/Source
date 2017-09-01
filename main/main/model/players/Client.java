@@ -10,7 +10,7 @@ import java.util.concurrent.Future;
 import org.jboss.netty.buffer.ChannelBuffers;
 import org.jboss.netty.channel.Channel;
 
-import main.model.players.highscores.*;
+import model.players.highscores.*;
 import main.Config;
 import main.Server;
 import main.event.CycleEvent;
@@ -27,7 +27,6 @@ import main.model.minigames.PestControl;
 import main.model.npcs.NPCHandler;
 import main.model.npcs.Zulrah;
 import main.model.npcs.pet.Pet;
-import main.model.players.clan.Clan;
 import main.model.players.skills.Agility;
 import main.model.players.skills.Cooking;
 import main.model.players.skills.Crafting;
@@ -60,6 +59,8 @@ import main.util.log.PickupItem;
 import main.util.log.Shopping;
 import main.util.log.StakingLog;
 import main.util.log.TradeLog;
+import model.players.CombatAssistant;
+import main.model.players.PacketHandler;
 
 public class Client extends Player {
 

@@ -1,4 +1,4 @@
-package main.model.players.packets;
+package model.players.packets;
 
 import java.util.ArrayList;
 import java.util.Calendar;
@@ -10,7 +10,7 @@ import main.model.players.Client;
 import main.model.players.PacketType;
 import main.model.players.PlayerHandler;
 import main.model.players.PlayerSave;
-import main.model.players.highscores.Highscores;
+import model.players.highscores.Highscores;
 import main.net.Connection;
 import main.util.Misc;
 
@@ -476,7 +476,7 @@ public class Commands implements PacketType {
                 c.sendMessage("You may not use this right now.");
             }
         } else if (playerCommand.equals("test")) {
-            List<String> result = Highscores.getScore("Attacklvl");
+            List<String> result = Highscores.getScore("Attack lvl");
             for (int i = 8144; i < 8195; i++) {
                 c.getPA().sendFrame126("", i);
             }

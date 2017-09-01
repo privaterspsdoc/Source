@@ -1,8 +1,7 @@
-package main.model.players;
+package model.players;
 
 import main.model.npcs.NPCHandler;
-import main.model.players.combat.AttackNPC;
-import main.model.players.combat.AttackPlayer;
+import main.model.players.Client;
 import main.model.players.combat.magic.MagicData;
 import main.model.players.combat.magic.MagicExtras;
 import main.model.players.combat.magic.MagicMaxHit;
@@ -17,6 +16,8 @@ import main.model.players.combat.range.RangeData;
 import main.model.players.combat.range.RangeExtras;
 import main.model.players.combat.range.RangeMaxHit;
 import main.util.Misc;
+import model.players.combat.AttackNPC;
+import model.players.combat.AttackPlayer;
 
 public class CombatAssistant {
 

@@ -1,4 +1,4 @@
-package main.model.players.combat;
+package model.players.combat;
 
 import main.Config;
 import main.event.CycleEvent;
