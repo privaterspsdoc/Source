@@ -18,7 +18,7 @@ public class Config {
     /**
      * JSON Drop System
      */
-    public static final int DROP_RATE = 1;
+    public static final int DROP_RATE = 2;
 
     /**
      * Enable/Disable Staking

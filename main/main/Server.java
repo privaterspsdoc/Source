@@ -1,5 +1,6 @@
 package main;
 
+import Discord.ConnectBot;
 import java.io.IOException;
 import java.net.InetSocketAddress;
 import java.text.DecimalFormat;
@@ -9,7 +10,6 @@ import org.jboss.netty.bootstrap.ServerBootstrap;
 import org.jboss.netty.channel.socket.nio.NioServerSocketChannelFactory;
 import org.jboss.netty.util.HashedWheelTimer;
 
-import model.players.highscores.*;
 import main.clip.region.ObjectDef;
 import main.clip.region.Region;
 import main.event.CycleEventHandler;
@@ -35,6 +35,7 @@ import main.world.PlayerManager;
 import main.world.ShopHandler;
 import main.world.StillGraphicsManager;
 import main.world.WalkingCheck;
+import sx.blah.discord.api.IDiscordClient;
 
 /**
  * The main class needed to start the server.
@@ -136,6 +137,8 @@ public class Server {
      */
     public static FightCaves fightCaves = new FightCaves();
 
+    private ConnectBot discord = new ConnectBot();
+    public static IDiscordClient client;
     /**
      * Handles the task scheduler.
      */
@@ -187,7 +190,7 @@ public class Server {
         Connection.initialize();
         System.out.println("Connected to network...");
         DatabaseConnection.getConnection();
-       /* Highscores.process();
+        /* Highscores.process();
         if (Highscores.connected) {
             System.out.println("Connected to SQL database...");
         } else {
@@ -265,6 +268,18 @@ public class Server {
 
     public static TaskScheduler getScheduler() {
         return scheduler;
+    }
+
+    public ConnectBot getDiscord() {
+        return discord;
+    }
+
+    public void setDiscordClient(IDiscordClient a) {
+        this.client = a;
+    }
+
+    public IDiscordClient getClient() {
+        return client;
     }
 
 }

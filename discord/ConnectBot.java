@@ -5,7 +5,6 @@
  */
 package Discord;
 
-
 import main.Server;
 import sx.blah.discord.api.ClientBuilder;
 import sx.blah.discord.api.IDiscordClient;
@@ -23,7 +22,8 @@ public class ConnectBot {
         ClientBuilder builder = new ClientBuilder();
         builder.withToken(ConnectBot.token);
         Server.client = builder.login();
-        b = new Listener(Server.client) {};
+        b = new Listener(Server.client) {
+        };
     }
 
     public void logout(IDiscordClient client) {
