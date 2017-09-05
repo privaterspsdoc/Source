@@ -7,7 +7,7 @@ import main.util.Misc;
 /**
  * Farming Class
  * 
- * @author Josh© The class from the video, <3
+ * @author Joshï¿½ The class from the video,
  **/
 public class Farming {
 
