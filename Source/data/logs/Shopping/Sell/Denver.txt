@@ -1,0 +1,265 @@
+
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 21	Second : 31
+Denver Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 21	Second : 36
+Denver Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 22	Second : 12
+Denver Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 55	Second : 57
+Denver Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 56	Second : 0
+Denver Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 56	Second : 5
+Denver Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 1	Second : 49
+Denver Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 1	Second : 51
+Denver Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 1	Second : 52
+Denver Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 1	Second : 54
+Denver Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 1	Second : 54
+Denver Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 1	Second : 55
+Denver Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 1	Second : 56
+Denver Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 13	Second : 1
+Denver Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 13	Second : 1
+Denver Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 13	Second : 2
+Denver Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 13	Second : 3
+Denver Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 13	Second : 4
+Denver Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 13	Second : 4
+Denver Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 38	Second : 53
+Denver Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 38	Second : 55
+Denver Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 38	Second : 55
+Denver Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 38	Second : 56
+Denver Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 38	Second : 57
+Denver Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 38	Second : 58
+Denver Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 24	Second : 52
+Denver Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 24	Second : 54
+Denver Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 24	Second : 54
+Denver Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 24	Second : 55
+Denver Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 24	Second : 56
+Denver Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 24	Second : 57
+Denver Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 24	Second : 57
+Denver Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 24	Second : 58
+Denver Has Sold item: 1608, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 25	Second : 1
+Denver Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 25	Second : 2
+Denver Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 25	Second : 2
+Denver Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 25	Second : 4
+Denver Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 25	Second : 5
+Denver Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 25	Second : 6
+Denver Has Sold item: 3753, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 53	Second : 48
+Denver Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 53	Second : 49
+Denver Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 53	Second : 52
+Denver Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 53	Second : 52
+Denver Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 54	Second : 16
+Denver Has Sold item: 11037, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 54	Second : 16
+Denver Has Sold item: 3749, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 54	Second : 17
+Denver Has Sold item: 5574, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 54	Second : 17
+Denver Has Sold item: 229, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 11	Second : 0
+Denver Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 11	Second : 1
+Denver Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 11	Second : 2
+Denver Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 11	Second : 3
+Denver Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 11	Second : 4
+Denver Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 11	Second : 7
+Denver Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 25	Second : 15
+Denver Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 25	Second : 16
+Denver Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 25	Second : 17
+Denver Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 35	Second : 16
+Denver Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 35	Second : 16
+Denver Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 35	Second : 17
+Denver Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 35	Second : 18
+Denver Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 35	Second : 18
+Denver Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 35	Second : 19
+Denver Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 35	Second : 20
+Denver Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 35	Second : 23
+Denver Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 3	Minute : 1	Second : 41
+Denver Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 3	Minute : 1	Second : 42
+Denver Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 3	Minute : 1	Second : 43
+Denver Has Sold item: 267, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 3	Minute : 16	Second : 22
+Denver Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 3	Minute : 16	Second : 23
+Denver Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 3	Minute : 16	Second : 28
+Denver Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 3	Minute : 16	Second : 56
+Denver Has Sold item: 950, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 3	Minute : 16	Second : 56
+Denver Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 3	Minute : 16	Second : 58
+Denver Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 3	Minute : 17	Second : 19
+Denver Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 41	Second : 43
+Denver Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 29	Second : 5
+Denver Has Sold item: 1303, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 29	Second : 7
+Denver Has Sold item: 1303, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 59	Second : 20
+Denver Has Sold item: 4103, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 59	Second : 21
+Denver Has Sold item: 4113, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 59	Second : 21
+Denver Has Sold item: 4093, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 59	Second : 22
+Denver Has Sold item: 4089, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 59	Second : 22
+Denver Has Sold item: 561, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 19	Second : 37
+Denver Has Sold item: 2497, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 19	Second : 39
+Denver Has Sold item: 2503, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 19	Second : 39
+Denver Has Sold item: 2497, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 19	Second : 41
+Denver Has Sold item: 2497, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 30	Second : 41
+Denver Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 30	Second : 43
+Denver Has Sold item: 1303, Quantity 10
+--------------------------------------------------

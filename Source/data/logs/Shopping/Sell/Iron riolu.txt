@@ -1,0 +1,13 @@
+
+Year : 2015	Month : 5	Day : 29	Hour : 9	Minute : 27	Second : 2
+Iron riolu Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 9	Minute : 27	Second : 10
+Iron riolu Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 9	Minute : 27	Second : 12
+Iron riolu Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 9	Minute : 27	Second : 15
+Iron riolu Has Sold item: 950, Quantity 10
+--------------------------------------------------

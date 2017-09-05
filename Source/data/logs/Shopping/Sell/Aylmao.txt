@@ -1,0 +1,823 @@
+
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 15	Second : 20
+Aylmao Has Sold item: 4101, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 5	Second : 51
+Aylmao Has Sold item: 3751, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 18	Second : 15
+Aylmao Has Sold item: 1636, Quantity 94
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 18	Second : 20
+Aylmao Has Sold item: 951, Quantity 36
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 18	Second : 24
+Aylmao Has Sold item: 1898, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 37	Second : 0
+Aylmao Has Sold item: 1635, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 54	Second : 13
+Aylmao Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 54	Second : 15
+Aylmao Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 54	Second : 17
+Aylmao Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 54	Second : 25
+Aylmao Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 54	Second : 30
+Aylmao Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 54	Second : 32
+Aylmao Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 54	Second : 34
+Aylmao Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 54	Second : 37
+Aylmao Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 54	Second : 39
+Aylmao Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 58	Second : 52
+Aylmao Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 58	Second : 53
+Aylmao Has Sold item: 2497, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 50	Second : 5
+Aylmao Has Sold item: 3755, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 50	Second : 6
+Aylmao Has Sold item: 6141, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 57	Second : 31
+Aylmao Has Sold item: 6139, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 57	Second : 32
+Aylmao Has Sold item: 3755, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 49	Second : 16
+Aylmao Has Sold item: 1187, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 49	Second : 16
+Aylmao Has Sold item: 1377, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 49	Second : 12
+Aylmao Has Sold item: 2362, Quantity 120
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 49	Second : 21
+Aylmao Has Sold item: 1618, Quantity 160
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 49	Second : 27
+Aylmao Has Sold item: 1632, Quantity 40
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 49	Second : 36
+Aylmao Has Sold item: 2364, Quantity 40
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 49	Second : 40
+Aylmao Has Sold item: 2360, Quantity 200
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 8	Second : 39
+Aylmao Has Sold item: 2504, Quantity 25
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 8	Second : 42
+Aylmao Has Sold item: 2498, Quantity 30
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 3	Second : 15
+Aylmao Has Sold item: 4090, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 3	Second : 16
+Aylmao Has Sold item: 1713, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 3	Second : 17
+Aylmao Has Sold item: 4676, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 3	Second : 18
+Aylmao Has Sold item: 4112, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 3	Second : 19
+Aylmao Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 3	Second : 19
+Aylmao Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 3	Second : 21
+Aylmao Has Sold item: 4835, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 3	Second : 22
+Aylmao Has Sold item: 4092, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 3	Second : 22
+Aylmao Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 3	Second : 25
+Aylmao Has Sold item: 2498, Quantity 31
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 3	Second : 29
+Aylmao Has Sold item: 2504, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 3	Second : 30
+Aylmao Has Sold item: 1304, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 3	Second : 31
+Aylmao Has Sold item: 4102, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 3	Second : 33
+Aylmao Has Sold item: 4100, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 3	Second : 34
+Aylmao Has Sold item: 4114, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 3	Second : 35
+Aylmao Has Sold item: 4104, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 46	Second : 45
+Aylmao Has Sold item: 1602, Quantity 97
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 46	Second : 48
+Aylmao Has Sold item: 4094, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 46	Second : 52
+Aylmao Has Sold item: 4094, Quantity 14
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 46	Second : 55
+Aylmao Has Sold item: 1616, Quantity 66
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 46	Second : 59
+Aylmao Has Sold item: 1608, Quantity 2
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 47	Second : 2
+Aylmao Has Sold item: 1604, Quantity 58
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 47	Second : 5
+Aylmao Has Sold item: 4112, Quantity 4
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 47	Second : 7
+Aylmao Has Sold item: 4114, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 47	Second : 8
+Aylmao Has Sold item: 4104, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 47	Second : 9
+Aylmao Has Sold item: 4090, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 47	Second : 10
+Aylmao Has Sold item: 4102, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 47	Second : 11
+Aylmao Has Sold item: 2498, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 47	Second : 12
+Aylmao Has Sold item: 4676, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 58	Second : 6
+Aylmao Has Sold item: 1602, Quantity 15
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 58	Second : 10
+Aylmao Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 58	Second : 11
+Aylmao Has Sold item: 4675, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 58	Second : 11
+Aylmao Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 56	Second : 50
+Aylmao Has Sold item: 1373, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 56	Second : 51
+Aylmao Has Sold item: 2491, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 56	Second : 51
+Aylmao Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 56	Second : 53
+Aylmao Has Sold item: 1093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 56	Second : 54
+Aylmao Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 56	Second : 54
+Aylmao Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 56	Second : 56
+Aylmao Has Sold item: 1113, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 56	Second : 57
+Aylmao Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 57	Second : 1
+Aylmao Has Sold item: 2655, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 57	Second : 3
+Aylmao Has Sold item: 1205, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 50	Second : 7
+Aylmao Has Sold item: 1635, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 50	Second : 15
+Aylmao Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 50	Second : 17
+Aylmao Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 50	Second : 19
+Aylmao Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 51	Second : 36
+Aylmao Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 51	Second : 37
+Aylmao Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 51	Second : 39
+Aylmao Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 51	Second : 40
+Aylmao Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 53	Second : 50
+Aylmao Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 53	Second : 51
+Aylmao Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 53	Second : 54
+Aylmao Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 56	Second : 13
+Aylmao Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 56	Second : 15
+Aylmao Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 56	Second : 17
+Aylmao Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 9	Second : 30
+Aylmao Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 9	Second : 32
+Aylmao Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 10	Second : 42
+Aylmao Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 10	Second : 46
+Aylmao Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 10	Second : 48
+Aylmao Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 12	Second : 32
+Aylmao Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 12	Second : 48
+Aylmao Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 14	Second : 25
+Aylmao Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 14	Second : 29
+Aylmao Has Sold item: 7650, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 20	Second : 22
+Aylmao Has Sold item: 946, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 21	Second : 15
+Aylmao Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 21	Second : 16
+Aylmao Has Sold item: 1729, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 21	Second : 18
+Aylmao Has Sold item: 7650, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 21	Second : 57
+Aylmao Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 21	Second : 59
+Aylmao Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 22	Second : 22
+Aylmao Has Sold item: 1731, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 23	Second : 0
+Aylmao Has Sold item: 1731, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 23	Second : 33
+Aylmao Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 23	Second : 35
+Aylmao Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 23	Second : 37
+Aylmao Has Sold item: 1731, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 23	Second : 57
+Aylmao Has Sold item: 1712, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 24	Second : 34
+Aylmao Has Sold item: 1712, Quantity 16
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 24	Second : 36
+Aylmao Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 25	Second : 6
+Aylmao Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 25	Second : 37
+Aylmao Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 26	Second : 3
+Aylmao Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 26	Second : 55
+Aylmao Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 55	Second : 18
+Aylmao Has Sold item: 860, Quantity 1300
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 55	Second : 32
+Aylmao Has Sold item: 856, Quantity 524
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 55	Second : 39
+Aylmao Has Sold item: 852, Quantity 151
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 1	Second : 56
+Aylmao Has Sold item: 860, Quantity 1000
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 2	Second : 7
+Aylmao Has Sold item: 859, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 2	Second : 10
+Aylmao Has Sold item: 859, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 29	Second : 13
+Aylmao Has Sold item: 860, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 42	Second : 16
+Aylmao Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 42	Second : 17
+Aylmao Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 42	Second : 18
+Aylmao Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 42	Second : 18
+Aylmao Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 42	Second : 19
+Aylmao Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 42	Second : 20
+Aylmao Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 42	Second : 21
+Aylmao Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 42	Second : 22
+Aylmao Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 42	Second : 23
+Aylmao Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 42	Second : 24
+Aylmao Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 7	Second : 43
+Aylmao Has Sold item: 1127, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 7	Second : 44
+Aylmao Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 7	Second : 45
+Aylmao Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 23	Second : 55
+Aylmao Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 23	Second : 57
+Aylmao Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 23	Second : 58
+Aylmao Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 23	Second : 59
+Aylmao Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 24	Second : 0
+Aylmao Has Sold item: 1213, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 24	Second : 2
+Aylmao Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 24	Second : 3
+Aylmao Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 25	Second : 52
+Aylmao Has Sold item: 1754, Quantity 24
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 25	Second : 54
+Aylmao Has Sold item: 9193, Quantity 45
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 26	Second : 24
+Aylmao Has Sold item: 1429, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 26	Second : 26
+Aylmao Has Sold item: 1144, Quantity 28
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 26	Second : 29
+Aylmao Has Sold item: 1160, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 2	Minute : 23	Second : 20
+Aylmao Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 2	Minute : 23	Second : 21
+Aylmao Has Sold item: 2498, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 2	Minute : 23	Second : 23
+Aylmao Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 2	Minute : 23	Second : 24
+Aylmao Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 2	Minute : 32	Second : 56
+Aylmao Has Sold item: 859, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 2	Minute : 32	Second : 59
+Aylmao Has Sold item: 860, Quantity 297
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 2	Minute : 49	Second : 56
+Aylmao Has Sold item: 2504, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 25	Second : 51
+Aylmao Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 29	Second : 29
+Aylmao Has Sold item: 859, Quantity 999
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 29	Second : 34
+Aylmao Has Sold item: 860, Quantity 432
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 34	Second : 6
+Aylmao Has Sold item: 6145, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 34	Second : 7
+Aylmao Has Sold item: 1540, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 34	Second : 8
+Aylmao Has Sold item: 2550, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 34	Second : 9
+Aylmao Has Sold item: 6568, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 14	Second : 55
+Aylmao Has Sold item: 1310, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 14	Second : 56
+Aylmao Has Sold item: 1300, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 14	Second : 57
+Aylmao Has Sold item: 1300, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 14	Second : 59
+Aylmao Has Sold item: 1300, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 15	Second : 0
+Aylmao Has Sold item: 1316, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 15	Second : 1
+Aylmao Has Sold item: 1316, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 15	Second : 2
+Aylmao Has Sold item: 1316, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 15	Second : 3
+Aylmao Has Sold item: 1316, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 15	Second : 4
+Aylmao Has Sold item: 1316, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 15	Second : 8
+Aylmao Has Sold item: 1210, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 15	Second : 8
+Aylmao Has Sold item: 1146, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 15	Second : 9
+Aylmao Has Sold item: 1146, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 15	Second : 11
+Aylmao Has Sold item: 1431, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 15	Second : 11
+Aylmao Has Sold item: 1431, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 15	Second : 12
+Aylmao Has Sold item: 1212, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 15	Second : 14
+Aylmao Has Sold item: 1212, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 33	Second : 48
+Aylmao Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 33	Second : 49
+Aylmao Has Sold item: 4153, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 42	Second : 33
+Aylmao Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 42	Second : 39
+Aylmao Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 42	Second : 40
+Aylmao Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 42	Second : 40
+Aylmao Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 47	Second : 53
+Aylmao Has Sold item: 1712, Quantity 1111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 47	Second : 57
+Aylmao Has Sold item: 1713, Quantity 108
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 9	Second : 7
+Aylmao Has Sold item: 1303, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 18	Second : 24
+Aylmao Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 18	Second : 24
+Aylmao Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 18	Second : 25
+Aylmao Has Sold item: 2498, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 27	Second : 46
+Aylmao Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 27	Second : 48
+Aylmao Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 27	Second : 49
+Aylmao Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 27	Second : 50
+Aylmao Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 27	Second : 51
+Aylmao Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 27	Second : 53
+Aylmao Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 27	Second : 54
+Aylmao Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 35	Second : 10
+Aylmao Has Sold item: 4129, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 35	Second : 12
+Aylmao Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 35	Second : 14
+Aylmao Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 35	Second : 14
+Aylmao Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 35	Second : 16
+Aylmao Has Sold item: 4153, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 35	Second : 17
+Aylmao Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 47	Second : 45
+Aylmao Has Sold item: 2498, Quantity 25
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 47	Second : 59
+Aylmao Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 47	Second : 59
+Aylmao Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 4	Second : 39
+Aylmao Has Sold item: 2504, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 4	Second : 41
+Aylmao Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 13	Second : 20
+Aylmao Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 13	Second : 21
+Aylmao Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 13	Second : 22
+Aylmao Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 21	Second : 0
+Aylmao Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 21	Second : 1
+Aylmao Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 21	Second : 3
+Aylmao Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 21	Second : 4
+Aylmao Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 21	Second : 5
+Aylmao Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 21	Second : 6
+Aylmao Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 21	Second : 7
+Aylmao Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 21	Second : 8
+Aylmao Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 21	Second : 9
+Aylmao Has Sold item: 3025, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 21	Second : 10
+Aylmao Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 39	Second : 24
+Aylmao Has Sold item: 4129, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 39	Second : 26
+Aylmao Has Sold item: 4129, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 39	Second : 27
+Aylmao Has Sold item: 4153, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 39	Second : 27
+Aylmao Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 39	Second : 29
+Aylmao Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 39	Second : 30
+Aylmao Has Sold item: 1608, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 39	Second : 31
+Aylmao Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 50	Second : 54
+Aylmao Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 50	Second : 54
+Aylmao Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 50	Second : 55
+Aylmao Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 50	Second : 57
+Aylmao Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 50	Second : 58
+Aylmao Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 19	Second : 31
+Aylmao Has Sold item: 2504, Quantity 29
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 19	Second : 33
+Aylmao Has Sold item: 2498, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 33	Second : 15
+Aylmao Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 33	Second : 15
+Aylmao Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 33	Second : 16
+Aylmao Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 33	Second : 46
+Aylmao Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 33	Second : 47
+Aylmao Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 33	Second : 48
+Aylmao Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 24	Second : 29
+Aylmao Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 24	Second : 31
+Aylmao Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 1	Minute : 9	Second : 26
+Aylmao Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 1	Minute : 9	Second : 28
+Aylmao Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 1	Minute : 9	Second : 29
+Aylmao Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 1	Minute : 9	Second : 31
+Aylmao Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 1	Minute : 9	Second : 32
+Aylmao Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 1	Minute : 9	Second : 34
+Aylmao Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 56	Second : 5
+Aylmao Has Sold item: 7650, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 58	Second : 10
+Aylmao Has Sold item: 7650, Quantity 30
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 58	Second : 12
+Aylmao Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 58	Second : 18
+Aylmao Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 58	Second : 20
+Aylmao Has Sold item: 7650, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 58	Second : 21
+Aylmao Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 58	Second : 24
+Aylmao Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 16	Second : 11
+Aylmao Has Sold item: 5304, Quantity 350
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 33	Second : 6
+Aylmao Has Sold item: 2450, Quantity 14
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 49	Second : 38
+Aylmao Has Sold item: 2451, Quantity 410
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 49	Second : 45
+Aylmao Has Sold item: 2453, Quantity 120
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 49	Second : 50
+Aylmao Has Sold item: 2447, Quantity 32
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 49	Second : 55
+Aylmao Has Sold item: 2449, Quantity 62
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 57	Second : 20
+Aylmao Has Sold item: 1430, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 57	Second : 22
+Aylmao Has Sold item: 1430, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 57	Second : 35
+Aylmao Has Sold item: 1430, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 57	Second : 37
+Aylmao Has Sold item: 1430, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 57	Second : 39
+Aylmao Has Sold item: 1430, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 30	Second : 34
+Aylmao Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 30	Second : 46
+Aylmao Has Sold item: 7650, Quantity 28
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 31	Second : 48
+Aylmao Has Sold item: 7650, Quantity 28
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 33	Second : 57
+Aylmao Has Sold item: 7650, Quantity 38
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 35	Second : 18
+Aylmao Has Sold item: 7650, Quantity 28
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 36	Second : 13
+Aylmao Has Sold item: 7650, Quantity 28
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 37	Second : 5
+Aylmao Has Sold item: 7650, Quantity 28
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 38	Second : 13
+Aylmao Has Sold item: 7650, Quantity 255
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 5	Minute : 9	Second : 37
+Aylmao Has Sold item: 316, Quantity 45
+--------------------------------------------------

@@ -1,0 +1,217 @@
+
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 9	Second : 59
+Ryu Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 10	Second : 2
+Ryu Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 10	Second : 4
+Ryu Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 12	Second : 8
+Ryu Has Sold item: 1727, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 13	Second : 1
+Ryu Has Sold item: 1727, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 13	Second : 58
+Ryu Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 14	Second : 1
+Ryu Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 15	Second : 22
+Ryu Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 15	Second : 24
+Ryu Has Sold item: 1731, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 16	Second : 0
+Ryu Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 16	Second : 2
+Ryu Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 17	Second : 5
+Ryu Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 17	Second : 7
+Ryu Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 17	Second : 9
+Ryu Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 19	Second : 53
+Ryu Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 20	Second : 25
+Ryu Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 20	Second : 28
+Ryu Has Sold item: 1712, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 20	Second : 55
+Ryu Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 20	Second : 57
+Ryu Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 21	Second : 28
+Ryu Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 21	Second : 29
+Ryu Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 22	Second : 13
+Ryu Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 22	Second : 15
+Ryu Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 22	Second : 17
+Ryu Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 22	Second : 59
+Ryu Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 23	Second : 1
+Ryu Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 23	Second : 2
+Ryu Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 23	Second : 47
+Ryu Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 23	Second : 48
+Ryu Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 23	Second : 49
+Ryu Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 25	Second : 48
+Ryu Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 25	Second : 49
+Ryu Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 25	Second : 50
+Ryu Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 25	Second : 55
+Ryu Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 26	Second : 48
+Ryu Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 26	Second : 48
+Ryu Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 26	Second : 48
+Ryu Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 27	Second : 40
+Ryu Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 27	Second : 40
+Ryu Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 27	Second : 40
+Ryu Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 28	Second : 45
+Ryu Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 28	Second : 46
+Ryu Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 28	Second : 46
+Ryu Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 32	Second : 53
+Ryu Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 32	Second : 53
+Ryu Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 32	Second : 54
+Ryu Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 54	Second : 27
+Ryu Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 54	Second : 29
+Ryu Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 54	Second : 32
+Ryu Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 57	Second : 58
+Ryu Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 57	Second : 59
+Ryu Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 58	Second : 3
+Ryu Has Sold item: 11037, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 58	Second : 5
+Ryu Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 10	Second : 48
+Ryu Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 12	Second : 32
+Ryu Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 52	Second : 55
+Ryu Has Sold item: 1712, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 53	Second : 11
+Ryu Has Sold item: 6568, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 53	Second : 32
+Ryu Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 53	Second : 51
+Ryu Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 54	Second : 44
+Ryu Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 54	Second : 46
+Ryu Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 55	Second : 11
+Ryu Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 55	Second : 44
+Ryu Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 22
+Ryu Has Sold item: 1712, Quantity 3
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 27
+Ryu Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 57	Second : 54
+Ryu Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 58	Second : 35
+Ryu Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 58	Second : 57
+Ryu Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 59	Second : 22
+Ryu Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 59	Second : 47
+Ryu Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 0	Second : 17
+Ryu Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 0	Second : 53
+Ryu Has Sold item: 1712, Quantity 33
+--------------------------------------------------

@@ -1,0 +1,214 @@
+
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 32	Second : 44
+Carolinakid Has Sold item: 1115, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 32	Second : 46
+Carolinakid Has Sold item: 1067, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 32	Second : 47
+Carolinakid Has Sold item: 1153, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 35	Second : 23
+Carolinakid Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 36	Second : 52
+Carolinakid Has Sold item: 1191, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 24	Second : 48
+Carolinakid Has Sold item: 1603, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 24	Second : 59
+Carolinakid Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 25	Second : 0
+Carolinakid Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 25	Second : 5
+Carolinakid Has Sold item: 1607, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 25	Second : 13
+Carolinakid Has Sold item: 1601, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 26	Second : 39
+Carolinakid Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 26	Second : 44
+Carolinakid Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 27	Second : 42
+Carolinakid Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 27	Second : 44
+Carolinakid Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 27	Second : 47
+Carolinakid Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 28	Second : 44
+Carolinakid Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 28	Second : 46
+Carolinakid Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 28	Second : 48
+Carolinakid Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 29	Second : 46
+Carolinakid Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 29	Second : 48
+Carolinakid Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 29	Second : 49
+Carolinakid Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 6	Second : 54
+Carolinakid Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 6	Second : 58
+Carolinakid Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 7	Second : 0
+Carolinakid Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 7	Second : 3
+Carolinakid Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 7	Second : 6
+Carolinakid Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 7	Second : 8
+Carolinakid Has Sold item: 1602, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 7	Second : 10
+Carolinakid Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 7	Second : 11
+Carolinakid Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 7	Second : 15
+Carolinakid Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 7	Second : 17
+Carolinakid Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 7	Second : 19
+Carolinakid Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 7	Second : 26
+Carolinakid Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 7	Second : 31
+Carolinakid Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 7	Second : 33
+Carolinakid Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 22	Second : 52
+Carolinakid Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 22	Second : 53
+Carolinakid Has Sold item: 1754, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 22	Second : 56
+Carolinakid Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 12	Second : 10
+Carolinakid Has Sold item: 4094, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 12	Second : 11
+Carolinakid Has Sold item: 4094, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 12	Second : 15
+Carolinakid Has Sold item: 4111, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 12	Second : 16
+Carolinakid Has Sold item: 4113, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 12	Second : 19
+Carolinakid Has Sold item: 4101, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 12	Second : 22
+Carolinakid Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 12	Second : 28
+Carolinakid Has Sold item: 4101, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 12	Second : 30
+Carolinakid Has Sold item: 4101, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 12	Second : 33
+Carolinakid Has Sold item: 4101, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 12	Second : 37
+Carolinakid Has Sold item: 4089, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 26	Second : 58
+Carolinakid Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 27	Second : 0
+Carolinakid Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 27	Second : 2
+Carolinakid Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 27	Second : 4
+Carolinakid Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 27	Second : 6
+Carolinakid Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 27	Second : 21
+Carolinakid Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 27	Second : 24
+Carolinakid Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 27	Second : 25
+Carolinakid Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 27	Second : 28
+Carolinakid Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 27	Second : 29
+Carolinakid Has Sold item: 1602, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 43	Second : 12
+Carolinakid Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 43	Second : 14
+Carolinakid Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 34	Second : 35
+Carolinakid Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 8	Minute : 21	Second : 40
+Carolinakid Has Sold item: 1113, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 8	Minute : 22	Second : 6
+Carolinakid Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 8	Minute : 47	Second : 45
+Carolinakid Has Sold item: 6130, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 8	Minute : 47	Second : 47
+Carolinakid Has Sold item: 6151, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 8	Minute : 47	Second : 48
+Carolinakid Has Sold item: 6151, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 8	Minute : 47	Second : 49
+Carolinakid Has Sold item: 6151, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 8	Minute : 47	Second : 50
+Carolinakid Has Sold item: 6128, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 8	Minute : 47	Second : 51
+Carolinakid Has Sold item: 6130, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 8	Minute : 48	Second : 47
+Carolinakid Has Sold item: 4153, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 9	Minute : 0	Second : 22
+Carolinakid Has Sold item: 2890, Quantity 1
+--------------------------------------------------

@@ -1,0 +1,40 @@
+
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 45	Second : 43
+Subliminal Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 14	Second : 40
+Subliminal Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 14	Second : 47
+Subliminal Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 14	Second : 50
+Subliminal Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 14	Second : 52
+Subliminal Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 14	Second : 54
+Subliminal Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 14	Second : 58
+Subliminal Has Sold item: 830, Quantity 80
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 14	Second : 59
+Subliminal Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 30	Second : 31
+Subliminal Has Sold item: 1713, Quantity 87
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 30	Second : 36
+Subliminal Has Sold item: 1732, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 30	Second : 39
+Subliminal Has Sold item: 1726, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 30	Second : 42
+Subliminal Has Sold item: 1730, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 30	Second : 45
+Subliminal Has Sold item: 1728, Quantity 27
+--------------------------------------------------

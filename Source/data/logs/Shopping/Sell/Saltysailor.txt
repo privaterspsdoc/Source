@@ -1,0 +1,682 @@
+
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 48	Second : 29
+Saltysailor Has Sold item: 560, Quantity 1000
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 31	Second : 47
+Saltysailor Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 10	Second : 46
+Saltysailor Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 11	Second : 49
+Saltysailor Has Sold item: 1729, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 11	Second : 50
+Saltysailor Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 12	Second : 21
+Saltysailor Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 13	Second : 14
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 13	Second : 16
+Saltysailor Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 13	Second : 18
+Saltysailor Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 14	Second : 14
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 14	Second : 46
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 14	Second : 48
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 15	Second : 14
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 15	Second : 16
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 15	Second : 36
+Saltysailor Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 16	Second : 20
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 16	Second : 21
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 16	Second : 23
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 17	Second : 3
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 17	Second : 5
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 17	Second : 6
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 17	Second : 47
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 17	Second : 48
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 17	Second : 49
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 18	Second : 23
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 18	Second : 24
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 18	Second : 27
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 19	Second : 4
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 19	Second : 6
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 19	Second : 8
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 20	Second : 46
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 20	Second : 47
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 20	Second : 49
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 21	Second : 26
+Saltysailor Has Sold item: 1712, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 21	Second : 28
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 21	Second : 29
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 21	Second : 31
+Saltysailor Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 36	Second : 31
+Saltysailor Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 36	Second : 32
+Saltysailor Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 36	Second : 33
+Saltysailor Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 36	Second : 35
+Saltysailor Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 36	Second : 36
+Saltysailor Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 36	Second : 38
+Saltysailor Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 49	Second : 36
+Saltysailor Has Sold item: 1132, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 49	Second : 38
+Saltysailor Has Sold item: 6107, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 49	Second : 38
+Saltysailor Has Sold item: 4597, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 49	Second : 39
+Saltysailor Has Sold item: 6107, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 49	Second : 44
+Saltysailor Has Sold item: 322, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 49	Second : 45
+Saltysailor Has Sold item: 318, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 49	Second : 46
+Saltysailor Has Sold item: 1192, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 49	Second : 47
+Saltysailor Has Sold item: 322, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 49	Second : 48
+Saltysailor Has Sold item: 1196, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 49	Second : 49
+Saltysailor Has Sold item: 1754, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 49	Second : 50
+Saltysailor Has Sold item: 230, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 49	Second : 52
+Saltysailor Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 49	Second : 53
+Saltysailor Has Sold item: 1107, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 49	Second : 54
+Saltysailor Has Sold item: 6108, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 49	Second : 56
+Saltysailor Has Sold item: 1165, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 49	Second : 57
+Saltysailor Has Sold item: 1089, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 49	Second : 58
+Saltysailor Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 49	Second : 59
+Saltysailor Has Sold item: 1165, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 56	Second : 35
+Saltysailor Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 19	Second : 30
+Saltysailor Has Sold item: 113, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 19	Second : 31
+Saltysailor Has Sold item: 2432, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 19	Second : 32
+Saltysailor Has Sold item: 2428, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 16	Second : 58
+Saltysailor Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 16	Second : 59
+Saltysailor Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 17	Second : 1
+Saltysailor Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 51	Second : 27
+Saltysailor Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 51	Second : 29
+Saltysailor Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 51	Second : 30
+Saltysailor Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 51	Second : 31
+Saltysailor Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 51	Second : 32
+Saltysailor Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 51	Second : 33
+Saltysailor Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 51	Second : 34
+Saltysailor Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 51	Second : 36
+Saltysailor Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 51	Second : 39
+Saltysailor Has Sold item: 830, Quantity 509
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 51	Second : 47
+Saltysailor Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 51	Second : 48
+Saltysailor Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 51	Second : 50
+Saltysailor Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 51	Second : 51
+Saltysailor Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 51	Second : 53
+Saltysailor Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 51	Second : 54
+Saltysailor Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 51	Second : 57
+Saltysailor Has Sold item: 1214, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 51	Second : 58
+Saltysailor Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 51	Second : 59
+Saltysailor Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 52	Second : 0
+Saltysailor Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 52	Second : 2
+Saltysailor Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 52	Second : 3
+Saltysailor Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 52	Second : 4
+Saltysailor Has Sold item: 1248, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 52	Second : 5
+Saltysailor Has Sold item: 5699, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 52	Second : 6
+Saltysailor Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 52	Second : 8
+Saltysailor Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 52	Second : 9
+Saltysailor Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 52	Second : 10
+Saltysailor Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 52	Second : 12
+Saltysailor Has Sold item: 1334, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 52	Second : 13
+Saltysailor Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 52	Second : 16
+Saltysailor Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 53	Second : 9
+Saltysailor Has Sold item: 7353, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 53	Second : 11
+Saltysailor Has Sold item: 7341, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 21	Second : 27
+Saltysailor Has Sold item: 1327, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 21	Second : 28
+Saltysailor Has Sold item: 1077, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 21	Second : 29
+Saltysailor Has Sold item: 1125, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 21	Second : 29
+Saltysailor Has Sold item: 1129, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 21	Second : 31
+Saltysailor Has Sold item: 1107, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 21	Second : 31
+Saltysailor Has Sold item: 1217, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 21	Second : 37
+Saltysailor Has Sold item: 1168, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 21	Second : 38
+Saltysailor Has Sold item: 1133, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 21	Second : 42
+Saltysailor Has Sold item: 1131, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 21	Second : 43
+Saltysailor Has Sold item: 1179, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 21	Second : 44
+Saltysailor Has Sold item: 561, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 21	Second : 46
+Saltysailor Has Sold item: 1131, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 21	Second : 47
+Saltysailor Has Sold item: 561, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 21	Second : 48
+Saltysailor Has Sold item: 561, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 21	Second : 49
+Saltysailor Has Sold item: 561, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 21	Second : 53
+Saltysailor Has Sold item: 561, Quantity 95
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 21	Second : 54
+Saltysailor Has Sold item: 1297, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 21	Second : 56
+Saltysailor Has Sold item: 1165, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 45	Second : 46
+Saltysailor Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 45	Second : 47
+Saltysailor Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 45	Second : 47
+Saltysailor Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 27	Second : 59
+Saltysailor Has Sold item: 2364, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 28	Second : 1
+Saltysailor Has Sold item: 2364, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 28	Second : 2
+Saltysailor Has Sold item: 2360, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 28	Second : 4
+Saltysailor Has Sold item: 2360, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 28	Second : 5
+Saltysailor Has Sold item: 2360, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 28	Second : 6
+Saltysailor Has Sold item: 2360, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 28	Second : 7
+Saltysailor Has Sold item: 2360, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 28	Second : 8
+Saltysailor Has Sold item: 1632, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 28	Second : 10
+Saltysailor Has Sold item: 1632, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 58	Second : 25
+Saltysailor Has Sold item: 6813, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 59	Second : 6
+Saltysailor Has Sold item: 6813, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 59	Second : 7
+Saltysailor Has Sold item: 6813, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 59	Second : 9
+Saltysailor Has Sold item: 6813, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 8	Second : 31
+Saltysailor Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 8	Second : 33
+Saltysailor Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 8	Second : 34
+Saltysailor Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 8	Second : 35
+Saltysailor Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 8	Second : 36
+Saltysailor Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 8	Second : 37
+Saltysailor Has Sold item: 1164, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 8	Second : 38
+Saltysailor Has Sold item: 1128, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 8	Second : 39
+Saltysailor Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 8	Second : 40
+Saltysailor Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 8	Second : 41
+Saltysailor Has Sold item: 1248, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 8	Second : 42
+Saltysailor Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 8	Second : 43
+Saltysailor Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 8	Second : 43
+Saltysailor Has Sold item: 1248, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 8	Second : 45
+Saltysailor Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 8	Second : 46
+Saltysailor Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 8	Second : 47
+Saltysailor Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 8	Second : 49
+Saltysailor Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 8	Second : 50
+Saltysailor Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 8	Second : 54
+Saltysailor Has Sold item: 830, Quantity 270
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 8	Second : 58
+Saltysailor Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 9	Second : 0
+Saltysailor Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 9	Second : 1
+Saltysailor Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 9	Second : 4
+Saltysailor Has Sold item: 1602, Quantity 38
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 9	Second : 7
+Saltysailor Has Sold item: 1616, Quantity 22
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 9	Second : 11
+Saltysailor Has Sold item: 4154, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 0	Second : 42
+Saltysailor Has Sold item: 6813, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 0	Second : 43
+Saltysailor Has Sold item: 6813, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 0	Second : 45
+Saltysailor Has Sold item: 6813, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 0	Second : 46
+Saltysailor Has Sold item: 6813, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 0	Second : 47
+Saltysailor Has Sold item: 2360, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 0	Second : 48
+Saltysailor Has Sold item: 2362, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 0	Second : 50
+Saltysailor Has Sold item: 2360, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 0	Second : 52
+Saltysailor Has Sold item: 2360, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 0	Second : 53
+Saltysailor Has Sold item: 2360, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 0	Second : 55
+Saltysailor Has Sold item: 2360, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 0	Second : 56
+Saltysailor Has Sold item: 2362, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 0	Second : 57
+Saltysailor Has Sold item: 2362, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 0	Second : 59
+Saltysailor Has Sold item: 2362, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 1	Second : 0
+Saltysailor Has Sold item: 452, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 1	Second : 3
+Saltysailor Has Sold item: 452, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 2	Minute : 25	Second : 42
+Saltysailor Has Sold item: 1514, Quantity 500
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 2	Minute : 25	Second : 49
+Saltysailor Has Sold item: 1516, Quantity 900
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 2	Minute : 26	Second : 42
+Saltysailor Has Sold item: 1618, Quantity 400
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 32	Second : 12
+Saltysailor Has Sold item: 1618, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 32	Second : 13
+Saltysailor Has Sold item: 1618, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 32	Second : 14
+Saltysailor Has Sold item: 1618, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 32	Second : 15
+Saltysailor Has Sold item: 1618, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 32	Second : 16
+Saltysailor Has Sold item: 1514, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 32	Second : 20
+Saltysailor Has Sold item: 1514, Quantity 290
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 32	Second : 28
+Saltysailor Has Sold item: 1516, Quantity 600
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 32	Second : 36
+Saltysailor Has Sold item: 2364, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 32	Second : 37
+Saltysailor Has Sold item: 2364, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 32	Second : 41
+Saltysailor Has Sold item: 2362, Quantity 160
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 32	Second : 47
+Saltysailor Has Sold item: 2360, Quantity 150
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 32	Second : 51
+Saltysailor Has Sold item: 452, Quantity 60
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 32	Second : 54
+Saltysailor Has Sold item: 6813, Quantity 60
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 58	Second : 21
+Saltysailor Has Sold item: 561, Quantity 1331
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 58	Second : 37
+Saltysailor Has Sold item: 560, Quantity 119
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 58	Second : 40
+Saltysailor Has Sold item: 562, Quantity 971
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 58	Second : 51
+Saltysailor Has Sold item: 555, Quantity 664
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 59	Second : 0
+Saltysailor Has Sold item: 556, Quantity 76
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 59	Second : 3
+Saltysailor Has Sold item: 556, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 59	Second : 6
+Saltysailor Has Sold item: 564, Quantity 325
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 59	Second : 11
+Saltysailor Has Sold item: 563, Quantity 42
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 59	Second : 14
+Saltysailor Has Sold item: 558, Quantity 406
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 59	Second : 19
+Saltysailor Has Sold item: 563, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 59	Second : 23
+Saltysailor Has Sold item: 559, Quantity 356
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 59	Second : 27
+Saltysailor Has Sold item: 554, Quantity 46
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 59	Second : 50
+Saltysailor Has Sold item: 554, Quantity 200
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 5	Minute : 37	Second : 20
+Saltysailor Has Sold item: 2362, Quantity 80
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 5	Minute : 37	Second : 24
+Saltysailor Has Sold item: 2360, Quantity 150
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 5	Minute : 37	Second : 29
+Saltysailor Has Sold item: 1618, Quantity 80
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 5	Minute : 37	Second : 34
+Saltysailor Has Sold item: 1516, Quantity 450
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 5	Minute : 37	Second : 40
+Saltysailor Has Sold item: 6813, Quantity 32
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 17	Second : 36
+Saltysailor Has Sold item: 1618, Quantity 120
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 17	Second : 40
+Saltysailor Has Sold item: 1514, Quantity 400
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 17	Second : 45
+Saltysailor Has Sold item: 2362, Quantity 80
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 17	Second : 49
+Saltysailor Has Sold item: 1516, Quantity 600
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 17	Second : 57
+Saltysailor Has Sold item: 2364, Quantity 40
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 18	Second : 0
+Saltysailor Has Sold item: 2360, Quantity 250
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 18	Second : 5
+Saltysailor Has Sold item: 6813, Quantity 66
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 55	Second : 20
+Saltysailor Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 47	Second : 27
+Saltysailor Has Sold item: 6813, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 47	Second : 28
+Saltysailor Has Sold item: 6813, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 47	Second : 31
+Saltysailor Has Sold item: 384, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 47	Second : 32
+Saltysailor Has Sold item: 384, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 47	Second : 35
+Saltysailor Has Sold item: 384, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 47	Second : 37
+Saltysailor Has Sold item: 2364, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 47	Second : 39
+Saltysailor Has Sold item: 2364, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 47	Second : 47
+Saltysailor Has Sold item: 1618, Quantity 80
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 6	Minute : 29	Second : 54
+Saltysailor Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 20	Second : 4
+Saltysailor Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 20	Second : 5
+Saltysailor Has Sold item: 1333, Quantity 1
+--------------------------------------------------

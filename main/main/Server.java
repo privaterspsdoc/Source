@@ -32,6 +32,7 @@ import main.world.ItemHandler;
 import main.world.ObjectHandler;
 import main.world.ObjectManager;
 import main.world.PlayerManager;
+import main.world.PublicEvent;
 import main.world.ShopHandler;
 import main.world.StillGraphicsManager;
 import main.world.WalkingCheck;
@@ -46,7 +47,10 @@ public class Server {
      * ClanChat Added by Valiant
      */
     public static ClanManager clanManager = new ClanManager();
-
+	/**
+	 * Yell Enable/Disable
+	 */
+	public static boolean yellDisabled = false;
     /**
      * Calls to manage the players on the server.
      */
@@ -214,6 +218,7 @@ public class Server {
                 objectManager.process();
                 fightPits.process();
                 pestControl.process();
+                PublicEvent.process();
             }
         });
 

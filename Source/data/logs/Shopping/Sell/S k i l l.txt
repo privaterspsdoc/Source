@@ -1,0 +1,19 @@
+
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 17	Second : 27
+S k i l l Has Sold item: 3755, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 47	Second : 58
+S k i l l Has Sold item: 1897, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 47	Second : 59
+S k i l l Has Sold item: 1897, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 20	Second : 18
+S k i l l Has Sold item: 2999, Quantity 59
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 32	Second : 41
+S k i l l Has Sold item: 4732, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 32	Second : 43
+S k i l l Has Sold item: 3755, Quantity 10
+--------------------------------------------------

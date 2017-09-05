@@ -4,6 +4,7 @@ import main.Config;
 import main.model.players.clan.InterfaceAction;
 import main.model.players.clan.JoinChat;
 import main.model.players.clan.ReceiveString;
+import main.model.players.commands.CommandPacketHandler;
 import main.model.players.packets.AttackPlayer;
 import main.model.players.packets.Bank10;
 import main.model.players.packets.Bank5;
@@ -97,7 +98,7 @@ public class PacketHandler {
 		packetId[87] = new DropItem();
 		packetId[185] = new ClickingButtons();
 		packetId[130] = new ClickingStuff();
-		packetId[103] = new Commands();
+		packetId[103] = new CommandPacketHandler();
 		packetId[214] = new MoveItems();
 		packetId[237] = new MagicOnItems();
 		packetId[181] = new MagicOnFloorItems();

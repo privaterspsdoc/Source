@@ -1,0 +1,238 @@
+
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 7	Second : 40
+Serpentine Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 7	Second : 41
+Serpentine Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 7	Second : 41
+Serpentine Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 7	Second : 42
+Serpentine Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 7	Second : 42
+Serpentine Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 7	Second : 42
+Serpentine Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 7	Second : 42
+Serpentine Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 7	Second : 58
+Serpentine Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 7	Second : 59
+Serpentine Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 7	Second : 59
+Serpentine Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 8	Second : 52
+Serpentine Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 8	Second : 54
+Serpentine Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 8	Second : 56
+Serpentine Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 11	Second : 52
+Serpentine Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 11	Second : 52
+Serpentine Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 11	Second : 52
+Serpentine Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 12	Second : 43
+Serpentine Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 12	Second : 44
+Serpentine Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 12	Second : 44
+Serpentine Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 14	Second : 23
+Serpentine Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 14	Second : 23
+Serpentine Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 14	Second : 23
+Serpentine Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 15	Second : 20
+Serpentine Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 15	Second : 21
+Serpentine Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 15	Second : 21
+Serpentine Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 16	Second : 16
+Serpentine Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 16	Second : 16
+Serpentine Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 16	Second : 16
+Serpentine Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 17	Second : 11
+Serpentine Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 17	Second : 11
+Serpentine Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 17	Second : 11
+Serpentine Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 24	Second : 43
+Serpentine Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 36	Second : 48
+Serpentine Has Sold item: 4103, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 36	Second : 50
+Serpentine Has Sold item: 4094, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 36	Second : 52
+Serpentine Has Sold item: 4111, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 36	Second : 52
+Serpentine Has Sold item: 4113, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 36	Second : 54
+Serpentine Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 36	Second : 55
+Serpentine Has Sold item: 4089, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 36	Second : 57
+Serpentine Has Sold item: 4101, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 36	Second : 58
+Serpentine Has Sold item: 4103, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 37	Second : 0
+Serpentine Has Sold item: 565, Quantity 534
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 37	Second : 11
+Serpentine Has Sold item: 4675, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 37	Second : 13
+Serpentine Has Sold item: 4675, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 58	Second : 40
+Serpentine Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 58	Second : 41
+Serpentine Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 58	Second : 41
+Serpentine Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 58	Second : 43
+Serpentine Has Sold item: 4113, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 58	Second : 43
+Serpentine Has Sold item: 4675, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 58	Second : 44
+Serpentine Has Sold item: 4103, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 58	Second : 45
+Serpentine Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 58	Second : 46
+Serpentine Has Sold item: 4103, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 58	Second : 50
+Serpentine Has Sold item: 4094, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 55	Second : 45
+Serpentine Has Sold item: 4101, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 55	Second : 46
+Serpentine Has Sold item: 4675, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 55	Second : 47
+Serpentine Has Sold item: 4089, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 55	Second : 47
+Serpentine Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 55	Second : 48
+Serpentine Has Sold item: 4103, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 59	Second : 24
+Serpentine Has Sold item: 4101, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 59	Second : 24
+Serpentine Has Sold item: 4089, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 59	Second : 25
+Serpentine Has Sold item: 4089, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 59	Second : 26
+Serpentine Has Sold item: 4094, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 59	Second : 27
+Serpentine Has Sold item: 4103, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 1	Second : 13
+Serpentine Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 1	Second : 14
+Serpentine Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 1	Second : 15
+Serpentine Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 1	Second : 40
+Serpentine Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 1	Second : 43
+Serpentine Has Sold item: 1602, Quantity 123
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 1	Second : 46
+Serpentine Has Sold item: 1608, Quantity 123
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 1	Second : 47
+Serpentine Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 1	Second : 48
+Serpentine Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 35	Second : 44
+Serpentine Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 35	Second : 44
+Serpentine Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 35	Second : 46
+Serpentine Has Sold item: 4094, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 36	Second : 14
+Serpentine Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 36	Second : 14
+Serpentine Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 52	Second : 39
+Serpentine Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 12	Second : 42
+Serpentine Has Sold item: 1184, Quantity 123
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 12	Second : 46
+Serpentine Has Sold item: 1372, Quantity 1233
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 12	Second : 56
+Serpentine Has Sold item: 1200, Quantity 1233
+--------------------------------------------------

@@ -1,0 +1,106 @@
+
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 52	Second : 42
+Dylan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 5	Minute : 1	Second : 35
+Dylan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 5	Minute : 48	Second : 54
+Dylan Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 5	Minute : 49	Second : 14
+Dylan Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 5	Minute : 49	Second : 15
+Dylan Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 5	Minute : 49	Second : 17
+Dylan Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 5	Minute : 49	Second : 18
+Dylan Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 5	Minute : 49	Second : 19
+Dylan Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 5	Minute : 49	Second : 35
+Dylan Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 5	Minute : 49	Second : 36
+Dylan Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 5	Minute : 49	Second : 37
+Dylan Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 5	Minute : 49	Second : 47
+Dylan Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 5	Minute : 49	Second : 49
+Dylan Has Sold item: 1320, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 5	Minute : 49	Second : 50
+Dylan Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 5	Minute : 49	Second : 51
+Dylan Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 5	Minute : 49	Second : 52
+Dylan Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 5	Minute : 49	Second : 53
+Dylan Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 5	Minute : 49	Second : 54
+Dylan Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 5	Minute : 49	Second : 56
+Dylan Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 5	Minute : 49	Second : 57
+Dylan Has Sold item: 5699, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 6	Minute : 29	Second : 47
+Dylan Has Sold item: 4153, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 6	Minute : 29	Second : 49
+Dylan Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 6	Minute : 29	Second : 51
+Dylan Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 6	Minute : 50	Second : 42
+Dylan Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 6	Minute : 50	Second : 44
+Dylan Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 6	Minute : 50	Second : 45
+Dylan Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 6	Minute : 50	Second : 47
+Dylan Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 6	Minute : 50	Second : 48
+Dylan Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 6	Minute : 50	Second : 49
+Dylan Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 6	Minute : 50	Second : 51
+Dylan Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 6	Minute : 50	Second : 58
+Dylan Has Sold item: 830, Quantity 120
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 7	Minute : 45	Second : 15
+Dylan Has Sold item: 1163, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 7	Minute : 45	Second : 18
+Dylan Has Sold item: 4131, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 7	Minute : 45	Second : 18
+Dylan Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 8	Minute : 55	Second : 1
+Dylan Has Sold item: 1712, Quantity 1
+--------------------------------------------------

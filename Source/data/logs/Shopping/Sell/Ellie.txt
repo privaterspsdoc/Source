@@ -1,0 +1,346 @@
+
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 53	Second : 19
+Ellie Has Sold item: 1897, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 53	Second : 34
+Ellie Has Sold item: 950, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 54	Second : 45
+Ellie Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 54	Second : 50
+Ellie Has Sold item: 1635, Quantity 15
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 57	Second : 49
+Ellie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 57	Second : 54
+Ellie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 58	Second : 4
+Ellie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 58	Second : 7
+Ellie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 58	Second : 9
+Ellie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 59	Second : 9
+Ellie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 59	Second : 16
+Ellie Has Sold item: 1635, Quantity 15
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 59	Second : 19
+Ellie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 1	Second : 2
+Ellie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 1	Second : 6
+Ellie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 1	Second : 9
+Ellie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 2	Second : 38
+Ellie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 2	Second : 42
+Ellie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 2	Second : 43
+Ellie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 3	Second : 52
+Ellie Has Sold item: 1635, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 5	Second : 12
+Ellie Has Sold item: 1635, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 5	Second : 51
+Ellie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 5	Second : 53
+Ellie Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 31	Second : 19
+Ellie Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 33	Second : 29
+Ellie Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 35	Second : 7
+Ellie Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 36	Second : 29
+Ellie Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 38	Second : 10
+Ellie Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 40	Second : 22
+Ellie Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 42	Second : 2
+Ellie Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 43	Second : 43
+Ellie Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 47	Second : 56
+Ellie Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 49	Second : 21
+Ellie Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 52	Second : 33
+Ellie Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 53	Second : 33
+Ellie Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 53	Second : 35
+Ellie Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 53	Second : 37
+Ellie Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 58	Second : 4
+Ellie Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 1	Second : 1
+Ellie Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 10	Second : 11
+Ellie Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 12	Second : 9
+Ellie Has Sold item: 1613, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 12	Second : 12
+Ellie Has Sold item: 7650, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 15	Second : 9
+Ellie Has Sold item: 1613, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 17	Second : 27
+Ellie Has Sold item: 1613, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 18	Second : 0
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 18	Second : 3
+Ellie Has Sold item: 1613, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 54	Second : 53
+Ellie Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 54	Second : 56
+Ellie Has Sold item: 1727, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 56	Second : 26
+Ellie Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 56	Second : 29
+Ellie Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 56	Second : 31
+Ellie Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 58	Second : 0
+Ellie Has Sold item: 1729, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 6	Minute : 0	Second : 18
+Ellie Has Sold item: 1725, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 6	Minute : 2	Second : 36
+Ellie Has Sold item: 1725, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 6	Minute : 3	Second : 49
+Ellie Has Sold item: 1731, Quantity 6
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 6	Minute : 3	Second : 55
+Ellie Has Sold item: 1731, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 6	Minute : 5	Second : 17
+Ellie Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 6	Minute : 7	Second : 13
+Ellie Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 6	Minute : 9	Second : 31
+Ellie Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 6	Minute : 11	Second : 24
+Ellie Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 6	Minute : 12	Second : 16
+Ellie Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 6	Minute : 14	Second : 32
+Ellie Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 6	Minute : 20	Second : 0
+Ellie Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 6	Minute : 21	Second : 59
+Ellie Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 34	Second : 13
+Ellie Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 34	Second : 16
+Ellie Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 34	Second : 17
+Ellie Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 39	Second : 41
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 39	Second : 43
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 39	Second : 44
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 40	Second : 55
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 40	Second : 55
+Ellie Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 40	Second : 56
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 40	Second : 59
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 42	Second : 3
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 42	Second : 4
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 42	Second : 5
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 43	Second : 13
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 43	Second : 14
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 43	Second : 16
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 44	Second : 25
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 44	Second : 27
+Ellie Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 44	Second : 28
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 44	Second : 31
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 45	Second : 38
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 45	Second : 39
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 45	Second : 41
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 47	Second : 13
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 47	Second : 15
+Ellie Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 47	Second : 16
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 47	Second : 19
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 48	Second : 56
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 48	Second : 57
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 48	Second : 58
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 51	Second : 32
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 51	Second : 33
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 51	Second : 35
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 53	Second : 3
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 53	Second : 5
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 53	Second : 6
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 55	Second : 24
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 55	Second : 26
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 55	Second : 27
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 57	Second : 30
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 57	Second : 31
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 57	Second : 31
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 1	Second : 36
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 1	Second : 36
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 1	Second : 37
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 3	Second : 39
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 3	Second : 40
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 3	Second : 41
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 6	Second : 43
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 6	Second : 43
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 6	Second : 45
+Ellie Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 10	Second : 21
+Ellie Has Sold item: 1713, Quantity 105
+--------------------------------------------------

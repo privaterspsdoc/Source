@@ -1,0 +1,7 @@
+
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 43	Second : 50
+Allvone Has Sold item: 1897, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 52	Second : 42
+Allvone Has Sold item: 1897, Quantity 10
+--------------------------------------------------

@@ -1,0 +1,1021 @@
+
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 26	Second : 42
+Aeroids Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 26	Second : 42
+Aeroids Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 26	Second : 42
+Aeroids Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 27	Second : 9
+Aeroids Has Sold item: 1729, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 27	Second : 10
+Aeroids Has Sold item: 1729, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 27	Second : 10
+Aeroids Has Sold item: 1729, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 27	Second : 51
+Aeroids Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 27	Second : 51
+Aeroids Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 27	Second : 52
+Aeroids Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 28	Second : 26
+Aeroids Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 28	Second : 26
+Aeroids Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 28	Second : 27
+Aeroids Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 28	Second : 58
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 28	Second : 58
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 28	Second : 58
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 29	Second : 32
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 29	Second : 33
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 29	Second : 33
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 29	Second : 57
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 29	Second : 57
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 29	Second : 57
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 30	Second : 23
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 30	Second : 24
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 30	Second : 24
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 30	Second : 56
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 30	Second : 56
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 30	Second : 56
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 31	Second : 21
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 31	Second : 22
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 31	Second : 22
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 31	Second : 44
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 31	Second : 44
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 31	Second : 44
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 32	Second : 3
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 32	Second : 3
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 32	Second : 3
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 32	Second : 26
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 32	Second : 26
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 32	Second : 26
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 32	Second : 49
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 32	Second : 50
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 32	Second : 50
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 33	Second : 12
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 33	Second : 13
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 33	Second : 13
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 33	Second : 35
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 33	Second : 36
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 33	Second : 36
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 33	Second : 57
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 33	Second : 58
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 33	Second : 58
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 34	Second : 21
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 34	Second : 21
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 34	Second : 21
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 34	Second : 45
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 34	Second : 45
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 34	Second : 45
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 35	Second : 18
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 35	Second : 19
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 35	Second : 19
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 35	Second : 41
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 35	Second : 41
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 35	Second : 41
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 36	Second : 6
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 36	Second : 7
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 36	Second : 7
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 36	Second : 33
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 36	Second : 33
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 36	Second : 33
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 36	Second : 57
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 36	Second : 57
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 36	Second : 57
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 37	Second : 20
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 37	Second : 20
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 37	Second : 20
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 37	Second : 46
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 37	Second : 46
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 37	Second : 46
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 38	Second : 13
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 38	Second : 14
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 38	Second : 14
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 38	Second : 44
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 38	Second : 44
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 38	Second : 45
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 39	Second : 7
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 39	Second : 7
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 39	Second : 7
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 39	Second : 26
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 39	Second : 26
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 39	Second : 27
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 39	Second : 48
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 39	Second : 48
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 39	Second : 48
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 40	Second : 10
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 40	Second : 10
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 40	Second : 11
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 40	Second : 33
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 40	Second : 33
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 40	Second : 33
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 40	Second : 56
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 40	Second : 56
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 40	Second : 57
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 41	Second : 21
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 41	Second : 21
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 41	Second : 21
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 41	Second : 47
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 41	Second : 48
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 41	Second : 48
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 42	Second : 25
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 42	Second : 25
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 42	Second : 25
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 42	Second : 51
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 42	Second : 51
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 42	Second : 52
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 43	Second : 14
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 43	Second : 14
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 43	Second : 14
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 43	Second : 37
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 43	Second : 38
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 43	Second : 38
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 44	Second : 10
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 44	Second : 10
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 44	Second : 10
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 44	Second : 34
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 44	Second : 35
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 44	Second : 35
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 45	Second : 1
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 45	Second : 1
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 45	Second : 2
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 45	Second : 26
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 45	Second : 26
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 45	Second : 26
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 45	Second : 51
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 45	Second : 51
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 45	Second : 51
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 46	Second : 18
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 46	Second : 19
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 46	Second : 19
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 46	Second : 44
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 46	Second : 44
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 46	Second : 44
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 47	Second : 6
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 47	Second : 6
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 47	Second : 6
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 47	Second : 33
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 47	Second : 33
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 47	Second : 33
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 47	Second : 57
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 47	Second : 58
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 47	Second : 58
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 48	Second : 22
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 48	Second : 23
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 48	Second : 23
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 48	Second : 49
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 48	Second : 49
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 48	Second : 50
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 49	Second : 13
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 49	Second : 14
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 49	Second : 14
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 49	Second : 37
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 49	Second : 37
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 49	Second : 37
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 50	Second : 2
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 50	Second : 2
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 50	Second : 2
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 50	Second : 26
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 50	Second : 26
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 50	Second : 26
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 50	Second : 52
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 50	Second : 52
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 50	Second : 52
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 51	Second : 16
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 51	Second : 16
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 51	Second : 16
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 51	Second : 35
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 51	Second : 35
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 51	Second : 35
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 51	Second : 59
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 51	Second : 59
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 52	Second : 0
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 52	Second : 32
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 52	Second : 32
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 52	Second : 32
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 52	Second : 50
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 52	Second : 51
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 52	Second : 51
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 53	Second : 18
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 53	Second : 19
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 53	Second : 19
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 53	Second : 42
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 53	Second : 42
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 53	Second : 42
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 54	Second : 5
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 54	Second : 5
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 54	Second : 5
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 56	Second : 22
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 56	Second : 22
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 56	Second : 23
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 56	Second : 50
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 56	Second : 50
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 56	Second : 51
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 57	Second : 18
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 57	Second : 18
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 57	Second : 18
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 57	Second : 40
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 57	Second : 41
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 57	Second : 41
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 58	Second : 5
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 58	Second : 5
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 58	Second : 5
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 58	Second : 28
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 58	Second : 29
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 58	Second : 29
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 58	Second : 56
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 58	Second : 56
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 58	Second : 56
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 59	Second : 21
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 59	Second : 21
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 59	Second : 21
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 59	Second : 49
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 59	Second : 49
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 59	Second : 50
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 0	Second : 14
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 0	Second : 14
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 0	Second : 14
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 0	Second : 41
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 0	Second : 41
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 0	Second : 42
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 1	Second : 6
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 1	Second : 6
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 1	Second : 6
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 1	Second : 33
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 1	Second : 34
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 1	Second : 34
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 1	Second : 55
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 1	Second : 55
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 1	Second : 55
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 2	Second : 22
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 2	Second : 22
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 2	Second : 22
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 2	Second : 47
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 2	Second : 47
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 2	Second : 48
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 3	Second : 4
+Aeroids Has Sold item: 1631, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 3	Second : 5
+Aeroids Has Sold item: 1631, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 3	Second : 5
+Aeroids Has Sold item: 1631, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 3	Second : 31
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 3	Second : 31
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 3	Second : 31
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 3	Second : 56
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 3	Second : 56
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 3	Second : 56
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 4	Second : 21
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 4	Second : 21
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 4	Second : 21
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 4	Second : 46
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 4	Second : 46
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 4	Second : 46
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 5	Second : 11
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 5	Second : 11
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 5	Second : 11
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 5	Second : 36
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 5	Second : 36
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 5	Second : 36
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 5	Second : 59
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 5	Second : 59
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 5	Second : 59
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 6	Second : 20
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 6	Second : 20
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 6	Second : 20
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 6	Second : 48
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 6	Second : 48
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 6	Second : 48
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 7	Second : 12
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 7	Second : 12
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 7	Second : 13
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 7	Second : 37
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 7	Second : 38
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 7	Second : 38
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 8	Second : 33
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 8	Second : 33
+Aeroids Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 10	Minute : 12	Second : 9
+Aeroids Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 10	Minute : 12	Second : 14
+Aeroids Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 10	Minute : 12	Second : 15
+Aeroids Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 10	Minute : 15	Second : 13
+Aeroids Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 10	Minute : 15	Second : 14
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 10	Minute : 15	Second : 15
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 10	Minute : 15	Second : 16
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 10	Minute : 15	Second : 16
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 10	Minute : 15	Second : 18
+Aeroids Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 47	Second : 14
+Aeroids Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 47	Second : 14
+Aeroids Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 47	Second : 17
+Aeroids Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 47	Second : 20
+Aeroids Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 47	Second : 24
+Aeroids Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 47	Second : 28
+Aeroids Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 47	Second : 30
+Aeroids Has Sold item: 1080, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 47	Second : 31
+Aeroids Has Sold item: 1148, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 37
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 37
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 38
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 38
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 38
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 38
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 38
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 38
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 38
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 39
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 39
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 39
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 39
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 39
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 39
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 40
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 40
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 40
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 40
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 41
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 41
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 41
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 41
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 41
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 42
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 42
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 42
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 48	Second : 42
+Aeroids Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 52	Second : 11
+Aeroids Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 27	Second : 35
+Aeroids Has Sold item: 2362, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 27	Second : 39
+Aeroids Has Sold item: 2362, Quantity 70
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 27	Second : 44
+Aeroids Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 27	Second : 46
+Aeroids Has Sold item: 1618, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 27	Second : 46
+Aeroids Has Sold item: 1618, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 27	Second : 47
+Aeroids Has Sold item: 1618, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 27	Second : 47
+Aeroids Has Sold item: 1618, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 27	Second : 48
+Aeroids Has Sold item: 2360, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 27	Second : 50
+Aeroids Has Sold item: 2360, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 27	Second : 50
+Aeroids Has Sold item: 2360, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 27	Second : 51
+Aeroids Has Sold item: 2360, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 27	Second : 53
+Aeroids Has Sold item: 2360, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 27	Second : 54
+Aeroids Has Sold item: 2360, Quantity 5
+--------------------------------------------------

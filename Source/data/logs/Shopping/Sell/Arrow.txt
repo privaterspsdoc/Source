@@ -1,0 +1,853 @@
+
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 1	Second : 14
+Arrow Has Sold item: 4373, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 3	Second : 22
+Arrow Has Sold item: 1608, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 3	Second : 24
+Arrow Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 3	Second : 25
+Arrow Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 3	Second : 26
+Arrow Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 4	Second : 10
+Arrow Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 4	Second : 11
+Arrow Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 8	Second : 48
+Arrow Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 8	Second : 50
+Arrow Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 8	Second : 52
+Arrow Has Sold item: 1153, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 8	Second : 53
+Arrow Has Sold item: 1067, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 10	Second : 36
+Arrow Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 16	Second : 19
+Arrow Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 16	Second : 20
+Arrow Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 16	Second : 21
+Arrow Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 16	Second : 22
+Arrow Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 25	Second : 56
+Arrow Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 25	Second : 56
+Arrow Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 25	Second : 57
+Arrow Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 25	Second : 59
+Arrow Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 31	Second : 26
+Arrow Has Sold item: 1191, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 43	Second : 24
+Arrow Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 43	Second : 24
+Arrow Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 43	Second : 26
+Arrow Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 43	Second : 27
+Arrow Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 43	Second : 28
+Arrow Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 45	Second : 46
+Arrow Has Sold item: 1115, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 0	Second : 54
+Arrow Has Sold item: 1213, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 0	Second : 56
+Arrow Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 1	Second : 5
+Arrow Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 1	Second : 6
+Arrow Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 1	Second : 7
+Arrow Has Sold item: 1213, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 1	Second : 9
+Arrow Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 1	Second : 12
+Arrow Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 1	Second : 14
+Arrow Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 12	Second : 30
+Arrow Has Sold item: 1213, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 12	Second : 31
+Arrow Has Sold item: 1754, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 21	Second : 5
+Arrow Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 21	Second : 6
+Arrow Has Sold item: 1213, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 21	Second : 7
+Arrow Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 21	Second : 8
+Arrow Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 21	Second : 9
+Arrow Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 21	Second : 11
+Arrow Has Sold item: 1754, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 21	Second : 12
+Arrow Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 46	Second : 24
+Arrow Has Sold item: 1213, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 46	Second : 25
+Arrow Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 46	Second : 26
+Arrow Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 46	Second : 28
+Arrow Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 46	Second : 29
+Arrow Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 4	Second : 42
+Arrow Has Sold item: 1751, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 4	Second : 43
+Arrow Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 5	Second : 28
+Arrow Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 25	Second : 11
+Arrow Has Sold item: 1127, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 25	Second : 11
+Arrow Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 25	Second : 13
+Arrow Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 15	Second : 29
+Arrow Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 15	Second : 30
+Arrow Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 15	Second : 33
+Arrow Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 15	Second : 36
+Arrow Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 32	Second : 57
+Arrow Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 32	Second : 59
+Arrow Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 33	Second : 0
+Arrow Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 46	Second : 8
+Arrow Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 46	Second : 10
+Arrow Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 46	Second : 11
+Arrow Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 54	Second : 20
+Arrow Has Sold item: 558, Quantity 975
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 54	Second : 37
+Arrow Has Sold item: 556, Quantity 672
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 44	Second : 27
+Arrow Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 44	Second : 47
+Arrow Has Sold item: 5699, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 44	Second : 49
+Arrow Has Sold item: 5699, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 35	Second : 24
+Arrow Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 47	Second : 29
+Arrow Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 47	Second : 29
+Arrow Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 47	Second : 31
+Arrow Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 47	Second : 32
+Arrow Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 9	Second : 54
+Arrow Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 9	Second : 55
+Arrow Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 9	Second : 56
+Arrow Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 9	Second : 57
+Arrow Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 9	Second : 58
+Arrow Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 10	Second : 0
+Arrow Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 13	Second : 7
+Arrow Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 27	Second : 5
+Arrow Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 27	Second : 5
+Arrow Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 27	Second : 6
+Arrow Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 27	Second : 9
+Arrow Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 27	Second : 12
+Arrow Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 27	Second : 14
+Arrow Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 27	Second : 17
+Arrow Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 27	Second : 20
+Arrow Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 3	Second : 40
+Arrow Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 3	Second : 41
+Arrow Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 3	Second : 42
+Arrow Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 3	Second : 43
+Arrow Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 3	Second : 45
+Arrow Has Sold item: 830, Quantity 80
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 42	Second : 5
+Arrow Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 42	Second : 6
+Arrow Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 42	Second : 8
+Arrow Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 50	Second : 27
+Arrow Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 50	Second : 28
+Arrow Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 51	Second : 30
+Arrow Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 51	Second : 31
+Arrow Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 51	Second : 32
+Arrow Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 51	Second : 34
+Arrow Has Sold item: 830, Quantity 40
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 51	Second : 38
+Arrow Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 51	Second : 39
+Arrow Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 51	Second : 41
+Arrow Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 51	Second : 32
+Arrow Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 51	Second : 33
+Arrow Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 51	Second : 35
+Arrow Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 51	Second : 36
+Arrow Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 51	Second : 38
+Arrow Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 51	Second : 39
+Arrow Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 51	Second : 41
+Arrow Has Sold item: 830, Quantity 80
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 2	Second : 51
+Arrow Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 2	Second : 51
+Arrow Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 2	Second : 53
+Arrow Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 37	Second : 56
+Arrow Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 37	Second : 57
+Arrow Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 37	Second : 58
+Arrow Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 37	Second : 59
+Arrow Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 38	Second : 0
+Arrow Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 38	Second : 1
+Arrow Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 38	Second : 4
+Arrow Has Sold item: 830, Quantity 200
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 38	Second : 6
+Arrow Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 53	Second : 50
+Arrow Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 14	Second : 19
+Arrow Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 14	Second : 20
+Arrow Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 14	Second : 22
+Arrow Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 14	Second : 23
+Arrow Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 14	Second : 24
+Arrow Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 14	Second : 25
+Arrow Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 14	Second : 26
+Arrow Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 14	Second : 28
+Arrow Has Sold item: 830, Quantity 40
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 26	Second : 34
+Arrow Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 26	Second : 35
+Arrow Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 26	Second : 36
+Arrow Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 26	Second : 37
+Arrow Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 26	Second : 42
+Arrow Has Sold item: 830, Quantity 120
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 26	Second : 44
+Arrow Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 26	Second : 45
+Arrow Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 26	Second : 46
+Arrow Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 42	Second : 5
+Arrow Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 42	Second : 6
+Arrow Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 18	Second : 34
+Arrow Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 18	Second : 35
+Arrow Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 18	Second : 36
+Arrow Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 54	Second : 40
+Arrow Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 54	Second : 41
+Arrow Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 4	Second : 14
+Arrow Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 13	Second : 39
+Arrow Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 13	Second : 41
+Arrow Has Sold item: 1213, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 13	Second : 42
+Arrow Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 13	Second : 42
+Arrow Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 13	Second : 46
+Arrow Has Sold item: 1754, Quantity 24
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 36	Second : 46
+Arrow Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 36	Second : 47
+Arrow Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 36	Second : 49
+Arrow Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 36	Second : 50
+Arrow Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 36	Second : 51
+Arrow Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 36	Second : 53
+Arrow Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 36	Second : 55
+Arrow Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 36	Second : 58
+Arrow Has Sold item: 830, Quantity 40
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 41	Second : 39
+Arrow Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 41	Second : 40
+Arrow Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 41	Second : 42
+Arrow Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 41	Second : 42
+Arrow Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 41	Second : 43
+Arrow Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 41	Second : 44
+Arrow Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 43	Second : 5
+Arrow Has Sold item: 561, Quantity 232
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 43	Second : 8
+Arrow Has Sold item: 554, Quantity 2020
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 49	Second : 44
+Arrow Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 49	Second : 45
+Arrow Has Sold item: 1387, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 49	Second : 46
+Arrow Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 49	Second : 47
+Arrow Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 49	Second : 47
+Arrow Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 49	Second : 49
+Arrow Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 49	Second : 49
+Arrow Has Sold item: 1381, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 49	Second : 52
+Arrow Has Sold item: 555, Quantity 531
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 50	Second : 10
+Arrow Has Sold item: 560, Quantity 80
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 50	Second : 14
+Arrow Has Sold item: 565, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 1	Second : 41
+Arrow Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 1	Second : 43
+Arrow Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 1	Second : 45
+Arrow Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 1	Second : 46
+Arrow Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 1	Second : 47
+Arrow Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 1	Second : 50
+Arrow Has Sold item: 830, Quantity 120
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 1	Second : 52
+Arrow Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 40	Second : 40
+Arrow Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 41	Second : 45
+Arrow Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 41	Second : 46
+Arrow Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 41	Second : 47
+Arrow Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 41	Second : 48
+Arrow Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 41	Second : 49
+Arrow Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 41	Second : 51
+Arrow Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 41	Second : 54
+Arrow Has Sold item: 830, Quantity 120
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 11	Second : 2
+Arrow Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 11	Second : 4
+Arrow Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 35	Second : 44
+Arrow Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 35	Second : 45
+Arrow Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 35	Second : 46
+Arrow Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 37	Second : 36
+Arrow Has Sold item: 565, Quantity 424
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 37	Second : 53
+Arrow Has Sold item: 554, Quantity 25
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 26	Second : 25
+Arrow Has Sold item: 11338, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 27	Second : 8
+Arrow Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 27	Second : 41
+Arrow Has Sold item: 554, Quantity 1666
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 27	Second : 57
+Arrow Has Sold item: 556, Quantity 1190
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 28	Second : 10
+Arrow Has Sold item: 565, Quantity 238
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 40	Second : 0
+Arrow Has Sold item: 11338, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 40	Second : 1
+Arrow Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 46	Second : 58
+Arrow Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 46	Second : 59
+Arrow Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 47	Second : 0
+Arrow Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 47	Second : 1
+Arrow Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 47	Second : 4
+Arrow Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 47	Second : 4
+Arrow Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 47	Second : 6
+Arrow Has Sold item: 830, Quantity 40
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 23	Second : 1
+Arrow Has Sold item: 6568, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 19	Second : 33
+Arrow Has Sold item: 4675, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 15	Second : 5
+Arrow Has Sold item: 4675, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 41	Second : 58
+Arrow Has Sold item: 4675, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 7	Second : 59
+Arrow Has Sold item: 4675, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 45	Second : 45
+Arrow Has Sold item: 4675, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 5	Minute : 45	Second : 39
+Arrow Has Sold item: 4675, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 6	Second : 35
+Arrow Has Sold item: 1163, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 6	Second : 36
+Arrow Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 27	Second : 45
+Arrow Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 27	Second : 46
+Arrow Has Sold item: 1127, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 27	Second : 58
+Arrow Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 27	Second : 59
+Arrow Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 34	Second : 2
+Arrow Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 34	Second : 3
+Arrow Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 34	Second : 5
+Arrow Has Sold item: 1127, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 48	Second : 5
+Arrow Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 48	Second : 6
+Arrow Has Sold item: 1127, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 15	Second : 30
+Arrow Has Sold item: 1127, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 15	Second : 31
+Arrow Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 15	Second : 31
+Arrow Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 15	Second : 33
+Arrow Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 1	Minute : 49	Second : 41
+Arrow Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 1	Minute : 49	Second : 42
+Arrow Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 1	Minute : 53	Second : 44
+Arrow Has Sold item: 2498, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 1	Minute : 53	Second : 50
+Arrow Has Sold item: 2498, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 45	Second : 11
+Arrow Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 46	Second : 10
+Arrow Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 46	Second : 11
+Arrow Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 46	Second : 13
+Arrow Has Sold item: 1127, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 52	Second : 21
+Arrow Has Sold item: 1729, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 52	Second : 22
+Arrow Has Sold item: 1729, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 52	Second : 25
+Arrow Has Sold item: 1727, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 52	Second : 26
+Arrow Has Sold item: 1727, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 53	Second : 4
+Arrow Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 53	Second : 43
+Arrow Has Sold item: 1731, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 54	Second : 19
+Arrow Has Sold item: 1731, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 54	Second : 50
+Arrow Has Sold item: 1731, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 55	Second : 27
+Arrow Has Sold item: 1731, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 56	Second : 12
+Arrow Has Sold item: 1731, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 56	Second : 53
+Arrow Has Sold item: 1731, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 57	Second : 33
+Arrow Has Sold item: 1731, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 58	Second : 26
+Arrow Has Sold item: 1731, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 59	Second : 16
+Arrow Has Sold item: 1731, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 59	Second : 58
+Arrow Has Sold item: 1731, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 1	Second : 4
+Arrow Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 1	Second : 7
+Arrow Has Sold item: 1712, Quantity 16
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 1	Second : 43
+Arrow Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 2	Second : 32
+Arrow Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 3	Second : 6
+Arrow Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 3	Second : 50
+Arrow Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 38	Second : 8
+Arrow Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 38	Second : 9
+Arrow Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 14	Second : 47
+Arrow Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 14	Second : 48
+Arrow Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 43	Second : 2
+Arrow Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 43	Second : 3
+Arrow Has Sold item: 1127, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 43	Second : 5
+Arrow Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 15	Second : 15
+Arrow Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 59	Second : 54
+Arrow Has Sold item: 1618, Quantity 40
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 59	Second : 57
+Arrow Has Sold item: 1127, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 59	Second : 59
+Arrow Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 0	Second : 0
+Arrow Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 0	Second : 1
+Arrow Has Sold item: 1127, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 36	Second : 10
+Arrow Has Sold item: 1163, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 54	Second : 47
+Arrow Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 56	Second : 56
+Arrow Has Sold item: 1127, Quantity 1
+--------------------------------------------------

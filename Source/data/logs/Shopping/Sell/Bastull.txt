@@ -1,0 +1,190 @@
+
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 42	Second : 6
+Bastull Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 42	Second : 13
+Bastull Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 42	Second : 16
+Bastull Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 42	Second : 17
+Bastull Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 43	Second : 28
+Bastull Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 43	Second : 29
+Bastull Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 43	Second : 31
+Bastull Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 43	Second : 33
+Bastull Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 44	Second : 44
+Bastull Has Sold item: 1635, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 45	Second : 43
+Bastull Has Sold item: 1635, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 46	Second : 44
+Bastull Has Sold item: 1635, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 48	Second : 41
+Bastull Has Sold item: 1635, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 49	Second : 41
+Bastull Has Sold item: 1635, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 52	Second : 53
+Bastull Has Sold item: 1635, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 53	Second : 19
+Bastull Has Sold item: 1334, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 53	Second : 20
+Bastull Has Sold item: 4588, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 53	Second : 22
+Bastull Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 53	Second : 22
+Bastull Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 53	Second : 23
+Bastull Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 53	Second : 25
+Bastull Has Sold item: 1214, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 53	Second : 26
+Bastull Has Sold item: 1320, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 53	Second : 27
+Bastull Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 53	Second : 28
+Bastull Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 53	Second : 29
+Bastull Has Sold item: 1608, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 27	Second : 1
+Bastull Has Sold item: 1754, Quantity 42
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 30	Second : 32
+Bastull Has Sold item: 1107, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 30	Second : 33
+Bastull Has Sold item: 1195, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 30	Second : 37
+Bastull Has Sold item: 1602, Quantity 34
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 30	Second : 38
+Bastull Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 30	Second : 40
+Bastull Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 30	Second : 42
+Bastull Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 30	Second : 45
+Bastull Has Sold item: 1635, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 30	Second : 46
+Bastull Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 32	Second : 18
+Bastull Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 32	Second : 20
+Bastull Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 32	Second : 21
+Bastull Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 32	Second : 23
+Bastull Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 34	Second : 7
+Bastull Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 35	Second : 16
+Bastull Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 36	Second : 13
+Bastull Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 38	Second : 7
+Bastull Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 40	Second : 34
+Bastull Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 13	Second : 51
+Bastull Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 13	Second : 53
+Bastull Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 13	Second : 53
+Bastull Has Sold item: 1186, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 13	Second : 57
+Bastull Has Sold item: 380, Quantity 134
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 14	Second : 1
+Bastull Has Sold item: 563, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 14	Second : 2
+Bastull Has Sold item: 563, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 14	Second : 3
+Bastull Has Sold item: 563, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 14	Second : 4
+Bastull Has Sold item: 563, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 58	Second : 7
+Bastull Has Sold item: 2360, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 58	Second : 9
+Bastull Has Sold item: 4090, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 58	Second : 10
+Bastull Has Sold item: 4104, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 58	Second : 11
+Bastull Has Sold item: 4112, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 58	Second : 12
+Bastull Has Sold item: 4114, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 58	Second : 14
+Bastull Has Sold item: 4094, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 58	Second : 15
+Bastull Has Sold item: 4114, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 58	Second : 15
+Bastull Has Sold item: 4092, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 58	Second : 16
+Bastull Has Sold item: 4676, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 58	Second : 18
+Bastull Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 58	Second : 19
+Bastull Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 58	Second : 19
+Bastull Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 58	Second : 20
+Bastull Has Sold item: 1608, Quantity 10
+--------------------------------------------------

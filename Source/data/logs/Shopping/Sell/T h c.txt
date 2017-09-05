@@ -1,0 +1,10 @@
+
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 53	Second : 18
+T h c Has Sold item: 1636, Quantity 87
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 53	Second : 22
+T h c Has Sold item: 951, Quantity 36
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 53	Second : 27
+T h c Has Sold item: 1898, Quantity 10
+--------------------------------------------------

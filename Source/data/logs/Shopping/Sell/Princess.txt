@@ -1,0 +1,136 @@
+
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 44	Second : 11
+Princess Has Sold item: 1381, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 0	Second : 30
+Princess Has Sold item: 1163, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 12	Second : 17
+Princess Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 12	Second : 19
+Princess Has Sold item: 1153, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 12	Second : 20
+Princess Has Sold item: 1067, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 12	Second : 23
+Princess Has Sold item: 1127, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 12	Second : 23
+Princess Has Sold item: 1115, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 12	Second : 26
+Princess Has Sold item: 1191, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 27	Second : 22
+Princess Has Sold item: 4101, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 27	Second : 23
+Princess Has Sold item: 229, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 27	Second : 24
+Princess Has Sold item: 4099, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 27	Second : 25
+Princess Has Sold item: 4103, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 27	Second : 29
+Princess Has Sold item: 951, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 27	Second : 33
+Princess Has Sold item: 1636, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 28	Second : 25
+Princess Has Sold item: 7651, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 28	Second : 29
+Princess Has Sold item: 7651, Quantity 264
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 2	Second : 20
+Princess Has Sold item: 1614, Quantity 330
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 4	Second : 7
+Princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 5	Second : 39
+Princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 6	Second : 44
+Princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 8	Second : 32
+Princess Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 8	Second : 35
+Princess Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 8	Second : 37
+Princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 12	Second : 14
+Princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 13	Second : 53
+Princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 16	Second : 32
+Princess Has Sold item: 1613, Quantity 45
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 18	Second : 18
+Princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 19	Second : 30
+Princess Has Sold item: 1613, Quantity 9
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 19	Second : 37
+Princess Has Sold item: 1613, Quantity 888
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 20	Second : 48
+Princess Has Sold item: 1613, Quantity 999
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 21	Second : 57
+Princess Has Sold item: 1613, Quantity 999
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 24	Second : 0
+Princess Has Sold item: 1613, Quantity 888
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 25	Second : 9
+Princess Has Sold item: 1613, Quantity 999
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 31	Second : 32
+Princess Has Sold item: 436, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 31	Second : 36
+Princess Has Sold item: 436, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 38	Second : 34
+Princess Has Sold item: 7651, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 38	Second : 38
+Princess Has Sold item: 7651, Quantity 234
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 38	Second : 40
+Princess Has Sold item: 2358, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 38	Second : 46
+Princess Has Sold item: 2358, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 38	Second : 47
+Princess Has Sold item: 2358, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 38	Second : 49
+Princess Has Sold item: 2358, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 38	Second : 53
+Princess Has Sold item: 4819, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 40	Second : 58
+Princess Has Sold item: 1613, Quantity 3434
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 42	Second : 0
+Princess Has Sold item: 1613, Quantity 234
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 43	Second : 1
+Princess Has Sold item: 1613, Quantity 234
+--------------------------------------------------

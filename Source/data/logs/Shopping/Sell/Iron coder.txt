@@ -1,0 +1,55 @@
+
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 29	Second : 35
+Iron coder Has Sold item: 950, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 29	Second : 41
+Iron coder Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 29	Second : 42
+Iron coder Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 30	Second : 24
+Iron coder Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 30	Second : 25
+Iron coder Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 31	Second : 10
+Iron coder Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 31	Second : 11
+Iron coder Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 31	Second : 13
+Iron coder Has Sold item: 950, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 31	Second : 16
+Iron coder Has Sold item: 950, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 8	Second : 29
+Iron coder Has Sold item: 4675, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 8	Second : 30
+Iron coder Has Sold item: 4103, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 8	Second : 31
+Iron coder Has Sold item: 4091, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 8	Second : 32
+Iron coder Has Sold item: 4093, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 8	Second : 34
+Iron coder Has Sold item: 4111, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 8	Second : 49
+Iron coder Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 8	Second : 50
+Iron coder Has Sold item: 4113, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 8	Second : 52
+Iron coder Has Sold item: 4101, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 8	Second : 53
+Iron coder Has Sold item: 4089, Quantity 10
+--------------------------------------------------

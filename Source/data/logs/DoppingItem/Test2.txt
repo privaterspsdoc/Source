@@ -1,0 +1,25 @@
+
+Year : 2015	Month : 7	Day : 12	Hour : 10	Minute : 36	Second : 30
+Test2 Dropped item: 2366, Quantity: 0
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 17	Second : 47
+Test2 Dropped item: 10877, Quantity: 0
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 22	Second : 24
+Test2 Dropped item: 12932, Quantity: 0
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 9	Second : 7
+Test2 Dropped item: 559, Quantity: 0
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 13	Second : 57
+Test2 Dropped item: 1602, Quantity: 0
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 14	Second : 15
+Test2 Dropped item: 4384, Quantity: 0
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 16	Second : 2
+Test2 Dropped item: 6571, Quantity: 0
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 10	Minute : 35	Second : 41
+Test2 Dropped item: 11702, Quantity: 0
+--------------------------------------------------

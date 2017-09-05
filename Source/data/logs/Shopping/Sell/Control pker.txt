@@ -1,0 +1,457 @@
+
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 32	Second : 39
+Control pker Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 34	Second : 53
+Control pker Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 34	Second : 54
+Control pker Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 34	Second : 57
+Control pker Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 34	Second : 58
+Control pker Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 38	Second : 8
+Control pker Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 38	Second : 9
+Control pker Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 38	Second : 11
+Control pker Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 38	Second : 12
+Control pker Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 41	Second : 52
+Control pker Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 41	Second : 53
+Control pker Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 41	Second : 55
+Control pker Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 44	Second : 59
+Control pker Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 45	Second : 0
+Control pker Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 45	Second : 2
+Control pker Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 46	Second : 15
+Control pker Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 46	Second : 17
+Control pker Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 46	Second : 19
+Control pker Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 47	Second : 15
+Control pker Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 47	Second : 17
+Control pker Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 47	Second : 17
+Control pker Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 47	Second : 19
+Control pker Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 48	Second : 16
+Control pker Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 48	Second : 17
+Control pker Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 48	Second : 19
+Control pker Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 49	Second : 23
+Control pker Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 49	Second : 27
+Control pker Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 49	Second : 28
+Control pker Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 50	Second : 24
+Control pker Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 50	Second : 25
+Control pker Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 50	Second : 26
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 50	Second : 28
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 51	Second : 25
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 51	Second : 26
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 51	Second : 28
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 52	Second : 24
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 52	Second : 25
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 52	Second : 26
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 54	Second : 1
+Control pker Has Sold item: 7650, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 54	Second : 9
+Control pker Has Sold item: 7650, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 54	Second : 16
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 54	Second : 18
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 54	Second : 24
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 55	Second : 23
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 55	Second : 24
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 55	Second : 25
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 23
+Control pker Has Sold item: 7650, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 57	Second : 21
+Control pker Has Sold item: 7650, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 58	Second : 24
+Control pker Has Sold item: 7650, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 1	Second : 21
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 1	Second : 23
+Control pker Has Sold item: 7650, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 1	Second : 25
+Control pker Has Sold item: 7650, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 1	Second : 30
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 2	Second : 1
+Control pker Has Sold item: 7650, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 8	Second : 17
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 8	Second : 18
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 8	Second : 20
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 10	Second : 5
+Control pker Has Sold item: 7650, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 10	Second : 6
+Control pker Has Sold item: 7650, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 10	Second : 7
+Control pker Has Sold item: 7650, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 10	Second : 8
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 11	Second : 6
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 11	Second : 7
+Control pker Has Sold item: 7650, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 11	Second : 8
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 12	Second : 54
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 12	Second : 56
+Control pker Has Sold item: 7650, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 12	Second : 58
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 13	Second : 54
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 13	Second : 56
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 14	Second : 2
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 14	Second : 19
+Control pker Has Sold item: 7651, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 14	Second : 20
+Control pker Has Sold item: 7651, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 15	Second : 53
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 15	Second : 56
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 15	Second : 59
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 17	Second : 5
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 17	Second : 7
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 17	Second : 8
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 17	Second : 9
+Control pker Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 18	Second : 9
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 18	Second : 11
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 18	Second : 13
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 19	Second : 11
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 19	Second : 13
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 19	Second : 14
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 20	Second : 17
+Control pker Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 21	Second : 15
+Control pker Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 22	Second : 18
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 22	Second : 19
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 22	Second : 20
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 23	Second : 18
+Control pker Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 23	Second : 20
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 23	Second : 22
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 23	Second : 23
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 24	Second : 22
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 24	Second : 24
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 24	Second : 24
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 25	Second : 32
+Control pker Has Sold item: 1613, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 26	Second : 36
+Control pker Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 26	Second : 42
+Control pker Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 27	Second : 52
+Control pker Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 29	Second : 0
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 29	Second : 1
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 32	Second : 21
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 32	Second : 22
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 32	Second : 27
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 32	Second : 29
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 32	Second : 30
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 33	Second : 29
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 33	Second : 31
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 33	Second : 35
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 38	Second : 18
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 41	Second : 3
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 41	Second : 5
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 41	Second : 6
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 42	Second : 39
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 42	Second : 41
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 43	Second : 39
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 43	Second : 40
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 43	Second : 41
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 44	Second : 39
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 44	Second : 42
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 44	Second : 43
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 45	Second : 33
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 45	Second : 35
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 45	Second : 36
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 46	Second : 30
+Control pker Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 47	Second : 25
+Control pker Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 48	Second : 19
+Control pker Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 49	Second : 9
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 49	Second : 10
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 49	Second : 11
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 50	Second : 4
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 50	Second : 6
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 50	Second : 7
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 50	Second : 57
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 50	Second : 59
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 50	Second : 59
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 51	Second : 52
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 51	Second : 53
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 51	Second : 54
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 52	Second : 59
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 53	Second : 1
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 53	Second : 3
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 55	Second : 2
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 55	Second : 3
+Control pker Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 55	Second : 4
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 59	Second : 49
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 59	Second : 50
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 59	Second : 53
+Control pker Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 0	Second : 46
+Control pker Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 37	Second : 29
+Control pker Has Sold item: 1602, Quantity 10
+--------------------------------------------------

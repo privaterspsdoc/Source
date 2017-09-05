@@ -1,0 +1,7 @@
+
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 36	Second : 23
+2akash Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 36	Second : 26
+2akash Has Sold item: 950, Quantity 10
+--------------------------------------------------

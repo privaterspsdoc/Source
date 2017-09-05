@@ -1,0 +1,40 @@
+
+Year : 2017	Month : 7	Day : 22	Hour : 1	Minute : 10	Second : 54
+Player Command: yell 
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 22	Hour : 1	Minute : 11	Second : 15
+Player Command: yell l
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 22	Hour : 1	Minute : 11	Second : 21
+Player Command: yell lwtf
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 22	Hour : 1	Minute : 11	Second : 44
+Player Command: yell lma
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 22	Hour : 1	Minute : 12	Second : 19
+Player Command: yel l
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 22	Hour : 1	Minute : 12	Second : 21
+Player Command: yell l
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 22	Hour : 1	Minute : 13	Second : 30
+Player Command: roof
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 22	Hour : 1	Minute : 13	Second : 31
+Player Command: roofoff
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 22	Hour : 1	Minute : 13	Second : 33
+Player Command: toggleroof
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 22	Hour : 1	Minute : 14	Second : 4
+Player Command: item 11694 1
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 22	Hour : 1	Minute : 14	Second : 11
+Player Command: master
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 22	Hour : 1	Minute : 14	Second : 29
+Player Command: npc 2
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 22	Hour : 1	Minute : 17	Second : 51
+Player Command: noclip
+--------------------------------------------------

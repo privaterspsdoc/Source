@@ -1,0 +1,70 @@
+
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 55	Second : 32
+Deathbeds Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 5	Second : 9
+Deathbeds Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 5	Second : 10
+Deathbeds Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 5	Second : 11
+Deathbeds Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 5	Second : 12
+Deathbeds Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 5	Second : 13
+Deathbeds Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 5	Second : 15
+Deathbeds Has Sold item: 1191, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 5	Second : 16
+Deathbeds Has Sold item: 1323, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 5	Second : 17
+Deathbeds Has Sold item: 1153, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 5	Second : 17
+Deathbeds Has Sold item: 1115, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 5	Second : 19
+Deathbeds Has Sold item: 1067, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 5	Second : 19
+Deathbeds Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 5	Second : 20
+Deathbeds Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 26	Second : 4
+Deathbeds Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 26	Second : 6
+Deathbeds Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 26	Second : 7
+Deathbeds Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 26	Second : 9
+Deathbeds Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 27	Second : 3
+Deathbeds Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 27	Second : 6
+Deathbeds Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 27	Second : 7
+Deathbeds Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 27	Second : 11
+Deathbeds Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 40	Second : 55
+Deathbeds Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 40	Second : 56
+Deathbeds Has Sold item: 1635, Quantity 5
+--------------------------------------------------

@@ -1,0 +1,334 @@
+
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 57	Second : 30
+Not princess Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 57	Second : 32
+Not princess Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 57	Second : 40
+Not princess Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 57	Second : 43
+Not princess Has Sold item: 950, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 59	Second : 44
+Not princess Has Sold item: 950, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 59	Second : 47
+Not princess Has Sold item: 1635, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 1	Second : 9
+Not princess Has Sold item: 1635, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 2	Second : 27
+Not princess Has Sold item: 1635, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 3	Second : 39
+Not princess Has Sold item: 1635, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 4	Second : 57
+Not princess Has Sold item: 1635, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 6	Second : 26
+Not princess Has Sold item: 1635, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 8	Second : 11
+Not princess Has Sold item: 1635, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 9	Second : 21
+Not princess Has Sold item: 1635, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 9	Second : 25
+Not princess Has Sold item: 7650, Quantity 999
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 10	Second : 46
+Not princess Has Sold item: 7650, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 12	Second : 4
+Not princess Has Sold item: 7650, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 13	Second : 41
+Not princess Has Sold item: 7650, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 14	Second : 50
+Not princess Has Sold item: 7650, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 18	Second : 12
+Not princess Has Sold item: 7650, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 20	Second : 4
+Not princess Has Sold item: 7650, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 23	Second : 28
+Not princess Has Sold item: 7650, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 24	Second : 37
+Not princess Has Sold item: 7650, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 25	Second : 50
+Not princess Has Sold item: 7650, Quantity 999
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 27	Second : 2
+Not princess Has Sold item: 7650, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 28	Second : 51
+Not princess Has Sold item: 7650, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 29	Second : 56
+Not princess Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 30	Second : 0
+Not princess Has Sold item: 7650, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 31	Second : 49
+Not princess Has Sold item: 7650, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 33	Second : 10
+Not princess Has Sold item: 7650, Quantity 999
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 34	Second : 37
+Not princess Has Sold item: 7650, Quantity 999
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 34	Second : 40
+Not princess Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 35	Second : 50
+Not princess Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 35	Second : 53
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 37	Second : 4
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 38	Second : 23
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 40	Second : 48
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 42	Second : 48
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 44	Second : 10
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 45	Second : 17
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 46	Second : 24
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 47	Second : 32
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 51	Second : 39
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 51	Second : 52
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 53	Second : 27
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 54	Second : 52
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 56	Second : 33
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 57	Second : 38
+Not princess Has Sold item: 1613, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 59	Second : 19
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 46	Second : 0
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 47	Second : 8
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 48	Second : 55
+Not princess Has Sold item: 1613, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 50	Second : 16
+Not princess Has Sold item: 1613, Quantity 77
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 51	Second : 39
+Not princess Has Sold item: 1613, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 52	Second : 55
+Not princess Has Sold item: 1613, Quantity 77
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 54	Second : 27
+Not princess Has Sold item: 1613, Quantity 66
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 56	Second : 7
+Not princess Has Sold item: 1613, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 57	Second : 52
+Not princess Has Sold item: 1613, Quantity 77
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 59	Second : 0
+Not princess Has Sold item: 1613, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 0	Second : 11
+Not princess Has Sold item: 1613, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 2	Second : 30
+Not princess Has Sold item: 1613, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 3	Second : 47
+Not princess Has Sold item: 1613, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 5	Second : 3
+Not princess Has Sold item: 1613, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 6	Second : 12
+Not princess Has Sold item: 1613, Quantity 77
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 7	Second : 44
+Not princess Has Sold item: 1613, Quantity 77
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 9	Second : 25
+Not princess Has Sold item: 1613, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 10	Second : 43
+Not princess Has Sold item: 1613, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 11	Second : 54
+Not princess Has Sold item: 1613, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 13	Second : 12
+Not princess Has Sold item: 1613, Quantity 77
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 15	Second : 35
+Not princess Has Sold item: 1613, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 16	Second : 57
+Not princess Has Sold item: 1613, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 22	Second : 4
+Not princess Has Sold item: 1613, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 26	Second : 13
+Not princess Has Sold item: 1613, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 26	Second : 37
+Not princess Has Sold item: 1613, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 26	Second : 48
+Not princess Has Sold item: 1613, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 27	Second : 57
+Not princess Has Sold item: 1613, Quantity 77
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 30	Second : 21
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 32	Second : 17
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 36	Second : 52
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 38	Second : 13
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 39	Second : 43
+Not princess Has Sold item: 1613, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 41	Second : 33
+Not princess Has Sold item: 1613, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 42	Second : 54
+Not princess Has Sold item: 1613, Quantity 999
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 43	Second : 55
+Not princess Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 43	Second : 57
+Not princess Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 48	Second : 49
+Not princess Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 48	Second : 59
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 50	Second : 36
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 52	Second : 52
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 53	Second : 54
+Not princess Has Sold item: 1613, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 55	Second : 14
+Not princess Has Sold item: 1613, Quantity 999
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 57	Second : 52
+Not princess Has Sold item: 1613, Quantity 888
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 6	Minute : 59	Second : 43
+Not princess Has Sold item: 1613, Quantity 999
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 4	Second : 36
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 6	Second : 13
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 7	Second : 27
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 8	Second : 43
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 10	Second : 18
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 11	Second : 43
+Not princess Has Sold item: 1613, Quantity 999
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 14	Second : 20
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 15	Second : 54
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 17	Second : 19
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 18	Second : 28
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 20	Second : 21
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 6	Second : 13
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 8	Second : 4
+Not princess Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 8	Second : 8
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 10	Second : 16
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 11	Second : 41
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 13	Second : 20
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 15	Second : 53
+Not princess Has Sold item: 1613, Quantity 8
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 15	Second : 58
+Not princess Has Sold item: 1613, Quantity 99
+--------------------------------------------------

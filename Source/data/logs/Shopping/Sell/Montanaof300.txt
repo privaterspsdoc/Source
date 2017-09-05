@@ -1,0 +1,13 @@
+
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 36	Second : 20
+Montanaof300 Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 36	Second : 48
+Montanaof300 Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 36	Second : 49
+Montanaof300 Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 36	Second : 51
+Montanaof300 Has Sold item: 1897, Quantity 10
+--------------------------------------------------

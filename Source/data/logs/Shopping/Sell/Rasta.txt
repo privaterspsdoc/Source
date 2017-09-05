@@ -1,0 +1,409 @@
+
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 25	Second : 29
+Rasta Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 25	Second : 33
+Rasta Has Sold item: 950, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 26	Second : 26
+Rasta Has Sold item: 950, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 26	Second : 28
+Rasta Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 28	Second : 2
+Rasta Has Sold item: 1635, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 29	Second : 3
+Rasta Has Sold item: 1635, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 30	Second : 28
+Rasta Has Sold item: 1635, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 31	Second : 27
+Rasta Has Sold item: 1635, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 32	Second : 20
+Rasta Has Sold item: 1635, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 33	Second : 41
+Rasta Has Sold item: 1635, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 34	Second : 46
+Rasta Has Sold item: 1635, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 34	Second : 48
+Rasta Has Sold item: 7650, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 35	Second : 47
+Rasta Has Sold item: 7650, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 37	Second : 1
+Rasta Has Sold item: 7650, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 38	Second : 54
+Rasta Has Sold item: 7650, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 40	Second : 51
+Rasta Has Sold item: 7650, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 41	Second : 44
+Rasta Has Sold item: 7650, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 42	Second : 44
+Rasta Has Sold item: 7650, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 43	Second : 39
+Rasta Has Sold item: 7650, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 45	Second : 17
+Rasta Has Sold item: 7650, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 46	Second : 13
+Rasta Has Sold item: 7650, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 47	Second : 10
+Rasta Has Sold item: 7650, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 48	Second : 19
+Rasta Has Sold item: 7650, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 49	Second : 15
+Rasta Has Sold item: 7650, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 50	Second : 35
+Rasta Has Sold item: 7650, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 51	Second : 46
+Rasta Has Sold item: 7650, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 59	Second : 31
+Rasta Has Sold item: 7650, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 59	Second : 33
+Rasta Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 1	Second : 24
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 2	Second : 17
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 3	Second : 20
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 4	Second : 31
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 6	Second : 32
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 7	Second : 36
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 8	Second : 36
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 9	Second : 37
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 10	Second : 50
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 11	Second : 45
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 12	Second : 40
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 13	Second : 37
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 14	Second : 34
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 15	Second : 38
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 16	Second : 30
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 17	Second : 25
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 18	Second : 18
+Rasta Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 18	Second : 19
+Rasta Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 18	Second : 20
+Rasta Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 19	Second : 13
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 10	Minute : 11	Second : 31
+Rasta Has Sold item: 2447, Quantity 54
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 10	Minute : 11	Second : 34
+Rasta Has Sold item: 2429, Quantity 58
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 10	Minute : 11	Second : 36
+Rasta Has Sold item: 122, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 10	Minute : 11	Second : 38
+Rasta Has Sold item: 114, Quantity 55
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 10	Minute : 11	Second : 41
+Rasta Has Sold item: 2431, Quantity 54
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 19	Second : 52
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 20	Second : 58
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 27	Second : 40
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 29	Second : 50
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 31	Second : 3
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 32	Second : 16
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 33	Second : 29
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 17	Second : 31
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 20	Second : 8
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 22	Second : 49
+Rasta Has Sold item: 1613, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 50	Second : 3
+Rasta Has Sold item: 2434, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 50	Second : 29
+Rasta Has Sold item: 2434, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 50	Second : 54
+Rasta Has Sold item: 2434, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 51	Second : 33
+Rasta Has Sold item: 2434, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 51	Second : 58
+Rasta Has Sold item: 2434, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 52	Second : 24
+Rasta Has Sold item: 2434, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 52	Second : 47
+Rasta Has Sold item: 2434, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 53	Second : 11
+Rasta Has Sold item: 2434, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 53	Second : 34
+Rasta Has Sold item: 2434, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 51	Second : 56
+Rasta Has Sold item: 2434, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 25	Second : 1
+Rasta Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 25	Second : 47
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 25	Second : 48
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 25	Second : 48
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 26	Second : 11
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 26	Second : 12
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 26	Second : 12
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 26	Second : 32
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 26	Second : 32
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 26	Second : 32
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 26	Second : 51
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 26	Second : 51
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 26	Second : 52
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 27	Second : 12
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 27	Second : 13
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 27	Second : 13
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 27	Second : 32
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 27	Second : 33
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 27	Second : 33
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 27	Second : 57
+Rasta Has Sold item: 2434, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 28	Second : 17
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 28	Second : 17
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 28	Second : 17
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 28	Second : 38
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 28	Second : 38
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 28	Second : 38
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 28	Second : 57
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 28	Second : 57
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 28	Second : 58
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 29	Second : 39
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 29	Second : 39
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 29	Second : 39
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 30	Second : 2
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 30	Second : 2
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 30	Second : 3
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 30	Second : 25
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 30	Second : 25
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 30	Second : 26
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 30	Second : 47
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 30	Second : 47
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 30	Second : 47
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 31	Second : 7
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 31	Second : 7
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 31	Second : 8
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 31	Second : 30
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 31	Second : 30
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 31	Second : 30
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 31	Second : 50
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 31	Second : 51
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 31	Second : 51
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 32	Second : 29
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 32	Second : 30
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 32	Second : 30
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 32	Second : 51
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 32	Second : 52
+Rasta Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 40	Second : 0
+Rasta Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 40	Second : 52
+Rasta Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 40	Second : 53
+Rasta Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 41	Second : 47
+Rasta Has Sold item: 1613, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 11	Second : 26
+Rasta Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 10	Second : 36
+Rasta Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 10	Second : 38
+Rasta Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 10	Second : 40
+Rasta Has Sold item: 1613, Quantity 10
+--------------------------------------------------

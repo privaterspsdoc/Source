@@ -1,0 +1,4 @@
+
+Year : 2015	Month : 5	Day : 29	Hour : 9	Minute : 51	Second : 43
+Jen Has Sold item: 1712, Quantity 1
+--------------------------------------------------

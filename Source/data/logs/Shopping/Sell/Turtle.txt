@@ -1,0 +1,793 @@
+
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 26	Second : 4
+Turtle Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 14	Second : 8
+Turtle Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 14	Second : 9
+Turtle Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 31	Second : 8
+Turtle Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 42	Second : 27
+Turtle Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 37	Second : 4
+Turtle Has Sold item: 1127, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 37	Second : 4
+Turtle Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 37	Second : 6
+Turtle Has Sold item: 1163, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 4	Minute : 27	Second : 9
+Turtle Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 4	Minute : 27	Second : 12
+Turtle Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 5	Minute : 33	Second : 48
+Turtle Has Sold item: 2363, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 5	Minute : 33	Second : 56
+Turtle Has Sold item: 2363, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 5	Minute : 39	Second : 22
+Turtle Has Sold item: 1303, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 5	Minute : 41	Second : 31
+Turtle Has Sold item: 384, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 5	Minute : 41	Second : 34
+Turtle Has Sold item: 384, Quantity 40
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 5	Minute : 41	Second : 35
+Turtle Has Sold item: 2363, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 5	Minute : 53	Second : 47
+Turtle Has Sold item: 2504, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 5	Minute : 53	Second : 51
+Turtle Has Sold item: 2498, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 5	Minute : 54	Second : 12
+Turtle Has Sold item: 6686, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 18	Second : 49
+Turtle Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 18	Second : 51
+Turtle Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 18	Second : 53
+Turtle Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 18	Second : 56
+Turtle Has Sold item: 2504, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 18	Second : 58
+Turtle Has Sold item: 2498, Quantity 15
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 19	Second : 3
+Turtle Has Sold item: 1514, Quantity 600
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 19	Second : 11
+Turtle Has Sold item: 1303, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 30	Second : 53
+Turtle Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 34	Second : 8
+Turtle Has Sold item: 1303, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 34	Second : 10
+Turtle Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 54	Second : 7
+Turtle Has Sold item: 1303, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 54	Second : 9
+Turtle Has Sold item: 2363, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 1	Second : 33
+Turtle Has Sold item: 4675, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 41	Second : 26
+Turtle Has Sold item: 4111, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 41	Second : 28
+Turtle Has Sold item: 4113, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 51	Second : 56
+Turtle Has Sold item: 2363, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 53	Second : 54
+Turtle Has Sold item: 2363, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 56	Second : 5
+Turtle Has Sold item: 2363, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 56	Second : 7
+Turtle Has Sold item: 2363, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 58	Second : 36
+Turtle Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 58	Second : 38
+Turtle Has Sold item: 2363, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 4	Second : 54
+Turtle Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 4	Second : 56
+Turtle Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 8	Second : 0
+Turtle Has Sold item: 2363, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 32	Second : 58
+Turtle Has Sold item: 2498, Quantity 20
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 33	Second : 1
+Turtle Has Sold item: 2504, Quantity 20
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 33	Second : 2
+Turtle Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 54	Second : 27
+Turtle Has Sold item: 2504, Quantity 15
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 54	Second : 28
+Turtle Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 59	Second : 51
+Turtle Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 59	Second : 52
+Turtle Has Sold item: 2363, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 59	Second : 53
+Turtle Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 2	Minute : 23	Second : 22
+Turtle Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 2	Minute : 33	Second : 40
+Turtle Has Sold item: 4103, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 2	Minute : 33	Second : 41
+Turtle Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 2	Minute : 33	Second : 43
+Turtle Has Sold item: 4675, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 2	Minute : 43	Second : 40
+Turtle Has Sold item: 4101, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 2	Minute : 43	Second : 41
+Turtle Has Sold item: 4103, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 2	Minute : 43	Second : 41
+Turtle Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 2	Minute : 58	Second : 12
+Turtle Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 2	Minute : 58	Second : 13
+Turtle Has Sold item: 4089, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 16	Second : 14
+Turtle Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 16	Second : 16
+Turtle Has Sold item: 4103, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 16	Second : 17
+Turtle Has Sold item: 4103, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 16	Second : 38
+Turtle Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 43	Second : 27
+Turtle Has Sold item: 4111, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 43	Second : 27
+Turtle Has Sold item: 4103, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 43	Second : 30
+Turtle Has Sold item: 4113, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 43	Second : 31
+Turtle Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 43	Second : 34
+Turtle Has Sold item: 229, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 43	Second : 36
+Turtle Has Sold item: 229, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 44	Second : 4
+Turtle Has Sold item: 4103, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 44	Second : 5
+Turtle Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 57	Second : 43
+Turtle Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 8	Second : 17
+Turtle Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 36	Second : 32
+Turtle Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 38	Second : 35
+Turtle Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 1	Second : 15
+Turtle Has Sold item: 2363, Quantity 2
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 9	Second : 19
+Turtle Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 22	Second : 39
+Turtle Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 22	Second : 41
+Turtle Has Sold item: 1373, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 32	Second : 4
+Turtle Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 44	Second : 53
+Turtle Has Sold item: 7945, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 1	Second : 6
+Turtle Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 12	Second : 47
+Turtle Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 30	Second : 28
+Turtle Has Sold item: 1303, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 30	Second : 29
+Turtle Has Sold item: 2363, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 50	Second : 46
+Turtle Has Sold item: 4675, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 1	Second : 57
+Turtle Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 2	Second : 46
+Turtle Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 2	Second : 47
+Turtle Has Sold item: 2363, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 6	Second : 12
+Turtle Has Sold item: 2363, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 10	Second : 26
+Turtle Has Sold item: 2363, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 10	Second : 27
+Turtle Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 20	Second : 14
+Turtle Has Sold item: 1303, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 20	Second : 15
+Turtle Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 20	Second : 15
+Turtle Has Sold item: 2363, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 24	Second : 44
+Turtle Has Sold item: 1303, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 31	Second : 40
+Turtle Has Sold item: 1303, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 38	Second : 26
+Turtle Has Sold item: 2363, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 38	Second : 27
+Turtle Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 52	Second : 9
+Turtle Has Sold item: 2363, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 59	Second : 37
+Turtle Has Sold item: 2363, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 8	Second : 44
+Turtle Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 17	Second : 21
+Turtle Has Sold item: 4153, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 17	Second : 22
+Turtle Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 35	Second : 37
+Turtle Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 52	Second : 14
+Turtle Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 4	Second : 19
+Turtle Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 8	Second : 8
+Turtle Has Sold item: 2363, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 10	Second : 14
+Turtle Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 16	Second : 17
+Turtle Has Sold item: 2363, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 16	Second : 18
+Turtle Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 16	Second : 19
+Turtle Has Sold item: 2363, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 23	Second : 52
+Turtle Has Sold item: 2363, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 23	Second : 52
+Turtle Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 0	Second : 38
+Turtle Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 35	Second : 57
+Turtle Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 38	Second : 6
+Turtle Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 38	Second : 7
+Turtle Has Sold item: 4153, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 20	Second : 36
+Turtle Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 40	Second : 18
+Turtle Has Sold item: 2363, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 46	Second : 21
+Turtle Has Sold item: 1303, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 46	Second : 22
+Turtle Has Sold item: 2363, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 54	Second : 7
+Turtle Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 0	Second : 3
+Turtle Has Sold item: 2363, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 13	Second : 0
+Turtle Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 20	Second : 24
+Turtle Has Sold item: 2363, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 16	Second : 52
+Turtle Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 16	Second : 52
+Turtle Has Sold item: 2363, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 18	Second : 47
+Turtle Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 18	Second : 49
+Turtle Has Sold item: 2363, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 18	Second : 49
+Turtle Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 18	Second : 51
+Turtle Has Sold item: 2363, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 11	Second : 12
+Turtle Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 18	Second : 49
+Turtle Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 18	Second : 50
+Turtle Has Sold item: 2363, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 52	Second : 51
+Turtle Has Sold item: 1514, Quantity 150
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 52	Second : 56
+Turtle Has Sold item: 2363, Quantity 2
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 1	Second : 9
+Turtle Has Sold item: 2504, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 1	Second : 10
+Turtle Has Sold item: 2498, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 1	Second : 12
+Turtle Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 1	Second : 15
+Turtle Has Sold item: 1514, Quantity 150
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 1	Second : 17
+Turtle Has Sold item: 2363, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 45	Second : 54
+Turtle Has Sold item: 2504, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 45	Second : 55
+Turtle Has Sold item: 2498, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 55	Second : 11
+Turtle Has Sold item: 2504, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 55	Second : 13
+Turtle Has Sold item: 2498, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 55	Second : 14
+Turtle Has Sold item: 2363, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 55	Second : 18
+Turtle Has Sold item: 1514, Quantity 150
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 18	Second : 17
+Turtle Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 18	Second : 17
+Turtle Has Sold item: 2504, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 18	Second : 18
+Turtle Has Sold item: 2498, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 18	Second : 20
+Turtle Has Sold item: 1514, Quantity 150
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 36	Second : 19
+Turtle Has Sold item: 4093, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 36	Second : 21
+Turtle Has Sold item: 3031, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 36	Second : 22
+Turtle Has Sold item: 4092, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 36	Second : 22
+Turtle Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 36	Second : 24
+Turtle Has Sold item: 2364, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 36	Second : 24
+Turtle Has Sold item: 2504, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 36	Second : 25
+Turtle Has Sold item: 119, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 36	Second : 26
+Turtle Has Sold item: 173, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 36	Second : 10
+Turtle Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 36	Second : 12
+Turtle Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 49	Second : 4
+Turtle Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 49	Second : 26
+Turtle Has Sold item: 556, Quantity 400
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 49	Second : 32
+Turtle Has Sold item: 560, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 42	Second : 27
+Turtle Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 42	Second : 27
+Turtle Has Sold item: 2504, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 44	Second : 53
+Turtle Has Sold item: 2504, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 44	Second : 54
+Turtle Has Sold item: 2498, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 44	Second : 55
+Turtle Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 0	Second : 31
+Turtle Has Sold item: 1187, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 14	Second : 56
+Turtle Has Sold item: 1305, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 14	Second : 57
+Turtle Has Sold item: 1377, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 25	Second : 43
+Turtle Has Sold item: 1305, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 34	Second : 48
+Turtle Has Sold item: 1305, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 34	Second : 49
+Turtle Has Sold item: 6568, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 34	Second : 53
+Turtle Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 41	Second : 5
+Turtle Has Sold item: 1434, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 41	Second : 6
+Turtle Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 41	Second : 7
+Turtle Has Sold item: 1377, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 41	Second : 8
+Turtle Has Sold item: 6568, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 46	Second : 19
+Turtle Has Sold item: 1377, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 58	Second : 56
+Turtle Has Sold item: 4087, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 58	Second : 57
+Turtle Has Sold item: 1377, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 58	Second : 59
+Turtle Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 59	Second : 0
+Turtle Has Sold item: 1305, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 11	Second : 51
+Turtle Has Sold item: 1434, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 31	Second : 24
+Turtle Has Sold item: 1187, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 41	Second : 50
+Turtle Has Sold item: 1187, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 41	Second : 51
+Turtle Has Sold item: 1215, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 41	Second : 52
+Turtle Has Sold item: 1215, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 44	Second : 33
+Turtle Has Sold item: 391, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 58	Second : 31
+Turtle Has Sold item: 11338, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 58	Second : 34
+Turtle Has Sold item: 2364, Quantity 20
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 58	Second : 37
+Turtle Has Sold item: 452, Quantity 20
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 58	Second : 40
+Turtle Has Sold item: 1618, Quantity 40
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 12	Second : 10
+Turtle Has Sold item: 4087, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 12	Second : 10
+Turtle Has Sold item: 1215, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 24	Second : 39
+Turtle Has Sold item: 1215, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 24	Second : 40
+Turtle Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 24	Second : 41
+Turtle Has Sold item: 1305, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 24	Second : 29
+Turtle Has Sold item: 4087, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 24	Second : 30
+Turtle Has Sold item: 1434, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 24	Second : 31
+Turtle Has Sold item: 1215, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 24	Second : 32
+Turtle Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 30	Second : 59
+Turtle Has Sold item: 1434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 31	Second : 2
+Turtle Has Sold item: 1215, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 15	Second : 46
+Turtle Has Sold item: 4153, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 15	Second : 48
+Turtle Has Sold item: 6129, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 15	Second : 48
+Turtle Has Sold item: 6128, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 20	Second : 7
+Turtle Has Sold item: 10887, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 20	Second : 8
+Turtle Has Sold item: 6151, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 20	Second : 9
+Turtle Has Sold item: 6145, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 28	Second : 33
+Turtle Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 1	Second : 13
+Turtle Has Sold item: 1215, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 11	Second : 25
+Turtle Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 11	Second : 25
+Turtle Has Sold item: 1434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 23	Second : 13
+Turtle Has Sold item: 1377, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 23	Second : 14
+Turtle Has Sold item: 1215, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 55	Second : 19
+Turtle Has Sold item: 11732, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 55	Second : 26
+Turtle Has Sold item: 6568, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 38	Second : 36
+Turtle Has Sold item: 1377, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 38	Second : 37
+Turtle Has Sold item: 1215, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 38	Second : 30
+Turtle Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 39	Second : 40
+Turtle Has Sold item: 391, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 54	Second : 56
+Turtle Has Sold item: 1516, Quantity 150
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 55	Second : 1
+Turtle Has Sold item: 1618, Quantity 403
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 55	Second : 6
+Turtle Has Sold item: 2360, Quantity 50
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 55	Second : 10
+Turtle Has Sold item: 2363, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 37	Second : 53
+Turtle Has Sold item: 1751, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 37	Second : 57
+Turtle Has Sold item: 1751, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 37	Second : 58
+Turtle Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 38	Second : 0
+Turtle Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 38	Second : 1
+Turtle Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 38	Second : 2
+Turtle Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 38	Second : 3
+Turtle Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 38	Second : 46
+Turtle Has Sold item: 560, Quantity 1486
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 39	Second : 0
+Turtle Has Sold item: 556, Quantity 1000
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 39	Second : 10
+Turtle Has Sold item: 555, Quantity 1998
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 39	Second : 32
+Turtle Has Sold item: 558, Quantity 1378
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 39	Second : 47
+Turtle Has Sold item: 565, Quantity 1457
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 40	Second : 7
+Turtle Has Sold item: 554, Quantity 1000
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 0	Minute : 33	Second : 30
+Turtle Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 0	Minute : 34	Second : 21
+Turtle Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 23	Second : 15
+Turtle Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 23	Second : 17
+Turtle Has Sold item: 2671, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 23	Second : 18
+Turtle Has Sold item: 2609, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 23	Second : 19
+Turtle Has Sold item: 2605, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 23	Second : 20
+Turtle Has Sold item: 2627, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 23	Second : 21
+Turtle Has Sold item: 2619, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 25	Second : 32
+Turtle Has Sold item: 2497, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 25	Second : 34
+Turtle Has Sold item: 4101, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 25	Second : 37
+Turtle Has Sold item: 6568, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 25	Second : 39
+Turtle Has Sold item: 4099, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 25	Second : 42
+Turtle Has Sold item: 1387, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 25	Second : 44
+Turtle Has Sold item: 4103, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 25	Second : 45
+Turtle Has Sold item: 4675, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 25	Second : 47
+Turtle Has Sold item: 2414, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 25	Second : 48
+Turtle Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 25	Second : 50
+Turtle Has Sold item: 2579, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 25	Second : 52
+Turtle Has Sold item: 4087, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 32	Second : 43
+Turtle Has Sold item: 7945, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 32	Second : 47
+Turtle Has Sold item: 2363, Quantity 10
+--------------------------------------------------

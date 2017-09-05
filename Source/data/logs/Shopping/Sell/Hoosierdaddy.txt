@@ -1,0 +1,7 @@
+
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 0	Second : 18
+Hoosierdaddy Has Sold item: 1725, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 1	Second : 22
+Hoosierdaddy Has Sold item: 1897, Quantity 10
+--------------------------------------------------

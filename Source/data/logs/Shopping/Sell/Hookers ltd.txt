@@ -1,0 +1,70 @@
+
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 48	Second : 11
+Hookers ltd Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 48	Second : 23
+Hookers ltd Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 48	Second : 29
+Hookers ltd Has Sold item: 950, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 49	Second : 35
+Hookers ltd Has Sold item: 950, Quantity 70
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 49	Second : 39
+Hookers ltd Has Sold item: 1635, Quantity 70
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 50	Second : 45
+Hookers ltd Has Sold item: 1635, Quantity 30
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 52	Second : 46
+Hookers ltd Has Sold item: 1635, Quantity 50
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 53	Second : 53
+Hookers ltd Has Sold item: 1635, Quantity 40
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 54	Second : 57
+Hookers ltd Has Sold item: 1635, Quantity 30
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 56	Second : 7
+Hookers ltd Has Sold item: 1635, Quantity 50
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 57	Second : 28
+Hookers ltd Has Sold item: 1635, Quantity 90
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 58	Second : 39
+Hookers ltd Has Sold item: 1635, Quantity 300
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 58	Second : 43
+Hookers ltd Has Sold item: 7650, Quantity 30
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 59	Second : 54
+Hookers ltd Has Sold item: 7650, Quantity 90
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 2	Second : 33
+Hookers ltd Has Sold item: 7650, Quantity 80
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 3	Second : 23
+Hookers ltd Has Sold item: 7650, Quantity 90
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 29	Second : 48
+Hookers ltd Has Sold item: 6524, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 29	Second : 56
+Hookers ltd Has Sold item: 6528, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 30	Second : 0
+Hookers ltd Has Sold item: 6527, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 57	Second : 6
+Hookers ltd Has Sold item: 6526, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 57	Second : 8
+Hookers ltd Has Sold item: 6528, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 57	Second : 9
+Hookers ltd Has Sold item: 6527, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 57	Second : 11
+Hookers ltd Has Sold item: 6527, Quantity 1
+--------------------------------------------------

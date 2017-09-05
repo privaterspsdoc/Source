@@ -1,0 +1,67 @@
+
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 20	Second : 46
+Iron lunacy Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 20	Second : 48
+Iron lunacy Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 20	Second : 50
+Iron lunacy Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 20	Second : 51
+Iron lunacy Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 20	Second : 53
+Iron lunacy Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 20	Second : 54
+Iron lunacy Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 20	Second : 55
+Iron lunacy Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 20	Second : 57
+Iron lunacy Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 20	Second : 58
+Iron lunacy Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 20	Second : 59
+Iron lunacy Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 21	Second : 0
+Iron lunacy Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 21	Second : 1
+Iron lunacy Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 38	Second : 10
+Iron lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 38	Second : 11
+Iron lunacy Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 38	Second : 12
+Iron lunacy Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 38	Second : 15
+Iron lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 38	Second : 16
+Iron lunacy Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 51	Second : 19
+Iron lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 51	Second : 20
+Iron lunacy Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 51	Second : 27
+Iron lunacy Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 14	Second : 53
+Iron lunacy Has Sold item: 1754, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 14	Second : 57
+Iron lunacy Has Sold item: 1754, Quantity 30
+--------------------------------------------------

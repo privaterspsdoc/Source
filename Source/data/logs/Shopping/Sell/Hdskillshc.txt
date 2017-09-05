@@ -1,0 +1,16 @@
+
+Year : 2015	Month : 5	Day : 21	Hour : 2	Minute : 23	Second : 4
+Hdskillshc Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 2	Minute : 23	Second : 12
+Hdskillshc Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 2	Minute : 23	Second : 19
+Hdskillshc Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 8	Second : 59
+Hdskillshc Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 9	Second : 1
+Hdskillshc Has Sold item: 1333, Quantity 10
+--------------------------------------------------

@@ -1,0 +1,76 @@
+
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 5	Second : 1
+Iron logic Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 5	Second : 2
+Iron logic Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 7	Second : 22
+Iron logic Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 7	Second : 24
+Iron logic Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 8	Second : 2
+Iron logic Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 8	Second : 3
+Iron logic Has Sold item: 950, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 8	Second : 4
+Iron logic Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 8	Second : 5
+Iron logic Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 8	Second : 25
+Iron logic Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 9	Second : 4
+Iron logic Has Sold item: 5340, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 10	Minute : 7	Second : 22
+Iron logic Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 10	Minute : 7	Second : 24
+Iron logic Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 10	Minute : 8	Second : 5
+Iron logic Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 10	Minute : 8	Second : 7
+Iron logic Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 11	Second : 18
+Iron logic Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 11	Second : 18
+Iron logic Has Sold item: 4588, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 11	Second : 20
+Iron logic Has Sold item: 4588, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 11	Second : 21
+Iron logic Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 11	Second : 22
+Iron logic Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 11	Second : 24
+Iron logic Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 11	Second : 27
+Iron logic Has Sold item: 1128, Quantity 7
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 11	Second : 29
+Iron logic Has Sold item: 1164, Quantity 7
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 11	Second : 33
+Iron logic Has Sold item: 1080, Quantity 24
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 11	Second : 36
+Iron logic Has Sold item: 1148, Quantity 9
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 11	Second : 39
+Iron logic Has Sold item: 1320, Quantity 10
+--------------------------------------------------

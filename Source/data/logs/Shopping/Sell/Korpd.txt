@@ -1,0 +1,805 @@
+
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 16	Second : 56
+Korpd Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 16	Second : 59
+Korpd Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 17	Second : 34
+Korpd Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 17	Second : 35
+Korpd Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 56	Second : 42
+Korpd Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 56	Second : 43
+Korpd Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 56	Second : 44
+Korpd Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 56	Second : 46
+Korpd Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 0	Minute : 56	Second : 47
+Korpd Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 29	Second : 35
+Korpd Has Sold item: 2498, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 44	Second : 37
+Korpd Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 44	Second : 38
+Korpd Has Sold item: 1623, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 44	Second : 43
+Korpd Has Sold item: 1725, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 44	Second : 44
+Korpd Has Sold item: 1619, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 44	Second : 46
+Korpd Has Sold item: 1725, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 44	Second : 49
+Korpd Has Sold item: 1621, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 44	Second : 50
+Korpd Has Sold item: 1729, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 45	Second : 31
+Korpd Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 45	Second : 32
+Korpd Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 45	Second : 33
+Korpd Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 45	Second : 35
+Korpd Has Sold item: 1725, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 45	Second : 36
+Korpd Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 46	Second : 8
+Korpd Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 46	Second : 9
+Korpd Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 46	Second : 9
+Korpd Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 46	Second : 52
+Korpd Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 46	Second : 52
+Korpd Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 46	Second : 53
+Korpd Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 47	Second : 26
+Korpd Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 47	Second : 26
+Korpd Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 47	Second : 26
+Korpd Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 47	Second : 57
+Korpd Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 47	Second : 58
+Korpd Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 47	Second : 58
+Korpd Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 48	Second : 33
+Korpd Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 48	Second : 33
+Korpd Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 48	Second : 33
+Korpd Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 49	Second : 37
+Korpd Has Sold item: 5291, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 26	Second : 7
+Korpd Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 34	Second : 32
+Korpd Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 34	Second : 32
+Korpd Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 34	Second : 38
+Korpd Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 34	Second : 38
+Korpd Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 34	Second : 39
+Korpd Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 34	Second : 50
+Korpd Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 34	Second : 50
+Korpd Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 34	Second : 50
+Korpd Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 35	Second : 5
+Korpd Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 35	Second : 5
+Korpd Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 35	Second : 6
+Korpd Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 35	Second : 27
+Korpd Has Sold item: 2430, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 35	Second : 27
+Korpd Has Sold item: 2446, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 35	Second : 28
+Korpd Has Sold item: 113, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 35	Second : 31
+Korpd Has Sold item: 2428, Quantity 7
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 35	Second : 34
+Korpd Has Sold item: 2428, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 9	Minute : 3	Second : 35
+Korpd Has Sold item: 1163, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 9	Minute : 3	Second : 37
+Korpd Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 9	Minute : 3	Second : 38
+Korpd Has Sold item: 1127, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 9	Minute : 3	Second : 39
+Korpd Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 9	Minute : 3	Second : 41
+Korpd Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 9	Minute : 3	Second : 41
+Korpd Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 9	Minute : 3	Second : 42
+Korpd Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 9	Minute : 3	Second : 43
+Korpd Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 48	Second : 49
+Korpd Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 25	Second : 21
+Korpd Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 25	Second : 23
+Korpd Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 34	Second : 26
+Korpd Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 34	Second : 26
+Korpd Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 34	Second : 28
+Korpd Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 34	Second : 28
+Korpd Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 34	Second : 29
+Korpd Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 58	Second : 41
+Korpd Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 58	Second : 43
+Korpd Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 58	Second : 45
+Korpd Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 58	Second : 46
+Korpd Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 58	Second : 48
+Korpd Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 12	Second : 47
+Korpd Has Sold item: 1754, Quantity 54
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 12	Second : 50
+Korpd Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 12	Second : 50
+Korpd Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 12	Second : 52
+Korpd Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 12	Second : 54
+Korpd Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 13	Second : 49
+Korpd Has Sold item: 2364, Quantity 63
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 27	Second : 31
+Korpd Has Sold item: 2498, Quantity 45
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 27	Second : 33
+Korpd Has Sold item: 2504, Quantity 34
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 27	Second : 35
+Korpd Has Sold item: 2504, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 27	Second : 37
+Korpd Has Sold item: 533, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 27	Second : 39
+Korpd Has Sold item: 533, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 27	Second : 41
+Korpd Has Sold item: 533, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 32	Second : 5
+Korpd Has Sold item: 1164, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 32	Second : 6
+Korpd Has Sold item: 1128, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 32	Second : 6
+Korpd Has Sold item: 1080, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 32	Second : 7
+Korpd Has Sold item: 4750, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 32	Second : 8
+Korpd Has Sold item: 1200, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 32	Second : 9
+Korpd Has Sold item: 2660, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 32	Second : 9
+Korpd Has Sold item: 2626, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 32	Second : 14
+Korpd Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 32	Second : 16
+Korpd Has Sold item: 9186, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 32	Second : 17
+Korpd Has Sold item: 4588, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 32	Second : 17
+Korpd Has Sold item: 3752, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 32	Second : 18
+Korpd Has Sold item: 5342, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 32	Second : 19
+Korpd Has Sold item: 4094, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 32	Second : 21
+Korpd Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 32	Second : 21
+Korpd Has Sold item: 5344, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 32	Second : 22
+Korpd Has Sold item: 1334, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 32	Second : 24
+Korpd Has Sold item: 5340, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 36	Second : 5
+Korpd Has Sold item: 4748, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 36	Second : 7
+Korpd Has Sold item: 142, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 36	Second : 8
+Korpd Has Sold item: 951, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 36	Second : 9
+Korpd Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 36	Second : 11
+Korpd Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 36	Second : 12
+Korpd Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 36	Second : 13
+Korpd Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 26	Second : 6
+Korpd Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 26	Second : 10
+Korpd Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 26	Second : 13
+Korpd Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 49	Second : 39
+Korpd Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 49	Second : 40
+Korpd Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 49	Second : 42
+Korpd Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 49	Second : 43
+Korpd Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 49	Second : 45
+Korpd Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 49	Second : 46
+Korpd Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 49	Second : 46
+Korpd Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 5	Second : 38
+Korpd Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 5	Second : 39
+Korpd Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 5	Second : 40
+Korpd Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 5	Second : 41
+Korpd Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 24	Second : 38
+Korpd Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 24	Second : 38
+Korpd Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 24	Second : 39
+Korpd Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 24	Second : 40
+Korpd Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 24	Second : 40
+Korpd Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 24	Second : 41
+Korpd Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 24	Second : 42
+Korpd Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 24	Second : 43
+Korpd Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 39	Second : 55
+Korpd Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 39	Second : 57
+Korpd Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 39	Second : 59
+Korpd Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 11	Second : 36
+Korpd Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 11	Second : 37
+Korpd Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 39
+Korpd Has Sold item: 1754, Quantity 657
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 40
+Korpd Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 41
+Korpd Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 43
+Korpd Has Sold item: 1213, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 45
+Korpd Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 48	Second : 13
+Korpd Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 48	Second : 13
+Korpd Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 48	Second : 14
+Korpd Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 48	Second : 16
+Korpd Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 48	Second : 18
+Korpd Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 48	Second : 19
+Korpd Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 48	Second : 20
+Korpd Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 17	Second : 1
+Korpd Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 17	Second : 1
+Korpd Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 17	Second : 3
+Korpd Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 17	Second : 4
+Korpd Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 17	Second : 5
+Korpd Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 18	Second : 58
+Korpd Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 18	Second : 58
+Korpd Has Sold item: 4153, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 18	Second : 59
+Korpd Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 19	Second : 0
+Korpd Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 19	Second : 3
+Korpd Has Sold item: 4153, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 48	Second : 0
+Korpd Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 48	Second : 2
+Korpd Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 48	Second : 3
+Korpd Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 48	Second : 4
+Korpd Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 48	Second : 5
+Korpd Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 48	Second : 6
+Korpd Has Sold item: 1163, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 48	Second : 8
+Korpd Has Sold item: 4129, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 48	Second : 9
+Korpd Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 16	Second : 23
+Korpd Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 16	Second : 24
+Korpd Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 16	Second : 24
+Korpd Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 16	Second : 25
+Korpd Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 16	Second : 26
+Korpd Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 16	Second : 26
+Korpd Has Sold item: 1163, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 16	Second : 27
+Korpd Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 16	Second : 28
+Korpd Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 16	Second : 31
+Korpd Has Sold item: 4153, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 30	Second : 15
+Korpd Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 30	Second : 17
+Korpd Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 30	Second : 19
+Korpd Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 30	Second : 20
+Korpd Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 30	Second : 21
+Korpd Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 30	Second : 22
+Korpd Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 31	Second : 13
+Korpd Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 31	Second : 14
+Korpd Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 31	Second : 15
+Korpd Has Sold item: 1163, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 44	Second : 58
+Korpd Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 45	Second : 0
+Korpd Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 45	Second : 0
+Korpd Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 45	Second : 1
+Korpd Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 45	Second : 3
+Korpd Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 45	Second : 4
+Korpd Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 45	Second : 5
+Korpd Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 44	Second : 52
+Korpd Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 44	Second : 53
+Korpd Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 44	Second : 55
+Korpd Has Sold item: 4153, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 44	Second : 56
+Korpd Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 55	Second : 27
+Korpd Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 55	Second : 28
+Korpd Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 55	Second : 29
+Korpd Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 55	Second : 29
+Korpd Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 55	Second : 30
+Korpd Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 55	Second : 33
+Korpd Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 1	Second : 47
+Korpd Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 1	Second : 49
+Korpd Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 2	Second : 21
+Korpd Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 32	Second : 5
+Korpd Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 32	Second : 10
+Korpd Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 32	Second : 11
+Korpd Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 32	Second : 12
+Korpd Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 32	Second : 13
+Korpd Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 52	Second : 21
+Korpd Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 52	Second : 22
+Korpd Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 52	Second : 25
+Korpd Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 52	Second : 27
+Korpd Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 52	Second : 29
+Korpd Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 52	Second : 42
+Korpd Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 55	Second : 9
+Korpd Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 55	Second : 10
+Korpd Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 55	Second : 11
+Korpd Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 55	Second : 12
+Korpd Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 55	Second : 13
+Korpd Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 58	Second : 46
+Korpd Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 58	Second : 47
+Korpd Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 58	Second : 48
+Korpd Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 58	Second : 49
+Korpd Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 58	Second : 50
+Korpd Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 59	Second : 57
+Korpd Has Sold item: 2504, Quantity 15
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 20	Second : 47
+Korpd Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 20	Second : 49
+Korpd Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 20	Second : 53
+Korpd Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 20	Second : 54
+Korpd Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 21	Second : 0
+Korpd Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 28	Second : 45
+Korpd Has Sold item: 4094, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 28	Second : 46
+Korpd Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 28	Second : 47
+Korpd Has Sold item: 2364, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 42	Second : 7
+Korpd Has Sold item: 2441, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 50	Second : 57
+Korpd Has Sold item: 3024, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 56	Second : 40
+Korpd Has Sold item: 1631, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 48	Second : 35
+Korpd Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 48	Second : 38
+Korpd Has Sold item: 4091, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 48	Second : 46
+Korpd Has Sold item: 1127, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 48	Second : 53
+Korpd Has Sold item: 1163, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 48	Second : 55
+Korpd Has Sold item: 6141, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 48	Second : 56
+Korpd Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 48	Second : 57
+Korpd Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 33	Second : 42
+Korpd Has Sold item: 1713, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 33	Second : 43
+Korpd Has Sold item: 1713, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 33	Second : 44
+Korpd Has Sold item: 1713, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 33	Second : 45
+Korpd Has Sold item: 1713, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 33	Second : 46
+Korpd Has Sold item: 1713, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 33	Second : 47
+Korpd Has Sold item: 1713, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 33	Second : 47
+Korpd Has Sold item: 2498, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 33	Second : 48
+Korpd Has Sold item: 2498, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 33	Second : 48
+Korpd Has Sold item: 2498, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 33	Second : 50
+Korpd Has Sold item: 2498, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 33	Second : 51
+Korpd Has Sold item: 2498, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 33	Second : 51
+Korpd Has Sold item: 2498, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 33	Second : 52
+Korpd Has Sold item: 2498, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 33	Second : 54
+Korpd Has Sold item: 2504, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 33	Second : 55
+Korpd Has Sold item: 2504, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 33	Second : 56
+Korpd Has Sold item: 2504, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 33	Second : 57
+Korpd Has Sold item: 2504, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 33	Second : 58
+Korpd Has Sold item: 2504, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 33	Second : 58
+Korpd Has Sold item: 2504, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 34	Second : 0
+Korpd Has Sold item: 2504, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 34	Second : 0
+Korpd Has Sold item: 2504, Quantity 10
+--------------------------------------------------

@@ -1,0 +1,10 @@
+
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 13	Second : 35
+10 def Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 16	Second : 52
+10 def Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 16	Second : 53
+10 def Has Sold item: 1333, Quantity 10
+--------------------------------------------------

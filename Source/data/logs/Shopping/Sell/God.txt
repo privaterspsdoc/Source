@@ -1,0 +1,7 @@
+
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 55	Second : 10
+God Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 55	Second : 11
+God Has Sold item: 1897, Quantity 10
+--------------------------------------------------

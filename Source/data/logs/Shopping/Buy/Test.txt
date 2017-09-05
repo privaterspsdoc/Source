@@ -1,0 +1,76 @@
+
+Year : 2015	Month : 7	Day : 5	Hour : 1	Minute : 38	Second : 56
+Test Has Bought item: 556, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 5	Hour : 1	Minute : 39	Second : 1
+Test Has Bought item: 563, Quantity 6000
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 5	Hour : 1	Minute : 39	Second : 14
+Test Has Bought item: 563, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 5	Hour : 1	Minute : 39	Second : 14
+Test Has Bought item: 3840, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 5	Hour : 1	Minute : 40	Second : 8
+Test Has Bought item: 554, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 5	Hour : 1	Minute : 40	Second : 10
+Test Has Bought item: 555, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 5	Hour : 1	Minute : 40	Second : 12
+Test Has Bought item: 557, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 5	Hour : 1	Minute : 40	Second : 14
+Test Has Bought item: 556, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 5	Hour : 1	Minute : 40	Second : 14
+Test Has Bought item: 556, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 5	Hour : 1	Minute : 40	Second : 15
+Test Has Bought item: 556, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 5	Hour : 1	Minute : 40	Second : 28
+Test Has Bought item: 558, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 5	Hour : 1	Minute : 40	Second : 32
+Test Has Bought item: 1381, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 6	Hour : 10	Minute : 44	Second : 40
+Test Has Bought item: 1275, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 8	Hour : 11	Minute : 8	Second : 27
+Test Has Bought item: 2669, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 8	Hour : 11	Minute : 8	Second : 39
+Test Has Bought item: 2655, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 8	Hour : 11	Minute : 8	Second : 41
+Test Has Bought item: 2653, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 8	Hour : 11	Minute : 8	Second : 43
+Test Has Bought item: 2673, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 8	Hour : 11	Minute : 8	Second : 44
+Test Has Bought item: 2669, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 8	Hour : 11	Minute : 8	Second : 45
+Test Has Bought item: 2671, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 8	Hour : 11	Minute : 8	Second : 45
+Test Has Bought item: 2615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 8	Hour : 11	Minute : 8	Second : 47
+Test Has Bought item: 2617, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 8	Hour : 11	Minute : 8	Second : 48
+Test Has Bought item: 2619, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 8	Hour : 11	Minute : 8	Second : 49
+Test Has Bought item: 2621, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 8	Hour : 11	Minute : 8	Second : 51
+Test Has Bought item: 2661, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 8	Hour : 11	Minute : 8	Second : 53
+Test Has Bought item: 2663, Quantity 1
+--------------------------------------------------

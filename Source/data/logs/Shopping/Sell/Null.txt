@@ -1,0 +1,163 @@
+
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 25	Second : 24
+Null Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 25	Second : 28
+Null Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 25	Second : 28
+Null Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 29	Second : 11
+Null Has Sold item: 950, Quantity 21
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 29	Second : 14
+Null Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 30	Second : 6
+Null Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 30	Second : 6
+Null Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 30	Second : 7
+Null Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 46	Second : 16
+Null Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 46	Second : 16
+Null Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 46	Second : 17
+Null Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 47	Second : 29
+Null Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 47	Second : 29
+Null Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 47	Second : 29
+Null Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 48	Second : 25
+Null Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 48	Second : 25
+Null Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 48	Second : 25
+Null Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 0	Second : 20
+Null Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 0	Second : 20
+Null Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 0	Second : 21
+Null Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 1	Second : 19
+Null Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 1	Second : 19
+Null Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 1	Second : 19
+Null Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 2	Second : 12
+Null Has Sold item: 11037, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 2	Second : 13
+Null Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 2	Second : 13
+Null Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 2	Second : 14
+Null Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 3	Second : 10
+Null Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 3	Second : 13
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 3	Second : 13
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 4	Second : 18
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 4	Second : 18
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 4	Second : 18
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 5	Second : 37
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 5	Second : 37
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 5	Second : 37
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 6	Second : 49
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 6	Second : 49
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 6	Second : 49
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 8	Second : 20
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 8	Second : 20
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 8	Second : 20
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 9	Second : 25
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 9	Second : 26
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 9	Second : 26
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 10	Second : 41
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 10	Second : 41
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 10	Second : 41
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 11	Second : 44
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 11	Second : 45
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 11	Second : 45
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 12	Second : 54
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 12	Second : 54
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 12	Second : 54
+Null Has Sold item: 7650, Quantity 10
+--------------------------------------------------

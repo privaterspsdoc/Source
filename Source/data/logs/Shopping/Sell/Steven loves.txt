@@ -1,0 +1,55 @@
+
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 6	Second : 32
+Steven loves Has Sold item: 1608, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 6	Second : 33
+Steven loves Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 6	Second : 34
+Steven loves Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 6	Second : 35
+Steven loves Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 7	Second : 57
+Steven loves Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 10	Second : 48
+Steven loves Has Sold item: 1729, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 10	Second : 51
+Steven loves Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 10	Second : 52
+Steven loves Has Sold item: 1725, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 10	Second : 54
+Steven loves Has Sold item: 1725, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 12	Second : 58
+Steven loves Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 13	Second : 1
+Steven loves Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 13	Second : 4
+Steven loves Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 15	Second : 46
+Steven loves Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 15	Second : 49
+Steven loves Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 15	Second : 51
+Steven loves Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 17	Second : 43
+Steven loves Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 17	Second : 45
+Steven loves Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 17	Second : 52
+Steven loves Has Sold item: 1712, Quantity 10
+--------------------------------------------------

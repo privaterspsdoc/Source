@@ -1,0 +1,31 @@
+
+Year : 2015	Month : 5	Day : 19	Hour : 4	Minute : 16	Second : 56
+Kyle Has Sold item: 3751, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 16	Second : 44
+Kyle Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 16	Second : 45
+Kyle Has Sold item: 1897, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 16	Second : 45
+Kyle Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 16	Second : 50
+Kyle Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 16	Second : 51
+Kyle Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 17	Second : 19
+Kyle Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 17	Second : 19
+Kyle Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 17	Second : 57
+Kyle Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 17	Second : 59
+Kyle Has Sold item: 950, Quantity 10
+--------------------------------------------------

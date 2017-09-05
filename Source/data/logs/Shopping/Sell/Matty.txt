@@ -1,0 +1,40 @@
+
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 19	Second : 39
+Matty Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 19	Second : 44
+Matty Has Sold item: 950, Quantity 45
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 20	Second : 51
+Matty Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 20	Second : 53
+Matty Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 20	Second : 57
+Matty Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 21	Second : 42
+Matty Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 21	Second : 45
+Matty Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 21	Second : 47
+Matty Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 36	Second : 29
+Matty Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 36	Second : 30
+Matty Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 37	Second : 25
+Matty Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 37	Second : 25
+Matty Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 41	Second : 4
+Matty Has Sold item: 1635, Quantity 10
+--------------------------------------------------

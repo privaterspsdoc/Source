@@ -1,0 +1,10 @@
+
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 23	Second : 5
+Rage Has Sold item: 3749, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 36	Second : 17
+Rage Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 36	Second : 18
+Rage Has Sold item: 1615, Quantity 5
+--------------------------------------------------

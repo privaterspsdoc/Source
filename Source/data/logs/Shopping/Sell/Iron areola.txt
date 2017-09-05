@@ -1,0 +1,454 @@
+
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 47	Second : 29
+Iron areola Has Sold item: 1604, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 47	Second : 31
+Iron areola Has Sold item: 1608, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 5	Second : 54
+Iron areola Has Sold item: 1330, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 5	Second : 55
+Iron areola Has Sold item: 1330, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 7	Second : 5
+Iron areola Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 7	Second : 7
+Iron areola Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 7	Second : 8
+Iron areola Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 7	Second : 54
+Iron areola Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 7	Second : 55
+Iron areola Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 7	Second : 56
+Iron areola Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 8	Second : 44
+Iron areola Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 8	Second : 44
+Iron areola Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 8	Second : 44
+Iron areola Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 9	Second : 25
+Iron areola Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 9	Second : 26
+Iron areola Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 10	Second : 2
+Iron areola Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 10	Second : 4
+Iron areola Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 10	Second : 38
+Iron areola Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 10	Second : 39
+Iron areola Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 11	Second : 26
+Iron areola Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 11	Second : 28
+Iron areola Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 11	Second : 29
+Iron areola Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 34	Second : 30
+Iron areola Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 34	Second : 32
+Iron areola Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 34	Second : 33
+Iron areola Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 34	Second : 36
+Iron areola Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 34	Second : 41
+Iron areola Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 34	Second : 43
+Iron areola Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 34	Second : 44
+Iron areola Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 34	Second : 46
+Iron areola Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 55	Second : 37
+Iron areola Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 55	Second : 38
+Iron areola Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 55	Second : 40
+Iron areola Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 55	Second : 42
+Iron areola Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 55	Second : 42
+Iron areola Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 55	Second : 46
+Iron areola Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 55	Second : 47
+Iron areola Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 55	Second : 48
+Iron areola Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 55	Second : 49
+Iron areola Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 55	Second : 51
+Iron areola Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 55	Second : 54
+Iron areola Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 55	Second : 56
+Iron areola Has Sold item: 830, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 56	Second : 0
+Iron areola Has Sold item: 830, Quantity 40
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 56	Second : 2
+Iron areola Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 56	Second : 5
+Iron areola Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 56	Second : 8
+Iron areola Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 56	Second : 10
+Iron areola Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 57	Second : 2
+Iron areola Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 57	Second : 3
+Iron areola Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 9	Minute : 1	Second : 21
+Iron areola Has Sold item: 1751, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 9	Minute : 1	Second : 23
+Iron areola Has Sold item: 1608, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 9	Minute : 1	Second : 23
+Iron areola Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 7	Second : 1
+Iron areola Has Sold item: 6526, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 7	Second : 3
+Iron areola Has Sold item: 6525, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 7	Second : 5
+Iron areola Has Sold item: 6528, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 7	Second : 13
+Iron areola Has Sold item: 6522, Quantity 29
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 7	Second : 21
+Iron areola Has Sold item: 6528, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 35	Second : 38
+Iron areola Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 35	Second : 40
+Iron areola Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 35	Second : 43
+Iron areola Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 35	Second : 45
+Iron areola Has Sold item: 1213, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 35	Second : 48
+Iron areola Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 35	Second : 50
+Iron areola Has Sold item: 1604, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 35	Second : 51
+Iron areola Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 35	Second : 53
+Iron areola Has Sold item: 1608, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 35	Second : 55
+Iron areola Has Sold item: 1608, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 35	Second : 58
+Iron areola Has Sold item: 1754, Quantity 21
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 52	Second : 6
+Iron areola Has Sold item: 1604, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 52	Second : 7
+Iron areola Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 0	Minute : 52	Second : 8
+Iron areola Has Sold item: 1608, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 7	Second : 34
+Iron areola Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 7	Second : 35
+Iron areola Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 7	Second : 37
+Iron areola Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 7	Second : 38
+Iron areola Has Sold item: 1616, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 7	Second : 40
+Iron areola Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 7	Second : 41
+Iron areola Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 7	Second : 43
+Iron areola Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 7	Second : 45
+Iron areola Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 7	Second : 46
+Iron areola Has Sold item: 1213, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 7	Second : 47
+Iron areola Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 14	Second : 18
+Iron areola Has Sold item: 1608, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 14	Second : 19
+Iron areola Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 14	Second : 20
+Iron areola Has Sold item: 1604, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 14	Second : 21
+Iron areola Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 23	Second : 59
+Iron areola Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 23	Second : 59
+Iron areola Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 24	Second : 1
+Iron areola Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 24	Second : 2
+Iron areola Has Sold item: 1604, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 37	Second : 43
+Iron areola Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 37	Second : 44
+Iron areola Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 37	Second : 45
+Iron areola Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 37	Second : 46
+Iron areola Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 48	Second : 31
+Iron areola Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 48	Second : 32
+Iron areola Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 48	Second : 33
+Iron areola Has Sold item: 1608, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 56	Second : 26
+Iron areola Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 56	Second : 27
+Iron areola Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 56	Second : 28
+Iron areola Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 56	Second : 29
+Iron areola Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 56	Second : 30
+Iron areola Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 56	Second : 33
+Iron areola Has Sold item: 830, Quantity 40
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 56	Second : 35
+Iron areola Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 0	Second : 49
+Iron areola Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 0	Second : 50
+Iron areola Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 0	Second : 51
+Iron areola Has Sold item: 1608, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 0	Second : 52
+Iron areola Has Sold item: 1334, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 0	Second : 54
+Iron areola Has Sold item: 830, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 11	Second : 11
+Iron areola Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 11	Second : 12
+Iron areola Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 11	Second : 16
+Iron areola Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 11	Second : 17
+Iron areola Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 11	Second : 19
+Iron areola Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 11	Second : 20
+Iron areola Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 11	Second : 21
+Iron areola Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 17	Second : 19
+Iron areola Has Sold item: 1604, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 17	Second : 20
+Iron areola Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 17	Second : 21
+Iron areola Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 0	Second : 5
+Iron areola Has Sold item: 830, Quantity 40
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 0	Second : 7
+Iron areola Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 0	Second : 8
+Iron areola Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 0	Second : 9
+Iron areola Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 0	Second : 10
+Iron areola Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 0	Second : 11
+Iron areola Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 0	Second : 12
+Iron areola Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 44	Second : 41
+Iron areola Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 44	Second : 45
+Iron areola Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 4	Second : 11
+Iron areola Has Sold item: 536, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 5	Second : 38
+Iron areola Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 6	Second : 9
+Iron areola Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 9	Minute : 3	Second : 9
+Iron areola Has Sold item: 6524, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 9	Minute : 3	Second : 11
+Iron areola Has Sold item: 6524, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 9	Minute : 3	Second : 12
+Iron areola Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 9	Minute : 3	Second : 14
+Iron areola Has Sold item: 6528, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 9	Minute : 3	Second : 15
+Iron areola Has Sold item: 6527, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 9	Minute : 23	Second : 48
+Iron areola Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 9	Minute : 23	Second : 50
+Iron areola Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 9	Minute : 23	Second : 53
+Iron areola Has Sold item: 4087, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 9	Minute : 23	Second : 54
+Iron areola Has Sold item: 950, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 38	Second : 5
+Iron areola Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 38	Second : 6
+Iron areola Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 38	Second : 7
+Iron areola Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 38	Second : 9
+Iron areola Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 38	Second : 11
+Iron areola Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 38	Second : 12
+Iron areola Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 38	Second : 14
+Iron areola Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 59	Second : 2
+Iron areola Has Sold item: 2434, Quantity 28
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 59	Second : 8
+Iron areola Has Sold item: 2434, Quantity 50
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 59	Second : 11
+Iron areola Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 59	Second : 23
+Iron areola Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 59	Second : 24
+Iron areola Has Sold item: 2434, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 4	Minute : 59	Second : 26
+Iron areola Has Sold item: 2434, Quantity 10
+--------------------------------------------------

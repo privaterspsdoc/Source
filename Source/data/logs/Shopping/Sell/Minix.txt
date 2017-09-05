@@ -1,0 +1,190 @@
+
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 33	Second : 56
+Minix Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 34	Second : 20
+Minix Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 19	Second : 29
+Minix Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 19	Second : 59
+Minix Has Sold item: 2495, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 20	Second : 0
+Minix Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 20	Second : 0
+Minix Has Sold item: 1099, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 20	Second : 3
+Minix Has Sold item: 1135, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 20	Second : 6
+Minix Has Sold item: 2501, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 26	Second : 5
+Minix Has Sold item: 1213, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 26	Second : 6
+Minix Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 26	Second : 16
+Minix Has Sold item: 1213, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 26	Second : 18
+Minix Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 26	Second : 20
+Minix Has Sold item: 1754, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 26	Second : 22
+Minix Has Sold item: 1754, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 26	Second : 23
+Minix Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 26	Second : 24
+Minix Has Sold item: 1754, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 36	Second : 40
+Minix Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 40	Second : 29
+Minix Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 40	Second : 31
+Minix Has Sold item: 1754, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 40	Second : 33
+Minix Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 40	Second : 35
+Minix Has Sold item: 1602, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 40	Second : 36
+Minix Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 40	Second : 37
+Minix Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 40	Second : 40
+Minix Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 41	Second : 9
+Minix Has Sold item: 1127, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 41	Second : 10
+Minix Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 41	Second : 10
+Minix Has Sold item: 1163, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 43	Second : 32
+Minix Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 43	Second : 32
+Minix Has Sold item: 1754, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 43	Second : 34
+Minix Has Sold item: 1754, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 43	Second : 34
+Minix Has Sold item: 1754, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 43	Second : 37
+Minix Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 9	Second : 26
+Minix Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 9	Second : 33
+Minix Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 9	Second : 34
+Minix Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 9	Second : 34
+Minix Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 9	Second : 36
+Minix Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 9	Second : 37
+Minix Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 9	Second : 39
+Minix Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 10	Second : 16
+Minix Has Sold item: 1754, Quantity 24
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 10	Second : 18
+Minix Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 10	Second : 19
+Minix Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 10	Second : 21
+Minix Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 57	Second : 18
+Minix Has Sold item: 1754, Quantity 22
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 57	Second : 23
+Minix Has Sold item: 1334, Quantity 7
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 57	Second : 26
+Minix Has Sold item: 1248, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 57	Second : 31
+Minix Has Sold item: 1616, Quantity 4
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 57	Second : 35
+Minix Has Sold item: 1602, Quantity 20
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 57	Second : 39
+Minix Has Sold item: 1320, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 57	Second : 42
+Minix Has Sold item: 4588, Quantity 9
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 27	Second : 14
+Minix Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 27	Second : 16
+Minix Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 27	Second : 16
+Minix Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 27	Second : 17
+Minix Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 27	Second : 18
+Minix Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 27	Second : 19
+Minix Has Sold item: 1080, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 27	Second : 20
+Minix Has Sold item: 1148, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 27	Second : 21
+Minix Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 27	Second : 21
+Minix Has Sold item: 1616, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 27	Second : 24
+Minix Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 27	Second : 25
+Minix Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 27	Second : 26
+Minix Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 27	Second : 27
+Minix Has Sold item: 1754, Quantity 10
+--------------------------------------------------

@@ -1,0 +1,61 @@
+
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 49	Second : 4
+Your spec ew Has Sold item: 1133, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 49	Second : 4
+Your spec ew Has Sold item: 1129, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 49	Second : 5
+Your spec ew Has Sold item: 1191, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 49	Second : 6
+Your spec ew Has Sold item: 1153, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 49	Second : 6
+Your spec ew Has Sold item: 1179, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 49	Second : 7
+Your spec ew Has Sold item: 1725, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 49	Second : 7
+Your spec ew Has Sold item: 6108, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 49	Second : 8
+Your spec ew Has Sold item: 6107, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 49	Second : 9
+Your spec ew Has Sold item: 1125, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 49	Second : 10
+Your spec ew Has Sold item: 1327, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 49	Second : 10
+Your spec ew Has Sold item: 1115, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 49	Second : 11
+Your spec ew Has Sold item: 1067, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 49	Second : 27
+Your spec ew Has Sold item: 1323, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 49	Second : 27
+Your spec ew Has Sold item: 658, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 49	Second : 30
+Your spec ew Has Sold item: 380, Quantity 200
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 49	Second : 32
+Your spec ew Has Sold item: 842, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 49	Second : 33
+Your spec ew Has Sold item: 2620, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 49	Second : 34
+Your spec ew Has Sold item: 2668, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 49	Second : 35
+Your spec ew Has Sold item: 1077, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 49	Second : 35
+Your spec ew Has Sold item: 1297, Quantity 10
+--------------------------------------------------

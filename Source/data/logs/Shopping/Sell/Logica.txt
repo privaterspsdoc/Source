@@ -1,0 +1,25 @@
+
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 46	Second : 41
+Logica Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 46	Second : 45
+Logica Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 46	Second : 46
+Logica Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 53	Second : 36
+Logica Has Sold item: 950, Quantity 50
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 40	Second : 20
+Logica Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 9	Minute : 16	Second : 47
+Logica Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 9	Minute : 16	Second : 49
+Logica Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 9	Minute : 16	Second : 50
+Logica Has Sold item: 1635, Quantity 5
+--------------------------------------------------

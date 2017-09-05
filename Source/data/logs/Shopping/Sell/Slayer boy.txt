@@ -1,0 +1,196 @@
+
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 16	Second : 51
+Slayer boy Has Sold item: 1897, Quantity 22
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 16	Second : 53
+Slayer boy Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 17	Second : 48
+Slayer boy Has Sold item: 1897, Quantity 22
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 17	Second : 52
+Slayer boy Has Sold item: 950, Quantity 11
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 18	Second : 45
+Slayer boy Has Sold item: 950, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 20	Second : 3
+Slayer boy Has Sold item: 950, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 43	Second : 55
+Slayer boy Has Sold item: 950, Quantity 222
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 47	Second : 41
+Slayer boy Has Sold item: 950, Quantity 2222
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 48	Second : 38
+Slayer boy Has Sold item: 950, Quantity 7777
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 49	Second : 0
+Slayer boy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 49	Second : 2
+Slayer boy Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 55	Second : 33
+Slayer boy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 0	Second : 35
+Slayer boy Has Sold item: 1635, Quantity 5454
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 1	Second : 30
+Slayer boy Has Sold item: 1635, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 2	Second : 20
+Slayer boy Has Sold item: 1635, Quantity 535
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 3	Second : 15
+Slayer boy Has Sold item: 1635, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 4	Second : 20
+Slayer boy Has Sold item: 1635, Quantity 55
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 5	Second : 11
+Slayer boy Has Sold item: 1635, Quantity 444
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 6	Second : 4
+Slayer boy Has Sold item: 7650, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 6	Second : 8
+Slayer boy Has Sold item: 1635, Quantity 44
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 17	Second : 19
+Slayer boy Has Sold item: 7650, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 19	Second : 39
+Slayer boy Has Sold item: 7650, Quantity 55
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 24	Second : 27
+Slayer boy Has Sold item: 7650, Quantity 55
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 27	Second : 6
+Slayer boy Has Sold item: 7650, Quantity 55
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 29	Second : 39
+Slayer boy Has Sold item: 7650, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 29	Second : 56
+Slayer boy Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 9	Minute : 42	Second : 46
+Slayer boy Has Sold item: 7650, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 8	Second : 34
+Slayer boy Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 10	Second : 48
+Slayer boy Has Sold item: 7650, Quantity 25
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 12	Second : 9
+Slayer boy Has Sold item: 7650, Quantity 25
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 13	Second : 58
+Slayer boy Has Sold item: 7650, Quantity 5353
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 15	Second : 17
+Slayer boy Has Sold item: 7650, Quantity 25
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 18	Second : 15
+Slayer boy Has Sold item: 7650, Quantity 25
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 20	Second : 54
+Slayer boy Has Sold item: 7650, Quantity 25
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 23	Second : 9
+Slayer boy Has Sold item: 7650, Quantity 25
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 25	Second : 0
+Slayer boy Has Sold item: 7650, Quantity 265
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 28	Second : 32
+Slayer boy Has Sold item: 7650, Quantity 55
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 34	Second : 8
+Slayer boy Has Sold item: 7650, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 34	Second : 12
+Slayer boy Has Sold item: 1613, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 35	Second : 19
+Slayer boy Has Sold item: 1613, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 36	Second : 32
+Slayer boy Has Sold item: 1613, Quantity 44
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 37	Second : 33
+Slayer boy Has Sold item: 1613, Quantity 1010
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 39	Second : 2
+Slayer boy Has Sold item: 1613, Quantity 110
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 40	Second : 55
+Slayer boy Has Sold item: 1613, Quantity 66
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 42	Second : 18
+Slayer boy Has Sold item: 1613, Quantity 95
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 43	Second : 36
+Slayer boy Has Sold item: 1613, Quantity 66
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 44	Second : 49
+Slayer boy Has Sold item: 1613, Quantity 52
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 47	Second : 15
+Slayer boy Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 47	Second : 17
+Slayer boy Has Sold item: 1613, Quantity 4242
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 23	Second : 16
+Slayer boy Has Sold item: 1613, Quantity 55
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 25	Second : 28
+Slayer boy Has Sold item: 1613, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 26	Second : 35
+Slayer boy Has Sold item: 1613, Quantity 77
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 27	Second : 34
+Slayer boy Has Sold item: 1613, Quantity 77
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 30	Second : 37
+Slayer boy Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 30	Second : 37
+Slayer boy Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 30	Second : 37
+Slayer boy Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 31	Second : 58
+Slayer boy Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 31	Second : 59
+Slayer boy Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 31	Second : 59
+Slayer boy Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 33	Second : 9
+Slayer boy Has Sold item: 1613, Quantity 6564
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 34	Second : 28
+Slayer boy Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 34	Second : 28
+Slayer boy Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 34	Second : 28
+Slayer boy Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 34	Second : 49
+Slayer boy Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 36	Second : 8
+Slayer boy Has Sold item: 950, Quantity 10
+--------------------------------------------------

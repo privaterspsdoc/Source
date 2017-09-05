@@ -1,0 +1,10 @@
+
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 2	Second : 9
+Woofles Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 2	Second : 10
+Woofles Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 2	Second : 13
+Woofles Has Sold item: 950, Quantity 10
+--------------------------------------------------

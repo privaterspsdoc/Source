@@ -1,0 +1,55 @@
+
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 52	Second : 10
+Karl Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 52	Second : 11
+Karl Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 52	Second : 49
+Karl Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 52	Second : 50
+Karl Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 38	Second : 54
+Karl Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 38	Second : 56
+Karl Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 9	Second : 34
+Karl Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 9	Second : 36
+Karl Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 9	Second : 37
+Karl Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 9	Second : 38
+Karl Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 9	Second : 40
+Karl Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 9	Second : 41
+Karl Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 9	Second : 42
+Karl Has Sold item: 6527, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 9	Second : 44
+Karl Has Sold item: 6527, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 9	Second : 46
+Karl Has Sold item: 6523, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 9	Second : 47
+Karl Has Sold item: 6528, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 9	Second : 48
+Karl Has Sold item: 6525, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 9	Second : 49
+Karl Has Sold item: 6526, Quantity 5
+--------------------------------------------------

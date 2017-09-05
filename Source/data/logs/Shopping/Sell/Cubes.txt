@@ -1,0 +1,7 @@
+
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 35	Second : 37
+Cubes Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 15	Second : 13
+Cubes Has Sold item: 1333, Quantity 1
+--------------------------------------------------

@@ -1,0 +1,907 @@
+
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 45	Second : 59
+Xanaxlines Has Sold item: 1603, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 45	Second : 54
+Xanaxlines Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 45	Second : 56
+Xanaxlines Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 45	Second : 58
+Xanaxlines Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 47	Second : 33
+Xanaxlines Has Sold item: 950, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 48	Second : 46
+Xanaxlines Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 48	Second : 46
+Xanaxlines Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 48	Second : 47
+Xanaxlines Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 49	Second : 51
+Xanaxlines Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 49	Second : 52
+Xanaxlines Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 49	Second : 52
+Xanaxlines Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 49	Second : 52
+Xanaxlines Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 49	Second : 53
+Xanaxlines Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 49	Second : 56
+Xanaxlines Has Sold item: 1323, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 49	Second : 58
+Xanaxlines Has Sold item: 379, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 50	Second : 26
+Xanaxlines Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 52	Second : 1
+Xanaxlines Has Sold item: 1115, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 52	Second : 2
+Xanaxlines Has Sold item: 1191, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 52	Second : 2
+Xanaxlines Has Sold item: 1067, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 52	Second : 3
+Xanaxlines Has Sold item: 1153, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 54	Second : 21
+Xanaxlines Has Sold item: 1163, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 58	Second : 34
+Xanaxlines Has Sold item: 1121, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 58	Second : 34
+Xanaxlines Has Sold item: 1071, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 58	Second : 35
+Xanaxlines Has Sold item: 1159, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 59	Second : 3
+Xanaxlines Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 59	Second : 8
+Xanaxlines Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 59	Second : 33
+Xanaxlines Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 59	Second : 43
+Xanaxlines Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 16	Second : 46
+Xanaxlines Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 16	Second : 47
+Xanaxlines Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 16	Second : 48
+Xanaxlines Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 16	Second : 57
+Xanaxlines Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 16	Second : 57
+Xanaxlines Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 16	Second : 58
+Xanaxlines Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 17	Second : 7
+Xanaxlines Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 29	Second : 28
+Xanaxlines Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 29	Second : 31
+Xanaxlines Has Sold item: 830, Quantity 60
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 29	Second : 33
+Xanaxlines Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 29	Second : 33
+Xanaxlines Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 29	Second : 34
+Xanaxlines Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 59	Second : 27
+Xanaxlines Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 59	Second : 28
+Xanaxlines Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 59	Second : 29
+Xanaxlines Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 29	Second : 9
+Xanaxlines Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 29	Second : 11
+Xanaxlines Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 29	Second : 13
+Xanaxlines Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 29	Second : 14
+Xanaxlines Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 29	Second : 20
+Xanaxlines Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 36	Second : 19
+Xanaxlines Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 36	Second : 22
+Xanaxlines Has Sold item: 1214, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 36	Second : 23
+Xanaxlines Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 36	Second : 23
+Xanaxlines Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 36	Second : 24
+Xanaxlines Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 36	Second : 26
+Xanaxlines Has Sold item: 1754, Quantity 40
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 36	Second : 28
+Xanaxlines Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 36	Second : 30
+Xanaxlines Has Sold item: 830, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 36	Second : 31
+Xanaxlines Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 36	Second : 32
+Xanaxlines Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 36	Second : 32
+Xanaxlines Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 36	Second : 34
+Xanaxlines Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 36	Second : 36
+Xanaxlines Has Sold item: 1099, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 36	Second : 37
+Xanaxlines Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 36	Second : 39
+Xanaxlines Has Sold item: 1248, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 36	Second : 39
+Xanaxlines Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 54	Second : 1
+Xanaxlines Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 54	Second : 2
+Xanaxlines Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 54	Second : 2
+Xanaxlines Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 57	Second : 56
+Xanaxlines Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 57	Second : 56
+Xanaxlines Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 57	Second : 56
+Xanaxlines Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 35	Second : 40
+Xanaxlines Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 35	Second : 42
+Xanaxlines Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 35	Second : 43
+Xanaxlines Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 44	Second : 15
+Xanaxlines Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 44	Second : 16
+Xanaxlines Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 44	Second : 16
+Xanaxlines Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 44	Second : 20
+Xanaxlines Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 53	Second : 4
+Xanaxlines Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 53	Second : 5
+Xanaxlines Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 53	Second : 5
+Xanaxlines Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 10	Minute : 5	Second : 54
+Xanaxlines Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 10	Minute : 5	Second : 55
+Xanaxlines Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 10	Minute : 5	Second : 56
+Xanaxlines Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 10	Minute : 5	Second : 57
+Xanaxlines Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 10	Minute : 9	Second : 56
+Xanaxlines Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 10	Minute : 9	Second : 57
+Xanaxlines Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 10	Minute : 9	Second : 58
+Xanaxlines Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 10	Minute : 9	Second : 59
+Xanaxlines Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 10	Minute : 10	Second : 1
+Xanaxlines Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 10	Minute : 10	Second : 2
+Xanaxlines Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 10	Minute : 10	Second : 2
+Xanaxlines Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 10	Minute : 10	Second : 2
+Xanaxlines Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 3	Second : 33
+Xanaxlines Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 3	Second : 35
+Xanaxlines Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 3	Second : 35
+Xanaxlines Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 3	Second : 36
+Xanaxlines Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 3	Second : 37
+Xanaxlines Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 3	Second : 38
+Xanaxlines Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 3	Second : 39
+Xanaxlines Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 3	Second : 42
+Xanaxlines Has Sold item: 830, Quantity 120
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 3	Second : 45
+Xanaxlines Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 3	Second : 45
+Xanaxlines Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 13	Second : 13
+Xanaxlines Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 13	Second : 14
+Xanaxlines Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 13	Second : 16
+Xanaxlines Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 17	Second : 18
+Xanaxlines Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 17	Second : 18
+Xanaxlines Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 27	Second : 1
+Xanaxlines Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 27	Second : 2
+Xanaxlines Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 27	Second : 3
+Xanaxlines Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 27	Second : 5
+Xanaxlines Has Sold item: 1127, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 27	Second : 5
+Xanaxlines Has Sold item: 2493, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 27	Second : 6
+Xanaxlines Has Sold item: 2499, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 39	Second : 53
+Xanaxlines Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 39	Second : 53
+Xanaxlines Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 47	Second : 30
+Xanaxlines Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 47	Second : 31
+Xanaxlines Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 47	Second : 34
+Xanaxlines Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 47	Second : 35
+Xanaxlines Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 47	Second : 36
+Xanaxlines Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 41	Second : 13
+Xanaxlines Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 41	Second : 14
+Xanaxlines Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 29	Second : 14
+Xanaxlines Has Sold item: 1127, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 49	Second : 38
+Xanaxlines Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 49	Second : 39
+Xanaxlines Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 49	Second : 39
+Xanaxlines Has Sold item: 2489, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 49	Second : 40
+Xanaxlines Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 49	Second : 40
+Xanaxlines Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 59	Second : 55
+Xanaxlines Has Sold item: 1754, Quantity 21
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 59	Second : 56
+Xanaxlines Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 59	Second : 56
+Xanaxlines Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 59	Second : 57
+Xanaxlines Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 4	Second : 38
+Xanaxlines Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 4	Second : 39
+Xanaxlines Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 4	Second : 39
+Xanaxlines Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 48	Second : 33
+Xanaxlines Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 48	Second : 51
+Xanaxlines Has Sold item: 2495, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 48	Second : 51
+Xanaxlines Has Sold item: 2501, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 13	Second : 55
+Xanaxlines Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 13	Second : 56
+Xanaxlines Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 13	Second : 57
+Xanaxlines Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 13	Second : 57
+Xanaxlines Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 13	Second : 58
+Xanaxlines Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 15	Second : 14
+Xanaxlines Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 15	Second : 15
+Xanaxlines Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 15	Second : 15
+Xanaxlines Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 15	Second : 29
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 15	Second : 29
+Xanaxlines Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 16	Second : 53
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 16	Second : 53
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 16	Second : 54
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 17	Second : 5
+Xanaxlines Has Sold item: 7650, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 19	Second : 12
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 19	Second : 12
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 19	Second : 12
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 20	Second : 46
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 20	Second : 47
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 20	Second : 47
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 22	Second : 38
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 22	Second : 38
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 22	Second : 39
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 24	Second : 33
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 24	Second : 33
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 24	Second : 34
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 25	Second : 25
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 25	Second : 26
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 25	Second : 26
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 26	Second : 26
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 26	Second : 26
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 26	Second : 26
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 27	Second : 26
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 27	Second : 27
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 27	Second : 27
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 28	Second : 19
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 28	Second : 19
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 28	Second : 19
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 29	Second : 11
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 29	Second : 12
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 29	Second : 12
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 29	Second : 54
+Xanaxlines Has Sold item: 7650, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 29	Second : 56
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 29	Second : 57
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 31	Second : 12
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 31	Second : 12
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 31	Second : 13
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 32	Second : 7
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 32	Second : 7
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 32	Second : 8
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 33	Second : 8
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 33	Second : 8
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 33	Second : 8
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 34	Second : 12
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 34	Second : 13
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 34	Second : 13
+Xanaxlines Has Sold item: 7650, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 34	Second : 13
+Xanaxlines Has Sold item: 7650, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 35	Second : 26
+Xanaxlines Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 35	Second : 27
+Xanaxlines Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 35	Second : 28
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 35	Second : 28
+Xanaxlines Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 36	Second : 27
+Xanaxlines Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 36	Second : 28
+Xanaxlines Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 39	Second : 2
+Xanaxlines Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 39	Second : 3
+Xanaxlines Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 44	Second : 1
+Xanaxlines Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 44	Second : 1
+Xanaxlines Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 44	Second : 1
+Xanaxlines Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 44	Second : 58
+Xanaxlines Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 44	Second : 59
+Xanaxlines Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 44	Second : 59
+Xanaxlines Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 45	Second : 54
+Xanaxlines Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 45	Second : 55
+Xanaxlines Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 45	Second : 55
+Xanaxlines Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 46	Second : 59
+Xanaxlines Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 46	Second : 59
+Xanaxlines Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 46	Second : 59
+Xanaxlines Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 47	Second : 27
+Xanaxlines Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 16	Second : 4
+Xanaxlines Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 16	Second : 5
+Xanaxlines Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 16	Second : 7
+Xanaxlines Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 24	Second : 44
+Xanaxlines Has Sold item: 2489, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 24	Second : 46
+Xanaxlines Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 24	Second : 47
+Xanaxlines Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 24	Second : 48
+Xanaxlines Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 24	Second : 49
+Xanaxlines Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 37	Second : 20
+Xanaxlines Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 37	Second : 23
+Xanaxlines Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 37	Second : 24
+Xanaxlines Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 37	Second : 25
+Xanaxlines Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 37	Second : 25
+Xanaxlines Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 37	Second : 27
+Xanaxlines Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 37	Second : 28
+Xanaxlines Has Sold item: 565, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 37	Second : 30
+Xanaxlines Has Sold item: 565, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 37	Second : 34
+Xanaxlines Has Sold item: 830, Quantity 240
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 47	Second : 43
+Xanaxlines Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 47	Second : 45
+Xanaxlines Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 19	Second : 45
+Xanaxlines Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 19	Second : 46
+Xanaxlines Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 19	Second : 47
+Xanaxlines Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 27	Second : 16
+Xanaxlines Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 40	Second : 29
+Xanaxlines Has Sold item: 2492, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 40	Second : 30
+Xanaxlines Has Sold item: 5699, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 40	Second : 32
+Xanaxlines Has Sold item: 4104, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 40	Second : 32
+Xanaxlines Has Sold item: 2498, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 40	Second : 33
+Xanaxlines Has Sold item: 2431, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 40	Second : 34
+Xanaxlines Has Sold item: 2447, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 40	Second : 34
+Xanaxlines Has Sold item: 2447, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 40	Second : 36
+Xanaxlines Has Sold item: 114, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 40	Second : 38
+Xanaxlines Has Sold item: 170, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 40	Second : 39
+Xanaxlines Has Sold item: 11038, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 40	Second : 39
+Xanaxlines Has Sold item: 3750, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 40	Second : 41
+Xanaxlines Has Sold item: 7945, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 40	Second : 43
+Xanaxlines Has Sold item: 566, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 40	Second : 44
+Xanaxlines Has Sold item: 566, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 40	Second : 44
+Xanaxlines Has Sold item: 566, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 40	Second : 45
+Xanaxlines Has Sold item: 1164, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 40	Second : 45
+Xanaxlines Has Sold item: 2580, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 40	Second : 47
+Xanaxlines Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 40	Second : 47
+Xanaxlines Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 40	Second : 50
+Xanaxlines Has Sold item: 563, Quantity 55
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 40	Second : 52
+Xanaxlines Has Sold item: 563, Quantity 555
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 40	Second : 57
+Xanaxlines Has Sold item: 158, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 41	Second : 1
+Xanaxlines Has Sold item: 562, Quantity 1000
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 41	Second : 3
+Xanaxlines Has Sold item: 148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 41	Second : 4
+Xanaxlines Has Sold item: 144, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 41	Second : 5
+Xanaxlines Has Sold item: 144, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 41	Second : 5
+Xanaxlines Has Sold item: 144, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 41	Second : 6
+Xanaxlines Has Sold item: 142, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 41	Second : 6
+Xanaxlines Has Sold item: 160, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 41	Second : 8
+Xanaxlines Has Sold item: 160, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 41	Second : 8
+Xanaxlines Has Sold item: 146, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 41	Second : 9
+Xanaxlines Has Sold item: 160, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 41	Second : 9
+Xanaxlines Has Sold item: 146, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 41	Second : 10
+Xanaxlines Has Sold item: 862, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 41	Second : 11
+Xanaxlines Has Sold item: 3106, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 41	Second : 12
+Xanaxlines Has Sold item: 4092, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 41	Second : 14
+Xanaxlines Has Sold item: 380, Quantity 17
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 41	Second : 17
+Xanaxlines Has Sold item: 380, Quantity 200
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 41	Second : 57
+Xanaxlines Has Sold item: 2443, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 41	Second : 59
+Xanaxlines Has Sold item: 2435, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 41	Second : 59
+Xanaxlines Has Sold item: 2435, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 42	Second : 0
+Xanaxlines Has Sold item: 6692, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 42	Second : 1
+Xanaxlines Has Sold item: 150, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 42	Second : 3
+Xanaxlines Has Sold item: 182, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 42	Second : 3
+Xanaxlines Has Sold item: 3027, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 42	Second : 4
+Xanaxlines Has Sold item: 3027, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 42	Second : 5
+Xanaxlines Has Sold item: 172, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 42	Second : 6
+Xanaxlines Has Sold item: 2429, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 42	Second : 7
+Xanaxlines Has Sold item: 2455, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 42	Second : 8
+Xanaxlines Has Sold item: 166, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 42	Second : 8
+Xanaxlines Has Sold item: 2429, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 42	Second : 9
+Xanaxlines Has Sold item: 2504, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 42	Second : 9
+Xanaxlines Has Sold item: 1360, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 42	Second : 10
+Xanaxlines Has Sold item: 162, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 42	Second : 11
+Xanaxlines Has Sold item: 150, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 42	Second : 12
+Xanaxlines Has Sold item: 162, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 42	Second : 13
+Xanaxlines Has Sold item: 140, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 42	Second : 14
+Xanaxlines Has Sold item: 6690, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 42	Second : 14
+Xanaxlines Has Sold item: 168, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 42	Second : 16
+Xanaxlines Has Sold item: 3031, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 42	Second : 17
+Xanaxlines Has Sold item: 174, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 42	Second : 17
+Xanaxlines Has Sold item: 3029, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 42	Second : 19
+Xanaxlines Has Sold item: 174, Quantity 5
+--------------------------------------------------

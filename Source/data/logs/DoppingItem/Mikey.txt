@@ -1,0 +1,19 @@
+
+Year : 2015	Month : 6	Day : 2	Hour : 0	Minute : 45	Second : 22
+Mikey Dropped item: 995, Quantity: 0
+--------------------------------------------------
+Year : 2015	Month : 6	Day : 2	Hour : 0	Minute : 45	Second : 32
+Mikey Dropped item: 3105, Quantity: 0
+--------------------------------------------------
+Year : 2015	Month : 6	Day : 2	Hour : 0	Minute : 45	Second : 38
+Mikey Dropped item: 12926, Quantity: 0
+--------------------------------------------------
+Year : 2015	Month : 6	Day : 2	Hour : 0	Minute : 51	Second : 11
+Mikey Dropped item: 995, Quantity: 0
+--------------------------------------------------
+Year : 2015	Month : 6	Day : 2	Hour : 0	Minute : 56	Second : 10
+Mikey Dropped item: 12926, Quantity: 0
+--------------------------------------------------
+Year : 2015	Month : 6	Day : 2	Hour : 1	Minute : 0	Second : 29
+Mikey Dropped item: 12926, Quantity: 0
+--------------------------------------------------

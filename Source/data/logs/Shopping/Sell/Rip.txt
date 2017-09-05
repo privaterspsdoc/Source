@@ -1,0 +1,34 @@
+
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 29	Second : 58
+Rip Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 32	Second : 35
+Rip Has Sold item: 1897, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 32	Second : 36
+Rip Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 32	Second : 41
+Rip Has Sold item: 950, Quantity 29
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 33	Second : 54
+Rip Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 33	Second : 56
+Rip Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 33	Second : 57
+Rip Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 34	Second : 1
+Rip Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 35	Second : 8
+Rip Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 35	Second : 9
+Rip Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 36	Second : 10
+Rip Has Sold item: 1635, Quantity 10
+--------------------------------------------------

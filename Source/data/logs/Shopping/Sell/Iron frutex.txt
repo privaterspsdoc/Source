@@ -1,0 +1,52 @@
+
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 46	Second : 20
+Iron frutex Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 46	Second : 21
+Iron frutex Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 46	Second : 22
+Iron frutex Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 46	Second : 23
+Iron frutex Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 46	Second : 25
+Iron frutex Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 47	Second : 14
+Iron frutex Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 47	Second : 15
+Iron frutex Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 47	Second : 15
+Iron frutex Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 47	Second : 15
+Iron frutex Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 47	Second : 15
+Iron frutex Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 48	Second : 12
+Iron frutex Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 48	Second : 12
+Iron frutex Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 48	Second : 14
+Iron frutex Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 25	Second : 44
+Iron frutex Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 25	Second : 46
+Iron frutex Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 25	Second : 47
+Iron frutex Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 25	Second : 50
+Iron frutex Has Sold item: 1080, Quantity 10
+--------------------------------------------------

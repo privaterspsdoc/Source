@@ -1,0 +1,16 @@
+
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 47	Second : 23
+Oh really Has Sold item: 10828, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 47	Second : 28
+Oh really Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 47	Second : 30
+Oh really Has Sold item: 149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 47	Second : 31
+Oh really Has Sold item: 161, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 47	Second : 33
+Oh really Has Sold item: 165, Quantity 10
+--------------------------------------------------

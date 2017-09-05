@@ -1,0 +1,97 @@
+
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 36	Second : 17
+Nick Has Sold item: 1712, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 10	Second : 32
+Nick Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 30	Second : 16
+Nick Has Sold item: 1897, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 26	Second : 50
+Nick Has Sold item: 1197, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 26	Second : 51
+Nick Has Sold item: 1121, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 26	Second : 52
+Nick Has Sold item: 1159, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 26	Second : 53
+Nick Has Sold item: 1071, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 16	Second : 16
+Nick Has Sold item: 1631, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 20	Second : 8
+Nick Has Sold item: 1897, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 20	Second : 14
+Nick Has Sold item: 950, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 21	Second : 22
+Nick Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 21	Second : 23
+Nick Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 21	Second : 24
+Nick Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 21	Second : 24
+Nick Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 22	Second : 26
+Nick Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 22	Second : 27
+Nick Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 22	Second : 27
+Nick Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 24	Second : 10
+Nick Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 24	Second : 10
+Nick Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 24	Second : 10
+Nick Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 25	Second : 25
+Nick Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 25	Second : 25
+Nick Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 25	Second : 25
+Nick Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 28	Second : 2
+Nick Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 28	Second : 3
+Nick Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 28	Second : 3
+Nick Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 30	Second : 22
+Nick Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 30	Second : 22
+Nick Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 30	Second : 22
+Nick Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 58	Second : 1
+Nick Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 7	Minute : 2	Second : 14
+Nick Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 7	Minute : 10	Second : 8
+Nick Has Sold item: 5298, Quantity 1
+--------------------------------------------------

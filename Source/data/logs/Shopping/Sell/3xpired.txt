@@ -1,0 +1,88 @@
+
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 27	Second : 15
+3xpired Has Sold item: 1608, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 27	Second : 16
+3xpired Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 27	Second : 36
+3xpired Has Sold item: 1897, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 36	Second : 59
+3xpired Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 37	Second : 1
+3xpired Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 37	Second : 2
+3xpired Has Sold item: 1754, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 37	Second : 2
+3xpired Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 53	Second : 50
+3xpired Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 53	Second : 51
+3xpired Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 53	Second : 53
+3xpired Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 53	Second : 54
+3xpired Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 53	Second : 58
+3xpired Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 54	Second : 0
+3xpired Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 54	Second : 5
+3xpired Has Sold item: 830, Quantity 40
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 54	Second : 7
+3xpired Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 54	Second : 11
+3xpired Has Sold item: 565, Quantity 80
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 54	Second : 14
+3xpired Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 54	Second : 16
+3xpired Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 54	Second : 18
+3xpired Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 54	Second : 18
+3xpired Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 54	Second : 20
+3xpired Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 3	Second : 33
+3xpired Has Sold item: 4588, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 3	Second : 34
+3xpired Has Sold item: 1334, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 3	Second : 36
+3xpired Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 3	Second : 37
+3xpired Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 3	Second : 38
+3xpired Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 3	Second : 39
+3xpired Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 3	Second : 41
+3xpired Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 3	Second : 42
+3xpired Has Sold item: 1616, Quantity 5
+--------------------------------------------------

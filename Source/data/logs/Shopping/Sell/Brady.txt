@@ -1,0 +1,46 @@
+
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 24	Second : 30
+Brady Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 24	Second : 33
+Brady Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 24	Second : 36
+Brady Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 32	Second : 7
+Brady Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 32	Second : 10
+Brady Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 32	Second : 14
+Brady Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 33	Second : 47
+Brady Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 33	Second : 49
+Brady Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 33	Second : 51
+Brady Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 34	Second : 50
+Brady Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 34	Second : 52
+Brady Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 34	Second : 54
+Brady Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 36	Second : 15
+Brady Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 36	Second : 17
+Brady Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 36	Second : 19
+Brady Has Sold item: 1635, Quantity 10
+--------------------------------------------------

@@ -1,0 +1,220 @@
+
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 43	Second : 11
+Duckie Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 1	Second : 53
+Duckie Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 1	Second : 54
+Duckie Has Sold item: 2364, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 1	Second : 56
+Duckie Has Sold item: 1303, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 14	Second : 49
+Duckie Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 14	Second : 50
+Duckie Has Sold item: 2363, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 14	Second : 52
+Duckie Has Sold item: 1303, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 16	Second : 52
+Duckie Has Sold item: 7945, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 16	Second : 59
+Duckie Has Sold item: 384, Quantity 55
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 49	Second : 17
+Duckie Has Sold item: 1113, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 1	Second : 23
+Duckie Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 29	Second : 9
+Duckie Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 29	Second : 10
+Duckie Has Sold item: 4093, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 29	Second : 14
+Duckie Has Sold item: 384, Quantity 115
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 29	Second : 18
+Duckie Has Sold item: 7945, Quantity 200
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 28	Second : 8
+Duckie Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 28	Second : 9
+Duckie Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 6	Second : 33
+Duckie Has Sold item: 2364, Quantity 34
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 6	Second : 38
+Duckie Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 6	Second : 49
+Duckie Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 6	Second : 51
+Duckie Has Sold item: 7945, Quantity 500
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 6	Second : 57
+Duckie Has Sold item: 384, Quantity 110
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 6	Second : 59
+Duckie Has Sold item: 4092, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 7	Second : 1
+Duckie Has Sold item: 4094, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 7	Second : 3
+Duckie Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 30	Second : 27
+Duckie Has Sold item: 1304, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 30	Second : 35
+Duckie Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 30	Second : 37
+Duckie Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 30	Second : 38
+Duckie Has Sold item: 4094, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 30	Second : 39
+Duckie Has Sold item: 1186, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 30	Second : 41
+Duckie Has Sold item: 1164, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 30	Second : 42
+Duckie Has Sold item: 2364, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 30	Second : 43
+Duckie Has Sold item: 2364, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 30	Second : 46
+Duckie Has Sold item: 384, Quantity 115
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 30	Second : 49
+Duckie Has Sold item: 7945, Quantity 200
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 30	Second : 50
+Duckie Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 30	Second : 51
+Duckie Has Sold item: 1360, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 30	Second : 52
+Duckie Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 30	Second : 54
+Duckie Has Sold item: 842, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 26	Second : 59
+Duckie Has Sold item: 1303, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 27	Second : 0
+Duckie Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 27	Second : 1
+Duckie Has Sold item: 383, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 41	Second : 28
+Duckie Has Sold item: 7945, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 41	Second : 29
+Duckie Has Sold item: 1603, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 8	Minute : 26	Second : 11
+Duckie Has Sold item: 4091, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 8	Minute : 26	Second : 14
+Duckie Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 8	Minute : 26	Second : 15
+Duckie Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 8	Minute : 26	Second : 17
+Duckie Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 8	Minute : 26	Second : 20
+Duckie Has Sold item: 7945, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 8	Minute : 26	Second : 24
+Duckie Has Sold item: 384, Quantity 150
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 8	Minute : 26	Second : 25
+Duckie Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 8	Minute : 26	Second : 27
+Duckie Has Sold item: 2364, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 8	Minute : 26	Second : 29
+Duckie Has Sold item: 1360, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 8	Minute : 26	Second : 31
+Duckie Has Sold item: 2624, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 8	Minute : 26	Second : 32
+Duckie Has Sold item: 2660, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 8	Minute : 26	Second : 35
+Duckie Has Sold item: 2654, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 8	Minute : 26	Second : 36
+Duckie Has Sold item: 2656, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 8	Minute : 26	Second : 38
+Duckie Has Sold item: 1128, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 8	Minute : 26	Second : 40
+Duckie Has Sold item: 1080, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 8	Minute : 26	Second : 42
+Duckie Has Sold item: 1164, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 6	Minute : 24	Second : 8
+Duckie Has Sold item: 4092, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 6	Minute : 24	Second : 9
+Duckie Has Sold item: 2364, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 6	Minute : 24	Second : 10
+Duckie Has Sold item: 7945, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 6	Minute : 24	Second : 11
+Duckie Has Sold item: 4094, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 6	Minute : 24	Second : 12
+Duckie Has Sold item: 384, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 6	Minute : 24	Second : 13
+Duckie Has Sold item: 1304, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 6	Minute : 24	Second : 17
+Duckie Has Sold item: 384, Quantity 45
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 6	Minute : 24	Second : 21
+Duckie Has Sold item: 7945, Quantity 90
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 6	Minute : 24	Second : 24
+Duckie Has Sold item: 1616, Quantity 12
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 6	Minute : 24	Second : 28
+Duckie Has Sold item: 1602, Quantity 13
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 24	Second : 1
+Duckie Has Sold item: 7945, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 24	Second : 4
+Duckie Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 24	Second : 7
+Duckie Has Sold item: 2363, Quantity 10
+--------------------------------------------------

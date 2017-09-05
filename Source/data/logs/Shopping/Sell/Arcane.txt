@@ -1,0 +1,160 @@
+
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 55	Second : 1
+Arcane Has Sold item: 4091, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 55	Second : 3
+Arcane Has Sold item: 4111, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 55	Second : 4
+Arcane Has Sold item: 4113, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 55	Second : 5
+Arcane Has Sold item: 4113, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 55	Second : 7
+Arcane Has Sold item: 4111, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 55	Second : 10
+Arcane Has Sold item: 4111, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 55	Second : 18
+Arcane Has Sold item: 4113, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 55	Second : 19
+Arcane Has Sold item: 4101, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 55	Second : 59
+Arcane Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 52	Second : 56
+Arcane Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 52	Second : 57
+Arcane Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 53	Second : 28
+Arcane Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 53	Second : 34
+Arcane Has Sold item: 950, Quantity 12
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 54	Second : 8
+Arcane Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 54	Second : 10
+Arcane Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 54	Second : 10
+Arcane Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 54	Second : 34
+Arcane Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 15	Second : 21
+Arcane Has Sold item: 4101, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 15	Second : 22
+Arcane Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 15	Second : 23
+Arcane Has Sold item: 4089, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 15	Second : 24
+Arcane Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 15	Second : 25
+Arcane Has Sold item: 4113, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 15	Second : 26
+Arcane Has Sold item: 4103, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 15	Second : 28
+Arcane Has Sold item: 4675, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 31	Second : 31
+Arcane Has Sold item: 4103, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 31	Second : 33
+Arcane Has Sold item: 4113, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 31	Second : 34
+Arcane Has Sold item: 4089, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 31	Second : 35
+Arcane Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 31	Second : 36
+Arcane Has Sold item: 4101, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 31	Second : 37
+Arcane Has Sold item: 4111, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 9	Minute : 0	Second : 52
+Arcane Has Sold item: 4089, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 9	Minute : 0	Second : 52
+Arcane Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 9	Minute : 0	Second : 54
+Arcane Has Sold item: 4089, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 9	Minute : 0	Second : 55
+Arcane Has Sold item: 4103, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 9	Minute : 0	Second : 56
+Arcane Has Sold item: 4111, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 9	Minute : 0	Second : 56
+Arcane Has Sold item: 4113, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 9	Minute : 0	Second : 58
+Arcane Has Sold item: 4675, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 9	Minute : 5	Second : 50
+Arcane Has Sold item: 4089, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 9	Minute : 5	Second : 51
+Arcane Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 9	Minute : 5	Second : 52
+Arcane Has Sold item: 4101, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 59	Second : 49
+Arcane Has Sold item: 4103, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 59	Second : 51
+Arcane Has Sold item: 4103, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 59	Second : 52
+Arcane Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 59	Second : 53
+Arcane Has Sold item: 4111, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 59	Second : 54
+Arcane Has Sold item: 4089, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 59	Second : 55
+Arcane Has Sold item: 4113, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 59	Second : 56
+Arcane Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 59	Second : 57
+Arcane Has Sold item: 4101, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 4	Second : 21
+Arcane Has Sold item: 4113, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 4	Second : 22
+Arcane Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 4	Second : 22
+Arcane Has Sold item: 4111, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 4	Second : 23
+Arcane Has Sold item: 4089, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 2	Minute : 0	Second : 8
+Arcane Has Sold item: 1635, Quantity 1
+--------------------------------------------------

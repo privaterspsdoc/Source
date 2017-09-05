@@ -1,0 +1,7 @@
+
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 40	Second : 13
+Lecco Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 57	Second : 38
+Lecco Has Sold item: 1333, Quantity 1
+--------------------------------------------------

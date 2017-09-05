@@ -1,0 +1,169 @@
+
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 1	Second : 40
+Godkingdavid Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 1	Second : 49
+Godkingdavid Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 1	Second : 52
+Godkingdavid Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 1	Second : 54
+Godkingdavid Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 2	Second : 1
+Godkingdavid Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 2	Second : 3
+Godkingdavid Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 2	Second : 5
+Godkingdavid Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 2	Second : 10
+Godkingdavid Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 2	Second : 12
+Godkingdavid Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 2	Second : 17
+Godkingdavid Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 2	Second : 19
+Godkingdavid Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 2	Second : 20
+Godkingdavid Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 2	Second : 23
+Godkingdavid Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 5
+Godkingdavid Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 8
+Godkingdavid Has Sold item: 830, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 11
+Godkingdavid Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 12
+Godkingdavid Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 13
+Godkingdavid Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 15
+Godkingdavid Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 17
+Godkingdavid Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 18
+Godkingdavid Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 20
+Godkingdavid Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 22
+Godkingdavid Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 24
+Godkingdavid Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 29
+Godkingdavid Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 31
+Godkingdavid Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 35
+Godkingdavid Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 37
+Godkingdavid Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 39
+Godkingdavid Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 11	Second : 5
+Godkingdavid Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 11	Second : 8
+Godkingdavid Has Sold item: 1213, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 11	Second : 11
+Godkingdavid Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 11	Second : 16
+Godkingdavid Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 11	Second : 18
+Godkingdavid Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 49	Second : 25
+Godkingdavid Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 49	Second : 28
+Godkingdavid Has Sold item: 1213, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 49	Second : 30
+Godkingdavid Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 49	Second : 33
+Godkingdavid Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 49	Second : 36
+Godkingdavid Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 49	Second : 38
+Godkingdavid Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 49	Second : 41
+Godkingdavid Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 49	Second : 43
+Godkingdavid Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 49	Second : 44
+Godkingdavid Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 49	Second : 46
+Godkingdavid Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 49	Second : 48
+Godkingdavid Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 49	Second : 50
+Godkingdavid Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 49	Second : 52
+Godkingdavid Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 49	Second : 54
+Godkingdavid Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 49	Second : 57
+Godkingdavid Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 50	Second : 1
+Godkingdavid Has Sold item: 830, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 50	Second : 2
+Godkingdavid Has Sold item: 830, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 50	Second : 4
+Godkingdavid Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 50	Second : 6
+Godkingdavid Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 50	Second : 8
+Godkingdavid Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 50	Second : 10
+Godkingdavid Has Sold item: 830, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 50	Second : 12
+Godkingdavid Has Sold item: 830, Quantity 5
+--------------------------------------------------

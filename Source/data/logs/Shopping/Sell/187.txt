@@ -1,0 +1,313 @@
+
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 1	Second : 9
+187 Has Sold item: 4111, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 1	Second : 11
+187 Has Sold item: 4091, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 1	Second : 14
+187 Has Sold item: 4111, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 1	Second : 15
+187 Has Sold item: 4113, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 1	Second : 15
+187 Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 1	Second : 15
+187 Has Sold item: 4089, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 1	Second : 17
+187 Has Sold item: 4101, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 45	Second : 6
+187 Has Sold item: 4597, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 45	Second : 8
+187 Has Sold item: 1751, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 45	Second : 9
+187 Has Sold item: 4597, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 45	Second : 10
+187 Has Sold item: 1751, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 45	Second : 12
+187 Has Sold item: 1602, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 45	Second : 12
+187 Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 45	Second : 15
+187 Has Sold item: 1602, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 45	Second : 16
+187 Has Sold item: 1751, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 46	Second : 18
+187 Has Sold item: 830, Quantity 320
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 46	Second : 26
+187 Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 46	Second : 27
+187 Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 46	Second : 28
+187 Has Sold item: 1148, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 46	Second : 29
+187 Has Sold item: 1150, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 46	Second : 29
+187 Has Sold item: 1080, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 46	Second : 30
+187 Has Sold item: 1334, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 46	Second : 31
+187 Has Sold item: 1150, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 46	Second : 32
+187 Has Sold item: 1150, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 46	Second : 33
+187 Has Sold item: 1320, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 46	Second : 34
+187 Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 46	Second : 35
+187 Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 51	Second : 8
+187 Has Sold item: 4588, Quantity 15
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 51	Second : 10
+187 Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 51	Second : 11
+187 Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 51	Second : 11
+187 Has Sold item: 1248, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 51	Second : 11
+187 Has Sold item: 1148, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 51	Second : 12
+187 Has Sold item: 1320, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 51	Second : 13
+187 Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 51	Second : 14
+187 Has Sold item: 1320, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 51	Second : 14
+187 Has Sold item: 1148, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 51	Second : 15
+187 Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 51	Second : 17
+187 Has Sold item: 830, Quantity 127
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 9	Second : 48
+187 Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 15	Second : 24
+187 Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 15	Second : 24
+187 Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 25	Second : 39
+187 Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 25	Second : 40
+187 Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 25	Second : 42
+187 Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 25	Second : 43
+187 Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 25	Second : 43
+187 Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 25	Second : 44
+187 Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 25	Second : 45
+187 Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 25	Second : 45
+187 Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 25	Second : 45
+187 Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 25	Second : 46
+187 Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 25	Second : 46
+187 Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 25	Second : 46
+187 Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 25	Second : 47
+187 Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 25	Second : 49
+187 Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 25	Second : 49
+187 Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 13	Second : 27
+187 Has Sold item: 1320, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 13	Second : 27
+187 Has Sold item: 1334, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 13	Second : 27
+187 Has Sold item: 1150, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 13	Second : 28
+187 Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 13	Second : 29
+187 Has Sold item: 1334, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 13	Second : 29
+187 Has Sold item: 1150, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 13	Second : 30
+187 Has Sold item: 1334, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 13	Second : 31
+187 Has Sold item: 1334, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 13	Second : 33
+187 Has Sold item: 1334, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 13	Second : 35
+187 Has Sold item: 1334, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 9	Second : 3
+187 Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 9	Second : 4
+187 Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 9	Second : 4
+187 Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 9	Second : 5
+187 Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 9	Second : 9
+187 Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 9	Second : 11
+187 Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 9	Second : 12
+187 Has Sold item: 1754, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 9	Second : 12
+187 Has Sold item: 1754, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 24	Second : 12
+187 Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 24	Second : 13
+187 Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 24	Second : 13
+187 Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 24	Second : 14
+187 Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 47	Second : 43
+187 Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 47	Second : 44
+187 Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 47	Second : 47
+187 Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 47	Second : 47
+187 Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 29	Second : 51
+187 Has Sold item: 4587, Quantity 456
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 29	Second : 53
+187 Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 30	Second : 57
+187 Has Sold item: 1754, Quantity 456
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 1	Minute : 38	Second : 4
+187 Has Sold item: 1150, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 1	Minute : 38	Second : 4
+187 Has Sold item: 1320, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 1	Minute : 38	Second : 8
+187 Has Sold item: 1320, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 1	Minute : 38	Second : 8
+187 Has Sold item: 1320, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 1	Minute : 38	Second : 9
+187 Has Sold item: 1334, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 1	Minute : 38	Second : 10
+187 Has Sold item: 1148, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 1	Minute : 38	Second : 11
+187 Has Sold item: 1320, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 1	Minute : 38	Second : 13
+187 Has Sold item: 1334, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 1	Minute : 38	Second : 16
+187 Has Sold item: 830, Quantity 708
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 1	Minute : 52	Second : 29
+187 Has Sold item: 1248, Quantity 456
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 1	Minute : 52	Second : 32
+187 Has Sold item: 1618, Quantity 320
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 1	Minute : 52	Second : 38
+187 Has Sold item: 1632, Quantity 20
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 6	Second : 41
+187 Has Sold item: 2359, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 6	Second : 42
+187 Has Sold item: 4111, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 6	Second : 43
+187 Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 6	Second : 44
+187 Has Sold item: 4089, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 6	Second : 45
+187 Has Sold item: 4094, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 6	Second : 46
+187 Has Sold item: 4111, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 2	Minute : 6	Second : 48
+187 Has Sold item: 1615, Quantity 5
+--------------------------------------------------

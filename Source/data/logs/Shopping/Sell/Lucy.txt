@@ -1,0 +1,4 @@
+
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 39	Second : 6
+Lucy Has Sold item: 2503, Quantity 5
+--------------------------------------------------

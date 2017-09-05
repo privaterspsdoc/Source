@@ -1,0 +1,31 @@
+
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 11	Second : 48
+Dope Has Sold item: 1897, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 13	Second : 4
+Dope Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 13	Second : 6
+Dope Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 13	Second : 18
+Dope Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 18	Second : 19
+Dope Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 18	Second : 32
+Dope Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 18	Second : 49
+Dope Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 19	Second : 2
+Dope Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 19	Second : 13
+Dope Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 23	Second : 43
+Dope Has Sold item: 1635, Quantity 10
+--------------------------------------------------

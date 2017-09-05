@@ -1,0 +1,52 @@
+
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 7	Second : 28
+Squashy Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 7	Second : 35
+Squashy Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 7	Second : 37
+Squashy Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 7	Second : 39
+Squashy Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 8	Second : 50
+Squashy Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 8	Second : 51
+Squashy Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 8	Second : 52
+Squashy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 8	Second : 54
+Squashy Has Sold item: 950, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 8	Second : 56
+Squashy Has Sold item: 950, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 8	Second : 57
+Squashy Has Sold item: 950, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 10	Second : 1
+Squashy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 10	Second : 4
+Squashy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 10	Second : 5
+Squashy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 12	Second : 20
+Squashy Has Sold item: 1635, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 13	Second : 51
+Squashy Has Sold item: 1635, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 13	Second : 54
+Squashy Has Sold item: 1635, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 13	Second : 59
+Squashy Has Sold item: 1635, Quantity 5
+--------------------------------------------------

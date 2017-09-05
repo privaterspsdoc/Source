@@ -1,0 +1,307 @@
+
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 22	Second : 1
+Skilled Has Sold item: 1897, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 25	Second : 53
+Skilled Has Sold item: 532, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 25	Second : 53
+Skilled Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 25	Second : 54
+Skilled Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 25	Second : 55
+Skilled Has Sold item: 1897, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 44	Second : 25
+Skilled Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 44	Second : 26
+Skilled Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 44	Second : 28
+Skilled Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 44	Second : 29
+Skilled Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 44	Second : 30
+Skilled Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 44	Second : 32
+Skilled Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 44	Second : 32
+Skilled Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 44	Second : 33
+Skilled Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 47	Second : 28
+Skilled Has Sold item: 2599, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 47	Second : 31
+Skilled Has Sold item: 561, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 47	Second : 33
+Skilled Has Sold item: 561, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 51	Second : 25
+Skilled Has Sold item: 7346, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 10	Second : 13
+Skilled Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 10	Second : 13
+Skilled Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 10	Second : 14
+Skilled Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 10	Second : 16
+Skilled Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 10	Second : 16
+Skilled Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 10	Second : 18
+Skilled Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 13	Second : 49
+Skilled Has Sold item: 2599, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 39	Second : 43
+Skilled Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 39	Second : 43
+Skilled Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 39	Second : 46
+Skilled Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 39	Second : 47
+Skilled Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 39	Second : 48
+Skilled Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 41	Second : 52
+Skilled Has Sold item: 7334, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 9	Second : 35
+Skilled Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 9	Second : 36
+Skilled Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 9	Second : 36
+Skilled Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 9	Second : 37
+Skilled Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 9	Second : 37
+Skilled Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 12	Second : 51
+Skilled Has Sold item: 7346, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 12	Second : 52
+Skilled Has Sold item: 7334, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 12	Second : 52
+Skilled Has Sold item: 7352, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 12	Second : 53
+Skilled Has Sold item: 2599, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 37	Second : 32
+Skilled Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 37	Second : 33
+Skilled Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 37	Second : 34
+Skilled Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 37	Second : 34
+Skilled Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 37	Second : 35
+Skilled Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 37	Second : 36
+Skilled Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 39	Second : 6
+Skilled Has Sold item: 7319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 39	Second : 6
+Skilled Has Sold item: 2603, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 39	Second : 7
+Skilled Has Sold item: 7334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 39	Second : 7
+Skilled Has Sold item: 7352, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 14	Second : 27
+Skilled Has Sold item: 2612, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 14	Second : 27
+Skilled Has Sold item: 2608, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 14	Second : 30
+Skilled Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 14	Second : 32
+Skilled Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 14	Second : 33
+Skilled Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 14	Second : 34
+Skilled Has Sold item: 1320, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 14	Second : 35
+Skilled Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 14	Second : 35
+Skilled Has Sold item: 1080, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 14	Second : 36
+Skilled Has Sold item: 1320, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 14	Second : 37
+Skilled Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 14	Second : 37
+Skilled Has Sold item: 1334, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 14	Second : 39
+Skilled Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 14	Second : 40
+Skilled Has Sold item: 4588, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 16	Second : 7
+Skilled Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 16	Second : 8
+Skilled Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 16	Second : 8
+Skilled Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 17	Second : 12
+Skilled Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 17	Second : 12
+Skilled Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 17	Second : 13
+Skilled Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 17	Second : 14
+Skilled Has Sold item: 950, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 17	Second : 15
+Skilled Has Sold item: 950, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 17	Second : 17
+Skilled Has Sold item: 950, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 18	Second : 31
+Skilled Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 18	Second : 31
+Skilled Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 18	Second : 32
+Skilled Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 19	Second : 32
+Skilled Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 19	Second : 32
+Skilled Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 19	Second : 33
+Skilled Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 23	Second : 16
+Skilled Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 23	Second : 16
+Skilled Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 23	Second : 17
+Skilled Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 25	Second : 47
+Skilled Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 25	Second : 48
+Skilled Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 25	Second : 48
+Skilled Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 28	Second : 34
+Skilled Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 28	Second : 34
+Skilled Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 28	Second : 35
+Skilled Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 30	Second : 11
+Skilled Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 30	Second : 11
+Skilled Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 30	Second : 11
+Skilled Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 31	Second : 4
+Skilled Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 31	Second : 4
+Skilled Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 31	Second : 5
+Skilled Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 31	Second : 6
+Skilled Has Sold item: 1635, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 31	Second : 8
+Skilled Has Sold item: 1635, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 31	Second : 11
+Skilled Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 32	Second : 10
+Skilled Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 32	Second : 10
+Skilled Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 32	Second : 10
+Skilled Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 33	Second : 37
+Skilled Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 33	Second : 38
+Skilled Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 33	Second : 38
+Skilled Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 33	Second : 44
+Skilled Has Sold item: 7650, Quantity 5
+--------------------------------------------------

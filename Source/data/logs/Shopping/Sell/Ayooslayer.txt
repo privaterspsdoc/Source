@@ -1,0 +1,31 @@
+
+Year : 2015	Month : 5	Day : 29	Hour : 8	Minute : 29	Second : 43
+Ayooslayer Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 8	Minute : 29	Second : 45
+Ayooslayer Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 8	Minute : 30	Second : 48
+Ayooslayer Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 8	Minute : 30	Second : 48
+Ayooslayer Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 8	Minute : 32	Second : 45
+Ayooslayer Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 8	Minute : 32	Second : 46
+Ayooslayer Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 8	Minute : 32	Second : 47
+Ayooslayer Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 8	Minute : 34	Second : 19
+Ayooslayer Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 9	Minute : 30	Second : 11
+Ayooslayer Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 9	Minute : 30	Second : 12
+Ayooslayer Has Sold item: 4587, Quantity 5
+--------------------------------------------------

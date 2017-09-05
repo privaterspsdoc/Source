@@ -1,0 +1,994 @@
+
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 2	Second : 47
+Ryan Has Sold item: 1330, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 2	Second : 49
+Ryan Has Sold item: 1330, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 2	Second : 50
+Ryan Has Sold item: 1122, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 2	Second : 52
+Ryan Has Sold item: 1122, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 2	Second : 55
+Ryan Has Sold item: 1122, Quantity 60
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 2	Second : 59
+Ryan Has Sold item: 1118, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 3	Second : 2
+Ryan Has Sold item: 1118, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 3	Second : 3
+Ryan Has Sold item: 1118, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 3	Second : 4
+Ryan Has Sold item: 1118, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 3	Second : 8
+Ryan Has Sold item: 1124, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 4	Second : 33
+Ryan Has Sold item: 1124, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 4	Second : 34
+Ryan Has Sold item: 1124, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 4	Second : 35
+Ryan Has Sold item: 1124, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 5	Second : 37
+Ryan Has Sold item: 1124, Quantity 176
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 18	Second : 21
+Ryan Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 18	Second : 22
+Ryan Has Sold item: 1127, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 22	Second : 41
+Ryan Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 22	Second : 42
+Ryan Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 22	Second : 44
+Ryan Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 22	Second : 46
+Ryan Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 22	Second : 48
+Ryan Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 22	Second : 49
+Ryan Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 22	Second : 50
+Ryan Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 23	Second : 21
+Ryan Has Sold item: 1124, Quantity 112
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 27	Second : 21
+Ryan Has Sold item: 1116, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 27	Second : 23
+Ryan Has Sold item: 1116, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 27	Second : 25
+Ryan Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 27	Second : 27
+Ryan Has Sold item: 1116, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 40	Second : 25
+Ryan Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 46	Second : 35
+Ryan Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 46	Second : 43
+Ryan Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 46	Second : 45
+Ryan Has Sold item: 1127, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 58	Second : 58
+Ryan Has Sold item: 1320, Quantity 170
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 33	Second : 50
+Ryan Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 33	Second : 52
+Ryan Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 33	Second : 54
+Ryan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 33	Second : 58
+Ryan Has Sold item: 830, Quantity 80
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 34	Second : 2
+Ryan Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 34	Second : 4
+Ryan Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 34	Second : 5
+Ryan Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 34	Second : 9
+Ryan Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 34	Second : 10
+Ryan Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 43	Second : 25
+Ryan Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 43	Second : 26
+Ryan Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 43	Second : 28
+Ryan Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 43	Second : 29
+Ryan Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 47	Second : 49
+Ryan Has Sold item: 1725, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 6	Second : 57
+Ryan Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 6	Second : 58
+Ryan Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 23	Second : 31
+Ryan Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 23	Second : 32
+Ryan Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 32	Second : 28
+Ryan Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 32	Second : 31
+Ryan Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 32	Second : 32
+Ryan Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 32	Second : 32
+Ryan Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 45	Second : 2
+Ryan Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 45	Second : 3
+Ryan Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 45	Second : 5
+Ryan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 45	Second : 7
+Ryan Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 45	Second : 8
+Ryan Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 10	Second : 50
+Ryan Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 10	Second : 51
+Ryan Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 25	Second : 32
+Ryan Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 25	Second : 33
+Ryan Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 25	Second : 52
+Ryan Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 25	Second : 53
+Ryan Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 43	Second : 2
+Ryan Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 6	Second : 8
+Ryan Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 6	Second : 15
+Ryan Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 6	Second : 16
+Ryan Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 6	Second : 18
+Ryan Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 6	Second : 25
+Ryan Has Sold item: 1320, Quantity 164
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 8	Second : 37
+Ryan Has Sold item: 4588, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 24	Second : 47
+Ryan Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 24	Second : 48
+Ryan Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 20	Second : 11
+Ryan Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 20	Second : 13
+Ryan Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 20	Second : 15
+Ryan Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 20	Second : 17
+Ryan Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 20	Second : 18
+Ryan Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 20	Second : 20
+Ryan Has Sold item: 5699, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 20	Second : 23
+Ryan Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 20	Second : 23
+Ryan Has Sold item: 4588, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 17	Second : 40
+Ryan Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 34	Second : 48
+Ryan Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 34	Second : 49
+Ryan Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 34	Second : 51
+Ryan Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 34	Second : 53
+Ryan Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 34	Second : 54
+Ryan Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 34	Second : 54
+Ryan Has Sold item: 1080, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 34	Second : 56
+Ryan Has Sold item: 1164, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 34	Second : 57
+Ryan Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 35	Second : 0
+Ryan Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 35	Second : 43
+Ryan Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 37	Second : 33
+Ryan Has Sold item: 1729, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 37	Second : 36
+Ryan Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 37	Second : 37
+Ryan Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 37	Second : 37
+Ryan Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 38	Second : 43
+Ryan Has Sold item: 1731, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 39	Second : 48
+Ryan Has Sold item: 1712, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 40	Second : 37
+Ryan Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 40	Second : 37
+Ryan Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 40	Second : 37
+Ryan Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 41	Second : 23
+Ryan Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 41	Second : 24
+Ryan Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 41	Second : 24
+Ryan Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 42	Second : 12
+Ryan Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 57	Second : 59
+Ryan Has Sold item: 10828, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 16	Second : 3
+Ryan Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 24	Second : 20
+Ryan Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 42	Second : 17
+Ryan Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 40	Second : 37
+Ryan Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 40	Second : 43
+Ryan Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 40	Second : 45
+Ryan Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 40	Second : 46
+Ryan Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 46	Second : 41
+Ryan Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 46	Second : 42
+Ryan Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 46	Second : 43
+Ryan Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 46	Second : 44
+Ryan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 46	Second : 45
+Ryan Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 3	Second : 9
+Ryan Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 3	Second : 10
+Ryan Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 11	Second : 44
+Ryan Has Sold item: 3749, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 38	Second : 7
+Ryan Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 38	Second : 8
+Ryan Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 48	Second : 56
+Ryan Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 3	Second : 44
+Ryan Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 3	Second : 46
+Ryan Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 3	Second : 50
+Ryan Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 13	Second : 14
+Ryan Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 27	Second : 11
+Ryan Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 41	Second : 29
+Ryan Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 41	Second : 31
+Ryan Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 22	Second : 44
+Ryan Has Sold item: 1150, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 22	Second : 46
+Ryan Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 22	Second : 47
+Ryan Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 22	Second : 48
+Ryan Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 22	Second : 50
+Ryan Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 12	Second : 49
+Ryan Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 12	Second : 53
+Ryan Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 12	Second : 55
+Ryan Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 12	Second : 56
+Ryan Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 12	Second : 58
+Ryan Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 13	Second : 0
+Ryan Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 13	Second : 1
+Ryan Has Sold item: 4132, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 13	Second : 3
+Ryan Has Sold item: 1164, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 13	Second : 4
+Ryan Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 13	Second : 5
+Ryan Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 13	Second : 7
+Ryan Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 41	Second : 5
+Ryan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 41	Second : 7
+Ryan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 41	Second : 9
+Ryan Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 41	Second : 11
+Ryan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 3	Second : 48
+Ryan Has Sold item: 1320, Quantity 624
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 11	Second : 12
+Ryan Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 51	Second : 7
+Ryan Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 51	Second : 10
+Ryan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 51	Second : 12
+Ryan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 51	Second : 13
+Ryan Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 25	Second : 7
+Ryan Has Sold item: 3751, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 38	Second : 33
+Ryan Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 38	Second : 36
+Ryan Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 52	Second : 27
+Ryan Has Sold item: 4153, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 56	Second : 36
+Ryan Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 56	Second : 37
+Ryan Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 2	Second : 32
+Ryan Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 2	Second : 33
+Ryan Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 2	Second : 34
+Ryan Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 2	Second : 36
+Ryan Has Sold item: 1381, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 2	Second : 37
+Ryan Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 23	Second : 36
+Ryan Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 23	Second : 37
+Ryan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 23	Second : 38
+Ryan Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 23	Second : 39
+Ryan Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 23	Second : 41
+Ryan Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 23	Second : 43
+Ryan Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 28	Second : 12
+Ryan Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 28	Second : 13
+Ryan Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 28	Second : 15
+Ryan Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 28	Second : 17
+Ryan Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 28	Second : 19
+Ryan Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 28	Second : 20
+Ryan Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 48	Second : 16
+Ryan Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 48	Second : 18
+Ryan Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 48	Second : 20
+Ryan Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 14	Second : 9
+Ryan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 14	Second : 11
+Ryan Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 14	Second : 12
+Ryan Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 14	Second : 13
+Ryan Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 14	Second : 14
+Ryan Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 14	Second : 15
+Ryan Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 19	Second : 35
+Ryan Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 44	Second : 15
+Ryan Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 44	Second : 16
+Ryan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 44	Second : 18
+Ryan Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 44	Second : 19
+Ryan Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 52	Second : 4
+Ryan Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 52	Second : 7
+Ryan Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 52	Second : 8
+Ryan Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 11	Second : 4
+Ryan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 11	Second : 5
+Ryan Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 11	Second : 8
+Ryan Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 11	Second : 9
+Ryan Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 28	Second : 50
+Ryan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 28	Second : 52
+Ryan Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 28	Second : 53
+Ryan Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 28	Second : 55
+Ryan Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 28	Second : 57
+Ryan Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 49	Second : 16
+Ryan Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 49	Second : 17
+Ryan Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 57	Second : 56
+Ryan Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 57	Second : 59
+Ryan Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 58	Second : 0
+Ryan Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 14	Second : 30
+Ryan Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 14	Second : 32
+Ryan Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 14	Second : 34
+Ryan Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 14	Second : 42
+Ryan Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 36	Second : 40
+Ryan Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 36	Second : 41
+Ryan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 36	Second : 42
+Ryan Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 36	Second : 43
+Ryan Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 36	Second : 45
+Ryan Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 17	Second : 57
+Ryan Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 17	Second : 58
+Ryan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 18	Second : 1
+Ryan Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 18	Second : 2
+Ryan Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 46	Second : 27
+Ryan Has Sold item: 10828, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 46	Second : 31
+Ryan Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 46	Second : 33
+Ryan Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 54	Second : 55
+Ryan Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 54	Second : 56
+Ryan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 54	Second : 58
+Ryan Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 54	Second : 59
+Ryan Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 55	Second : 1
+Ryan Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 55	Second : 56
+Ryan Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 23	Second : 45
+Ryan Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 23	Second : 46
+Ryan Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 23	Second : 47
+Ryan Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 23	Second : 48
+Ryan Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 23	Second : 51
+Ryan Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 23	Second : 52
+Ryan Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 31	Second : 1
+Ryan Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 31	Second : 2
+Ryan Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 31	Second : 3
+Ryan Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 31	Second : 5
+Ryan Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 31	Second : 6
+Ryan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 3	Second : 7
+Ryan Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 20	Second : 50
+Ryan Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 20	Second : 51
+Ryan Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 56	Second : 23
+Ryan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 56	Second : 25
+Ryan Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 56	Second : 26
+Ryan Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 56	Second : 29
+Ryan Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 41	Second : 20
+Ryan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 41	Second : 21
+Ryan Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 41	Second : 23
+Ryan Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 41	Second : 24
+Ryan Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 33	Second : 0
+Ryan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 33	Second : 2
+Ryan Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 33	Second : 4
+Ryan Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 33	Second : 6
+Ryan Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 49	Second : 35
+Ryan Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 49	Second : 37
+Ryan Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 49	Second : 37
+Ryan Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 49	Second : 39
+Ryan Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 49	Second : 40
+Ryan Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 18	Second : 1
+Ryan Has Sold item: 2428, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 21	Second : 19
+Ryan Has Sold item: 113, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 21	Second : 21
+Ryan Has Sold item: 2446, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 48	Second : 56
+Ryan Has Sold item: 5297, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 48	Second : 57
+Ryan Has Sold item: 5298, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 48	Second : 58
+Ryan Has Sold item: 5293, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 49	Second : 0
+Ryan Has Sold item: 5294, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 27	Second : 20
+Ryan Has Sold item: 4111, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 27	Second : 21
+Ryan Has Sold item: 4101, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 27	Second : 23
+Ryan Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 27	Second : 24
+Ryan Has Sold item: 4113, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 27	Second : 26
+Ryan Has Sold item: 4103, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 52	Second : 29
+Ryan Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 52	Second : 30
+Ryan Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 52	Second : 32
+Ryan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 20	Second : 43
+Ryan Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 46	Second : 9
+Ryan Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 46	Second : 9
+Ryan Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 46	Second : 11
+Ryan Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 11	Minute : 20	Second : 5
+Ryan Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 11	Minute : 20	Second : 5
+Ryan Has Sold item: 1373, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 11	Minute : 20	Second : 6
+Ryan Has Sold item: 1163, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 11	Minute : 20	Second : 7
+Ryan Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 11	Minute : 20	Second : 8
+Ryan Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 11	Minute : 20	Second : 9
+Ryan Has Sold item: 7358, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 11	Minute : 20	Second : 11
+Ryan Has Sold item: 7346, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 11	Minute : 20	Second : 12
+Ryan Has Sold item: 7352, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 56	Second : 58
+Ryan Has Sold item: 4111, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 56	Second : 59
+Ryan Has Sold item: 4089, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 11	Minute : 9	Second : 59
+Ryan Has Sold item: 4675, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 11	Minute : 11	Second : 6
+Ryan Has Sold item: 4103, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 11	Minute : 11	Second : 7
+Ryan Has Sold item: 4111, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 11	Minute : 11	Second : 8
+Ryan Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 11	Minute : 12	Second : 12
+Ryan Has Sold item: 2362, Quantity 87
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 11	Minute : 14	Second : 19
+Ryan Has Sold item: 5304, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 0	Minute : 7	Second : 56
+Ryan Has Sold item: 4093, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 33	Second : 39
+Ryan Has Sold item: 4089, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 2	Minute : 19	Second : 37
+Ryan Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 5	Minute : 3	Second : 33
+Ryan Has Sold item: 114, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 5	Minute : 3	Second : 34
+Ryan Has Sold item: 2453, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 5	Minute : 3	Second : 36
+Ryan Has Sold item: 2453, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 5	Minute : 3	Second : 40
+Ryan Has Sold item: 2453, Quantity 222
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 5	Minute : 3	Second : 43
+Ryan Has Sold item: 6142, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 2	Second : 33
+Ryan Has Sold item: 1320, Quantity 1502
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 4	Second : 16
+Ryan Has Sold item: 1122, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 4	Second : 18
+Ryan Has Sold item: 1122, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 4	Second : 21
+Ryan Has Sold item: 1122, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 4	Second : 22
+Ryan Has Sold item: 1124, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 4	Second : 25
+Ryan Has Sold item: 1124, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 4	Second : 26
+Ryan Has Sold item: 1124, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 18	Second : 39
+Ryan Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 18	Second : 40
+Ryan Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 18	Second : 42
+Ryan Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 18	Second : 43
+Ryan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 18	Second : 44
+Ryan Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 18	Second : 45
+Ryan Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 31	Second : 47
+Ryan Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 31	Second : 49
+Ryan Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 31	Second : 51
+Ryan Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 31	Second : 52
+Ryan Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 31	Second : 53
+Ryan Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 39	Second : 1
+Ryan Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 7	Minute : 39	Second : 1
+Ryan Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 8	Minute : 30	Second : 17
+Ryan Has Sold item: 1320, Quantity 130
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 28	Second : 11
+Ryan Has Sold item: 1123, Quantity 1
+--------------------------------------------------

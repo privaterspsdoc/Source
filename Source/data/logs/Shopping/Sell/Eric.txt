@@ -1,0 +1,166 @@
+
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 36	Second : 51
+Eric Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 36	Second : 52
+Eric Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 36	Second : 53
+Eric Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 36	Second : 54
+Eric Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 9	Minute : 53	Second : 7
+Eric Has Sold item: 6522, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 9	Minute : 53	Second : 9
+Eric Has Sold item: 6525, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 9	Minute : 53	Second : 10
+Eric Has Sold item: 6522, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 9	Minute : 53	Second : 13
+Eric Has Sold item: 6522, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 9	Minute : 53	Second : 14
+Eric Has Sold item: 6522, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 12	Second : 40
+Eric Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 12	Second : 46
+Eric Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 12	Second : 48
+Eric Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 12	Second : 50
+Eric Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 12	Second : 57
+Eric Has Sold item: 1897, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 15	Second : 5
+Eric Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 16	Second : 5
+Eric Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 16	Second : 6
+Eric Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 16	Second : 9
+Eric Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 16	Second : 10
+Eric Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 17	Second : 5
+Eric Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 17	Second : 6
+Eric Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 17	Second : 7
+Eric Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 18	Second : 4
+Eric Has Sold item: 1635, Quantity 28
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 21	Second : 19
+Eric Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 21	Second : 21
+Eric Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 21	Second : 24
+Eric Has Sold item: 2363, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 26	Second : 41
+Eric Has Sold item: 2498, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 26	Second : 43
+Eric Has Sold item: 2504, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 26	Second : 50
+Eric Has Sold item: 2363, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 26	Second : 52
+Eric Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 26	Second : 57
+Eric Has Sold item: 1514, Quantity 300
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 31	Second : 17
+Eric Has Sold item: 2498, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 31	Second : 19
+Eric Has Sold item: 2498, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 31	Second : 24
+Eric Has Sold item: 2504, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 31	Second : 25
+Eric Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 31	Second : 29
+Eric Has Sold item: 1514, Quantity 150
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 31	Second : 32
+Eric Has Sold item: 2363, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 31	Second : 32
+Eric Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 31	Second : 33
+Eric Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 57	Second : 6
+Eric Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 57	Second : 8
+Eric Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 0	Second : 19
+Eric Has Sold item: 1514, Quantity 15
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 0	Second : 23
+Eric Has Sold item: 1514, Quantity 150
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 0	Second : 25
+Eric Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 0	Second : 26
+Eric Has Sold item: 2363, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 0	Second : 27
+Eric Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 0	Second : 28
+Eric Has Sold item: 1616, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 0	Second : 31
+Eric Has Sold item: 1616, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 0	Second : 32
+Eric Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 24	Second : 8
+Eric Has Sold item: 2413, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 58	Second : 29
+Eric Has Sold item: 2363, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 58	Second : 30
+Eric Has Sold item: 2363, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 58	Second : 31
+Eric Has Sold item: 4093, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 58	Second : 32
+Eric Has Sold item: 4091, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 58	Second : 34
+Eric Has Sold item: 1616, Quantity 10
+--------------------------------------------------

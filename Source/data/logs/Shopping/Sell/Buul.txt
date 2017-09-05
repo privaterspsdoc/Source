@@ -1,0 +1,4 @@
+
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 20	Second : 7
+Buul Has Sold item: 1897, Quantity 10
+--------------------------------------------------

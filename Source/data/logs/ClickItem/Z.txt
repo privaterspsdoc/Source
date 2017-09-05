@@ -1,0 +1,7 @@
+
+Year : 2017	Month : 7	Day : 30	Hour : 9	Minute : 10	Second : 40
+Z Has clicked item: 526
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 30	Hour : 9	Minute : 10	Second : 42
+Z Has clicked item: 205
+--------------------------------------------------

@@ -1,0 +1,64 @@
+
+Year : 2015	Month : 7	Day : 4	Hour : 10	Minute : 41	Second : 11
+Test Has clicked item: 526
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 6	Hour : 10	Minute : 20	Second : 31
+Test Has clicked item: 526
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 8	Hour : 6	Minute : 17	Second : 36
+Test Has clicked item: 4834
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 8	Hour : 10	Minute : 54	Second : 18
+Test Has clicked item: 536
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 8	Hour : 11	Minute : 55	Second : 55
+Test Has clicked item: 526
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 8	Hour : 11	Minute : 56	Second : 46
+Test Has clicked item: 526
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 8	Hour : 11	Minute : 56	Second : 47
+Test Has clicked item: 526
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 8	Hour : 11	Minute : 56	Second : 47
+Test Has clicked item: 526
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 8	Hour : 11	Minute : 56	Second : 48
+Test Has clicked item: 526
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 11	Hour : 10	Minute : 48	Second : 18
+Test Has clicked item: 5733
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 11	Hour : 10	Minute : 48	Second : 37
+Test Has clicked item: 6199
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 11	Hour : 10	Minute : 48	Second : 41
+Test Has clicked item: 6199
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 11	Hour : 10	Minute : 48	Second : 47
+Test Has clicked item: 6199
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 11	Hour : 10	Minute : 48	Second : 50
+Test Has clicked item: 6199
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 11	Hour : 10	Minute : 48	Second : 51
+Test Has clicked item: 6199
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 11	Hour : 10	Minute : 48	Second : 53
+Test Has clicked item: 6199
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 11	Hour : 10	Minute : 48	Second : 54
+Test Has clicked item: 6199
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 11	Hour : 10	Minute : 48	Second : 56
+Test Has clicked item: 6199
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 11	Hour : 10	Minute : 48	Second : 57
+Test Has clicked item: 6199
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 11	Hour : 11	Minute : 37	Second : 42
+Test Has clicked item: 536
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 0	Minute : 14	Second : 2
+Test Has clicked item: 10525
+--------------------------------------------------

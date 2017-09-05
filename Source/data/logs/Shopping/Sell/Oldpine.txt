@@ -1,0 +1,7 @@
+
+Year : 2015	Month : 5	Day : 26	Hour : 9	Minute : 44	Second : 20
+Oldpine Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 9	Minute : 44	Second : 21
+Oldpine Has Sold item: 950, Quantity 5
+--------------------------------------------------

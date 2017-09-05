@@ -1,0 +1,34 @@
+
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 9	Second : 13
+Art Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 9	Second : 14
+Art Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 11	Second : 48
+Art Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 14	Second : 20
+Art Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 14	Second : 22
+Art Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 15	Second : 59
+Art Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 16	Second : 0
+Art Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 20	Second : 11
+Art Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 20	Second : 12
+Art Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 23	Second : 26
+Art Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 23	Second : 27
+Art Has Sold item: 1635, Quantity 10
+--------------------------------------------------

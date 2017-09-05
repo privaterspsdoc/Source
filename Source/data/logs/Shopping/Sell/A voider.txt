@@ -1,0 +1,28 @@
+
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 5	Second : 14
+A voider Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 5	Second : 15
+A voider Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 5	Second : 16
+A voider Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 6	Second : 10
+A voider Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 6	Second : 11
+A voider Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 6	Second : 12
+A voider Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 9	Second : 16
+A voider Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 9	Second : 48
+A voider Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 10	Second : 3
+A voider Has Sold item: 1635, Quantity 10
+--------------------------------------------------

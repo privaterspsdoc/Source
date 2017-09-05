@@ -1,0 +1,637 @@
+
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 14	Second : 31
+Gourmet anal Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 16	Second : 36
+Gourmet anal Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 16	Second : 37
+Gourmet anal Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 16	Second : 39
+Gourmet anal Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 16	Second : 42
+Gourmet anal Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 18	Second : 41
+Gourmet anal Has Sold item: 950, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 18	Second : 44
+Gourmet anal Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 18	Second : 45
+Gourmet anal Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 22	Second : 39
+Gourmet anal Has Sold item: 1635, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 27	Second : 53
+Gourmet anal Has Sold item: 1635, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 31	Second : 15
+Gourmet anal Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 31	Second : 16
+Gourmet anal Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 31	Second : 16
+Gourmet anal Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 31	Second : 17
+Gourmet anal Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 49	Second : 6
+Gourmet anal Has Sold item: 1636, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 49	Second : 19
+Gourmet anal Has Sold item: 7651, Quantity 999
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 0	Minute : 22	Second : 57
+Gourmet anal Has Sold item: 1614, Quantity 4020
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 52	Second : 16
+Gourmet anal Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 52	Second : 16
+Gourmet anal Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 52	Second : 18
+Gourmet anal Has Sold item: 1613, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 52	Second : 28
+Gourmet anal Has Sold item: 1613, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 53	Second : 27
+Gourmet anal Has Sold item: 1613, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 54	Second : 19
+Gourmet anal Has Sold item: 1727, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 56	Second : 28
+Gourmet anal Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 56	Second : 30
+Gourmet anal Has Sold item: 1729, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 56	Second : 33
+Gourmet anal Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 57	Second : 35
+Gourmet anal Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 57	Second : 36
+Gourmet anal Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 58	Second : 13
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 58	Second : 16
+Gourmet anal Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 59	Second : 5
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 59	Second : 53
+Gourmet anal Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 59	Second : 56
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 0	Second : 36
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 1	Second : 26
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 2	Second : 6
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 3	Second : 19
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 3	Second : 57
+Gourmet anal Has Sold item: 1712, Quantity 3
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 4	Second : 12
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 4	Second : 48
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 5	Second : 35
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 6	Second : 44
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 7	Second : 45
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 8	Second : 39
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 9	Second : 19
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 9	Second : 54
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 10	Second : 32
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 11	Second : 12
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 11	Second : 47
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 12	Second : 24
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 13	Second : 20
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 13	Second : 55
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 14	Second : 34
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 15	Second : 55
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 16	Second : 30
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 17	Second : 25
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 20	Second : 7
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 20	Second : 47
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 21	Second : 22
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 21	Second : 59
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 22	Second : 32
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 23	Second : 8
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 24	Second : 9
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 33	Second : 51
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 34	Second : 41
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 35	Second : 45
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 36	Second : 18
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 37	Second : 2
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 37	Second : 38
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 38	Second : 32
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 39	Second : 23
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 40	Second : 16
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 41	Second : 16
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 41	Second : 59
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 43	Second : 4
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 43	Second : 56
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 45	Second : 13
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 45	Second : 55
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 46	Second : 38
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 47	Second : 18
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 48	Second : 20
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 49	Second : 12
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 49	Second : 51
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 50	Second : 40
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 51	Second : 17
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 54	Second : 49
+Gourmet anal Has Sold item: 1099, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 56	Second : 23
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 57	Second : 31
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 58	Second : 8
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 58	Second : 50
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 0	Second : 4
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 0	Second : 54
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 1	Second : 55
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 2	Second : 37
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 3	Second : 44
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 4	Second : 35
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 5	Second : 31
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 6	Second : 6
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 6	Second : 42
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 7	Second : 22
+Gourmet anal Has Sold item: 1712, Quantity 333
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 8	Second : 22
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 9	Second : 8
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 9	Second : 46
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 10	Second : 36
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 11	Second : 11
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 12	Second : 10
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 53	Second : 14
+Gourmet anal Has Sold item: 6568, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 55	Second : 7
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 57	Second : 45
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 8	Second : 24
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 8	Second : 25
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 8	Second : 26
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 11	Second : 50
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 12	Second : 26
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 12	Second : 27
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 12	Second : 27
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 13	Second : 7
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 13	Second : 43
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 14	Second : 46
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 14	Second : 46
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 14	Second : 46
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 15	Second : 30
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 16	Second : 39
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 16	Second : 41
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 16	Second : 41
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 18	Second : 5
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 18	Second : 5
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 18	Second : 6
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 19	Second : 5
+Gourmet anal Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 20	Second : 8
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 20	Second : 8
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 20	Second : 9
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 21	Second : 5
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 21	Second : 6
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 21	Second : 6
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 22	Second : 6
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 22	Second : 7
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 22	Second : 7
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 23	Second : 6
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 23	Second : 7
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 23	Second : 8
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 23	Second : 43
+Gourmet anal Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 23	Second : 45
+Gourmet anal Has Sold item: 1755, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 39	Second : 24
+Gourmet anal Has Sold item: 6151, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 39	Second : 27
+Gourmet anal Has Sold item: 6129, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 35	Second : 37
+Gourmet anal Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 35	Second : 38
+Gourmet anal Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 35	Second : 40
+Gourmet anal Has Sold item: 1214, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 35	Second : 42
+Gourmet anal Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 35	Second : 43
+Gourmet anal Has Sold item: 1248, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 35	Second : 45
+Gourmet anal Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 35	Second : 48
+Gourmet anal Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 35	Second : 49
+Gourmet anal Has Sold item: 4092, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 35	Second : 50
+Gourmet anal Has Sold item: 4094, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 35	Second : 52
+Gourmet anal Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 35	Second : 53
+Gourmet anal Has Sold item: 1080, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 35	Second : 55
+Gourmet anal Has Sold item: 1304, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 35	Second : 56
+Gourmet anal Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 35	Second : 58
+Gourmet anal Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 35	Second : 59
+Gourmet anal Has Sold item: 1128, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 36	Second : 0
+Gourmet anal Has Sold item: 1164, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 36	Second : 2
+Gourmet anal Has Sold item: 4112, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 38	Second : 16
+Gourmet anal Has Sold item: 842, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 38	Second : 19
+Gourmet anal Has Sold item: 6528, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 38	Second : 20
+Gourmet anal Has Sold item: 842, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 38	Second : 22
+Gourmet anal Has Sold item: 840, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 38	Second : 25
+Gourmet anal Has Sold item: 846, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 38	Second : 28
+Gourmet anal Has Sold item: 856, Quantity 333
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 38	Second : 31
+Gourmet anal Has Sold item: 848, Quantity 333
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 38	Second : 33
+Gourmet anal Has Sold item: 5699, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 38	Second : 36
+Gourmet anal Has Sold item: 2504, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 38	Second : 39
+Gourmet anal Has Sold item: 2498, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 38	Second : 42
+Gourmet anal Has Sold item: 852, Quantity 333
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 38	Second : 46
+Gourmet anal Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 38	Second : 48
+Gourmet anal Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 38	Second : 49
+Gourmet anal Has Sold item: 1128, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 38	Second : 50
+Gourmet anal Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 38	Second : 51
+Gourmet anal Has Sold item: 4094, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 38	Second : 54
+Gourmet anal Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 38	Second : 55
+Gourmet anal Has Sold item: 1320, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 38	Second : 57
+Gourmet anal Has Sold item: 1248, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 52	Second : 34
+Gourmet anal Has Sold item: 4092, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 52	Second : 35
+Gourmet anal Has Sold item: 1304, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 52	Second : 37
+Gourmet anal Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 52	Second : 38
+Gourmet anal Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 52	Second : 40
+Gourmet anal Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 52	Second : 41
+Gourmet anal Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 52	Second : 42
+Gourmet anal Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 52	Second : 44
+Gourmet anal Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 52	Second : 47
+Gourmet anal Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 52	Second : 49
+Gourmet anal Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 51	Second : 16
+Gourmet anal Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 51	Second : 19
+Gourmet anal Has Sold item: 4092, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 51	Second : 20
+Gourmet anal Has Sold item: 4094, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 51	Second : 22
+Gourmet anal Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 51	Second : 23
+Gourmet anal Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 51	Second : 26
+Gourmet anal Has Sold item: 1304, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 51	Second : 27
+Gourmet anal Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 51	Second : 30
+Gourmet anal Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 51	Second : 32
+Gourmet anal Has Sold item: 1214, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 48	Second : 33
+Gourmet anal Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 48	Second : 35
+Gourmet anal Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 48	Second : 37
+Gourmet anal Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 48	Second : 39
+Gourmet anal Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 48	Second : 40
+Gourmet anal Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 48	Second : 42
+Gourmet anal Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 48	Second : 44
+Gourmet anal Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 49	Second : 21
+Gourmet anal Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 49	Second : 23
+Gourmet anal Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 49	Second : 25
+Gourmet anal Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 15	Second : 9
+Gourmet anal Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 15	Second : 11
+Gourmet anal Has Sold item: 1319, Quantity 10
+--------------------------------------------------

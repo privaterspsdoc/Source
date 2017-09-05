@@ -1,0 +1,4 @@
+
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 56	Second : 8
+Sick Has Sold item: 1897, Quantity 5
+--------------------------------------------------

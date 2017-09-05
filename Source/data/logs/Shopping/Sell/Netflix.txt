@@ -1,0 +1,31 @@
+
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 1	Second : 53
+Netflix Has Sold item: 1897, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 1	Second : 53
+Netflix Has Sold item: 1897, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 1	Second : 55
+Netflix Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 1	Second : 56
+Netflix Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 3	Second : 38
+Netflix Has Sold item: 950, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 3	Second : 41
+Netflix Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 3	Second : 42
+Netflix Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 3	Second : 42
+Netflix Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 4	Second : 0
+Netflix Has Sold item: 950, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 4	Second : 1
+Netflix Has Sold item: 950, Quantity 1
+--------------------------------------------------

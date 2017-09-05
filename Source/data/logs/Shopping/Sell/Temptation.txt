@@ -1,0 +1,4 @@
+
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 38	Second : 50
+Temptation Has Sold item: 1897, Quantity 10
+--------------------------------------------------

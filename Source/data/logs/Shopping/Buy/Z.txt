@@ -1,0 +1,7 @@
+
+Year : 2017	Month : 7	Day : 29	Hour : 9	Minute : 14	Second : 22
+Z Has Bought item: 1349, Quantity 1
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 29	Hour : 9	Minute : 14	Second : 24
+Z Has Bought item: 590, Quantity 1
+--------------------------------------------------

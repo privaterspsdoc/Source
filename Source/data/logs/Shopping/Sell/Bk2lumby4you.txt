@@ -1,0 +1,52 @@
+
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 35	Second : 27
+Bk2lumby4you Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 35	Second : 29
+Bk2lumby4you Has Sold item: 4153, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 35	Second : 33
+Bk2lumby4you Has Sold item: 4089, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 35	Second : 33
+Bk2lumby4you Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 35	Second : 34
+Bk2lumby4you Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 35	Second : 35
+Bk2lumby4you Has Sold item: 1712, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 35	Second : 37
+Bk2lumby4you Has Sold item: 565, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 35	Second : 41
+Bk2lumby4you Has Sold item: 565, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 35	Second : 47
+Bk2lumby4you Has Sold item: 565, Quantity 1000
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 38	Second : 20
+Bk2lumby4you Has Sold item: 562, Quantity 856
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 38	Second : 30
+Bk2lumby4you Has Sold item: 560, Quantity 805
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 38	Second : 39
+Bk2lumby4you Has Sold item: 4675, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 38	Second : 40
+Bk2lumby4you Has Sold item: 2579, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 38	Second : 58
+Bk2lumby4you Has Sold item: 1381, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 3	Second : 17
+Bk2lumby4you Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 3	Second : 20
+Bk2lumby4you Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 3	Second : 21
+Bk2lumby4you Has Sold item: 950, Quantity 10
+--------------------------------------------------

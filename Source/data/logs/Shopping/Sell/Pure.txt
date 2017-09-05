@@ -1,0 +1,58 @@
+
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 28	Second : 28
+Pure Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 28	Second : 29
+Pure Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 28	Second : 31
+Pure Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 29	Second : 13
+Pure Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 29	Second : 14
+Pure Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 30	Second : 39
+Pure Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 30	Second : 39
+Pure Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 30	Second : 39
+Pure Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 31	Second : 0
+Pure Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 31	Second : 1
+Pure Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 52	Second : 34
+Pure Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 52	Second : 47
+Pure Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 53	Second : 3
+Pure Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 53	Second : 31
+Pure Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 51	Second : 21
+Pure Has Sold item: 1127, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 51	Second : 22
+Pure Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 9	Minute : 13	Second : 7
+Pure Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 9	Minute : 13	Second : 8
+Pure Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 9	Minute : 13	Second : 22
+Pure Has Sold item: 1635, Quantity 10
+--------------------------------------------------

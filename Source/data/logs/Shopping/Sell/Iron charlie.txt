@@ -1,0 +1,100 @@
+
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 8	Second : 17
+Iron charlie Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 8	Second : 19
+Iron charlie Has Sold item: 1897, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 8	Second : 19
+Iron charlie Has Sold item: 1897, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 8	Second : 39
+Iron charlie Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 8	Second : 40
+Iron charlie Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 8	Second : 42
+Iron charlie Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 9	Second : 53
+Iron charlie Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 9	Second : 54
+Iron charlie Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 9	Second : 54
+Iron charlie Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 9	Second : 56
+Iron charlie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 9	Second : 57
+Iron charlie Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 12	Second : 47
+Iron charlie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 12	Second : 48
+Iron charlie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 12	Second : 48
+Iron charlie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 14	Second : 9
+Iron charlie Has Sold item: 1635, Quantity 30
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 15	Second : 29
+Iron charlie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 15	Second : 30
+Iron charlie Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 15	Second : 31
+Iron charlie Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 15	Second : 31
+Iron charlie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 17	Second : 12
+Iron charlie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 17	Second : 13
+Iron charlie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 17	Second : 14
+Iron charlie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 18	Second : 15
+Iron charlie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 18	Second : 15
+Iron charlie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 18	Second : 16
+Iron charlie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 19	Second : 47
+Iron charlie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 19	Second : 48
+Iron charlie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 19	Second : 48
+Iron charlie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 21	Second : 12
+Iron charlie Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 21	Second : 13
+Iron charlie Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 21	Second : 16
+Iron charlie Has Sold item: 7650, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 21	Second : 17
+Iron charlie Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 21	Second : 18
+Iron charlie Has Sold item: 7650, Quantity 10
+--------------------------------------------------

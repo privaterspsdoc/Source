@@ -1,0 +1,88 @@
+
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 6	Second : 13
+Iron enjoy Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 37	Second : 48
+Iron enjoy Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 37	Second : 50
+Iron enjoy Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 37	Second : 51
+Iron enjoy Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 37	Second : 51
+Iron enjoy Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 14	Second : 6
+Iron enjoy Has Sold item: 1728, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 14	Second : 7
+Iron enjoy Has Sold item: 1192, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 14	Second : 7
+Iron enjoy Has Sold item: 1730, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 14	Second : 8
+Iron enjoy Has Sold item: 1116, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 14	Second : 10
+Iron enjoy Has Sold item: 1732, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 14	Second : 10
+Iron enjoy Has Sold item: 1732, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 14	Second : 12
+Iron enjoy Has Sold item: 1732, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 7	Minute : 14	Second : 12
+Iron enjoy Has Sold item: 230, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 53	Second : 3
+Iron enjoy Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 53	Second : 5
+Iron enjoy Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 53	Second : 6
+Iron enjoy Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 53	Second : 7
+Iron enjoy Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 53	Second : 7
+Iron enjoy Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 53	Second : 9
+Iron enjoy Has Sold item: 268, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 53	Second : 10
+Iron enjoy Has Sold item: 200, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 53	Second : 10
+Iron enjoy Has Sold item: 254, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 53	Second : 11
+Iron enjoy Has Sold item: 262, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 53	Second : 12
+Iron enjoy Has Sold item: 1176, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 53	Second : 12
+Iron enjoy Has Sold item: 382, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 55	Second : 55
+Iron enjoy Has Sold item: 1713, Quantity 75
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 10	Minute : 24	Second : 12
+Iron enjoy Has Sold item: 7334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 10	Minute : 24	Second : 12
+Iron enjoy Has Sold item: 7340, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 10	Minute : 24	Second : 13
+Iron enjoy Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 10	Minute : 24	Second : 14
+Iron enjoy Has Sold item: 1149, Quantity 10
+--------------------------------------------------

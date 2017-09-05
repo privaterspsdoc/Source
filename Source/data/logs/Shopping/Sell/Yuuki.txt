@@ -1,0 +1,4 @@
+
+Year : 2015	Month : 5	Day : 24	Hour : 11	Minute : 57	Second : 53
+Yuuki Has Sold item: 1897, Quantity 10
+--------------------------------------------------

@@ -66,7 +66,24 @@ public class Misc {
 		}
 		return new String(ac, 12 - i, i);
 	}
-
+	public static String optimizeText3(String s) {
+		for (int i = 0; i < s.length(); i++) {
+			if (i == 0) {
+				s = String.format( "%s%s",
+				Character.toUpperCase(s.charAt(0)),
+				s.substring(1) );
+			}
+			if (!Character.isLetterOrDigit(s.charAt(i))) {
+				if (i + 1 < s.length()) {
+					s = String.format( "%s%s%s",
+                             s.subSequence(0, i+1),
+                             Character.toUpperCase(s.charAt(i + 1)),
+                             s.substring(i+2) );
+				}
+			}
+		}
+		return s;
+	}
 	public static final char playerNameXlateTable[] = { '_', 'a', 'b', 'c',
 			'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p',
 			'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', '0', '1', '2',

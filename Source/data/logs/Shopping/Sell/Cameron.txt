@@ -1,0 +1,439 @@
+
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 16	Second : 12
+Cameron Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 16	Second : 27
+Cameron Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 44	Second : 45
+Cameron Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 44	Second : 48
+Cameron Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 44	Second : 52
+Cameron Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 44	Second : 58
+Cameron Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 45	Second : 0
+Cameron Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 45	Second : 1
+Cameron Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 45	Second : 1
+Cameron Has Sold item: 561, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 45	Second : 4
+Cameron Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 45	Second : 7
+Cameron Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 45	Second : 8
+Cameron Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 45	Second : 11
+Cameron Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 45	Second : 14
+Cameron Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 47	Second : 6
+Cameron Has Sold item: 1617, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 47	Second : 33
+Cameron Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 50	Second : 49
+Cameron Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 50	Second : 51
+Cameron Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 50	Second : 54
+Cameron Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 51	Second : 36
+Cameron Has Sold item: 1729, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 51	Second : 37
+Cameron Has Sold item: 1729, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 51	Second : 39
+Cameron Has Sold item: 1729, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 52	Second : 16
+Cameron Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 52	Second : 20
+Cameron Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 52	Second : 21
+Cameron Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 53	Second : 0
+Cameron Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 53	Second : 2
+Cameron Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 53	Second : 3
+Cameron Has Sold item: 1617, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 53	Second : 44
+Cameron Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 53	Second : 46
+Cameron Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 53	Second : 48
+Cameron Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 55	Second : 8
+Cameron Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 55	Second : 10
+Cameron Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 55	Second : 12
+Cameron Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 57	Second : 20
+Cameron Has Sold item: 9144, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 57	Second : 22
+Cameron Has Sold item: 9144, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 57	Second : 22
+Cameron Has Sold item: 9144, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 57	Second : 32
+Cameron Has Sold item: 9144, Quantity 333
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 57	Second : 35
+Cameron Has Sold item: 9144, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 57	Second : 39
+Cameron Has Sold item: 9144, Quantity 453
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 57	Second : 45
+Cameron Has Sold item: 9144, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 57	Second : 51
+Cameron Has Sold item: 9144, Quantity 1000
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 58	Second : 7
+Cameron Has Sold item: 9144, Quantity 1000
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 16	Second : 44
+Cameron Has Sold item: 6524, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 16	Second : 47
+Cameron Has Sold item: 6525, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 16	Second : 51
+Cameron Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 16	Second : 58
+Cameron Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 17	Second : 0
+Cameron Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 21	Second : 5
+Cameron Has Sold item: 9144, Quantity 10000
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 21	Second : 10
+Cameron Has Sold item: 9185, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 21	Second : 11
+Cameron Has Sold item: 5300, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 35	Second : 52
+Cameron Has Sold item: 2353, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 35	Second : 54
+Cameron Has Sold item: 2351, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 36	Second : 0
+Cameron Has Sold item: 1751, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 36	Second : 2
+Cameron Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 36	Second : 5
+Cameron Has Sold item: 565, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 36	Second : 7
+Cameron Has Sold item: 565, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 41	Second : 26
+Cameron Has Sold item: 4675, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 41	Second : 27
+Cameron Has Sold item: 4089, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 47	Second : 46
+Cameron Has Sold item: 4101, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 47	Second : 46
+Cameron Has Sold item: 4103, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 47	Second : 49
+Cameron Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 3	Second : 54
+Cameron Has Sold item: 2354, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 3	Second : 56
+Cameron Has Sold item: 1320, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 3	Second : 58
+Cameron Has Sold item: 2352, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 4	Second : 0
+Cameron Has Sold item: 2352, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 7	Second : 23
+Cameron Has Sold item: 9075, Quantity 5000
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 17	Second : 2
+Cameron Has Sold item: 9075, Quantity 2000
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 20	Second : 10
+Cameron Has Sold item: 1601, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 20	Second : 12
+Cameron Has Sold item: 380, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 20	Second : 17
+Cameron Has Sold item: 380, Quantity 3333
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 20	Second : 23
+Cameron Has Sold item: 2495, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 20	Second : 24
+Cameron Has Sold item: 2501, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 21	Second : 9
+Cameron Has Sold item: 565, Quantity 500
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 21	Second : 19
+Cameron Has Sold item: 560, Quantity 500
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 32	Second : 1
+Cameron Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 32	Second : 2
+Cameron Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 32	Second : 7
+Cameron Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 54	Second : 1
+Cameron Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 54	Second : 2
+Cameron Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 54	Second : 3
+Cameron Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 54	Second : 5
+Cameron Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 39	Second : 2
+Cameron Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 39	Second : 7
+Cameron Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 39	Second : 9
+Cameron Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 39	Second : 11
+Cameron Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 47	Second : 22
+Cameron Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 47	Second : 26
+Cameron Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 47	Second : 28
+Cameron Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 47	Second : 30
+Cameron Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 47	Second : 32
+Cameron Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 47	Second : 34
+Cameron Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 56	Second : 13
+Cameron Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 56	Second : 13
+Cameron Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 56	Second : 17
+Cameron Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 56	Second : 19
+Cameron Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 56	Second : 19
+Cameron Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 56	Second : 20
+Cameron Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 56	Second : 22
+Cameron Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 56	Second : 23
+Cameron Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 56	Second : 25
+Cameron Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 56	Second : 25
+Cameron Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 56	Second : 26
+Cameron Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 0	Second : 50
+Cameron Has Sold item: 9075, Quantity 1000
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 10	Second : 8
+Cameron Has Sold item: 4089, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 10	Second : 10
+Cameron Has Sold item: 4094, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 10	Second : 10
+Cameron Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 10	Second : 11
+Cameron Has Sold item: 4113, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 16	Second : 34
+Cameron Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 16	Second : 35
+Cameron Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 23	Second : 39
+Cameron Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 24	Second : 55
+Cameron Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 24	Second : 57
+Cameron Has Sold item: 1602, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 24	Second : 58
+Cameron Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 24	Second : 59
+Cameron Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 26	Second : 39
+Cameron Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 27	Second : 8
+Cameron Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 27	Second : 9
+Cameron Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 27	Second : 40
+Cameron Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 27	Second : 42
+Cameron Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 27	Second : 43
+Cameron Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 28	Second : 12
+Cameron Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 28	Second : 13
+Cameron Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 28	Second : 44
+Cameron Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 28	Second : 45
+Cameron Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 29	Second : 33
+Cameron Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 30	Second : 4
+Cameron Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 30	Second : 5
+Cameron Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 30	Second : 37
+Cameron Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 30	Second : 38
+Cameron Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 31	Second : 45
+Cameron Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 31	Second : 46
+Cameron Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 52	Second : 35
+Cameron Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 52	Second : 40
+Cameron Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 52	Second : 41
+Cameron Has Sold item: 1751, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 2	Second : 8
+Cameron Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 2	Second : 11
+Cameron Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 9	Second : 0
+Cameron Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 9	Second : 8
+Cameron Has Sold item: 6145, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 9	Second : 9
+Cameron Has Sold item: 6130, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 15	Second : 24
+Cameron Has Sold item: 2359, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 15	Second : 27
+Cameron Has Sold item: 2359, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 15	Second : 29
+Cameron Has Sold item: 536, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 15	Second : 31
+Cameron Has Sold item: 4094, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 15	Second : 34
+Cameron Has Sold item: 4113, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 15	Second : 36
+Cameron Has Sold item: 4675, Quantity 1
+--------------------------------------------------

@@ -1,0 +1,55 @@
+
+Year : 2015	Month : 6	Day : 1	Hour : 1	Minute : 24	Second : 29
+Player Command: resize
+--------------------------------------------------
+Year : 2015	Month : 6	Day : 1	Hour : 1	Minute : 24	Second : 35
+Player Command: optab
+--------------------------------------------------
+Year : 2015	Month : 6	Day : 1	Hour : 1	Minute : 24	Second : 36
+Player Command: ta
+--------------------------------------------------
+Year : 2015	Month : 6	Day : 1	Hour : 1	Minute : 24	Second : 38
+Player Command: tab
+--------------------------------------------------
+Year : 2015	Month : 6	Day : 1	Hour : 1	Minute : 24	Second : 41
+Player Command: chat
+--------------------------------------------------
+Year : 2015	Month : 6	Day : 1	Hour : 1	Minute : 25	Second : 23
+Player Command: resize
+--------------------------------------------------
+Year : 2015	Month : 6	Day : 1	Hour : 1	Minute : 25	Second : 26
+Player Command: chat
+--------------------------------------------------
+Year : 2015	Month : 6	Day : 1	Hour : 1	Minute : 25	Second : 32
+Player Command: item 5733 1
+--------------------------------------------------
+Year : 2015	Month : 6	Day : 1	Hour : 1	Minute : 26	Second : 57
+Player Command: getid toxic
+--------------------------------------------------
+Year : 2015	Month : 6	Day : 1	Hour : 1	Minute : 27	Second : 2
+Player Command: item 12926 1
+--------------------------------------------------
+Year : 2015	Month : 6	Day : 1	Hour : 1	Minute : 27	Second : 16
+Player Command: getid dragon
+--------------------------------------------------
+Year : 2015	Month : 6	Day : 1	Hour : 1	Minute : 27	Second : 27
+Player Command: item 12653 1
+--------------------------------------------------
+Year : 2015	Month : 6	Day : 1	Hour : 1	Minute : 27	Second : 47
+Player Command: npc 2042
+--------------------------------------------------
+Year : 2015	Month : 6	Day : 2	Hour : 0	Minute : 42	Second : 28
+Player Command: train
+--------------------------------------------------
+Year : 2015	Month : 6	Day : 2	Hour : 0	Minute : 45	Second : 10
+Player Command: item 773 1
+--------------------------------------------------
+Year : 2015	Month : 6	Day : 2	Hour : 0	Minute : 51	Second : 9
+Player Command: item 995 1000000
+--------------------------------------------------
+Year : 2015	Month : 6	Day : 2	Hour : 0	Minute : 56	Second : 7
+Player Command: item 12926 1
+--------------------------------------------------
+Year : 2015	Month : 6	Day : 2	Hour : 1	Minute : 0	Second : 26
+Player Command: item 12926 1
+--------------------------------------------------

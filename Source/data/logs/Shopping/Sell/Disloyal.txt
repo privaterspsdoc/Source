@@ -1,0 +1,418 @@
+
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 35	Second : 13
+Disloyal Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 36	Second : 4
+Disloyal Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 36	Second : 7
+Disloyal Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 51	Second : 13
+Disloyal Has Sold item: 950, Quantity 30
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 51	Second : 55
+Disloyal Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 51	Second : 57
+Disloyal Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 51	Second : 58
+Disloyal Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 3	Second : 3
+Disloyal Has Sold item: 1636, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 3	Second : 4
+Disloyal Has Sold item: 1636, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 3	Second : 8
+Disloyal Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 3	Second : 9
+Disloyal Has Sold item: 1159, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 3	Second : 11
+Disloyal Has Sold item: 1121, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 3	Second : 13
+Disloyal Has Sold item: 1071, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 36	Second : 36
+Disloyal Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 36	Second : 39
+Disloyal Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 24	Second : 9
+Disloyal Has Sold item: 1635, Quantity 30
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 25	Second : 9
+Disloyal Has Sold item: 1635, Quantity 25
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 26	Second : 17
+Disloyal Has Sold item: 1635, Quantity 25
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 27	Second : 31
+Disloyal Has Sold item: 1635, Quantity 25
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 18	Second : 27
+Disloyal Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 18	Second : 28
+Disloyal Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 18	Second : 30
+Disloyal Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 18	Second : 31
+Disloyal Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 46	Second : 12
+Disloyal Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 46	Second : 14
+Disloyal Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 46	Second : 15
+Disloyal Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 4	Second : 58
+Disloyal Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 4	Second : 59
+Disloyal Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 5	Second : 0
+Disloyal Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 5	Second : 3
+Disloyal Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 5	Second : 7
+Disloyal Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 19	Second : 36
+Disloyal Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 19	Second : 38
+Disloyal Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 19	Second : 39
+Disloyal Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 19	Second : 41
+Disloyal Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 19	Second : 42
+Disloyal Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 27	Second : 29
+Disloyal Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 27	Second : 31
+Disloyal Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 27	Second : 32
+Disloyal Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 27	Second : 34
+Disloyal Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 27	Second : 35
+Disloyal Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 27	Second : 37
+Disloyal Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 34	Second : 12
+Disloyal Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 34	Second : 13
+Disloyal Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 18	Second : 30
+Disloyal Has Sold item: 1727, Quantity 30
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 19	Second : 22
+Disloyal Has Sold item: 1725, Quantity 30
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 20	Second : 40
+Disloyal Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 20	Second : 43
+Disloyal Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 20	Second : 44
+Disloyal Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 21	Second : 34
+Disloyal Has Sold item: 1731, Quantity 30
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 22	Second : 28
+Disloyal Has Sold item: 1712, Quantity 30
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 23	Second : 18
+Disloyal Has Sold item: 1712, Quantity 30
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 24	Second : 4
+Disloyal Has Sold item: 1712, Quantity 30
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 30	Second : 57
+Disloyal Has Sold item: 1213, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 30	Second : 58
+Disloyal Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 31	Second : 0
+Disloyal Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 31	Second : 3
+Disloyal Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 31	Second : 6
+Disloyal Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 31	Second : 8
+Disloyal Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 39	Second : 40
+Disloyal Has Sold item: 1213, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 39	Second : 41
+Disloyal Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 39	Second : 42
+Disloyal Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 39	Second : 44
+Disloyal Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 39	Second : 46
+Disloyal Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 39	Second : 49
+Disloyal Has Sold item: 1754, Quantity 15
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 39	Second : 51
+Disloyal Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 48	Second : 41
+Disloyal Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 48	Second : 43
+Disloyal Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 48	Second : 44
+Disloyal Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 48	Second : 46
+Disloyal Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 48	Second : 48
+Disloyal Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 48	Second : 50
+Disloyal Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 48	Second : 51
+Disloyal Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 48	Second : 54
+Disloyal Has Sold item: 536, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 49	Second : 47
+Disloyal Has Sold item: 2613, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 49	Second : 48
+Disloyal Has Sold item: 2611, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 49	Second : 49
+Disloyal Has Sold item: 7334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 49	Second : 51
+Disloyal Has Sold item: 7346, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 21	Second : 41
+Disloyal Has Sold item: 6130, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 21	Second : 42
+Disloyal Has Sold item: 6130, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 21	Second : 44
+Disloyal Has Sold item: 6145, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 21	Second : 50
+Disloyal Has Sold item: 4153, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 21	Second : 51
+Disloyal Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 26	Second : 30
+Disloyal Has Sold item: 1113, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 26	Second : 32
+Disloyal Has Sold item: 1093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 38	Second : 14
+Disloyal Has Sold item: 6151, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 38	Second : 16
+Disloyal Has Sold item: 6130, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 44	Second : 40
+Disloyal Has Sold item: 1359, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 44	Second : 42
+Disloyal Has Sold item: 1093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 1	Second : 32
+Disloyal Has Sold item: 2364, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 1	Second : 33
+Disloyal Has Sold item: 4094, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 1	Second : 35
+Disloyal Has Sold item: 4102, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 1	Second : 37
+Disloyal Has Sold item: 4112, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 1	Second : 38
+Disloyal Has Sold item: 1304, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 1	Second : 40
+Disloyal Has Sold item: 1186, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 1	Second : 41
+Disloyal Has Sold item: 4104, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 1	Second : 43
+Disloyal Has Sold item: 2492, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 35	Second : 32
+Disloyal Has Sold item: 1160, Quantity 50
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 35	Second : 34
+Disloyal Has Sold item: 1144, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 35	Second : 36
+Disloyal Has Sold item: 1198, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 35	Second : 39
+Disloyal Has Sold item: 1072, Quantity 30
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 35	Second : 42
+Disloyal Has Sold item: 1162, Quantity 30
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 35	Second : 44
+Disloyal Has Sold item: 1164, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 35	Second : 45
+Disloyal Has Sold item: 441, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 35	Second : 48
+Disloyal Has Sold item: 454, Quantity 250
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 31
+Disloyal Has Sold item: 4112, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 33
+Disloyal Has Sold item: 4090, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 34
+Disloyal Has Sold item: 4114, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 36
+Disloyal Has Sold item: 2622, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 39
+Disloyal Has Sold item: 2624, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 40
+Disloyal Has Sold item: 1148, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 41
+Disloyal Has Sold item: 1128, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 43
+Disloyal Has Sold item: 2664, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 44
+Disloyal Has Sold item: 4092, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 46
+Disloyal Has Sold item: 4094, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 47
+Disloyal Has Sold item: 1080, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 53
+Disloyal Has Sold item: 2504, Quantity 109
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 48	Second : 57
+Disloyal Has Sold item: 2498, Quantity 79
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 29	Second : 31
+Disloyal Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 29	Second : 33
+Disloyal Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 29	Second : 34
+Disloyal Has Sold item: 1127, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 29	Second : 35
+Disloyal Has Sold item: 1163, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 29	Second : 37
+Disloyal Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 25	Second : 38
+Disloyal Has Sold item: 1127, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 25	Second : 43
+Disloyal Has Sold item: 1127, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 26	Second : 6
+Disloyal Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 15	Second : 1
+Disloyal Has Sold item: 6813, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 15	Second : 4
+Disloyal Has Sold item: 4092, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 15	Second : 5
+Disloyal Has Sold item: 3752, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 15	Second : 6
+Disloyal Has Sold item: 2352, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 15	Second : 11
+Disloyal Has Sold item: 856, Quantity 181
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 15	Second : 17
+Disloyal Has Sold item: 852, Quantity 75
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 15	Second : 19
+Disloyal Has Sold item: 1304, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 42	Second : 0
+Disloyal Has Sold item: 6813, Quantity 25
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 42	Second : 2
+Disloyal Has Sold item: 1334, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 42	Second : 4
+Disloyal Has Sold item: 1128, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 9	Second : 2
+Disloyal Has Sold item: 856, Quantity 297
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 9	Second : 9
+Disloyal Has Sold item: 860, Quantity 496
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 10	Second : 56
+Disloyal Has Sold item: 1732, Quantity 40
+--------------------------------------------------

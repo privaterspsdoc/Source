@@ -1,0 +1,34 @@
+
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 30	Second : 56
+Shawn Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 30	Second : 58
+Shawn Has Sold item: 1897, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 30	Second : 59
+Shawn Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 32	Second : 40
+Shawn Has Sold item: 950, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 36	Second : 22
+Shawn Has Sold item: 1635, Quantity 20
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 36	Second : 24
+Shawn Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 36	Second : 25
+Shawn Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 38	Second : 50
+Shawn Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 38	Second : 51
+Shawn Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 38	Second : 52
+Shawn Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 8	Minute : 39	Second : 47
+Shawn Has Sold item: 1635, Quantity 10
+--------------------------------------------------

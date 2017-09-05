@@ -1,0 +1,16 @@
+
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 14	Second : 57
+Blake Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 34	Second : 9
+Blake Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 34	Second : 11
+Blake Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 34	Second : 12
+Blake Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 34	Second : 17
+Blake Has Sold item: 1608, Quantity 10
+--------------------------------------------------

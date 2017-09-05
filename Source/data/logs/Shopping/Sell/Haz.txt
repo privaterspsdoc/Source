@@ -1,0 +1,31 @@
+
+Year : 2015	Month : 5	Day : 19	Hour : 8	Minute : 20	Second : 13
+Haz Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 13	Second : 40
+Haz Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 59	Second : 37
+Haz Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 23	Second : 57
+Haz Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 23	Second : 59
+Haz Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 10	Second : 19
+Haz Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 37	Second : 41
+Haz Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 12	Second : 42
+Haz Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 12	Second : 45
+Haz Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 12	Second : 46
+Haz Has Sold item: 4587, Quantity 5
+--------------------------------------------------

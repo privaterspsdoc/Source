@@ -1,0 +1,196 @@
+
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 7	Second : 39
+Paro Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 7	Second : 41
+Paro Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 7	Second : 42
+Paro Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 54	Second : 38
+Paro Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 54	Second : 41
+Paro Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 54	Second : 42
+Paro Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 54	Second : 44
+Paro Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 6	Second : 25
+Paro Has Sold item: 1635, Quantity 43
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 7	Second : 21
+Paro Has Sold item: 1635, Quantity 34
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 8	Second : 34
+Paro Has Sold item: 1727, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 9	Second : 24
+Paro Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 9	Second : 25
+Paro Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 9	Second : 26
+Paro Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 10	Second : 8
+Paro Has Sold item: 1725, Quantity 432
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 10	Second : 43
+Paro Has Sold item: 1731, Quantity 45
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 11	Second : 9
+Paro Has Sold item: 1731, Quantity 44
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 11	Second : 45
+Paro Has Sold item: 1725, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 11	Second : 48
+Paro Has Sold item: 1712, Quantity 25
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 12	Second : 24
+Paro Has Sold item: 1712, Quantity 34
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 12	Second : 58
+Paro Has Sold item: 1712, Quantity 32
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 13	Second : 42
+Paro Has Sold item: 1712, Quantity 43
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 14	Second : 13
+Paro Has Sold item: 1712, Quantity 432
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 14	Second : 48
+Paro Has Sold item: 1712, Quantity 54
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 15	Second : 32
+Paro Has Sold item: 1712, Quantity 43
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 16	Second : 3
+Paro Has Sold item: 1712, Quantity 54
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 16	Second : 46
+Paro Has Sold item: 1712, Quantity 54
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 17	Second : 58
+Paro Has Sold item: 1712, Quantity 45
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 18	Second : 35
+Paro Has Sold item: 1712, Quantity 34
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 19	Second : 17
+Paro Has Sold item: 1712, Quantity 54
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 19	Second : 50
+Paro Has Sold item: 1712, Quantity 54
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 20	Second : 19
+Paro Has Sold item: 1712, Quantity 43
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 21	Second : 15
+Paro Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 21	Second : 16
+Paro Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 21	Second : 18
+Paro Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 22	Second : 0
+Paro Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 22	Second : 2
+Paro Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 22	Second : 33
+Paro Has Sold item: 1712, Quantity 67
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 23	Second : 2
+Paro Has Sold item: 1712, Quantity 67
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 23	Second : 28
+Paro Has Sold item: 1712, Quantity 78
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 24	Second : 0
+Paro Has Sold item: 1712, Quantity 78
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 24	Second : 34
+Paro Has Sold item: 1712, Quantity 999
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 25	Second : 7
+Paro Has Sold item: 1712, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 25	Second : 40
+Paro Has Sold item: 1712, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 27	Second : 15
+Paro Has Sold item: 1712, Quantity 99
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 43	Second : 44
+Paro Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 13	Second : 33
+Paro Has Sold item: 560, Quantity 863
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 34	Second : 9
+Paro Has Sold item: 1381, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 34	Second : 20
+Paro Has Sold item: 554, Quantity 9204
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 1	Second : 26
+Paro Has Sold item: 9144, Quantity 308
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 7	Second : 23
+Paro Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 4	Second : 18
+Paro Has Sold item: 6686, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 4	Second : 19
+Paro Has Sold item: 1541, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 4	Second : 20
+Paro Has Sold item: 4676, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 4	Second : 21
+Paro Has Sold item: 4835, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 4	Second : 23
+Paro Has Sold item: 1713, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 4	Second : 24
+Paro Has Sold item: 142, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 4	Second : 24
+Paro Has Sold item: 172, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 4	Second : 28
+Paro Has Sold item: 7947, Quantity 86
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 4	Second : 31
+Paro Has Sold item: 7947, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 4	Second : 32
+Paro Has Sold item: 7947, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 4	Second : 34
+Paro Has Sold item: 4588, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 4	Second : 35
+Paro Has Sold item: 7947, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 4	Second : 36
+Paro Has Sold item: 1756, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 4	Second : 39
+Paro Has Sold item: 560, Quantity 400
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 4	Second : 44
+Paro Has Sold item: 565, Quantity 2000
+--------------------------------------------------

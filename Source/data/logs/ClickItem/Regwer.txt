@@ -1,0 +1,16 @@
+
+Year : 2017	Month : 7	Day : 22	Hour : 1	Minute : 5	Second : 4
+Regwer Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 22	Hour : 1	Minute : 5	Second : 4
+Regwer Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 22	Hour : 1	Minute : 5	Second : 4
+Regwer Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 22	Hour : 1	Minute : 5	Second : 4
+Regwer Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 22	Hour : 1	Minute : 5	Second : 5
+Regwer Has clicked item: 1897
+--------------------------------------------------

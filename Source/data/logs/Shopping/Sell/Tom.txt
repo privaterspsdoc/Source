@@ -1,0 +1,37 @@
+
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 27	Second : 5
+Tom Has Sold item: 1727, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 27	Second : 5
+Tom Has Sold item: 1729, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 27	Second : 47
+Tom Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 27	Second : 48
+Tom Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 27	Second : 49
+Tom Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 28	Second : 21
+Tom Has Sold item: 1731, Quantity 25
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 28	Second : 50
+Tom Has Sold item: 1712, Quantity 25
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 29	Second : 19
+Tom Has Sold item: 1712, Quantity 25
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 29	Second : 55
+Tom Has Sold item: 1712, Quantity 25
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 30	Second : 23
+Tom Has Sold item: 1712, Quantity 25
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 0	Second : 52
+Tom Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 0	Second : 53
+Tom Has Sold item: 1323, Quantity 1
+--------------------------------------------------

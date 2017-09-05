@@ -1,0 +1,4 @@
+
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 12	Second : 32
+Chad Has Sold item: 1897, Quantity 10
+--------------------------------------------------

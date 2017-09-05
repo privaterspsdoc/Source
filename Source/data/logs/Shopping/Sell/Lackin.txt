@@ -1,0 +1,10 @@
+
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 28	Second : 8
+Lackin Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 28	Second : 10
+Lackin Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 28	Second : 37
+Lackin Has Sold item: 2579, Quantity 5
+--------------------------------------------------

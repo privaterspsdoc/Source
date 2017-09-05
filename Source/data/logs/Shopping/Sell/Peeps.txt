@@ -1,0 +1,574 @@
+
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 23	Second : 41
+Peeps Has Sold item: 4587, Quantity 3
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 24	Second : 23
+Peeps Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 24	Second : 26
+Peeps Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 24	Second : 27
+Peeps Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 1	Minute : 45	Second : 26
+Peeps Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 20	Second : 33
+Peeps Has Sold item: 6107, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 20	Second : 33
+Peeps Has Sold item: 6108, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 20	Second : 34
+Peeps Has Sold item: 1191, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 20	Second : 35
+Peeps Has Sold item: 1153, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 20	Second : 37
+Peeps Has Sold item: 841, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 4	Minute : 26	Second : 22
+Peeps Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 4	Minute : 26	Second : 23
+Peeps Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 4	Minute : 26	Second : 24
+Peeps Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 4	Minute : 26	Second : 26
+Peeps Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 4	Minute : 26	Second : 27
+Peeps Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 4	Minute : 26	Second : 34
+Peeps Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 4	Minute : 26	Second : 36
+Peeps Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 4	Minute : 26	Second : 40
+Peeps Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 4	Minute : 29	Second : 30
+Peeps Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 4	Minute : 29	Second : 31
+Peeps Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 4	Minute : 29	Second : 34
+Peeps Has Sold item: 1093, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 4	Minute : 29	Second : 35
+Peeps Has Sold item: 1127, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 4	Minute : 44	Second : 36
+Peeps Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 4	Minute : 44	Second : 37
+Peeps Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 4	Minute : 9	Second : 16
+Peeps Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 4	Minute : 9	Second : 18
+Peeps Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 4	Minute : 9	Second : 20
+Peeps Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 4	Minute : 9	Second : 20
+Peeps Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 4	Minute : 9	Second : 22
+Peeps Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 4	Minute : 9	Second : 23
+Peeps Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 5	Minute : 0	Second : 46
+Peeps Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 5	Minute : 0	Second : 48
+Peeps Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 5	Minute : 0	Second : 49
+Peeps Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 5	Minute : 11	Second : 15
+Peeps Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 5	Minute : 11	Second : 16
+Peeps Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 15	Second : 47
+Peeps Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 15	Second : 49
+Peeps Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 15	Second : 50
+Peeps Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 15	Second : 52
+Peeps Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 15	Second : 53
+Peeps Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 1	Second : 19
+Peeps Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 1	Second : 24
+Peeps Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 1	Second : 25
+Peeps Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 1	Second : 26
+Peeps Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 1	Second : 27
+Peeps Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 16	Second : 45
+Peeps Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 16	Second : 47
+Peeps Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 16	Second : 48
+Peeps Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 39	Second : 35
+Peeps Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 39	Second : 38
+Peeps Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 39	Second : 40
+Peeps Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 39	Second : 43
+Peeps Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 39	Second : 45
+Peeps Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 39	Second : 46
+Peeps Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 39	Second : 51
+Peeps Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 39	Second : 52
+Peeps Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 39	Second : 54
+Peeps Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 40	Second : 0
+Peeps Has Sold item: 830, Quantity 120
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 40	Second : 3
+Peeps Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 40	Second : 37
+Peeps Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 40	Second : 38
+Peeps Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 40	Second : 39
+Peeps Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 40	Second : 41
+Peeps Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 47	Second : 51
+Peeps Has Sold item: 1608, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 47	Second : 52
+Peeps Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 47	Second : 53
+Peeps Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 47	Second : 54
+Peeps Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 47	Second : 59
+Peeps Has Sold item: 2504, Quantity 39
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 48	Second : 3
+Peeps Has Sold item: 2498, Quantity 20
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 48	Second : 6
+Peeps Has Sold item: 1128, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 48	Second : 8
+Peeps Has Sold item: 1080, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 48	Second : 10
+Peeps Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 55	Second : 9
+Peeps Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 55	Second : 10
+Peeps Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 55	Second : 11
+Peeps Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 55	Second : 12
+Peeps Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 55	Second : 13
+Peeps Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 17	Second : 31
+Peeps Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 17	Second : 33
+Peeps Has Sold item: 1334, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 17	Second : 35
+Peeps Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 17	Second : 35
+Peeps Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 17	Second : 57
+Peeps Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 17	Second : 58
+Peeps Has Sold item: 4129, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 25	Second : 21
+Peeps Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 25	Second : 27
+Peeps Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 25	Second : 28
+Peeps Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 25	Second : 29
+Peeps Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 25	Second : 31
+Peeps Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 25	Second : 31
+Peeps Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 25	Second : 32
+Peeps Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 25	Second : 33
+Peeps Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 37	Second : 18
+Peeps Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 37	Second : 23
+Peeps Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 37	Second : 25
+Peeps Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 37	Second : 26
+Peeps Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 37	Second : 27
+Peeps Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 37	Second : 30
+Peeps Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 37	Second : 31
+Peeps Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 37	Second : 32
+Peeps Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 22	Second : 54
+Peeps Has Sold item: 4089, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 22	Second : 56
+Peeps Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 31	Second : 34
+Peeps Has Sold item: 2498, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 31	Second : 36
+Peeps Has Sold item: 2504, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 54	Second : 51
+Peeps Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 54	Second : 54
+Peeps Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 54	Second : 56
+Peeps Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 54	Second : 58
+Peeps Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 49	Second : 35
+Peeps Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 49	Second : 38
+Peeps Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 49	Second : 39
+Peeps Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 18	Second : 23
+Peeps Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 18	Second : 25
+Peeps Has Sold item: 1303, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 28	Second : 2
+Peeps Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 14	Second : 7
+Peeps Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 14	Second : 10
+Peeps Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 14	Second : 12
+Peeps Has Sold item: 1729, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 15	Second : 20
+Peeps Has Sold item: 1731, Quantity 20
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 15	Second : 24
+Peeps Has Sold item: 1729, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 16	Second : 8
+Peeps Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 16	Second : 10
+Peeps Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 16	Second : 12
+Peeps Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 17	Second : 16
+Peeps Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 18	Second : 43
+Peeps Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 19	Second : 29
+Peeps Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 5	Minute : 23	Second : 19
+Peeps Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 51	Second : 33
+Peeps Has Sold item: 1303, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 51	Second : 34
+Peeps Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 51	Second : 35
+Peeps Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 7	Second : 54
+Peeps Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 7	Second : 55
+Peeps Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 7	Second : 57
+Peeps Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 7	Second : 58
+Peeps Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 8	Second : 0
+Peeps Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 8	Second : 2
+Peeps Has Sold item: 4153, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 8	Second : 4
+Peeps Has Sold item: 261, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 8	Second : 5
+Peeps Has Sold item: 263, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 13	Second : 40
+Peeps Has Sold item: 229, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 13	Second : 42
+Peeps Has Sold item: 141, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 13	Second : 43
+Peeps Has Sold item: 1164, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 13	Second : 49
+Peeps Has Sold item: 2429, Quantity 63
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 13	Second : 54
+Peeps Has Sold item: 11338, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 13	Second : 57
+Peeps Has Sold item: 1094, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 14	Second : 4
+Peeps Has Sold item: 374, Quantity 700
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 14	Second : 14
+Peeps Has Sold item: 380, Quantity 155
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 14	Second : 19
+Peeps Has Sold item: 1618, Quantity 160
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 14	Second : 25
+Peeps Has Sold item: 1632, Quantity 180
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 14	Second : 33
+Peeps Has Sold item: 1616, Quantity 42
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 14	Second : 39
+Peeps Has Sold item: 1608, Quantity 67
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 14	Second : 43
+Peeps Has Sold item: 830, Quantity 160
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 15	Second : 2
+Peeps Has Sold item: 7341, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 17	Second : 40
+Peeps Has Sold item: 1334, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 17	Second : 42
+Peeps Has Sold item: 4154, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 17	Second : 43
+Peeps Has Sold item: 1080, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 17	Second : 45
+Peeps Has Sold item: 1186, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 17	Second : 47
+Peeps Has Sold item: 7347, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 17	Second : 51
+Peeps Has Sold item: 1602, Quantity 60
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 17	Second : 55
+Peeps Has Sold item: 1374, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 17	Second : 58
+Peeps Has Sold item: 7353, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 19	Second : 59
+Peeps Has Sold item: 1604, Quantity 35
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 20	Second : 3
+Peeps Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 20	Second : 5
+Peeps Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 20	Second : 6
+Peeps Has Sold item: 1202, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 20	Second : 6
+Peeps Has Sold item: 2502, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 20	Second : 9
+Peeps Has Sold item: 2496, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 20	Second : 10
+Peeps Has Sold item: 1726, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 20	Second : 21
+Peeps Has Sold item: 566, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 8	Minute : 20	Second : 23
+Peeps Has Sold item: 566, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 4	Minute : 0	Second : 53
+Peeps Has Sold item: 4588, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 4	Minute : 0	Second : 57
+Peeps Has Sold item: 1334, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 4	Minute : 0	Second : 58
+Peeps Has Sold item: 1320, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 4	Minute : 0	Second : 58
+Peeps Has Sold item: 1150, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 4	Minute : 1	Second : 0
+Peeps Has Sold item: 1320, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 31	Second : 8
+Peeps Has Sold item: 1111, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 31	Second : 11
+Peeps Has Sold item: 1073, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 31	Second : 11
+Peeps Has Sold item: 1145, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 31	Second : 12
+Peeps Has Sold item: 1725, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 31	Second : 13
+Peeps Has Sold item: 1345, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 32	Second : 5
+Peeps Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 32	Second : 54
+Peeps Has Sold item: 1618, Quantity 120
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 32	Second : 57
+Peeps Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 32	Second : 59
+Peeps Has Sold item: 1616, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 33	Second : 0
+Peeps Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 33	Second : 3
+Peeps Has Sold item: 1516, Quantity 1500
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 33	Second : 23
+Peeps Has Sold item: 2504, Quantity 120
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 33	Second : 30
+Peeps Has Sold item: 2498, Quantity 82
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 34	Second : 12
+Peeps Has Sold item: 1128, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 34	Second : 15
+Peeps Has Sold item: 11711, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 13	Second : 41
+Peeps Has Sold item: 3141, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 13	Second : 52
+Peeps Has Sold item: 2362, Quantity 440
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 13	Second : 58
+Peeps Has Sold item: 2360, Quantity 550
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 32	Second : 41
+Peeps Has Sold item: 1320, Quantity 214
+--------------------------------------------------

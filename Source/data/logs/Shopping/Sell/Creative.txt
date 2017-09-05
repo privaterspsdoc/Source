@@ -1,0 +1,22 @@
+
+Year : 2015	Month : 5	Day : 19	Hour : 7	Minute : 19	Second : 33
+Creative Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 7	Minute : 19	Second : 34
+Creative Has Sold item: 1191, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 7	Minute : 30	Second : 52
+Creative Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 7	Minute : 35	Second : 0
+Creative Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 7	Minute : 35	Second : 14
+Creative Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 7	Minute : 35	Second : 16
+Creative Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 7	Minute : 35	Second : 17
+Creative Has Sold item: 1333, Quantity 1
+--------------------------------------------------

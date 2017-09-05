@@ -1,0 +1,589 @@
+
+Year : 2015	Month : 5	Day : 19	Hour : 8	Minute : 12	Second : 0
+Dijec Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 8	Minute : 12	Second : 4
+Dijec Has Sold item: 1153, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 8	Minute : 12	Second : 6
+Dijec Has Sold item: 4325, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 8	Minute : 12	Second : 11
+Dijec Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 8	Minute : 12	Second : 15
+Dijec Has Sold item: 1323, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 8	Minute : 40	Second : 14
+Dijec Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 8	Minute : 40	Second : 22
+Dijec Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 8	Minute : 40	Second : 25
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 8	Minute : 40	Second : 55
+Dijec Has Sold item: 853, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 8	Minute : 40	Second : 57
+Dijec Has Sold item: 849, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 8	Minute : 40	Second : 58
+Dijec Has Sold item: 843, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 8	Minute : 41	Second : 0
+Dijec Has Sold item: 841, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 51	Second : 56
+Dijec Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 52	Second : 25
+Dijec Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 52	Second : 27
+Dijec Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 52	Second : 45
+Dijec Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 52	Second : 48
+Dijec Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 53	Second : 10
+Dijec Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 54	Second : 17
+Dijec Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 54	Second : 20
+Dijec Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 54	Second : 24
+Dijec Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 55	Second : 28
+Dijec Has Sold item: 1635, Quantity 28
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 56	Second : 25
+Dijec Has Sold item: 1635, Quantity 34
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 57	Second : 30
+Dijec Has Sold item: 1635, Quantity 34
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 58	Second : 36
+Dijec Has Sold item: 1635, Quantity 34
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 59	Second : 0
+Dijec Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 26	Second : 49
+Dijec Has Sold item: 2431, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 26	Second : 50
+Dijec Has Sold item: 2449, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 26	Second : 52
+Dijec Has Sold item: 2449, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 36	Second : 52
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 24	Second : 53
+Dijec Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 24	Second : 55
+Dijec Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 24	Second : 58
+Dijec Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 25	Second : 2
+Dijec Has Sold item: 5699, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 25	Second : 5
+Dijec Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 47	Second : 47
+Dijec Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 47	Second : 49
+Dijec Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 52	Second : 17
+Dijec Has Sold item: 565, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 55	Second : 0
+Dijec Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 6	Second : 57
+Dijec Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 7	Second : 0
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 26	Second : 52
+Dijec Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 26	Second : 54
+Dijec Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 26	Second : 56
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 41	Second : 34
+Dijec Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 41	Second : 37
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 41	Second : 38
+Dijec Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 0	Minute : 41	Second : 40
+Dijec Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 34	Second : 23
+Dijec Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 40	Second : 5
+Dijec Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 40	Second : 12
+Dijec Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 40	Second : 15
+Dijec Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 40	Second : 17
+Dijec Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 40	Second : 19
+Dijec Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 40	Second : 21
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 46	Second : 2
+Dijec Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 46	Second : 4
+Dijec Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 37	Second : 59
+Dijec Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 38	Second : 1
+Dijec Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 38	Second : 3
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 45	Second : 51
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 59	Second : 36
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 59	Second : 38
+Dijec Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 59	Second : 40
+Dijec Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 8	Second : 18
+Dijec Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 8	Second : 19
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 21	Second : 23
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 12	Second : 38
+Dijec Has Sold item: 4089, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 12	Second : 41
+Dijec Has Sold item: 4111, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 12	Second : 42
+Dijec Has Sold item: 4113, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 12	Second : 44
+Dijec Has Sold item: 4101, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 12	Second : 46
+Dijec Has Sold item: 4091, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 12	Second : 51
+Dijec Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 22	Second : 24
+Dijec Has Sold item: 4089, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 22	Second : 25
+Dijec Has Sold item: 4091, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 22	Second : 28
+Dijec Has Sold item: 4111, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 33	Second : 29
+Dijec Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 33	Second : 30
+Dijec Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 33	Second : 32
+Dijec Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 33	Second : 33
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 33	Second : 36
+Dijec Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 48	Second : 14
+Dijec Has Sold item: 5300, Quantity 9
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 48	Second : 18
+Dijec Has Sold item: 5301, Quantity 110
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 48	Second : 23
+Dijec Has Sold item: 5302, Quantity 110
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 48	Second : 27
+Dijec Has Sold item: 5303, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 48	Second : 32
+Dijec Has Sold item: 5304, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 48	Second : 36
+Dijec Has Sold item: 5296, Quantity 108
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 48	Second : 41
+Dijec Has Sold item: 5298, Quantity 105
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 0	Second : 54
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 0	Second : 56
+Dijec Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 0	Second : 57
+Dijec Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 0	Second : 59
+Dijec Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 1	Second : 1
+Dijec Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 22	Second : 12
+Dijec Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 22	Second : 15
+Dijec Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 22	Second : 17
+Dijec Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 22	Second : 18
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 22	Second : 19
+Dijec Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 14	Second : 36
+Dijec Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 14	Second : 37
+Dijec Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 14	Second : 39
+Dijec Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 14	Second : 41
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 46	Second : 24
+Dijec Has Sold item: 2504, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 1	Minute : 19	Second : 55
+Dijec Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 1	Minute : 19	Second : 58
+Dijec Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 1	Minute : 20	Second : 1
+Dijec Has Sold item: 1729, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 1	Minute : 20	Second : 2
+Dijec Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 1	Minute : 20	Second : 4
+Dijec Has Sold item: 1617, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 1	Minute : 20	Second : 47
+Dijec Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 1	Minute : 20	Second : 50
+Dijec Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 1	Minute : 20	Second : 53
+Dijec Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 1	Minute : 23	Second : 23
+Dijec Has Sold item: 1725, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 1	Minute : 24	Second : 6
+Dijec Has Sold item: 1725, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 1	Minute : 24	Second : 41
+Dijec Has Sold item: 1725, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 1	Minute : 25	Second : 13
+Dijec Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 1	Minute : 25	Second : 17
+Dijec Has Sold item: 1725, Quantity 16
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 1	Minute : 25	Second : 50
+Dijec Has Sold item: 1725, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 1	Minute : 27	Second : 11
+Dijec Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 1	Minute : 27	Second : 48
+Dijec Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 1	Minute : 53	Second : 50
+Dijec Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 1	Minute : 53	Second : 52
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 1	Minute : 53	Second : 54
+Dijec Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 1	Minute : 53	Second : 56
+Dijec Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 1	Minute : 53	Second : 58
+Dijec Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 2	Minute : 7	Second : 11
+Dijec Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 2	Minute : 7	Second : 13
+Dijec Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 2	Minute : 7	Second : 16
+Dijec Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 2	Minute : 7	Second : 18
+Dijec Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 2	Minute : 7	Second : 19
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 4	Second : 31
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 4	Second : 34
+Dijec Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 4	Second : 35
+Dijec Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 4	Second : 36
+Dijec Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 10	Second : 15
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 12	Second : 35
+Dijec Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 12	Second : 37
+Dijec Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 50	Second : 42
+Dijec Has Sold item: 4153, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 51	Second : 50
+Dijec Has Sold item: 4153, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 5	Second : 56
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 5	Second : 58
+Dijec Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 6	Second : 1
+Dijec Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 6	Second : 5
+Dijec Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 6	Second : 8
+Dijec Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 7	Second : 48
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 21	Second : 54
+Dijec Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 21	Second : 58
+Dijec Has Sold item: 4091, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 56	Second : 36
+Dijec Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 56	Second : 37
+Dijec Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 11	Second : 50
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 11	Second : 51
+Dijec Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 11	Second : 54
+Dijec Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 11	Second : 55
+Dijec Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 11	Second : 57
+Dijec Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 43	Second : 55
+Dijec Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 43	Second : 57
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 9	Minute : 6	Second : 9
+Dijec Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 9	Minute : 6	Second : 10
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 9	Minute : 19	Second : 41
+Dijec Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 9	Minute : 19	Second : 43
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 9	Minute : 28	Second : 24
+Dijec Has Sold item: 4093, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 9	Minute : 28	Second : 26
+Dijec Has Sold item: 4094, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 38	Second : 41
+Dijec Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 57	Second : 22
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 57	Second : 23
+Dijec Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 11	Minute : 57	Second : 24
+Dijec Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 51	Second : 42
+Dijec Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 51	Second : 44
+Dijec Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 6	Minute : 51	Second : 47
+Dijec Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 9	Minute : 25	Second : 42
+Dijec Has Sold item: 5301, Quantity 34
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 9	Minute : 25	Second : 52
+Dijec Has Sold item: 5297, Quantity 47
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 9	Minute : 25	Second : 56
+Dijec Has Sold item: 5299, Quantity 44
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 4	Second : 6
+Dijec Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 4	Second : 9
+Dijec Has Sold item: 4101, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 4	Second : 12
+Dijec Has Sold item: 4675, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 4	Second : 14
+Dijec Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 21	Second : 22
+Dijec Has Sold item: 1127, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 21	Second : 23
+Dijec Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 28	Second : 27
+Dijec Has Sold item: 7945, Quantity 400
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 28	Second : 56
+Dijec Has Sold item: 1713, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 28	Second : 59
+Dijec Has Sold item: 2604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 29	Second : 13
+Dijec Has Sold item: 6569, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 7	Minute : 44	Second : 38
+Dijec Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 7	Minute : 44	Second : 41
+Dijec Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 7	Minute : 45	Second : 22
+Dijec Has Sold item: 5304, Quantity 126
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 7	Minute : 45	Second : 29
+Dijec Has Sold item: 5300, Quantity 19
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 7	Minute : 45	Second : 34
+Dijec Has Sold item: 5303, Quantity 18
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 7	Minute : 45	Second : 38
+Dijec Has Sold item: 5302, Quantity 25
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 48	Second : 55
+Dijec Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 48	Second : 57
+Dijec Has Sold item: 1216, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 48	Second : 58
+Dijec Has Sold item: 4102, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 49	Second : 2
+Dijec Has Sold item: 4090, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 49	Second : 4
+Dijec Has Sold item: 1378, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 49	Second : 6
+Dijec Has Sold item: 1306, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 49	Second : 7
+Dijec Has Sold item: 4092, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 49	Second : 9
+Dijec Has Sold item: 4104, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 1	Minute : 49	Second : 11
+Dijec Has Sold item: 4112, Quantity 10
+--------------------------------------------------

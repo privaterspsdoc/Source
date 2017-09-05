@@ -1,0 +1,97 @@
+
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 32	Second : 14
+Mystery Has Sold item: 3751, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 26	Second : 53
+Mystery Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 26	Second : 53
+Mystery Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 26	Second : 54
+Mystery Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 26	Second : 59
+Mystery Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 27	Second : 45
+Mystery Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 27	Second : 47
+Mystery Has Sold item: 2609, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 4	Minute : 13	Second : 53
+Mystery Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 4	Minute : 13	Second : 54
+Mystery Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 4	Minute : 13	Second : 56
+Mystery Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 4	Minute : 13	Second : 57
+Mystery Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 4	Minute : 13	Second : 58
+Mystery Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 4	Minute : 23	Second : 39
+Mystery Has Sold item: 7358, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 5	Minute : 30	Second : 51
+Mystery Has Sold item: 2495, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 5	Minute : 30	Second : 51
+Mystery Has Sold item: 2499, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 5	Minute : 30	Second : 52
+Mystery Has Sold item: 2501, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 5	Minute : 30	Second : 53
+Mystery Has Sold item: 1097, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 5	Minute : 30	Second : 54
+Mystery Has Sold item: 1099, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 5	Minute : 30	Second : 54
+Mystery Has Sold item: 1135, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 5	Minute : 30	Second : 55
+Mystery Has Sold item: 1133, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 5	Minute : 30	Second : 55
+Mystery Has Sold item: 2493, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 0	Second : 3
+Mystery Has Sold item: 1127, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 0	Second : 7
+Mystery Has Sold item: 6568, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 13	Second : 33
+Mystery Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 13	Second : 52
+Mystery Has Sold item: 1603, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 13	Second : 52
+Mystery Has Sold item: 1601, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 13	Second : 57
+Mystery Has Sold item: 841, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 26	Second : 52
+Mystery Has Sold item: 1163, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 26	Second : 53
+Mystery Has Sold item: 1127, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 26	Second : 53
+Mystery Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 52	Second : 8
+Mystery Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 52	Second : 9
+Mystery Has Sold item: 4587, Quantity 5
+--------------------------------------------------

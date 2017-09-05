@@ -1,0 +1,4 @@
+
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 2	Second : 22
+Syn Has Sold item: 1897, Quantity 10
+--------------------------------------------------

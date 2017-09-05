@@ -1,0 +1,34 @@
+
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 45	Second : 8
+2th pvm Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 45	Second : 10
+2th pvm Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 45	Second : 11
+2th pvm Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 45	Second : 11
+2th pvm Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 45	Second : 13
+2th pvm Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 45	Second : 15
+2th pvm Has Sold item: 1602, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 46	Second : 8
+2th pvm Has Sold item: 4154, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 42	Second : 41
+2th pvm Has Sold item: 1514, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 42	Second : 45
+2th pvm Has Sold item: 1320, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 42	Second : 46
+2th pvm Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 11	Minute : 42	Second : 47
+2th pvm Has Sold item: 1608, Quantity 10
+--------------------------------------------------

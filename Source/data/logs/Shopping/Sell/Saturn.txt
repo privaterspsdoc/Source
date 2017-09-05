@@ -1,0 +1,16 @@
+
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 8	Second : 27
+Saturn Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 8	Second : 28
+Saturn Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 8	Second : 28
+Saturn Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 44	Second : 46
+Saturn Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 45	Second : 12
+Saturn Has Sold item: 1635, Quantity 1
+--------------------------------------------------

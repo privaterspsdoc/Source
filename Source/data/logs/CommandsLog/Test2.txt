@@ -1,0 +1,469 @@
+
+Year : 2015	Month : 7	Day : 12	Hour : 10	Minute : 36	Second : 23
+Player Command: item 2366 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 10	Minute : 36	Second : 26
+Player Command: master
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 10	Minute : 39	Second : 4
+Player Command: item 11694 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 10	Minute : 47	Second : 10
+Player Command: item 11230 20000000
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 10	Minute : 47	Second : 24
+Player Command: item 112926 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 10	Minute : 47	Second : 31
+Player Command: item 12926 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 10	Minute : 58	Second : 32
+Player Command: item 987 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 10	Second : 1
+Player Command: item 5296 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 12	Second : 51
+Player Command: item 6585 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 13	Second : 0
+Player Command: item 11260 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 22	Second : 49
+Player Command: npc 1589
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 23	Second : 16
+Player Command: npc 1590
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 24	Second : 7
+Player Command: npc 53
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 25	Second : 33
+Player Command: item 11732 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 25	Second : 46
+Player Command: npc 55
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 25	Second : 48
+Player Command: npc 54
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 27	Second : 34
+Player Command: npc 8424
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 28	Second : 0
+Player Command: npc 54
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 28	Second : 26
+Player Command: npc 54
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 30	Second : 0
+Player Command: npc 50
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 40	Second : 0
+Player Command: item 2364 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 40	Second : 59
+Player Command: item 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 41	Second : 5
+Player Command: item 385 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 41	Second : 35
+Player Command: item 4834 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 50	Second : 8
+Player Command: npc 3200
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 51	Second : 25
+Player Command: npc 6
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 51	Second : 37
+Player Command: nc 87
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 51	Second : 41
+Player Command: npc 87
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 55	Second : 6
+Player Command: item 15004
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 55	Second : 10
+Player Command: item 15004 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 55	Second : 13
+Player Command: item 15005 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 55	Second : 32
+Player Command: item 15006 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 55	Second : 47
+Player Command: item 13754 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 55	Second : 56
+Player Command: item 13734 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 56	Second : 3
+Player Command: item 384 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 56	Second : 6
+Player Command: item 383 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 56	Second : 29
+Player Command: item 7945 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 56	Second : 34
+Player Command: item 2363 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 56	Second : 41
+Player Command: item 13746 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 56	Second : 50
+Player Command: item 1303 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 56	Second : 56
+Player Command: item 4091 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 57	Second : 0
+Player Command: item 4093 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 57	Second : 4
+Player Command: item 15571 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 57	Second : 11
+Player Command: item 537 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 57	Second : 15
+Player Command: item 392 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 57	Second : 20
+Player Command: item 6686 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 57	Second : 24
+Player Command: item 3025 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 57	Second : 28
+Player Command: item 2498 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 57	Second : 32
+Player Command: item 2504 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 57	Second : 36
+Player Command: item 1514 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 57	Second : 40
+Player Command: item 1616 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 57	Second : 53
+Player Command: item 11924 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 58	Second : 4
+Player Command: item 11926 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 0	Second : 35
+Player Command: item 2363 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 1	Second : 17
+Player Command: item 1303 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 2	Second : 5
+Player Command: item 15571 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 2	Second : 54
+Player Command: item 392 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 2	Second : 59
+Player Command: item 392 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 3	Second : 22
+Player Command: item 6686 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 3	Second : 27
+Player Command: item 6686 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 4	Second : 3
+Player Command: item 3025 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 4	Second : 9
+Player Command: item 3025 500000
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 4	Second : 54
+Player Command: item 1514 50000
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 7	Second : 32
+Player Command: npc 5363 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 7	Second : 36
+Player Command: item 385 10
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 7	Second : 42
+Player Command: npc 5363
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 15	Second : 39
+Player Command: item 4850 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 16	Second : 8
+Player Command: item 12922 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 17	Second : 1
+Player Command: npc 5666
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 17	Second : 27
+Player Command: item 12159 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 17	Second : 34
+Player Command: item 12160 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 17	Second : 43
+Player Command: item 10877 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 17	Second : 55
+Player Command: item 12002 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 18	Second : 14
+Player Command: npc 2042
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 18	Second : 44
+Player Command: npc 2042
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 20	Second : 10
+Player Command: npc 2042
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 20	Second : 33
+Player Command: item 12922 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 21	Second : 15
+Player Command: item 12922 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 21	Second : 22
+Player Command: item 12932 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 21	Second : 28
+Player Command: npc 2042
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 22	Second : 9
+Player Command: npc 3400
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 22	Second : 15
+Player Command: npc 3501
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 8	Second : 48
+Player Command: npc 4400
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 11	Second : 20
+Player Command: item 4384 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 11	Second : 27
+Player Command: item 4834 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 11	Second : 35
+Player Command: item 385 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 12	Second : 22
+Player Command: npc 2042
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 13	Second : 21
+Player Command: npc 2042
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 13	Second : 40
+Player Command: npc 2042
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 13	Second : 42
+Player Command: npc 2042
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 13	Second : 45
+Player Command: npc 2042
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 13	Second : 48
+Player Command: npc 2042
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 13	Second : 59
+Player Command: empty
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 14	Second : 30
+Player Command: item 6571 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 20	Second : 31
+Player Command: item 12922 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 20	Second : 35
+Player Command: item 12923 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 20	Second : 40
+Player Command: item 12932 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 20	Second : 54
+Player Command: item 12927 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 22	Second : 4
+Player Command: npc 2042
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 22	Second : 7
+Player Command: npc 2042
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 22	Second : 12
+Player Command: npc 2042
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 24	Second : 31
+Player Command: npc 2042
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 52	Second : 18
+Player Command: item 6571 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 56	Second : 4
+Player Command: item 536 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 4	Minute : 5	Second : 12
+Player Command: item 12922 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 4	Minute : 5	Second : 21
+Player Command: npc 3943
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 4	Minute : 6	Second : 53
+Player Command: npc 2042
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 4	Minute : 6	Second : 59
+Player Command: empty
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 4	Minute : 9	Second : 5
+Player Command: empty
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 4	Minute : 9	Second : 11
+Player Command: npc 2042
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 4	Minute : 9	Second : 37
+Player Command: npc 2042
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 4	Minute : 10	Second : 1
+Player Command: npc 2042
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 4	Minute : 10	Second : 24
+Player Command: npc 2042
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 4	Minute : 23	Second : 51
+Player Command: npc 2042
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 4	Minute : 28	Second : 37
+Player Command: tele 2527 4547
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 4	Minute : 29	Second : 42
+Player Command: tele 3365 3887
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 4	Minute : 29	Second : 58
+Player Command: tele 2973 9505
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 4	Minute : 30	Second : 44
+Player Command: tele 2395 9619
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 4	Minute : 30	Second : 57
+Player Command: tele 2451 9716
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 4	Minute : 32	Second : 19
+Player Command: tele 2477 4768
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 4	Minute : 32	Second : 43
+Player Command: tele 2918 9895
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 4	Minute : 33	Second : 14
+Player Command: tele 3369 3135
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 8	Minute : 59	Second : 57
+Player Command: tele 3478 9498
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 0	Second : 20
+Player Command: npc 1158
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 0	Second : 31
+Player Command: tele 3478 9498 0
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 1	Second : 48
+Player Command: item 346 10
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 1	Second : 53
+Player Command: item 375 10
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 1	Second : 59
+Player Command: item 376 10
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 2	Second : 32
+Player Command: item 385 15
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 2	Second : 43
+Player Command: tele 3478 9498
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 4	Second : 2
+Player Command: item 11694 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 6	Second : 0
+Player Command: npc 1158
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 8	Second : 7
+Player Command: npc 11578
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 8	Second : 12
+Player Command: npc 1158
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 16	Second : 2
+Player Command: npc 6257
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 16	Second : 35
+Player Command: npc 6255
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 18	Second : 16
+Player Command: tele 2915 5268 0
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 18	Second : 48
+Player Command: item 365 10
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 19	Second : 42
+Player Command: tele 2835 5289
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 20	Second : 3
+Player Command: tele 2835 5289 2
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 22	Second : 53
+Player Command: tele 2843 5280 2
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 50	Second : 52
+Player Command: npc 1612
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 51	Second : 20
+Player Command: npc 1624
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 51	Second : 30
+Player Command: npc 3499
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 51	Second : 49
+Player Command: npc 2882
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 10	Minute : 14	Second : 8
+Player Command: npc 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 10	Minute : 35	Second : 39
+Player Command: item 11702 1
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 15	Hour : 0	Minute : 21	Second : 12
+Player Command: mypos
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 15	Hour : 0	Minute : 28	Second : 37
+Player Command: mypos
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 15	Hour : 0	Minute : 29	Second : 40
+Player Command: mypos
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 15	Hour : 0	Minute : 33	Second : 48
+Player Command: mypos
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 15	Hour : 0	Minute : 34	Second : 31
+Player Command: mypos
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 15	Hour : 0	Minute : 34	Second : 58
+Player Command: mypos
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 15	Hour : 0	Minute : 36	Second : 25
+Player Command: mypos
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 15	Hour : 0	Minute : 36	Second : 55
+Player Command: mypos
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 15	Hour : 0	Minute : 37	Second : 16
+Player Command: mypos
+--------------------------------------------------

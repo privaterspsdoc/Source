@@ -1,0 +1,1906 @@
+
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 34	Second : 57
+Hornytoad Has Sold item: 951, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 34	Second : 59
+Hornytoad Has Sold item: 951, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 35	Second : 0
+Hornytoad Has Sold item: 951, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 35	Second : 2
+Hornytoad Has Sold item: 951, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 36	Second : 35
+Hornytoad Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 36	Second : 36
+Hornytoad Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 36	Second : 37
+Hornytoad Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 36	Second : 39
+Hornytoad Has Sold item: 950, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 36	Second : 42
+Hornytoad Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 37	Second : 41
+Hornytoad Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 37	Second : 41
+Hornytoad Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 37	Second : 42
+Hornytoad Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 38	Second : 41
+Hornytoad Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 38	Second : 41
+Hornytoad Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 38	Second : 42
+Hornytoad Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 39	Second : 45
+Hornytoad Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 39	Second : 45
+Hornytoad Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 39	Second : 46
+Hornytoad Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 40	Second : 45
+Hornytoad Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 40	Second : 46
+Hornytoad Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 40	Second : 46
+Hornytoad Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 41	Second : 43
+Hornytoad Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 41	Second : 44
+Hornytoad Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 41	Second : 44
+Hornytoad Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 42	Second : 43
+Hornytoad Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 42	Second : 43
+Hornytoad Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 42	Second : 44
+Hornytoad Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 43	Second : 41
+Hornytoad Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 43	Second : 43
+Hornytoad Has Sold item: 7650, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 43	Second : 46
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 43	Second : 47
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 44	Second : 47
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 44	Second : 47
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 44	Second : 48
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 46	Second : 29
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 46	Second : 29
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 46	Second : 31
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 47	Second : 30
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 47	Second : 30
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 47	Second : 31
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 48	Second : 29
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 48	Second : 30
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 48	Second : 30
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 49	Second : 28
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 49	Second : 29
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 49	Second : 29
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 50	Second : 29
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 50	Second : 30
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 50	Second : 31
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 51	Second : 29
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 51	Second : 29
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 51	Second : 30
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 52	Second : 26
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 52	Second : 26
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 52	Second : 28
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 53	Second : 27
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 53	Second : 28
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 53	Second : 28
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 54	Second : 31
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 54	Second : 31
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 54	Second : 31
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 55	Second : 31
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 55	Second : 32
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 55	Second : 33
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 30
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 30
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 31
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 57	Second : 32
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 57	Second : 34
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 57	Second : 34
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 58	Second : 33
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 58	Second : 34
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 58	Second : 34
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 0	Second : 3
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 0	Second : 3
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 0	Second : 4
+Hornytoad Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 0	Second : 7
+Hornytoad Has Sold item: 1613, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 0	Second : 10
+Hornytoad Has Sold item: 1613, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 0	Second : 11
+Hornytoad Has Sold item: 1613, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 0	Second : 12
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 1	Second : 14
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 1	Second : 14
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 1	Second : 15
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 1	Second : 39
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 6	Second : 50
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 6	Second : 51
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 6	Second : 52
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 7	Second : 54
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 7	Second : 55
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 7	Second : 57
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 10	Second : 28
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 10	Second : 28
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 10	Second : 29
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 11	Second : 27
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 11	Second : 27
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 11	Second : 28
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 12	Second : 51
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 12	Second : 51
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 12	Second : 52
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 13	Second : 53
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 13	Second : 54
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 13	Second : 54
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 14	Second : 34
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 14	Second : 35
+Hornytoad Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 15	Second : 45
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 15	Second : 45
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 15	Second : 45
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 16	Second : 42
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 16	Second : 43
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 16	Second : 43
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 17	Second : 42
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 17	Second : 42
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 17	Second : 42
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 18	Second : 44
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 18	Second : 44
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 18	Second : 45
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 19	Second : 43
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 19	Second : 43
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 19	Second : 44
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 20	Second : 42
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 20	Second : 43
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 20	Second : 43
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 21	Second : 45
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 21	Second : 46
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 21	Second : 46
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 22	Second : 44
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 22	Second : 45
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 22	Second : 46
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 23	Second : 48
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 23	Second : 48
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 23	Second : 49
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 24	Second : 51
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 24	Second : 52
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 24	Second : 52
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 27	Second : 24
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 27	Second : 25
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 27	Second : 25
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 30	Second : 32
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 30	Second : 33
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 30	Second : 33
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 31	Second : 37
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 31	Second : 38
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 31	Second : 38
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 32	Second : 41
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 32	Second : 41
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 32	Second : 42
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 33	Second : 46
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 33	Second : 47
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 33	Second : 48
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 34	Second : 51
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 34	Second : 52
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 34	Second : 52
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 41	Second : 2
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 41	Second : 2
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 41	Second : 3
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 43	Second : 2
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 43	Second : 2
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 43	Second : 3
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 44	Second : 4
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 44	Second : 4
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 44	Second : 5
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 45	Second : 1
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 45	Second : 1
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 45	Second : 2
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 46	Second : 1
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 46	Second : 2
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 46	Second : 2
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 47	Second : 1
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 47	Second : 2
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 47	Second : 2
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 47	Second : 59
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 48	Second : 0
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 48	Second : 1
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 48	Second : 58
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 48	Second : 58
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 48	Second : 59
+Hornytoad Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 48	Second : 59
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 49	Second : 58
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 49	Second : 59
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 49	Second : 59
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 51	Second : 3
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 51	Second : 3
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 51	Second : 4
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 52	Second : 5
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 52	Second : 6
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 52	Second : 6
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 53	Second : 4
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 53	Second : 5
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 53	Second : 5
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 54	Second : 18
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 54	Second : 18
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 54	Second : 18
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 55	Second : 16
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 55	Second : 17
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 55	Second : 18
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 56	Second : 16
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 56	Second : 17
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 56	Second : 17
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 57	Second : 17
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 57	Second : 17
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 57	Second : 18
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 58	Second : 17
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 58	Second : 17
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 58	Second : 18
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 59	Second : 17
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 59	Second : 18
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 59	Second : 18
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 0	Second : 17
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 0	Second : 17
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 0	Second : 18
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 1	Second : 18
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 1	Second : 18
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 1	Second : 19
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 9	Second : 56
+Hornytoad Has Sold item: 11037, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 9	Second : 57
+Hornytoad Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 42	Second : 5
+Hornytoad Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 42	Second : 7
+Hornytoad Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 42	Second : 12
+Hornytoad Has Sold item: 1602, Quantity 28
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 42	Second : 16
+Hornytoad Has Sold item: 1608, Quantity 24
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 42	Second : 19
+Hornytoad Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 21	Second : 36
+Hornytoad Has Sold item: 1754, Quantity 989
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 21	Second : 38
+Hornytoad Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 21	Second : 40
+Hornytoad Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 21	Second : 43
+Hornytoad Has Sold item: 1213, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 21	Second : 43
+Hornytoad Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 21	Second : 45
+Hornytoad Has Sold item: 1213, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 21	Second : 46
+Hornytoad Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 21	Second : 48
+Hornytoad Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 21	Second : 50
+Hornytoad Has Sold item: 1608, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 58	Second : 6
+Hornytoad Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 58	Second : 8
+Hornytoad Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 18	Second : 52
+Hornytoad Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 18	Second : 53
+Hornytoad Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 18	Second : 55
+Hornytoad Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 18	Second : 55
+Hornytoad Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 18	Second : 56
+Hornytoad Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 18	Second : 59
+Hornytoad Has Sold item: 2701, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 21	Second : 19
+Hornytoad Has Sold item: 4092, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 21	Second : 20
+Hornytoad Has Sold item: 4112, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 21	Second : 21
+Hornytoad Has Sold item: 4111, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 21	Second : 22
+Hornytoad Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 21	Second : 25
+Hornytoad Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 21	Second : 26
+Hornytoad Has Sold item: 4114, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 21	Second : 28
+Hornytoad Has Sold item: 4113, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 21	Second : 29
+Hornytoad Has Sold item: 4091, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 21	Second : 34
+Hornytoad Has Sold item: 4113, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 22	Second : 3
+Hornytoad Has Sold item: 4676, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 22	Second : 4
+Hornytoad Has Sold item: 4102, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 22	Second : 5
+Hornytoad Has Sold item: 4104, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 22	Second : 6
+Hornytoad Has Sold item: 4103, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 24	Second : 8
+Hornytoad Has Sold item: 561, Quantity 1100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 42	Second : 47
+Hornytoad Has Sold item: 4093, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 42	Second : 49
+Hornytoad Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 42	Second : 50
+Hornytoad Has Sold item: 4101, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 42	Second : 52
+Hornytoad Has Sold item: 4103, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 42	Second : 54
+Hornytoad Has Sold item: 4111, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 42	Second : 56
+Hornytoad Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 42	Second : 57
+Hornytoad Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 42	Second : 59
+Hornytoad Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 59	Second : 46
+Hornytoad Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 59	Second : 47
+Hornytoad Has Sold item: 4089, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 59	Second : 49
+Hornytoad Has Sold item: 4103, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 59	Second : 50
+Hornytoad Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 16	Second : 50
+Hornytoad Has Sold item: 4103, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 16	Second : 52
+Hornytoad Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 16	Second : 53
+Hornytoad Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 16	Second : 54
+Hornytoad Has Sold item: 4111, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 18	Second : 11
+Hornytoad Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 18	Second : 11
+Hornytoad Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 18	Second : 12
+Hornytoad Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 20	Second : 15
+Hornytoad Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 20	Second : 15
+Hornytoad Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 20	Second : 15
+Hornytoad Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 20	Second : 17
+Hornytoad Has Sold item: 1725, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 20	Second : 22
+Hornytoad Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 21	Second : 30
+Hornytoad Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 21	Second : 30
+Hornytoad Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 21	Second : 31
+Hornytoad Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 22	Second : 30
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 22	Second : 31
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 22	Second : 31
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 23	Second : 24
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 23	Second : 24
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 23	Second : 25
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 24	Second : 18
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 24	Second : 18
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 24	Second : 19
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 25	Second : 9
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 25	Second : 9
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 25	Second : 10
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 26	Second : 17
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 26	Second : 18
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 26	Second : 18
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 27	Second : 32
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 27	Second : 33
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 27	Second : 33
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 28	Second : 35
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 28	Second : 36
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 28	Second : 36
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 29	Second : 29
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 29	Second : 30
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 29	Second : 30
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 32	Second : 14
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 32	Second : 15
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 32	Second : 15
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 33	Second : 4
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 33	Second : 4
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 33	Second : 4
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 34	Second : 9
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 34	Second : 10
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 34	Second : 10
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 36	Second : 27
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 36	Second : 27
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 36	Second : 27
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 37	Second : 17
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 37	Second : 18
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 37	Second : 18
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 38	Second : 18
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 38	Second : 18
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 38	Second : 19
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 40	Second : 53
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 40	Second : 53
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 40	Second : 54
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 41	Second : 45
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 41	Second : 45
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 41	Second : 46
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 42	Second : 37
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 42	Second : 38
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 42	Second : 38
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 43	Second : 31
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 43	Second : 31
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 43	Second : 31
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 44	Second : 26
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 44	Second : 26
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 44	Second : 27
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 45	Second : 35
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 45	Second : 35
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 45	Second : 35
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 46	Second : 24
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 46	Second : 24
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 46	Second : 25
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 47	Second : 24
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 47	Second : 24
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 47	Second : 24
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 49	Second : 2
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 49	Second : 2
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 49	Second : 2
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 50	Second : 51
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 50	Second : 51
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 50	Second : 51
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 51	Second : 45
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 51	Second : 45
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 51	Second : 46
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 52	Second : 35
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 52	Second : 36
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 52	Second : 37
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 53	Second : 31
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 53	Second : 31
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 53	Second : 32
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 54	Second : 33
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 54	Second : 34
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 54	Second : 34
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 55	Second : 24
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 55	Second : 24
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 55	Second : 24
+Hornytoad Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 6	Second : 41
+Hornytoad Has Sold item: 4111, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 6	Second : 42
+Hornytoad Has Sold item: 4101, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 6	Second : 43
+Hornytoad Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 6	Second : 44
+Hornytoad Has Sold item: 4675, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 14	Second : 52
+Hornytoad Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 14	Second : 54
+Hornytoad Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 15	Second : 0
+Hornytoad Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 15	Second : 2
+Hornytoad Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 15	Second : 4
+Hornytoad Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 15	Second : 6
+Hornytoad Has Sold item: 1213, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 15	Second : 8
+Hornytoad Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 15	Second : 9
+Hornytoad Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 15	Second : 11
+Hornytoad Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 15	Second : 11
+Hornytoad Has Sold item: 1754, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 15	Second : 14
+Hornytoad Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 36	Second : 53
+Hornytoad Has Sold item: 4675, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 36	Second : 54
+Hornytoad Has Sold item: 4089, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 36	Second : 55
+Hornytoad Has Sold item: 4091, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 36	Second : 56
+Hornytoad Has Sold item: 4111, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 36	Second : 57
+Hornytoad Has Sold item: 4103, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 28	Second : 35
+Hornytoad Has Sold item: 4101, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 28	Second : 36
+Hornytoad Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 28	Second : 37
+Hornytoad Has Sold item: 4111, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 28	Second : 39
+Hornytoad Has Sold item: 4094, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 28	Second : 42
+Hornytoad Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 28	Second : 43
+Hornytoad Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 46	Second : 52
+Hornytoad Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 46	Second : 53
+Hornytoad Has Sold item: 1616, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 46	Second : 55
+Hornytoad Has Sold item: 4111, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 46	Second : 56
+Hornytoad Has Sold item: 1616, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 46	Second : 57
+Hornytoad Has Sold item: 4113, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 46	Second : 58
+Hornytoad Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 47	Second : 0
+Hornytoad Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 47	Second : 2
+Hornytoad Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 47	Second : 3
+Hornytoad Has Sold item: 4094, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 47	Second : 4
+Hornytoad Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 47	Second : 6
+Hornytoad Has Sold item: 4101, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 47	Second : 7
+Hornytoad Has Sold item: 4103, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 47	Second : 9
+Hornytoad Has Sold item: 4675, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 8	Second : 1
+Hornytoad Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 43	Second : 29
+Hornytoad Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 43	Second : 30
+Hornytoad Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 43	Second : 36
+Hornytoad Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 43	Second : 37
+Hornytoad Has Sold item: 4111, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 43	Second : 38
+Hornytoad Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 9	Second : 30
+Hornytoad Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 9	Second : 31
+Hornytoad Has Sold item: 4113, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 47	Second : 55
+Hornytoad Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 1	Minute : 47	Second : 57
+Hornytoad Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 13	Second : 5
+Hornytoad Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 13	Second : 7
+Hornytoad Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 13	Second : 8
+Hornytoad Has Sold item: 4094, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 13	Second : 9
+Hornytoad Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 25	Second : 58
+Hornytoad Has Sold item: 4111, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 25	Second : 59
+Hornytoad Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 26	Second : 0
+Hornytoad Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 26	Second : 1
+Hornytoad Has Sold item: 4103, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 36	Second : 42
+Hornytoad Has Sold item: 4101, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 36	Second : 44
+Hornytoad Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 36	Second : 45
+Hornytoad Has Sold item: 4089, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 54	Second : 28
+Hornytoad Has Sold item: 1122, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 54	Second : 29
+Hornytoad Has Sold item: 1210, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 54	Second : 31
+Hornytoad Has Sold item: 439, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 54	Second : 32
+Hornytoad Has Sold item: 437, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 54	Second : 35
+Hornytoad Has Sold item: 9140, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 54	Second : 43
+Hornytoad Has Sold item: 40, Quantity 900
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 55	Second : 3
+Hornytoad Has Sold item: 1431, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 55	Second : 4
+Hornytoad Has Sold item: 1431, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 55	Second : 6
+Hornytoad Has Sold item: 1431, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 55	Second : 8
+Hornytoad Has Sold item: 1212, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 55	Second : 9
+Hornytoad Has Sold item: 1212, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 55	Second : 10
+Hornytoad Has Sold item: 42, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 55	Second : 11
+Hornytoad Has Sold item: 1212, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 55	Second : 12
+Hornytoad Has Sold item: 1212, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 55	Second : 22
+Hornytoad Has Sold item: 42, Quantity 1805
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 55	Second : 28
+Hornytoad Has Sold item: 1146, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 55	Second : 30
+Hornytoad Has Sold item: 1146, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 55	Second : 32
+Hornytoad Has Sold item: 1146, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 55	Second : 46
+Hornytoad Has Sold item: 454, Quantity 108
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 55	Second : 48
+Hornytoad Has Sold item: 1072, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 55	Second : 50
+Hornytoad Has Sold item: 1174, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 26	Second : 47
+Hornytoad Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 26	Second : 49
+Hornytoad Has Sold item: 4094, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 26	Second : 50
+Hornytoad Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 26	Second : 51
+Hornytoad Has Sold item: 4089, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 26	Second : 53
+Hornytoad Has Sold item: 4103, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 26	Second : 56
+Hornytoad Has Sold item: 4101, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 56	Second : 59
+Hornytoad Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 57	Second : 2
+Hornytoad Has Sold item: 4103, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 57	Second : 4
+Hornytoad Has Sold item: 4675, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 57	Second : 7
+Hornytoad Has Sold item: 4089, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 17	Second : 29
+Hornytoad Has Sold item: 4675, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 17	Second : 31
+Hornytoad Has Sold item: 4101, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 17	Second : 32
+Hornytoad Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 17	Second : 34
+Hornytoad Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 17	Second : 34
+Hornytoad Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 32	Second : 35
+Hornytoad Has Sold item: 4111, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 32	Second : 37
+Hornytoad Has Sold item: 4113, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 32	Second : 38
+Hornytoad Has Sold item: 4089, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 32	Second : 40
+Hornytoad Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 32	Second : 41
+Hornytoad Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 59	Second : 29
+Hornytoad Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 59	Second : 31
+Hornytoad Has Sold item: 4093, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 59	Second : 31
+Hornytoad Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 38	Second : 34
+Hornytoad Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 38	Second : 36
+Hornytoad Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 1	Second : 45
+Hornytoad Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 1	Second : 47
+Hornytoad Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 1	Second : 51
+Hornytoad Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 1	Second : 52
+Hornytoad Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 1	Second : 54
+Hornytoad Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 1	Second : 55
+Hornytoad Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 1	Second : 57
+Hornytoad Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 1	Second : 58
+Hornytoad Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 2	Second : 0
+Hornytoad Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 13	Second : 56
+Hornytoad Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 13	Second : 57
+Hornytoad Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 13	Second : 59
+Hornytoad Has Sold item: 1751, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 14	Second : 1
+Hornytoad Has Sold item: 1751, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 14	Second : 3
+Hornytoad Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 25	Second : 22
+Hornytoad Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 25	Second : 23
+Hornytoad Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 25	Second : 25
+Hornytoad Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 25	Second : 26
+Hornytoad Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 34	Second : 7
+Hornytoad Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 34	Second : 8
+Hornytoad Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 34	Second : 12
+Hornytoad Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 34	Second : 14
+Hornytoad Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 52	Second : 52
+Hornytoad Has Sold item: 4094, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 52	Second : 54
+Hornytoad Has Sold item: 4089, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 52	Second : 55
+Hornytoad Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 53	Second : 31
+Hornytoad Has Sold item: 4113, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 53	Second : 32
+Hornytoad Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 53	Second : 33
+Hornytoad Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 53	Second : 35
+Hornytoad Has Sold item: 1608, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 28	Second : 19
+Hornytoad Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 42	Second : 14
+Hornytoad Has Sold item: 4089, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 42	Second : 15
+Hornytoad Has Sold item: 4101, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 0	Second : 18
+Hornytoad Has Sold item: 4094, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 8	Second : 0
+Hornytoad Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 8	Second : 0
+Hornytoad Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 8	Second : 2
+Hornytoad Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 8	Second : 5
+Hornytoad Has Sold item: 1146, Quantity 54
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 8	Second : 7
+Hornytoad Has Sold item: 1148, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 25	Second : 35
+Hornytoad Has Sold item: 4103, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 25	Second : 37
+Hornytoad Has Sold item: 4091, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 25	Second : 38
+Hornytoad Has Sold item: 4675, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 25	Second : 40
+Hornytoad Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 25	Second : 42
+Hornytoad Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 25	Second : 43
+Hornytoad Has Sold item: 4094, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 4	Second : 53
+Hornytoad Has Sold item: 4101, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 4	Second : 55
+Hornytoad Has Sold item: 4113, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 30	Second : 56
+Hornytoad Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 30	Second : 57
+Hornytoad Has Sold item: 4111, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 30	Second : 58
+Hornytoad Has Sold item: 4675, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 30	Second : 59
+Hornytoad Has Sold item: 4089, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 31	Second : 0
+Hornytoad Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 44	Second : 14
+Hornytoad Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 44	Second : 15
+Hornytoad Has Sold item: 4101, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 44	Second : 17
+Hornytoad Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 0	Second : 19
+Hornytoad Has Sold item: 4111, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 0	Second : 22
+Hornytoad Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 0	Second : 24
+Hornytoad Has Sold item: 4113, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 0	Second : 25
+Hornytoad Has Sold item: 4103, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 0	Second : 26
+Hornytoad Has Sold item: 4675, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 31	Second : 28
+Hornytoad Has Sold item: 4103, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 31	Second : 29
+Hornytoad Has Sold item: 4113, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 31	Second : 30
+Hornytoad Has Sold item: 4094, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 31	Second : 31
+Hornytoad Has Sold item: 4111, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 31	Second : 33
+Hornytoad Has Sold item: 4675, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 31	Second : 34
+Hornytoad Has Sold item: 4089, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 31	Second : 36
+Hornytoad Has Sold item: 4089, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 54	Second : 48
+Hornytoad Has Sold item: 4094, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 54	Second : 49
+Hornytoad Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 54	Second : 50
+Hornytoad Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 54	Second : 52
+Hornytoad Has Sold item: 4113, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 54	Second : 52
+Hornytoad Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 17	Second : 10
+Hornytoad Has Sold item: 4675, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 17	Second : 11
+Hornytoad Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 36	Second : 5
+Hornytoad Has Sold item: 4103, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 36	Second : 8
+Hornytoad Has Sold item: 4089, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 36	Second : 11
+Hornytoad Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 1	Second : 32
+Hornytoad Has Sold item: 4675, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 1	Second : 33
+Hornytoad Has Sold item: 4111, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 1	Second : 34
+Hornytoad Has Sold item: 4113, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 1	Second : 36
+Hornytoad Has Sold item: 4101, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 33	Second : 52
+Hornytoad Has Sold item: 4675, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 33	Second : 53
+Hornytoad Has Sold item: 4103, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 33	Second : 55
+Hornytoad Has Sold item: 4094, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 49	Second : 44
+Hornytoad Has Sold item: 4103, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 49	Second : 46
+Hornytoad Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 49	Second : 47
+Hornytoad Has Sold item: 4675, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 50	Second : 12
+Hornytoad Has Sold item: 4089, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 7	Second : 2
+Hornytoad Has Sold item: 4101, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 7	Second : 3
+Hornytoad Has Sold item: 4111, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 7	Second : 4
+Hornytoad Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 7	Second : 6
+Hornytoad Has Sold item: 4675, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 7	Second : 7
+Hornytoad Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 7	Second : 10
+Hornytoad Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 26	Second : 20
+Hornytoad Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 26	Second : 21
+Hornytoad Has Sold item: 4103, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 26	Second : 22
+Hornytoad Has Sold item: 4675, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 44	Second : 35
+Hornytoad Has Sold item: 4675, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 44	Second : 36
+Hornytoad Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 44	Second : 39
+Hornytoad Has Sold item: 4089, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 51	Second : 42
+Hornytoad Has Sold item: 4103, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 51	Second : 43
+Hornytoad Has Sold item: 4113, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 22	Second : 23
+Hornytoad Has Sold item: 4113, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 22	Second : 24
+Hornytoad Has Sold item: 4089, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 22	Second : 26
+Hornytoad Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 22	Second : 27
+Hornytoad Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 22	Second : 29
+Hornytoad Has Sold item: 4675, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 40	Second : 58
+Hornytoad Has Sold item: 4094, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 40	Second : 59
+Hornytoad Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 41	Second : 0
+Hornytoad Has Sold item: 4089, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 41	Second : 1
+Hornytoad Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 3	Second : 16
+Hornytoad Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 3	Second : 18
+Hornytoad Has Sold item: 4111, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 3	Second : 19
+Hornytoad Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 20	Second : 11
+Hornytoad Has Sold item: 4093, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 20	Second : 18
+Hornytoad Has Sold item: 4089, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 20	Second : 22
+Hornytoad Has Sold item: 229, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 34	Second : 20
+Hornytoad Has Sold item: 4094, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 34	Second : 45
+Hornytoad Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 34	Second : 47
+Hornytoad Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 42	Second : 13
+Hornytoad Has Sold item: 4112, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 42	Second : 14
+Hornytoad Has Sold item: 6569, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 54	Second : 19
+Hornytoad Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 54	Second : 20
+Hornytoad Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 1	Second : 38
+Hornytoad Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 1	Second : 39
+Hornytoad Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 1	Second : 40
+Hornytoad Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 12	Second : 45
+Hornytoad Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 12	Second : 47
+Hornytoad Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 20	Second : 56
+Hornytoad Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 20	Second : 58
+Hornytoad Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 21	Second : 0
+Hornytoad Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 55	Second : 57
+Hornytoad Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 55	Second : 59
+Hornytoad Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 3	Minute : 56	Second : 0
+Hornytoad Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 23	Second : 20
+Hornytoad Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 23	Second : 26
+Hornytoad Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 23	Second : 28
+Hornytoad Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 32	Second : 10
+Hornytoad Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 32	Second : 11
+Hornytoad Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 44	Second : 6
+Hornytoad Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 44	Second : 8
+Hornytoad Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 44	Second : 10
+Hornytoad Has Sold item: 1754, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 52	Second : 0
+Hornytoad Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 52	Second : 2
+Hornytoad Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 52	Second : 3
+Hornytoad Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 34	Second : 57
+Hornytoad Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 34	Second : 58
+Hornytoad Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 34	Second : 59
+Hornytoad Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 35	Second : 0
+Hornytoad Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 35	Second : 1
+Hornytoad Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 35	Second : 2
+Hornytoad Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 45	Second : 54
+Hornytoad Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 45	Second : 55
+Hornytoad Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 45	Second : 57
+Hornytoad Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 45	Second : 58
+Hornytoad Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 45	Second : 59
+Hornytoad Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 54	Second : 30
+Hornytoad Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 54	Second : 32
+Hornytoad Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 56	Second : 1
+Hornytoad Has Sold item: 4111, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 56	Second : 3
+Hornytoad Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 56	Second : 4
+Hornytoad Has Sold item: 4101, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 56	Second : 5
+Hornytoad Has Sold item: 4113, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 56	Second : 6
+Hornytoad Has Sold item: 4089, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 56	Second : 8
+Hornytoad Has Sold item: 1602, Quantity 5
+--------------------------------------------------

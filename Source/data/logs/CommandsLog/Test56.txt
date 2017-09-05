@@ -1,0 +1,7 @@
+
+Year : 2015	Month : 7	Day : 5	Hour : 10	Minute : 40	Second : 43
+Player Command: exploit
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 5	Hour : 10	Minute : 40	Second : 49
+Player Command: item 995 2
+--------------------------------------------------

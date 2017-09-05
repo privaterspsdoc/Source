@@ -1,0 +1,22 @@
+
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 45	Second : 3
+Andrew Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 45	Second : 26
+Andrew Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 45	Second : 30
+Andrew Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 45	Second : 50
+Andrew Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 46	Second : 16
+Andrew Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 46	Second : 34
+Andrew Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 46	Second : 50
+Andrew Has Sold item: 1635, Quantity 10
+--------------------------------------------------

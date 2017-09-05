@@ -1,0 +1,817 @@
+
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 22	Second : 15
+Luis Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 14	Second : 7
+Luis Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 14	Second : 8
+Luis Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 14	Second : 10
+Luis Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 14	Second : 12
+Luis Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 14	Second : 14
+Luis Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 14	Second : 16
+Luis Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 37	Second : 40
+Luis Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 37	Second : 42
+Luis Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 37	Second : 43
+Luis Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 53	Second : 54
+Luis Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 53	Second : 56
+Luis Has Sold item: 4588, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 53	Second : 57
+Luis Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 53	Second : 58
+Luis Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 54	Second : 0
+Luis Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 54	Second : 1
+Luis Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 54	Second : 3
+Luis Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 54	Second : 4
+Luis Has Sold item: 1148, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 54	Second : 5
+Luis Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 54	Second : 7
+Luis Has Sold item: 5699, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 54	Second : 8
+Luis Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 3	Second : 30
+Luis Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 3	Second : 32
+Luis Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 3	Second : 33
+Luis Has Sold item: 1164, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 3	Second : 35
+Luis Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 3	Second : 36
+Luis Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 3	Second : 37
+Luis Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 3	Second : 39
+Luis Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 3	Second : 41
+Luis Has Sold item: 1150, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 3	Second : 43
+Luis Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 3	Second : 44
+Luis Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 3	Second : 45
+Luis Has Sold item: 5699, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 3	Second : 47
+Luis Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 3	Second : 49
+Luis Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 34	Second : 23
+Luis Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 34	Second : 25
+Luis Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 34	Second : 25
+Luis Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 34	Second : 27
+Luis Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 34	Second : 29
+Luis Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 34	Second : 29
+Luis Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 34	Second : 30
+Luis Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 5
+Luis Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 7
+Luis Has Sold item: 1164, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 9
+Luis Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 10
+Luis Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 11
+Luis Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 13
+Luis Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 15
+Luis Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 17
+Luis Has Sold item: 5699, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 18
+Luis Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 19
+Luis Has Sold item: 5699, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 20
+Luis Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 23
+Luis Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 24
+Luis Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 25
+Luis Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 27
+Luis Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 28
+Luis Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 30
+Luis Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 31
+Luis Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 32
+Luis Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 34
+Luis Has Sold item: 830, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 34
+Luis Has Sold item: 830, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 36
+Luis Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 20	Second : 38
+Luis Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 9	Second : 4
+Luis Has Sold item: 5699, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 9	Second : 5
+Luis Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 9	Second : 6
+Luis Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 9	Second : 7
+Luis Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 9	Second : 9
+Luis Has Sold item: 1320, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 9	Second : 10
+Luis Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 9	Second : 12
+Luis Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 9	Second : 13
+Luis Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 41	Second : 58
+Luis Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 42	Second : 0
+Luis Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 42	Second : 1
+Luis Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 42	Second : 2
+Luis Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 42	Second : 3
+Luis Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 42	Second : 5
+Luis Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 42	Second : 5
+Luis Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 59	Second : 23
+Luis Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 59	Second : 25
+Luis Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 59	Second : 26
+Luis Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 59	Second : 27
+Luis Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 59	Second : 28
+Luis Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 59	Second : 29
+Luis Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 59	Second : 30
+Luis Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 59	Second : 31
+Luis Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 3	Second : 30
+Luis Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 3	Second : 30
+Luis Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 3	Second : 32
+Luis Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 3	Second : 33
+Luis Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 3	Second : 36
+Luis Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 3	Second : 37
+Luis Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 46	Second : 51
+Luis Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 46	Second : 53
+Luis Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 44	Second : 53
+Luis Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 44	Second : 54
+Luis Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 44	Second : 54
+Luis Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 44	Second : 55
+Luis Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 44	Second : 57
+Luis Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 44	Second : 58
+Luis Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 44	Second : 59
+Luis Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 58	Second : 20
+Luis Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 58	Second : 21
+Luis Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 58	Second : 23
+Luis Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 58	Second : 25
+Luis Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 58	Second : 27
+Luis Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 58	Second : 28
+Luis Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 16	Second : 1
+Luis Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 16	Second : 3
+Luis Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 16	Second : 4
+Luis Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 16	Second : 6
+Luis Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 16	Second : 8
+Luis Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 16	Second : 10
+Luis Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 16	Second : 12
+Luis Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 31	Second : 24
+Luis Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 31	Second : 25
+Luis Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 31	Second : 25
+Luis Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 31	Second : 27
+Luis Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 31	Second : 28
+Luis Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 31	Second : 30
+Luis Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 31	Second : 31
+Luis Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 50	Second : 4
+Luis Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 50	Second : 5
+Luis Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 50	Second : 6
+Luis Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 50	Second : 7
+Luis Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 59	Second : 17
+Luis Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 59	Second : 18
+Luis Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 59	Second : 19
+Luis Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 59	Second : 21
+Luis Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 59	Second : 22
+Luis Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 59	Second : 23
+Luis Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 59	Second : 24
+Luis Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 27	Second : 26
+Luis Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 27	Second : 27
+Luis Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 27	Second : 28
+Luis Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 27	Second : 28
+Luis Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 27	Second : 29
+Luis Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 27	Second : 31
+Luis Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 27	Second : 32
+Luis Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 27	Second : 33
+Luis Has Sold item: 1163, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 27	Second : 34
+Luis Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 27	Second : 35
+Luis Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 24	Second : 41
+Luis Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 24	Second : 41
+Luis Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 24	Second : 43
+Luis Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 24	Second : 43
+Luis Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 24	Second : 45
+Luis Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 24	Second : 45
+Luis Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 24	Second : 47
+Luis Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 50	Second : 17
+Luis Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 50	Second : 17
+Luis Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 11	Minute : 50	Second : 18
+Luis Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 11	Second : 4
+Luis Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 11	Second : 6
+Luis Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 11	Second : 8
+Luis Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 11	Second : 9
+Luis Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 23	Second : 33
+Luis Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 23	Second : 34
+Luis Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 23	Second : 36
+Luis Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 23	Second : 37
+Luis Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 23	Second : 37
+Luis Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 23	Second : 38
+Luis Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 0	Second : 48
+Luis Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 0	Second : 49
+Luis Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 0	Second : 52
+Luis Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 0	Second : 53
+Luis Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 0	Second : 55
+Luis Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 0	Second : 56
+Luis Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 0	Second : 59
+Luis Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 49	Second : 55
+Luis Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 49	Second : 56
+Luis Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 49	Second : 57
+Luis Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 49	Second : 59
+Luis Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 49	Second : 59
+Luis Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 50	Second : 1
+Luis Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 50	Second : 3
+Luis Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 50	Second : 4
+Luis Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 53	Second : 27
+Luis Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 53	Second : 28
+Luis Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 53	Second : 30
+Luis Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 53	Second : 30
+Luis Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 53	Second : 32
+Luis Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 53	Second : 34
+Luis Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 2	Minute : 53	Second : 37
+Luis Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 59	Second : 19
+Luis Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 59	Second : 21
+Luis Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 59	Second : 22
+Luis Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 59	Second : 24
+Luis Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 59	Second : 25
+Luis Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 59	Second : 26
+Luis Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 36	Second : 0
+Luis Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 36	Second : 1
+Luis Has Sold item: 1163, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 36	Second : 2
+Luis Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 36	Second : 3
+Luis Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 36	Second : 4
+Luis Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 54	Second : 33
+Luis Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 54	Second : 34
+Luis Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 54	Second : 35
+Luis Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 54	Second : 38
+Luis Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 54	Second : 39
+Luis Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 54	Second : 40
+Luis Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 11	Second : 17
+Luis Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 11	Second : 17
+Luis Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 11	Second : 19
+Luis Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 11	Second : 19
+Luis Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 11	Second : 20
+Luis Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 11	Second : 21
+Luis Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 11	Second : 22
+Luis Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 11	Second : 23
+Luis Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 58	Second : 24
+Luis Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 58	Second : 25
+Luis Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 58	Second : 26
+Luis Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 58	Second : 27
+Luis Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 58	Second : 28
+Luis Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 58	Second : 29
+Luis Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 58	Second : 31
+Luis Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 58	Second : 31
+Luis Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 20	Second : 7
+Luis Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 20	Second : 9
+Luis Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 20	Second : 10
+Luis Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 20	Second : 11
+Luis Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 20	Second : 12
+Luis Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 20	Second : 14
+Luis Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 20	Second : 14
+Luis Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 12	Second : 23
+Luis Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 12	Second : 23
+Luis Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 12	Second : 24
+Luis Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 12	Second : 26
+Luis Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 35	Second : 48
+Luis Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 35	Second : 49
+Luis Has Sold item: 5575, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 35	Second : 49
+Luis Has Sold item: 1150, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 35	Second : 51
+Luis Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 35	Second : 52
+Luis Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 35	Second : 52
+Luis Has Sold item: 1150, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 35	Second : 53
+Luis Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 35	Second : 54
+Luis Has Sold item: 842, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 35	Second : 55
+Luis Has Sold item: 1164, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 35	Second : 56
+Luis Has Sold item: 4154, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 35	Second : 57
+Luis Has Sold item: 380, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 36	Second : 0
+Luis Has Sold item: 380, Quantity 61
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 36	Second : 1
+Luis Has Sold item: 1116, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 36	Second : 2
+Luis Has Sold item: 1068, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 37	Second : 15
+Luis Has Sold item: 1192, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 37	Second : 16
+Luis Has Sold item: 2492, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 37	Second : 17
+Luis Has Sold item: 2443, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 37	Second : 18
+Luis Has Sold item: 1324, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 37	Second : 18
+Luis Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 37	Second : 19
+Luis Has Sold item: 1154, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 37	Second : 20
+Luis Has Sold item: 6107, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 37	Second : 20
+Luis Has Sold item: 6108, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 38	Second : 19
+Luis Has Sold item: 1136, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 38	Second : 21
+Luis Has Sold item: 1754, Quantity 112
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 38	Second : 24
+Luis Has Sold item: 1068, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 38	Second : 25
+Luis Has Sold item: 2364, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 38	Second : 29
+Luis Has Sold item: 2362, Quantity 80
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 38	Second : 32
+Luis Has Sold item: 1516, Quantity 150
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 38	Second : 35
+Luis Has Sold item: 1616, Quantity 20
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 38	Second : 37
+Luis Has Sold item: 384, Quantity 222
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 38	Second : 38
+Luis Has Sold item: 4334, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 38	Second : 41
+Luis Has Sold item: 2360, Quantity 50
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 39	Second : 9
+Luis Has Sold item: 7945, Quantity 200
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 9	Minute : 56	Second : 8
+Luis Has Sold item: 1514, Quantity 750
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 9	Minute : 56	Second : 23
+Luis Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 9	Minute : 56	Second : 25
+Luis Has Sold item: 2504, Quantity 50
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 9	Minute : 56	Second : 28
+Luis Has Sold item: 2498, Quantity 50
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 9	Minute : 56	Second : 30
+Luis Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 9	Minute : 56	Second : 31
+Luis Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 9	Minute : 56	Second : 31
+Luis Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 9	Minute : 56	Second : 32
+Luis Has Sold item: 1304, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 9	Minute : 56	Second : 35
+Luis Has Sold item: 384, Quantity 150
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 9	Minute : 56	Second : 39
+Luis Has Sold item: 7945, Quantity 800
+--------------------------------------------------

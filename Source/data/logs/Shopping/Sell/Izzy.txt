@@ -1,0 +1,4 @@
+
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 47	Second : 13
+Izzy Has Sold item: 1897, Quantity 10
+--------------------------------------------------

@@ -1,0 +1,49 @@
+
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 52	Second : 30
+Inavy Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 52	Second : 30
+Inavy Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 52	Second : 32
+Inavy Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 53	Second : 21
+Inavy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 53	Second : 22
+Inavy Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 53	Second : 23
+Inavy Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 53	Second : 24
+Inavy Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 54	Second : 15
+Inavy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 54	Second : 15
+Inavy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 54	Second : 16
+Inavy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 55	Second : 6
+Inavy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 55	Second : 6
+Inavy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 55	Second : 6
+Inavy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 56	Second : 1
+Inavy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 56	Second : 7
+Inavy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 56	Second : 7
+Inavy Has Sold item: 1635, Quantity 10
+--------------------------------------------------

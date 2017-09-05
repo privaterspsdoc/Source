@@ -1,0 +1,1645 @@
+
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 5	Second : 4
+Soft Has Sold item: 1897, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 5	Second : 6
+Soft Has Sold item: 950, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 5	Second : 7
+Soft Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 6	Second : 11
+Soft Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 6	Second : 12
+Soft Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 6	Second : 12
+Soft Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 9	Second : 27
+Soft Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 9	Second : 28
+Soft Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 9	Second : 28
+Soft Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 10	Second : 26
+Soft Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 10	Second : 26
+Soft Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 11	Minute : 10	Second : 26
+Soft Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 36	Second : 48
+Soft Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 36	Second : 49
+Soft Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 36	Second : 49
+Soft Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 39	Second : 43
+Soft Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 39	Second : 43
+Soft Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 39	Second : 43
+Soft Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 42	Second : 41
+Soft Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 42	Second : 41
+Soft Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 42	Second : 41
+Soft Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 43	Second : 55
+Soft Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 43	Second : 56
+Soft Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 43	Second : 57
+Soft Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 45	Second : 43
+Soft Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 45	Second : 43
+Soft Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 45	Second : 45
+Soft Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 47	Second : 46
+Soft Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 47	Second : 47
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 47	Second : 47
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 47	Second : 48
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 49	Second : 14
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 49	Second : 14
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 49	Second : 14
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 50	Second : 37
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 50	Second : 37
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 50	Second : 37
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 53	Second : 2
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 53	Second : 7
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 53	Second : 8
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 53	Second : 8
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 54	Second : 26
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 54	Second : 27
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 54	Second : 27
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 57	Second : 28
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 57	Second : 28
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 9	Minute : 57	Second : 28
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 0	Second : 15
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 0	Second : 15
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 0	Second : 16
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 1	Second : 14
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 1	Second : 14
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 1	Second : 14
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 1	Second : 24
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 2	Second : 54
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 2	Second : 54
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 2	Second : 54
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 4	Second : 30
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 4	Second : 30
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 4	Second : 31
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 8	Second : 10
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 8	Second : 10
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 8	Second : 10
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 9	Second : 51
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 9	Second : 52
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 9	Second : 52
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 12	Second : 5
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 12	Second : 6
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 12	Second : 6
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 14	Second : 57
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 14	Second : 57
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 14	Second : 57
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 19	Second : 39
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 19	Second : 40
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 19	Second : 40
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 22	Second : 14
+Soft Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 22	Second : 16
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 22	Second : 17
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 23	Second : 55
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 23	Second : 56
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 23	Second : 56
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 26	Second : 0
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 26	Second : 1
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 26	Second : 1
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 27	Second : 11
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 27	Second : 12
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 27	Second : 13
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 28	Second : 37
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 28	Second : 38
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 28	Second : 38
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 30	Second : 14
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 30	Second : 14
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 30	Second : 14
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 31	Second : 46
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 31	Second : 46
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 31	Second : 47
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 33	Second : 44
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 33	Second : 44
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 33	Second : 44
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 35	Second : 22
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 35	Second : 22
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 35	Second : 22
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 36	Second : 24
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 36	Second : 25
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 36	Second : 25
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 37	Second : 28
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 37	Second : 28
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 37	Second : 28
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 38	Second : 53
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 38	Second : 55
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 49	Second : 58
+Soft Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 50	Second : 0
+Soft Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 50	Second : 0
+Soft Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 50	Second : 1
+Soft Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 55	Second : 3
+Soft Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 55	Second : 4
+Soft Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 55	Second : 6
+Soft Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 55	Second : 7
+Soft Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 10	Minute : 55	Second : 7
+Soft Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 58	Second : 20
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 58	Second : 20
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 58	Second : 21
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 59	Second : 45
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 59	Second : 45
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 59	Second : 45
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 0	Second : 41
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 0	Second : 41
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 0	Second : 41
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 1	Second : 58
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 1	Second : 58
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 1	Second : 58
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 3	Second : 21
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 3	Second : 21
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 3	Second : 21
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 4	Second : 20
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 4	Second : 20
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 4	Second : 21
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 5	Second : 30
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 5	Second : 30
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 5	Second : 31
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 6	Second : 37
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 6	Second : 38
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 6	Second : 38
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 7	Second : 37
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 7	Second : 38
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 7	Second : 38
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 9	Second : 2
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 9	Second : 2
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 9	Second : 3
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 10	Second : 12
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 10	Second : 12
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 10	Second : 12
+Soft Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 34	Second : 27
+Soft Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 34	Second : 27
+Soft Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 34	Second : 50
+Soft Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 34	Second : 50
+Soft Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 48	Second : 16
+Soft Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 48	Second : 16
+Soft Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 48	Second : 17
+Soft Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 48	Second : 20
+Soft Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 50	Second : 14
+Soft Has Sold item: 1623, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 50	Second : 14
+Soft Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 50	Second : 14
+Soft Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 50	Second : 14
+Soft Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 50	Second : 40
+Soft Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 50	Second : 40
+Soft Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 50	Second : 40
+Soft Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 51	Second : 4
+Soft Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 51	Second : 4
+Soft Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 51	Second : 4
+Soft Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 51	Second : 31
+Soft Has Sold item: 1712, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 51	Second : 52
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 51	Second : 52
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 51	Second : 52
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 52	Second : 18
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 52	Second : 19
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 52	Second : 19
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 52	Second : 44
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 52	Second : 44
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 52	Second : 44
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 53	Second : 15
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 53	Second : 16
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 53	Second : 16
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 53	Second : 38
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 53	Second : 38
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 53	Second : 38
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 54	Second : 21
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 54	Second : 21
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 54	Second : 23
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 4	Minute : 6	Second : 23
+Soft Has Sold item: 5300, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 4	Minute : 6	Second : 27
+Soft Has Sold item: 5300, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 4	Minute : 27	Second : 1
+Soft Has Sold item: 5296, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 4	Minute : 27	Second : 2
+Soft Has Sold item: 5296, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 4	Minute : 27	Second : 2
+Soft Has Sold item: 5296, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 57	Second : 37
+Soft Has Sold item: 5292, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 57	Second : 38
+Soft Has Sold item: 5294, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 57	Second : 39
+Soft Has Sold item: 5291, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 57	Second : 40
+Soft Has Sold item: 5299, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 57	Second : 40
+Soft Has Sold item: 5298, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 57	Second : 41
+Soft Has Sold item: 5301, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 57	Second : 42
+Soft Has Sold item: 5301, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 57	Second : 42
+Soft Has Sold item: 5301, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 57	Second : 42
+Soft Has Sold item: 5301, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 57	Second : 44
+Soft Has Sold item: 5303, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 57	Second : 45
+Soft Has Sold item: 5302, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 57	Second : 46
+Soft Has Sold item: 5302, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 57	Second : 47
+Soft Has Sold item: 5293, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 57	Second : 47
+Soft Has Sold item: 5304, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 57	Second : 47
+Soft Has Sold item: 5297, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 57	Second : 48
+Soft Has Sold item: 5295, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 6	Minute : 57	Second : 49
+Soft Has Sold item: 5302, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 37	Second : 8
+Soft Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 37	Second : 9
+Soft Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 37	Second : 10
+Soft Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 37	Second : 12
+Soft Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 37	Second : 12
+Soft Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 37	Second : 13
+Soft Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 43	Second : 32
+Soft Has Sold item: 1127, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 43	Second : 33
+Soft Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 43	Second : 34
+Soft Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 53	Second : 10
+Soft Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 53	Second : 11
+Soft Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 53	Second : 12
+Soft Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 53	Second : 13
+Soft Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 45	Second : 51
+Soft Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 45	Second : 51
+Soft Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 45	Second : 52
+Soft Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 47	Second : 0
+Soft Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 47	Second : 1
+Soft Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 47	Second : 2
+Soft Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 48	Second : 49
+Soft Has Sold item: 7334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 48	Second : 50
+Soft Has Sold item: 7358, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 48	Second : 51
+Soft Has Sold item: 7340, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 48	Second : 51
+Soft Has Sold item: 2603, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 48	Second : 53
+Soft Has Sold item: 374, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 48	Second : 55
+Soft Has Sold item: 374, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 48	Second : 55
+Soft Has Sold item: 374, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 48	Second : 55
+Soft Has Sold item: 374, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 48	Second : 56
+Soft Has Sold item: 374, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 48	Second : 54
+Soft Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 48	Second : 55
+Soft Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 48	Second : 55
+Soft Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 48	Second : 56
+Soft Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 48	Second : 59
+Soft Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 26	Second : 13
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 26	Second : 13
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 26	Second : 14
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 26	Second : 39
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 26	Second : 40
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 26	Second : 40
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 27	Second : 10
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 27	Second : 10
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 27	Second : 10
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 27	Second : 31
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 27	Second : 31
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 27	Second : 31
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 28	Second : 4
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 28	Second : 4
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 28	Second : 4
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 28	Second : 34
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 28	Second : 34
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 28	Second : 34
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 29	Second : 10
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 29	Second : 11
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 29	Second : 11
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 29	Second : 37
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 29	Second : 38
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 29	Second : 38
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 30	Second : 21
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 30	Second : 21
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 30	Second : 21
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 30	Second : 48
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 30	Second : 51
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 30	Second : 53
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 31	Second : 16
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 31	Second : 16
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 31	Second : 16
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 33	Second : 53
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 33	Second : 54
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 33	Second : 54
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 35	Second : 32
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 35	Second : 32
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 35	Second : 32
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 36	Second : 9
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 36	Second : 10
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 36	Second : 10
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 37	Second : 21
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 37	Second : 22
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 37	Second : 22
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 38	Second : 25
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 38	Second : 26
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 38	Second : 26
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 39	Second : 26
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 39	Second : 26
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 39	Second : 26
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 41	Second : 5
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 41	Second : 5
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 41	Second : 5
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 42	Second : 32
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 42	Second : 33
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 42	Second : 33
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 43	Second : 6
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 43	Second : 6
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 43	Second : 6
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 43	Second : 57
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 43	Second : 57
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 43	Second : 58
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 44	Second : 31
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 44	Second : 32
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 44	Second : 32
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 46	Second : 51
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 46	Second : 52
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 46	Second : 52
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 47	Second : 25
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 47	Second : 27
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 47	Second : 27
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 52	Second : 30
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 52	Second : 30
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 52	Second : 31
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 53	Second : 21
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 53	Second : 21
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 53	Second : 22
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 54	Second : 11
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 54	Second : 11
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 54	Second : 12
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 55	Second : 55
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 55	Second : 55
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 55	Second : 55
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 24	Second : 44
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 24	Second : 45
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 24	Second : 46
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 27	Second : 8
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 27	Second : 9
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 27	Second : 9
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 28	Second : 0
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 28	Second : 0
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 28	Second : 0
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 28	Second : 35
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 28	Second : 36
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 28	Second : 36
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 29	Second : 2
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 29	Second : 2
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 29	Second : 2
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 29	Second : 29
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 29	Second : 29
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 29	Second : 30
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 29	Second : 56
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 29	Second : 57
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 29	Second : 57
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 30	Second : 26
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 30	Second : 26
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 30	Second : 27
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 30	Second : 49
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 30	Second : 49
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 30	Second : 49
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 31	Second : 15
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 31	Second : 15
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 31	Second : 15
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 31	Second : 43
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 31	Second : 44
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 31	Second : 44
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 32	Second : 16
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 32	Second : 16
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 32	Second : 16
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 32	Second : 54
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 32	Second : 54
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 32	Second : 54
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 33	Second : 32
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 33	Second : 32
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 33	Second : 32
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 34	Second : 10
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 34	Second : 10
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 34	Second : 10
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 34	Second : 56
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 34	Second : 56
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 34	Second : 56
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 35	Second : 36
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 35	Second : 37
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 35	Second : 37
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 36	Second : 21
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 36	Second : 21
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 36	Second : 21
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 37	Second : 1
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 37	Second : 1
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 37	Second : 1
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 37	Second : 27
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 37	Second : 27
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 37	Second : 27
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 37	Second : 52
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 37	Second : 52
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 37	Second : 52
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 38	Second : 15
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 38	Second : 15
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 38	Second : 16
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 38	Second : 37
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 38	Second : 37
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 38	Second : 38
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 39	Second : 3
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 39	Second : 3
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 39	Second : 3
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 39	Second : 23
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 39	Second : 23
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 39	Second : 23
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 39	Second : 45
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 39	Second : 45
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 39	Second : 45
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 40	Second : 7
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 40	Second : 7
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 40	Second : 7
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 40	Second : 36
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 40	Second : 37
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 40	Second : 37
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 41	Second : 1
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 41	Second : 1
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 41	Second : 2
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 41	Second : 24
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 41	Second : 25
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 41	Second : 25
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 42	Second : 2
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 42	Second : 2
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 42	Second : 2
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 42	Second : 59
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 42	Second : 59
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 42	Second : 59
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 43	Second : 28
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 43	Second : 29
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 43	Second : 29
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 43	Second : 53
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 43	Second : 53
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 43	Second : 53
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 44	Second : 21
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 44	Second : 22
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 44	Second : 22
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 45	Second : 7
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 45	Second : 7
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 45	Second : 7
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 45	Second : 43
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 45	Second : 44
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 45	Second : 44
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 46	Second : 12
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 46	Second : 12
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 46	Second : 13
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 46	Second : 35
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 46	Second : 35
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 46	Second : 35
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 46	Second : 56
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 46	Second : 57
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 46	Second : 57
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 47	Second : 20
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 47	Second : 20
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 47	Second : 21
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 47	Second : 46
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 47	Second : 46
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 47	Second : 46
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 48	Second : 9
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 48	Second : 10
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 48	Second : 10
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 48	Second : 31
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 48	Second : 31
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 48	Second : 32
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 48	Second : 56
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 48	Second : 57
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 48	Second : 57
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 49	Second : 18
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 49	Second : 18
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 49	Second : 19
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 50	Second : 20
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 50	Second : 20
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 50	Second : 20
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 50	Second : 42
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 50	Second : 42
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 50	Second : 42
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 51	Second : 4
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 51	Second : 4
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 51	Second : 4
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 51	Second : 25
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 51	Second : 26
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 51	Second : 26
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 51	Second : 49
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 51	Second : 49
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 51	Second : 50
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 52	Second : 10
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 52	Second : 10
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 52	Second : 10
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 54	Second : 21
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 54	Second : 22
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 54	Second : 22
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 54	Second : 43
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 54	Second : 43
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 54	Second : 43
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 55	Second : 20
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 55	Second : 20
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 55	Second : 20
+Soft Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 7	Second : 53
+Soft Has Sold item: 1288, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 7	Second : 53
+Soft Has Sold item: 1288, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 7	Second : 55
+Soft Has Sold item: 1288, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 7	Second : 55
+Soft Has Sold item: 1212, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 7	Second : 56
+Soft Has Sold item: 1212, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 7	Second : 57
+Soft Has Sold item: 1212, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 7	Second : 58
+Soft Has Sold item: 1212, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 7	Second : 58
+Soft Has Sold item: 1212, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 7	Second : 58
+Soft Has Sold item: 1212, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 7	Second : 58
+Soft Has Sold item: 1212, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 7	Second : 58
+Soft Has Sold item: 1212, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 7	Second : 59
+Soft Has Sold item: 1212, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 7	Second : 59
+Soft Has Sold item: 1212, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 7	Second : 59
+Soft Has Sold item: 1212, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 7	Second : 59
+Soft Has Sold item: 1212, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 8	Second : 0
+Soft Has Sold item: 1212, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 8	Second : 0
+Soft Has Sold item: 1212, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 8	Second : 0
+Soft Has Sold item: 1212, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 8	Second : 0
+Soft Has Sold item: 1212, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 8	Second : 0
+Soft Has Sold item: 1212, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 8	Second : 1
+Soft Has Sold item: 1212, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 8	Second : 2
+Soft Has Sold item: 1316, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 8	Second : 3
+Soft Has Sold item: 1316, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 8	Second : 3
+Soft Has Sold item: 1316, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 8	Second : 3
+Soft Has Sold item: 1316, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 8	Second : 4
+Soft Has Sold item: 1316, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 8	Second : 4
+Soft Has Sold item: 1316, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 8	Second : 7
+Soft Has Sold item: 1344, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 8	Second : 7
+Soft Has Sold item: 1330, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 8	Second : 8
+Soft Has Sold item: 1330, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 8	Second : 9
+Soft Has Sold item: 1286, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 8	Second : 10
+Soft Has Sold item: 1289, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 8	Second : 11
+Soft Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 10
+Soft Has Sold item: 1318, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 10
+Soft Has Sold item: 1318, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 11
+Soft Has Sold item: 1318, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 11
+Soft Has Sold item: 1318, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 11
+Soft Has Sold item: 1318, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 12
+Soft Has Sold item: 1318, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 12
+Soft Has Sold item: 1318, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 12
+Soft Has Sold item: 1318, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 12
+Soft Has Sold item: 1318, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 12
+Soft Has Sold item: 1318, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 12
+Soft Has Sold item: 1318, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 13
+Soft Has Sold item: 1318, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 13
+Soft Has Sold item: 1318, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 13
+Soft Has Sold item: 1318, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 13
+Soft Has Sold item: 1318, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 13
+Soft Has Sold item: 1318, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 14
+Soft Has Sold item: 1318, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 14
+Soft Has Sold item: 1318, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 14
+Soft Has Sold item: 1318, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 14
+Soft Has Sold item: 1318, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 16
+Soft Has Sold item: 1348, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 17
+Soft Has Sold item: 1290, Quantity 10
+--------------------------------------------------

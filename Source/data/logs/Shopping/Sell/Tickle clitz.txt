@@ -1,0 +1,19 @@
+
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 50	Second : 26
+Tickle clitz Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 50	Second : 28
+Tickle clitz Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 50	Second : 29
+Tickle clitz Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 50	Second : 30
+Tickle clitz Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 51	Second : 18
+Tickle clitz Has Sold item: 6525, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 51	Second : 20
+Tickle clitz Has Sold item: 6523, Quantity 10
+--------------------------------------------------

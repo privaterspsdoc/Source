@@ -1,0 +1,16 @@
+
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 13	Second : 25
+No outdoors Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 13	Second : 27
+No outdoors Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 13	Second : 30
+No outdoors Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 13	Second : 31
+No outdoors Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 13	Second : 32
+No outdoors Has Sold item: 950, Quantity 10
+--------------------------------------------------

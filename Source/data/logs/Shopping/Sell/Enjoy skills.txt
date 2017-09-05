@@ -1,0 +1,1903 @@
+
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 35	Second : 24
+Enjoy skills Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 43	Second : 45
+Enjoy skills Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 45	Second : 9
+Enjoy skills Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 45	Second : 11
+Enjoy skills Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 45	Second : 13
+Enjoy skills Has Sold item: 1729, Quantity 9789
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 46	Second : 50
+Enjoy skills Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 46	Second : 51
+Enjoy skills Has Sold item: 1731, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 46	Second : 51
+Enjoy skills Has Sold item: 1731, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 46	Second : 51
+Enjoy skills Has Sold item: 1731, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 46	Second : 52
+Enjoy skills Has Sold item: 1731, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 47	Second : 30
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 47	Second : 30
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 47	Second : 32
+Enjoy skills Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 47	Second : 34
+Enjoy skills Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 48	Second : 5
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 48	Second : 6
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 48	Second : 6
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 48	Second : 46
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 48	Second : 46
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 48	Second : 47
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 49	Second : 11
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 49	Second : 11
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 49	Second : 11
+Enjoy skills Has Sold item: 1712, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 49	Second : 12
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 49	Second : 36
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 49	Second : 36
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 49	Second : 36
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 50	Second : 50
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 50	Second : 50
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 50	Second : 50
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 51	Second : 38
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 51	Second : 38
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 51	Second : 38
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 52	Second : 9
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 52	Second : 10
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 52	Second : 10
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 44	Second : 49
+Enjoy skills Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 44	Second : 50
+Enjoy skills Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 45	Second : 28
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 45	Second : 28
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 45	Second : 31
+Enjoy skills Has Sold item: 1712, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 46	Second : 5
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 46	Second : 5
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 46	Second : 6
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 46	Second : 41
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 46	Second : 41
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 46	Second : 42
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 47	Second : 6
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 47	Second : 7
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 47	Second : 7
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 48	Second : 43
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 48	Second : 43
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 48	Second : 44
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 49	Second : 33
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 49	Second : 33
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 49	Second : 34
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 22	Second : 22
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 22	Second : 22
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 22	Second : 23
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 22	Second : 49
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 22	Second : 49
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 22	Second : 49
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 23	Second : 28
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 23	Second : 28
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 23	Second : 28
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 24	Second : 40
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 24	Second : 40
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 24	Second : 40
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 25	Second : 11
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 25	Second : 11
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 25	Second : 11
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 25	Second : 43
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 25	Second : 43
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 25	Second : 43
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 26	Second : 8
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 26	Second : 8
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 26	Second : 8
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 26	Second : 36
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 26	Second : 36
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 26	Second : 36
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 27	Second : 10
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 27	Second : 10
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 27	Second : 11
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 28	Second : 19
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 28	Second : 19
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 28	Second : 19
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 14	Second : 3
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 14	Second : 5
+Enjoy skills Has Sold item: 1755, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 14	Second : 6
+Enjoy skills Has Sold item: 1712, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 20	Second : 39
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 20	Second : 41
+Enjoy skills Has Sold item: 1712, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 21	Second : 20
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 21	Second : 21
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 22	Second : 17
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 22	Second : 17
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 22	Second : 18
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 23	Second : 25
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 23	Second : 25
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 23	Second : 25
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 24	Second : 35
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 24	Second : 35
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 24	Second : 35
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 36	Second : 46
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 36	Second : 47
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 43	Second : 1
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 46	Second : 37
+Enjoy skills Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 46	Second : 40
+Enjoy skills Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 46	Second : 40
+Enjoy skills Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 47	Second : 23
+Enjoy skills Has Sold item: 1712, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 47	Second : 49
+Enjoy skills Has Sold item: 1712, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 47	Second : 51
+Enjoy skills Has Sold item: 1712, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 48	Second : 16
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 49	Second : 3
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 49	Second : 6
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 49	Second : 31
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 49	Second : 32
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 49	Second : 58
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 49	Second : 59
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 51	Second : 11
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 51	Second : 12
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 51	Second : 13
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 51	Second : 46
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 51	Second : 46
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 51	Second : 46
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 53	Second : 57
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 53	Second : 58
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 53	Second : 58
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 12
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 12
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 13
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 46
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 47
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 47
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 57	Second : 30
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 57	Second : 30
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 57	Second : 31
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 58	Second : 30
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 58	Second : 31
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 58	Second : 31
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 59	Second : 4
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 59	Second : 4
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 59	Second : 4
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 59	Second : 38
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 59	Second : 39
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 59	Second : 39
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 0	Second : 15
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 0	Second : 15
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 0	Second : 16
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 1	Second : 43
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 1	Second : 44
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 1	Second : 44
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 6	Second : 8
+Enjoy skills Has Sold item: 1713, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 6	Second : 9
+Enjoy skills Has Sold item: 1713, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 6	Second : 9
+Enjoy skills Has Sold item: 1713, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 6	Second : 9
+Enjoy skills Has Sold item: 1713, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 6	Second : 9
+Enjoy skills Has Sold item: 1713, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 6	Second : 10
+Enjoy skills Has Sold item: 1713, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 7	Second : 11
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 7	Second : 11
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 7	Second : 11
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 8	Second : 21
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 8	Second : 21
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 8	Second : 21
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 9	Second : 49
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 9	Second : 49
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 9	Second : 49
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 20	Second : 6
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 20	Second : 7
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 20	Second : 7
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 20	Second : 38
+Enjoy skills Has Sold item: 1713, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 20	Second : 38
+Enjoy skills Has Sold item: 1713, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 20	Second : 40
+Enjoy skills Has Sold item: 1713, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 21	Second : 33
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 21	Second : 33
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 21	Second : 33
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 22	Second : 8
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 22	Second : 9
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 22	Second : 9
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 22	Second : 41
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 22	Second : 42
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 22	Second : 42
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 23	Second : 34
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 23	Second : 34
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 23	Second : 34
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 24	Second : 20
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 24	Second : 20
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 24	Second : 20
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 25	Second : 35
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 25	Second : 35
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 25	Second : 36
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 26	Second : 32
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 26	Second : 32
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 26	Second : 32
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 58	Second : 54
+Enjoy skills Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 58	Second : 57
+Enjoy skills Has Sold item: 1163, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 58	Second : 59
+Enjoy skills Has Sold item: 1127, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 59	Second : 0
+Enjoy skills Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 59	Second : 3
+Enjoy skills Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 59	Second : 6
+Enjoy skills Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 57	Second : 24
+Enjoy skills Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 57	Second : 25
+Enjoy skills Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 14	Second : 5
+Enjoy skills Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 14	Second : 5
+Enjoy skills Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 14	Second : 7
+Enjoy skills Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 14	Second : 8
+Enjoy skills Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 14	Second : 10
+Enjoy skills Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 14	Second : 12
+Enjoy skills Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 14	Second : 13
+Enjoy skills Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 25	Second : 17
+Enjoy skills Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 30	Second : 37
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 30	Second : 37
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 30	Second : 38
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 36	Second : 41
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 36	Second : 41
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 36	Second : 41
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 54	Second : 57
+Enjoy skills Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 15	Second : 42
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 15	Second : 43
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 15	Second : 43
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 16	Second : 14
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 16	Second : 15
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 16	Second : 15
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 16	Second : 53
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 16	Second : 54
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 16	Second : 54
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 17	Second : 56
+Enjoy skills Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 17	Second : 57
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 17	Second : 58
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 17	Second : 58
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 20	Second : 57
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 20	Second : 57
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 20	Second : 58
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 21	Second : 27
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 21	Second : 27
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 21	Second : 28
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 21	Second : 57
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 21	Second : 57
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 21	Second : 58
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 22	Second : 29
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 22	Second : 30
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 22	Second : 30
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 23	Second : 6
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 23	Second : 6
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 23	Second : 7
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 23	Second : 32
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 23	Second : 32
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 23	Second : 33
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 24	Second : 6
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 24	Second : 6
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 24	Second : 7
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 24	Second : 47
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 24	Second : 47
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 24	Second : 47
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 26	Second : 3
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 26	Second : 3
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 26	Second : 3
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 26	Second : 53
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 26	Second : 53
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 26	Second : 54
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 27	Second : 48
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 27	Second : 49
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 27	Second : 49
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 28	Second : 20
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 28	Second : 20
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 28	Second : 21
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 29	Second : 8
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 29	Second : 9
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 29	Second : 9
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 29	Second : 39
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 29	Second : 39
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 29	Second : 39
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 30	Second : 23
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 30	Second : 23
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 30	Second : 23
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 31	Second : 1
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 31	Second : 2
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 31	Second : 2
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 31	Second : 52
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 31	Second : 52
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 31	Second : 52
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 33	Second : 17
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 33	Second : 18
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 33	Second : 18
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 35	Second : 45
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 35	Second : 45
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 35	Second : 46
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 37	Second : 37
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 37	Second : 38
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 37	Second : 38
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 38	Second : 46
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 38	Second : 46
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 38	Second : 47
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 40	Second : 15
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 40	Second : 15
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 40	Second : 15
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 41	Second : 0
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 41	Second : 1
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 41	Second : 1
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 41	Second : 34
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 41	Second : 34
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 41	Second : 34
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 42	Second : 18
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 42	Second : 18
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 42	Second : 18
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 42	Second : 59
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 42	Second : 59
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 42	Second : 59
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 44	Second : 0
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 44	Second : 1
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 44	Second : 1
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 4	Second : 28
+Enjoy skills Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 4	Second : 29
+Enjoy skills Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 4	Second : 35
+Enjoy skills Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 5	Second : 4
+Enjoy skills Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 6	Second : 2
+Enjoy skills Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 6	Second : 2
+Enjoy skills Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 6	Second : 2
+Enjoy skills Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 7	Second : 21
+Enjoy skills Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 7	Second : 21
+Enjoy skills Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 7	Second : 22
+Enjoy skills Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 8	Second : 36
+Enjoy skills Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 8	Second : 36
+Enjoy skills Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 8	Second : 36
+Enjoy skills Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 9	Second : 38
+Enjoy skills Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 9	Second : 39
+Enjoy skills Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 9	Second : 39
+Enjoy skills Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 11	Second : 14
+Enjoy skills Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 11	Second : 14
+Enjoy skills Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 11	Second : 14
+Enjoy skills Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 12	Second : 24
+Enjoy skills Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 12	Second : 25
+Enjoy skills Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 12	Second : 27
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 13	Second : 33
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 16	Second : 33
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 16	Second : 33
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 16	Second : 34
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 17	Second : 38
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 17	Second : 38
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 17	Second : 38
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 18	Second : 37
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 18	Second : 38
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 18	Second : 38
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 20	Second : 37
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 20	Second : 39
+Enjoy skills Has Sold item: 7650, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 21	Second : 37
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 21	Second : 38
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 21	Second : 39
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 12	Second : 25
+Enjoy skills Has Sold item: 7650, Quantity 77
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 13	Second : 37
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 13	Second : 37
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 13	Second : 37
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 14	Second : 46
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 14	Second : 47
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 14	Second : 47
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 15	Second : 44
+Enjoy skills Has Sold item: 1636, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 15	Second : 45
+Enjoy skills Has Sold item: 1248, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 15	Second : 46
+Enjoy skills Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 15	Second : 49
+Enjoy skills Has Sold item: 4153, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 15	Second : 50
+Enjoy skills Has Sold item: 3751, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 15	Second : 56
+Enjoy skills Has Sold item: 951, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 15	Second : 57
+Enjoy skills Has Sold item: 951, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 15	Second : 59
+Enjoy skills Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 16	Second : 0
+Enjoy skills Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 16	Second : 2
+Enjoy skills Has Sold item: 6528, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 18	Second : 0
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 18	Second : 0
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 18	Second : 0
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 19	Second : 15
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 19	Second : 15
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 19	Second : 16
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 20	Second : 9
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 20	Second : 9
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 20	Second : 9
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 22	Second : 13
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 22	Second : 13
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 22	Second : 13
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 25	Second : 25
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 25	Second : 25
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 25	Second : 25
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 29	Second : 43
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 29	Second : 43
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 29	Second : 43
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 31	Second : 5
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 36	Second : 28
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 36	Second : 29
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 36	Second : 29
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 38	Second : 11
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 38	Second : 12
+Enjoy skills Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 39	Second : 7
+Enjoy skills Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 39	Second : 8
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 39	Second : 9
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 39	Second : 14
+Enjoy skills Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 40	Second : 9
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 40	Second : 9
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 40	Second : 9
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 41	Second : 16
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 41	Second : 16
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 41	Second : 17
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 42	Second : 30
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 42	Second : 30
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 42	Second : 30
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 43	Second : 31
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 43	Second : 32
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 43	Second : 32
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 44	Second : 36
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 44	Second : 36
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 44	Second : 37
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 45	Second : 57
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 45	Second : 57
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 45	Second : 57
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 46	Second : 53
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 46	Second : 53
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 46	Second : 53
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 47	Second : 55
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 47	Second : 56
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 49	Second : 1
+Enjoy skills Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 49	Second : 1
+Enjoy skills Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 49	Second : 1
+Enjoy skills Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 49	Second : 2
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 49	Second : 2
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 49	Second : 57
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 49	Second : 58
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 49	Second : 58
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 50	Second : 59
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 50	Second : 59
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 50	Second : 59
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 51	Second : 58
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 51	Second : 58
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 51	Second : 58
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 52	Second : 52
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 52	Second : 53
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 52	Second : 53
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 54	Second : 9
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 54	Second : 9
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 54	Second : 10
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 55	Second : 6
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 55	Second : 6
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 55	Second : 6
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 56	Second : 18
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 56	Second : 20
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 57	Second : 29
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 57	Second : 29
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 57	Second : 29
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 59	Second : 3
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 59	Second : 4
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 2	Second : 49
+Enjoy skills Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 2	Second : 49
+Enjoy skills Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 2	Second : 49
+Enjoy skills Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 2	Second : 50
+Enjoy skills Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 2	Second : 50
+Enjoy skills Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 2	Second : 51
+Enjoy skills Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 2	Second : 58
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 2	Second : 58
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 2	Second : 58
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 3	Second : 33
+Enjoy skills Has Sold item: 1613, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 2	Second : 51
+Enjoy skills Has Sold item: 1359, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 2	Second : 59
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 3	Second : 43
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 3	Second : 44
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 58	Second : 7
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 8	Second : 11
+Enjoy skills Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 9	Second : 3
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 15	Second : 46
+Enjoy skills Has Sold item: 1613, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 40	Second : 49
+Enjoy skills Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 6	Minute : 40	Second : 55
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 1	Second : 44
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 40	Second : 35
+Enjoy skills Has Sold item: 860, Quantity 1184
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 40	Second : 52
+Enjoy skills Has Sold item: 856, Quantity 494
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 41	Second : 26
+Enjoy skills Has Sold item: 848, Quantity 58
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 41	Second : 35
+Enjoy skills Has Sold item: 852, Quantity 164
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 41	Second : 37
+Enjoy skills Has Sold item: 840, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 41	Second : 41
+Enjoy skills Has Sold item: 846, Quantity 36
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 7	Second : 57
+Enjoy skills Has Sold item: 840, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 7	Second : 57
+Enjoy skills Has Sold item: 840, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 7	Second : 59
+Enjoy skills Has Sold item: 856, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 7	Second : 59
+Enjoy skills Has Sold item: 856, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 7	Second : 59
+Enjoy skills Has Sold item: 856, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 8	Second : 4
+Enjoy skills Has Sold item: 860, Quantity 1828
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 34	Second : 29
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 34	Second : 29
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 34	Second : 40
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 38	Second : 4
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 38	Second : 5
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 38	Second : 5
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 39	Second : 56
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 39	Second : 56
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 39	Second : 56
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 44	Second : 22
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 44	Second : 23
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 44	Second : 23
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 45	Second : 6
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 45	Second : 7
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 47	Second : 14
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 47	Second : 14
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 47	Second : 14
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 48	Second : 27
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 48	Second : 27
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 48	Second : 27
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 49	Second : 23
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 49	Second : 23
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 49	Second : 23
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 51	Second : 13
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 51	Second : 13
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 51	Second : 13
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 5	Minute : 59	Second : 26
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 56	Second : 44
+Enjoy skills Has Sold item: 1184, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 56	Second : 45
+Enjoy skills Has Sold item: 1184, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 56	Second : 45
+Enjoy skills Has Sold item: 1184, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 56	Second : 46
+Enjoy skills Has Sold item: 1184, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 56	Second : 46
+Enjoy skills Has Sold item: 1184, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 56	Second : 46
+Enjoy skills Has Sold item: 1184, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 56	Second : 46
+Enjoy skills Has Sold item: 1184, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 56	Second : 46
+Enjoy skills Has Sold item: 1184, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 56	Second : 47
+Enjoy skills Has Sold item: 1184, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 56	Second : 47
+Enjoy skills Has Sold item: 1184, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 9	Minute : 57	Second : 23
+Enjoy skills Has Sold item: 1112, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 10	Minute : 17	Second : 19
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 1	Minute : 48	Second : 46
+Enjoy skills Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 0	Second : 12
+Enjoy skills Has Sold item: 1148, Quantity 31
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 0	Second : 16
+Enjoy skills Has Sold item: 1186, Quantity 38
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 0	Second : 23
+Enjoy skills Has Sold item: 1124, Quantity 165
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 0	Second : 28
+Enjoy skills Has Sold item: 1092, Quantity 54
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 0	Second : 34
+Enjoy skills Has Sold item: 1112, Quantity 81
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 0	Second : 39
+Enjoy skills Has Sold item: 1162, Quantity 28
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 0	Second : 44
+Enjoy skills Has Sold item: 1184, Quantity 4
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 2	Minute : 0	Second : 48
+Enjoy skills Has Sold item: 1074, Quantity 9
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 8	Second : 42
+Enjoy skills Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 8	Second : 43
+Enjoy skills Has Sold item: 1114, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 8	Second : 44
+Enjoy skills Has Sold item: 1114, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 8	Second : 45
+Enjoy skills Has Sold item: 1114, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 8	Second : 46
+Enjoy skills Has Sold item: 1164, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 8	Second : 48
+Enjoy skills Has Sold item: 1114, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 8	Second : 50
+Enjoy skills Has Sold item: 1186, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 8	Second : 52
+Enjoy skills Has Sold item: 1186, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 8	Second : 53
+Enjoy skills Has Sold item: 1186, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 9	Second : 32
+Enjoy skills Has Sold item: 1198, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 9	Second : 33
+Enjoy skills Has Sold item: 1086, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 9	Second : 34
+Enjoy skills Has Sold item: 1086, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 9	Second : 35
+Enjoy skills Has Sold item: 1182, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 9	Second : 39
+Enjoy skills Has Sold item: 1110, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 9	Second : 43
+Enjoy skills Has Sold item: 1144, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 9	Second : 47
+Enjoy skills Has Sold item: 43, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 9	Second : 48
+Enjoy skills Has Sold item: 43, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 9	Second : 51
+Enjoy skills Has Sold item: 1431, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 9	Second : 53
+Enjoy skills Has Sold item: 1146, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 9	Second : 54
+Enjoy skills Has Sold item: 1092, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 9	Second : 55
+Enjoy skills Has Sold item: 1162, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 9	Second : 57
+Enjoy skills Has Sold item: 1184, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 9	Second : 58
+Enjoy skills Has Sold item: 1184, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 9	Second : 58
+Enjoy skills Has Sold item: 1184, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 9	Second : 59
+Enjoy skills Has Sold item: 1184, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 10	Second : 4
+Enjoy skills Has Sold item: 1124, Quantity 196
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 51	Second : 48
+Enjoy skills Has Sold item: 6528, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 51	Second : 49
+Enjoy skills Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 51	Second : 50
+Enjoy skills Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 51	Second : 51
+Enjoy skills Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 51	Second : 52
+Enjoy skills Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 51	Second : 52
+Enjoy skills Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 51	Second : 53
+Enjoy skills Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 51	Second : 56
+Enjoy skills Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 7	Minute : 51	Second : 57
+Enjoy skills Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 1	Second : 6
+Enjoy skills Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 1	Second : 7
+Enjoy skills Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 1	Second : 8
+Enjoy skills Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 1	Second : 9
+Enjoy skills Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 1	Second : 10
+Enjoy skills Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 1	Second : 11
+Enjoy skills Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 1	Second : 12
+Enjoy skills Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 30	Second : 7
+Enjoy skills Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 30	Second : 8
+Enjoy skills Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 30	Second : 9
+Enjoy skills Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 30	Second : 10
+Enjoy skills Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 30	Second : 11
+Enjoy skills Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 30	Second : 13
+Enjoy skills Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 56	Second : 7
+Enjoy skills Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 9	Minute : 56	Second : 8
+Enjoy skills Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 32	Second : 36
+Enjoy skills Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 48	Second : 8
+Enjoy skills Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 48	Second : 9
+Enjoy skills Has Sold item: 1148, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 1	Minute : 35	Second : 19
+Enjoy skills Has Sold item: 1613, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 32
+Enjoy skills Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 32
+Enjoy skills Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 32
+Enjoy skills Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 33
+Enjoy skills Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 33
+Enjoy skills Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 33
+Enjoy skills Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 35
+Enjoy skills Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 35
+Enjoy skills Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 35
+Enjoy skills Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 35
+Enjoy skills Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 35
+Enjoy skills Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 36
+Enjoy skills Has Sold item: 1080, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 37
+Enjoy skills Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 38
+Enjoy skills Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 38
+Enjoy skills Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 38
+Enjoy skills Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 39
+Enjoy skills Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 39
+Enjoy skills Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 41
+Enjoy skills Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 41
+Enjoy skills Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 42
+Enjoy skills Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 42
+Enjoy skills Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 42
+Enjoy skills Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 45
+Enjoy skills Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 46
+Enjoy skills Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 47
+Enjoy skills Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 49
+Enjoy skills Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 50
+Enjoy skills Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 53
+Enjoy skills Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 54
+Enjoy skills Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 55
+Enjoy skills Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 56
+Enjoy skills Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 59
+Enjoy skills Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 1	Second : 59
+Enjoy skills Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 2	Second : 0
+Enjoy skills Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 2	Second : 1
+Enjoy skills Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 2	Second : 3
+Enjoy skills Has Sold item: 4588, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 30	Second : 17
+Enjoy skills Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 6	Minute : 4	Second : 16
+Enjoy skills Has Sold item: 2451, Quantity 800
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 20	Second : 10
+Enjoy skills Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 20	Second : 11
+Enjoy skills Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 20	Second : 11
+Enjoy skills Has Sold item: 1320, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 20	Second : 12
+Enjoy skills Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 20	Second : 13
+Enjoy skills Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 20	Second : 14
+Enjoy skills Has Sold item: 1334, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 20	Second : 15
+Enjoy skills Has Sold item: 1713, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 20	Second : 16
+Enjoy skills Has Sold item: 1164, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 20	Second : 16
+Enjoy skills Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 20	Second : 18
+Enjoy skills Has Sold item: 4588, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 43	Second : 52
+Enjoy skills Has Sold item: 1618, Quantity 280
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 7	Minute : 43	Second : 56
+Enjoy skills Has Sold item: 1632, Quantity 40
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 8	Minute : 38	Second : 27
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 8	Minute : 38	Second : 42
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 1	Second : 13
+Enjoy skills Has Sold item: 1613, Quantity 10
+--------------------------------------------------

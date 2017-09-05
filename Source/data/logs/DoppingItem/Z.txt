@@ -1,0 +1,13 @@
+
+Year : 2017	Month : 7	Day : 29	Hour : 9	Minute : 18	Second : 6
+Z Dropped item: 995, Quantity: 0
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 30	Hour : 7	Minute : 13	Second : 37
+Z Dropped item: 1511, Quantity: 0
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 30	Hour : 7	Minute : 13	Second : 38
+Z Dropped item: 1515, Quantity: 0
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 30	Hour : 9	Minute : 10	Second : 44
+Z Dropped item: 255, Quantity: 0
+--------------------------------------------------

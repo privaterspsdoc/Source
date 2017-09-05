@@ -1,0 +1,211 @@
+
+Year : 2015	Month : 7	Day : 12	Hour : 10	Minute : 40	Second : 26
+Test2 Has clicked item: 203
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 13	Second : 15
+Test2 Has clicked item: 6812
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 23	Second : 22
+Test2 Has clicked item: 534
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 50	Second : 26
+Test2 Has clicked item: 119
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 50	Second : 27
+Test2 Has clicked item: 536
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 50	Second : 29
+Test2 Has clicked item: 536
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 50	Second : 29
+Test2 Has clicked item: 536
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 50	Second : 29
+Test2 Has clicked item: 536
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 50	Second : 30
+Test2 Has clicked item: 536
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 50	Second : 30
+Test2 Has clicked item: 536
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 50	Second : 30
+Test2 Has clicked item: 536
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 12	Hour : 11	Minute : 50	Second : 31
+Test2 Has clicked item: 536
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 7	Second : 46
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 7	Second : 47
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 7	Second : 47
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 7	Second : 47
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 7	Second : 47
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 7	Second : 47
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 7	Second : 47
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 7	Second : 48
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 7	Second : 52
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 18	Second : 26
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 20	Second : 30
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 20	Second : 36
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 13	Hour : 0	Minute : 21	Second : 17
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 9	Second : 8
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 14	Second : 6
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 14	Second : 12
+Test2 Has clicked item: 4834
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 23	Second : 18
+Test2 Has clicked item: 4834
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 23	Second : 24
+Test2 Has clicked item: 4834
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 3	Minute : 23	Second : 30
+Test2 Has clicked item: 4834
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 2	Second : 46
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 2	Second : 46
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 2	Second : 47
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 2	Second : 47
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 2	Second : 47
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 3	Second : 35
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 3	Second : 35
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 3	Second : 36
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 3	Second : 36
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 3	Second : 37
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 3	Second : 51
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 3	Second : 52
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 3	Second : 52
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 3	Second : 52
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 4	Second : 40
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 4	Second : 42
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 5	Second : 3
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 5	Second : 13
+Test2 Has clicked item: 385
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 18	Second : 50
+Test2 Has clicked item: 365
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 18	Second : 51
+Test2 Has clicked item: 365
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 18	Second : 51
+Test2 Has clicked item: 365
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 18	Second : 52
+Test2 Has clicked item: 365
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 18	Second : 53
+Test2 Has clicked item: 365
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 18	Second : 53
+Test2 Has clicked item: 365
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 18	Second : 53
+Test2 Has clicked item: 365
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 18	Second : 53
+Test2 Has clicked item: 365
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 18	Second : 55
+Test2 Has clicked item: 365
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 19	Second : 19
+Test2 Has clicked item: 365
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 19	Second : 19
+Test2 Has clicked item: 365
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 19	Second : 19
+Test2 Has clicked item: 365
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 19	Second : 19
+Test2 Has clicked item: 365
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 19	Second : 20
+Test2 Has clicked item: 365
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 19	Second : 20
+Test2 Has clicked item: 365
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 19	Second : 20
+Test2 Has clicked item: 365
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 19	Second : 22
+Test2 Has clicked item: 365
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 19	Second : 23
+Test2 Has clicked item: 365
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 19	Second : 23
+Test2 Has clicked item: 365
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 19	Second : 23
+Test2 Has clicked item: 365
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 14	Hour : 9	Minute : 19	Second : 24
+Test2 Has clicked item: 365
+--------------------------------------------------

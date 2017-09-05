@@ -1,0 +1,79 @@
+
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 22	Second : 57
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 22	Second : 57
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 22	Second : 59
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 22	Second : 59
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 22	Second : 59
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 23	Second : 0
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 23	Second : 0
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 23	Second : 0
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 23	Second : 0
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 23	Second : 0
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 23	Second : 1
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 23	Second : 1
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 23	Second : 2
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 23	Second : 2
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 23	Second : 2
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 23	Second : 2
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 23	Second : 3
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 23	Second : 3
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 23	Second : 3
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 23	Second : 3
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 23	Second : 4
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 23	Second : 4
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 23	Second : 4
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 23	Second : 5
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 23	Second : 5
+Yeery Has clicked item: 1897
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 23	Second : 5
+Yeery Has clicked item: 1897
+--------------------------------------------------

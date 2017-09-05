@@ -1,0 +1,61 @@
+
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 50	Second : 34
+Dezzed Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 50	Second : 38
+Dezzed Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 8	Minute : 50	Second : 51
+Dezzed Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 2	Minute : 35	Second : 48
+Dezzed Has Sold item: 1150, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 2	Minute : 35	Second : 50
+Dezzed Has Sold item: 1080, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 2	Minute : 35	Second : 51
+Dezzed Has Sold item: 1150, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 2	Minute : 35	Second : 54
+Dezzed Has Sold item: 4588, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 2	Minute : 35	Second : 58
+Dezzed Has Sold item: 1320, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 2	Minute : 36	Second : 1
+Dezzed Has Sold item: 1320, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 2	Minute : 36	Second : 1
+Dezzed Has Sold item: 1334, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 2	Minute : 36	Second : 2
+Dezzed Has Sold item: 1334, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 2	Minute : 36	Second : 2
+Dezzed Has Sold item: 1148, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 2	Minute : 36	Second : 9
+Dezzed Has Sold item: 4588, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 8	Minute : 16	Second : 22
+Dezzed Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 8	Minute : 16	Second : 25
+Dezzed Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 8	Minute : 16	Second : 26
+Dezzed Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 53	Second : 18
+Dezzed Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 53	Second : 20
+Dezzed Has Sold item: 2364, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 53	Second : 22
+Dezzed Has Sold item: 1304, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 0	Minute : 53	Second : 23
+Dezzed Has Sold item: 4091, Quantity 5
+--------------------------------------------------

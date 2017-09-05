@@ -1,0 +1,7 @@
+
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 11
+Devyn Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 56	Second : 13
+Devyn Has Sold item: 950, Quantity 10
+--------------------------------------------------

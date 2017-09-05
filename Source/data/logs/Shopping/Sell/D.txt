@@ -1,0 +1,16 @@
+
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 7	Second : 29
+D Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 7	Second : 36
+D Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 7	Second : 39
+D Has Sold item: 950, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 10	Second : 22
+D Has Sold item: 950, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 10	Second : 25
+D Has Sold item: 1635, Quantity 111
+--------------------------------------------------

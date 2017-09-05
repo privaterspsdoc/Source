@@ -1,0 +1,61 @@
+
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 31	Second : 4
+Joshua Has Sold item: 1897, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 31	Second : 5
+Joshua Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 31	Second : 7
+Joshua Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 31	Second : 15
+Joshua Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 31	Second : 16
+Joshua Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 31	Second : 18
+Joshua Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 32	Second : 20
+Joshua Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 32	Second : 22
+Joshua Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 32	Second : 23
+Joshua Has Sold item: 950, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 32	Second : 23
+Joshua Has Sold item: 950, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 32	Second : 24
+Joshua Has Sold item: 950, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 32	Second : 26
+Joshua Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 35	Second : 16
+Joshua Has Sold item: 1635, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 36	Second : 13
+Joshua Has Sold item: 1635, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 37	Second : 8
+Joshua Has Sold item: 1635, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 38	Second : 4
+Joshua Has Sold item: 1635, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 3	Second : 52
+Joshua Has Sold item: 1601, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 3	Second : 54
+Joshua Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 3	Second : 55
+Joshua Has Sold item: 1635, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 3	Second : 56
+Joshua Has Sold item: 1601, Quantity 1
+--------------------------------------------------

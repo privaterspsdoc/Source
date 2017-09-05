@@ -1,0 +1,106 @@
+
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 10	Second : 13
+Jonwan2 Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 10	Second : 14
+Jonwan2 Has Sold item: 169, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 10	Second : 15
+Jonwan2 Has Sold item: 3026, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 10	Second : 38
+Jonwan2 Has Sold item: 1897, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 10	Second : 40
+Jonwan2 Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 11	Second : 30
+Jonwan2 Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 11	Second : 33
+Jonwan2 Has Sold item: 950, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 14	Second : 35
+Jonwan2 Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 14	Second : 37
+Jonwan2 Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 15	Second : 15
+Jonwan2 Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 15	Second : 16
+Jonwan2 Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 15	Second : 17
+Jonwan2 Has Sold item: 1635, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 27	Second : 53
+Jonwan2 Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 27	Second : 54
+Jonwan2 Has Sold item: 1303, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 27	Second : 56
+Jonwan2 Has Sold item: 1604, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 27	Second : 57
+Jonwan2 Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 10	Minute : 5	Second : 6
+Jonwan2 Has Sold item: 561, Quantity 165
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 10	Minute : 5	Second : 18
+Jonwan2 Has Sold item: 374, Quantity 129
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 10	Minute : 5	Second : 40
+Jonwan2 Has Sold item: 563, Quantity 181
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 10	Minute : 24	Second : 16
+Jonwan2 Has Sold item: 565, Quantity 168
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 10	Minute : 28	Second : 48
+Jonwan2 Has Sold item: 566, Quantity 4268
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 10	Minute : 28	Second : 55
+Jonwan2 Has Sold item: 555, Quantity 357
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 10	Minute : 29	Second : 0
+Jonwan2 Has Sold item: 565, Quantity 2472
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 10	Minute : 29	Second : 9
+Jonwan2 Has Sold item: 560, Quantity 944
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 10	Minute : 29	Second : 17
+Jonwan2 Has Sold item: 555, Quantity 348
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 10	Minute : 29	Second : 25
+Jonwan2 Has Sold item: 391, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 10	Minute : 29	Second : 27
+Jonwan2 Has Sold item: 391, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 16	Second : 21
+Jonwan2 Has Sold item: 1635, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 23	Second : 36
+Jonwan2 Has Sold item: 1635, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 0	Minute : 52	Second : 55
+Jonwan2 Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 0	Minute : 52	Second : 56
+Jonwan2 Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 0	Minute : 52	Second : 57
+Jonwan2 Has Sold item: 2363, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 0	Minute : 53	Second : 2
+Jonwan2 Has Sold item: 7945, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 9	Minute : 44	Second : 57
+Jonwan2 Has Sold item: 268, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 9	Minute : 44	Second : 58
+Jonwan2 Has Sold item: 1748, Quantity 5
+--------------------------------------------------

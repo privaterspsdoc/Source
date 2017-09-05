@@ -1,0 +1,31 @@
+
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 30	Second : 31
+Replenish Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 30	Second : 33
+Replenish Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 30	Second : 38
+Replenish Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 30	Second : 40
+Replenish Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 30	Second : 47
+Replenish Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 3	Minute : 30	Second : 51
+Replenish Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 15	Second : 28
+Replenish Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 15	Second : 30
+Replenish Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 15	Second : 31
+Replenish Has Sold item: 1602, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 4	Minute : 15	Second : 34
+Replenish Has Sold item: 1602, Quantity 10
+--------------------------------------------------

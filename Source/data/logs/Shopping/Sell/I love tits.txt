@@ -1,0 +1,79 @@
+
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 13	Second : 14
+I love tits Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 13	Second : 21
+I love tits Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 13	Second : 24
+I love tits Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 13	Second : 25
+I love tits Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 14	Second : 57
+I love tits Has Sold item: 950, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 15	Second : 1
+I love tits Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 16	Second : 50
+I love tits Has Sold item: 1635, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 18	Second : 40
+I love tits Has Sold item: 1635, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 19	Second : 49
+I love tits Has Sold item: 1635, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 21	Second : 11
+I love tits Has Sold item: 1635, Quantity 88
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 23	Second : 19
+I love tits Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 23	Second : 20
+I love tits Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 23	Second : 20
+I love tits Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 46	Second : 31
+I love tits Has Sold item: 561, Quantity 1000
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 3	Minute : 49	Second : 1
+I love tits Has Sold item: 1387, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 56	Second : 30
+I love tits Has Sold item: 565, Quantity 1000
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 56	Second : 44
+I love tits Has Sold item: 560, Quantity 1000
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 56	Second : 59
+I love tits Has Sold item: 566, Quantity 8888
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 12	Second : 24
+I love tits Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 12	Second : 25
+I love tits Has Sold item: 4091, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 48	Second : 40
+I love tits Has Sold item: 561, Quantity 700
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 48	Second : 59
+I love tits Has Sold item: 563, Quantity 10000
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 57	Second : 0
+I love tits Has Sold item: 10828, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 57	Second : 2
+I love tits Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 57	Second : 6
+I love tits Has Sold item: 9075, Quantity 8000
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 57	Second : 13
+I love tits Has Sold item: 557, Quantity 800
+--------------------------------------------------

@@ -1,0 +1,25 @@
+
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 32	Second : 30
+Rick Has Sold item: 2504, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 32	Second : 46
+Rick Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 33	Second : 3
+Rick Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 33	Second : 4
+Rick Has Sold item: 950, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 33	Second : 5
+Rick Has Sold item: 229, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 33	Second : 31
+Rick Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 33	Second : 33
+Rick Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 33	Second : 41
+Rick Has Sold item: 950, Quantity 5
+--------------------------------------------------

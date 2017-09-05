@@ -1,0 +1,4 @@
+
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 6	Second : 20
+69 Has Sold item: 11691, Quantity 1
+--------------------------------------------------

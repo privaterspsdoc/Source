@@ -1,0 +1,37 @@
+
+Year : 2015	Month : 7	Day : 7	Hour : 11	Minute : 49	Second : 9
+Player Command: optab
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 7	Hour : 11	Minute : 51	Second : 56
+Player Command: optab
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 7	Hour : 11	Minute : 51	Second : 58
+Player Command: optab
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 7	Hour : 11	Minute : 51	Second : 59
+Player Command: optab
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 7	Hour : 11	Minute : 52	Second : 3
+Player Command: optab
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 7	Hour : 11	Minute : 52	Second : 7
+Player Command: optab
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 7	Hour : 11	Minute : 52	Second : 9
+Player Command: optab
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 7	Hour : 11	Minute : 52	Second : 11
+Player Command: optab
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 7	Hour : 11	Minute : 52	Second : 14
+Player Command: optab
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 7	Hour : 11	Minute : 52	Second : 18
+Player Command: optab
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 8	Hour : 0	Minute : 38	Second : 40
+Player Command: teleto 3330 3335
+--------------------------------------------------
+Year : 2015	Month : 7	Day : 8	Hour : 0	Minute : 38	Second : 47
+Player Command: xteleto 3330 3335
+--------------------------------------------------

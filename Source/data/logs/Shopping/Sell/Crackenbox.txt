@@ -1,0 +1,184 @@
+
+Year : 2015	Month : 5	Day : 27	Hour : 9	Minute : 59	Second : 55
+Crackenbox Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 9	Minute : 59	Second : 58
+Crackenbox Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 0	Second : 1
+Crackenbox Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 0	Second : 50
+Crackenbox Has Sold item: 950, Quantity 55
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 16	Second : 11
+Crackenbox Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 18	Second : 38
+Crackenbox Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 31	Second : 40
+Crackenbox Has Sold item: 2493, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 31	Second : 40
+Crackenbox Has Sold item: 2499, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 31	Second : 41
+Crackenbox Has Sold item: 1097, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 31	Second : 42
+Crackenbox Has Sold item: 1133, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 13	Second : 59
+Crackenbox Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 14	Second : 1
+Crackenbox Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 14	Second : 3
+Crackenbox Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 14	Second : 6
+Crackenbox Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 14	Second : 8
+Crackenbox Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 49	Second : 9
+Crackenbox Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 49	Second : 11
+Crackenbox Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 3	Minute : 49	Second : 13
+Crackenbox Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 53	Second : 56
+Crackenbox Has Sold item: 1618, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 53	Second : 58
+Crackenbox Has Sold item: 1618, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 54	Second : 0
+Crackenbox Has Sold item: 1618, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 10	Minute : 54	Second : 1
+Crackenbox Has Sold item: 1618, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 21	Second : 50
+Crackenbox Has Sold item: 1618, Quantity 80
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 24	Second : 9
+Crackenbox Has Sold item: 1313, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 24	Second : 9
+Crackenbox Has Sold item: 1107, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 24	Second : 11
+Crackenbox Has Sold item: 1511, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 24	Second : 12
+Crackenbox Has Sold item: 1129, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 11	Minute : 24	Second : 12
+Crackenbox Has Sold item: 1217, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 9	Minute : 23	Second : 36
+Crackenbox Has Sold item: 1751, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 2	Second : 50
+Crackenbox Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 2	Second : 52
+Crackenbox Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 2	Second : 52
+Crackenbox Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 24	Second : 39
+Crackenbox Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 7	Minute : 24	Second : 45
+Crackenbox Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 44	Second : 42
+Crackenbox Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 8	Minute : 44	Second : 43
+Crackenbox Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 9	Minute : 18	Second : 20
+Crackenbox Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 9	Minute : 18	Second : 22
+Crackenbox Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 11	Second : 25
+Crackenbox Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 10	Minute : 45	Second : 55
+Crackenbox Has Sold item: 1305, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 13	Second : 16
+Crackenbox Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 18	Second : 56
+Crackenbox Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 19	Second : 1
+Crackenbox Has Sold item: 2363, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 37	Second : 42
+Crackenbox Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 44	Second : 1
+Crackenbox Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 44	Second : 1
+Crackenbox Has Sold item: 1163, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 44	Second : 2
+Crackenbox Has Sold item: 1127, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 44	Second : 3
+Crackenbox Has Sold item: 1303, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 44	Second : 4
+Crackenbox Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 44	Second : 6
+Crackenbox Has Sold item: 6107, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 44	Second : 7
+Crackenbox Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 44	Second : 8
+Crackenbox Has Sold item: 6108, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 44	Second : 9
+Crackenbox Has Sold item: 229, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 44	Second : 10
+Crackenbox Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 44	Second : 13
+Crackenbox Has Sold item: 380, Quantity 200
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 44	Second : 14
+Crackenbox Has Sold item: 11038, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 11	Minute : 44	Second : 16
+Crackenbox Has Sold item: 842, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 0	Minute : 3	Second : 55
+Crackenbox Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 0	Minute : 16	Second : 45
+Crackenbox Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 0	Minute : 16	Second : 47
+Crackenbox Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 0	Minute : 16	Second : 49
+Crackenbox Has Sold item: 1602, Quantity 10
+--------------------------------------------------

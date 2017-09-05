@@ -1,0 +1,217 @@
+
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 0	Second : 24
+Tacos Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 0	Second : 28
+Tacos Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 0	Second : 29
+Tacos Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 0	Second : 30
+Tacos Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 0	Second : 33
+Tacos Has Sold item: 830, Quantity 80
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 0	Second : 37
+Tacos Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 0	Second : 39
+Tacos Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 1	Second : 17
+Tacos Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 1	Second : 20
+Tacos Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 1	Second : 21
+Tacos Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 1	Second : 22
+Tacos Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 1	Second : 25
+Tacos Has Sold item: 1604, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 1	Second : 27
+Tacos Has Sold item: 1616, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 1	Second : 29
+Tacos Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 1	Second : 30
+Tacos Has Sold item: 1164, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 1	Second : 31
+Tacos Has Sold item: 1324, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 1	Second : 32
+Tacos Has Sold item: 1116, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 1	Second : 32
+Tacos Has Sold item: 1154, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 1	Second : 34
+Tacos Has Sold item: 1068, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 2	Second : 32
+Tacos Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 2	Second : 35
+Tacos Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 6	Second : 15
+Tacos Has Sold item: 950, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 9	Second : 52
+Tacos Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 8	Minute : 9	Second : 55
+Tacos Has Sold item: 1635, Quantity 100
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 44	Second : 5
+Tacos Has Sold item: 1635, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 45	Second : 56
+Tacos Has Sold item: 1635, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 47	Second : 0
+Tacos Has Sold item: 1635, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 47	Second : 58
+Tacos Has Sold item: 1635, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 50	Second : 3
+Tacos Has Sold item: 1635, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 52	Second : 15
+Tacos Has Sold item: 1635, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 54	Second : 32
+Tacos Has Sold item: 7650, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 54	Second : 35
+Tacos Has Sold item: 1635, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 57	Second : 14
+Tacos Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 15	Second : 8
+Tacos Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 5	Minute : 15	Second : 9
+Tacos Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 10	Second : 19
+Tacos Has Sold item: 7650, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 10	Second : 43
+Tacos Has Sold item: 7650, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 14	Second : 7
+Tacos Has Sold item: 7650, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 17	Second : 4
+Tacos Has Sold item: 7650, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 21	Second : 18
+Tacos Has Sold item: 7650, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 23	Second : 6
+Tacos Has Sold item: 7650, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 31	Second : 24
+Tacos Has Sold item: 7650, Quantity 233
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 32	Second : 40
+Tacos Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 32	Second : 41
+Tacos Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 28	Second : 0
+Tacos Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 28	Second : 1
+Tacos Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 28	Second : 8
+Tacos Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 36	Second : 18
+Tacos Has Sold item: 1199, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 36	Second : 24
+Tacos Has Sold item: 1199, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 36	Second : 24
+Tacos Has Sold item: 1161, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 36	Second : 25
+Tacos Has Sold item: 1123, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 36	Second : 25
+Tacos Has Sold item: 1073, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 36	Second : 26
+Tacos Has Sold item: 1071, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 36	Second : 28
+Tacos Has Sold item: 1121, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 36	Second : 28
+Tacos Has Sold item: 1159, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 36	Second : 29
+Tacos Has Sold item: 1197, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 2	Second : 36
+Tacos Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 2	Second : 37
+Tacos Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 5	Minute : 2	Second : 37
+Tacos Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 3	Second : 48
+Tacos Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 35	Second : 8
+Tacos Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 35	Second : 10
+Tacos Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 35	Second : 12
+Tacos Has Sold item: 5698, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 35	Second : 13
+Tacos Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 35	Second : 15
+Tacos Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 46	Second : 24
+Tacos Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 46	Second : 26
+Tacos Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 46	Second : 33
+Tacos Has Sold item: 1754, Quantity 17
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 56	Second : 38
+Tacos Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 56	Second : 39
+Tacos Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 56	Second : 41
+Tacos Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 56	Second : 42
+Tacos Has Sold item: 1319, Quantity 5
+--------------------------------------------------

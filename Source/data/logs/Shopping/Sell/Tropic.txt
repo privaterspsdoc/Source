@@ -1,0 +1,73 @@
+
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 16	Second : 37
+Tropic Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 3	Second : 9
+Tropic Has Sold item: 1512, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 20	Second : 33
+Tropic Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 20	Second : 34
+Tropic Has Sold item: 1603, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 20	Second : 35
+Tropic Has Sold item: 1601, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 38	Second : 23
+Tropic Has Sold item: 841, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 23	Second : 39
+Tropic Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 23	Second : 40
+Tropic Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 23	Second : 42
+Tropic Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 23	Second : 46
+Tropic Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 23	Second : 48
+Tropic Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 23	Second : 49
+Tropic Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 23	Second : 50
+Tropic Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 18	Second : 15
+Tropic Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 18	Second : 16
+Tropic Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 0	Minute : 18	Second : 18
+Tropic Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 38	Second : 48
+Tropic Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 38	Second : 51
+Tropic Has Sold item: 830, Quantity 40
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 38	Second : 52
+Tropic Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 38	Second : 53
+Tropic Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 18	Second : 16
+Tropic Has Sold item: 950, Quantity 111
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 18	Second : 21
+Tropic Has Sold item: 950, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 18	Second : 14
+Tropic Has Sold item: 1149, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 26	Hour : 0	Minute : 18	Second : 14
+Tropic Has Sold item: 4587, Quantity 1
+--------------------------------------------------

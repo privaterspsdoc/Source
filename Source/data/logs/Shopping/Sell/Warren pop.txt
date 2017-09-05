@@ -1,0 +1,16 @@
+
+Year : 2015	Month : 5	Day : 29	Hour : 0	Minute : 16	Second : 5
+Warren pop Has Sold item: 565, Quantity 1000
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 0	Minute : 16	Second : 40
+Warren pop Has Sold item: 560, Quantity 2000
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 0	Minute : 18	Second : 6
+Warren pop Has Sold item: 6568, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 0	Minute : 19	Second : 48
+Warren pop Has Sold item: 10828, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 0	Minute : 19	Second : 53
+Warren pop Has Sold item: 5574, Quantity 5
+--------------------------------------------------

@@ -1,0 +1,25 @@
+
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 38	Second : 25
+Iron l Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 38	Second : 26
+Iron l Has Sold item: 1897, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 39	Second : 34
+Iron l Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 39	Second : 37
+Iron l Has Sold item: 1621, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 40	Second : 12
+Iron l Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 40	Second : 13
+Iron l Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 40	Second : 32
+Iron l Has Sold item: 1897, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 40	Second : 33
+Iron l Has Sold item: 1897, Quantity 10
+--------------------------------------------------

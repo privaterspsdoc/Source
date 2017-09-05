@@ -1,0 +1,16 @@
+
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 40	Second : 18
+Iron purge Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 40	Second : 19
+Iron purge Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 40	Second : 26
+Iron purge Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 40	Second : 26
+Iron purge Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 40	Second : 29
+Iron purge Has Sold item: 1897, Quantity 10
+--------------------------------------------------

@@ -1,0 +1,19 @@
+
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 35	Second : 7
+Ur dead nan Has Sold item: 1616, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 2	Minute : 35	Second : 9
+Ur dead nan Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 3	Minute : 7	Second : 22
+Ur dead nan Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 3	Minute : 7	Second : 26
+Ur dead nan Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 3	Minute : 19	Second : 42
+Ur dead nan Has Sold item: 1754, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 19	Hour : 3	Minute : 19	Second : 44
+Ur dead nan Has Sold item: 1602, Quantity 10
+--------------------------------------------------

@@ -1,0 +1,211 @@
+
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 29	Second : 1
+Zubi Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 30	Second : 16
+Zubi Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 30	Second : 19
+Zubi Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 41	Second : 50
+Zubi Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 42	Second : 13
+Zubi Has Sold item: 1129, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 34	Second : 11
+Zubi Has Sold item: 950, Quantity 30
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 34	Second : 14
+Zubi Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 46	Second : 21
+Zubi Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 46	Second : 29
+Zubi Has Sold item: 830, Quantity 120
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 46	Second : 32
+Zubi Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 46	Second : 34
+Zubi Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 46	Second : 35
+Zubi Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 46	Second : 38
+Zubi Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 53	Second : 41
+Zubi Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 53	Second : 43
+Zubi Has Sold item: 1079, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 53	Second : 45
+Zubi Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 31	Second : 26
+Zubi Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 31	Second : 27
+Zubi Has Sold item: 1604, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 31	Second : 29
+Zubi Has Sold item: 1608, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 53	Second : 35
+Zubi Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 53	Second : 37
+Zubi Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 53	Second : 38
+Zubi Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 53	Second : 42
+Zubi Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 6	Second : 17
+Zubi Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 6	Second : 19
+Zubi Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 6	Second : 23
+Zubi Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 6	Second : 24
+Zubi Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 6	Second : 26
+Zubi Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 6	Second : 28
+Zubi Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 6	Second : 31
+Zubi Has Sold item: 830, Quantity 80
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 37	Second : 4
+Zubi Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 37	Second : 8
+Zubi Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 37	Second : 10
+Zubi Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 37	Second : 11
+Zubi Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 37	Second : 13
+Zubi Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 37	Second : 15
+Zubi Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 37	Second : 28
+Zubi Has Sold item: 830, Quantity 160
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 51	Second : 45
+Zubi Has Sold item: 9144, Quantity 1043
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 25	Second : 40
+Zubi Has Sold item: 4101, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 25	Second : 42
+Zubi Has Sold item: 4103, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 25	Second : 45
+Zubi Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 25	Second : 47
+Zubi Has Sold item: 4113, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 28	Second : 47
+Zubi Has Sold item: 859, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 28	Second : 50
+Zubi Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 47	Second : 46
+Zubi Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 47	Second : 59
+Zubi Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 48	Second : 2
+Zubi Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 48	Second : 4
+Zubi Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 48	Second : 6
+Zubi Has Sold item: 1147, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 48	Second : 14
+Zubi Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 48	Second : 17
+Zubi Has Sold item: 830, Quantity 80
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 48	Second : 21
+Zubi Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 0	Second : 29
+Zubi Has Sold item: 4101, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 22	Second : 45
+Zubi Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 22	Second : 47
+Zubi Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 22	Second : 51
+Zubi Has Sold item: 5699, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 23	Second : 37
+Zubi Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 4	Second : 18
+Zubi Has Sold item: 2504, Quantity 49
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 7	Minute : 4	Second : 22
+Zubi Has Sold item: 2498, Quantity 54
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 37	Second : 1
+Zubi Has Sold item: 2504, Quantity 33
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 37	Second : 4
+Zubi Has Sold item: 2498, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 37	Second : 5
+Zubi Has Sold item: 2498, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 11	Second : 41
+Zubi Has Sold item: 2504, Quantity 35
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 4	Minute : 11	Second : 45
+Zubi Has Sold item: 2498, Quantity 50
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 56	Second : 44
+Zubi Has Sold item: 4091, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 56	Second : 45
+Zubi Has Sold item: 4093, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 56	Second : 46
+Zubi Has Sold item: 4111, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 56	Second : 48
+Zubi Has Sold item: 4103, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 56	Second : 49
+Zubi Has Sold item: 4113, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 7	Second : 57
+Zubi Has Sold item: 2434, Quantity 1
+--------------------------------------------------

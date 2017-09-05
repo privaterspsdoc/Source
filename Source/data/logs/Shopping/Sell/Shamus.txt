@@ -1,0 +1,31 @@
+
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 37	Second : 53
+Shamus Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 55	Second : 30
+Shamus Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 10	Second : 56
+Shamus Has Sold item: 1727, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 11	Second : 51
+Shamus Has Sold item: 1727, Quantity 50
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 12	Second : 32
+Shamus Has Sold item: 1725, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 13	Second : 18
+Shamus Has Sold item: 1725, Quantity 50
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 13	Second : 45
+Shamus Has Sold item: 1731, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 14	Second : 10
+Shamus Has Sold item: 1631, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 15	Second : 1
+Shamus Has Sold item: 1731, Quantity 50
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 15	Second : 32
+Shamus Has Sold item: 1731, Quantity 10
+--------------------------------------------------

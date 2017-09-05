@@ -1,0 +1,82 @@
+
+Year : 2017	Month : 7	Day : 22	Hour : 0	Minute : 59	Second : 52
+Player Command: dataon
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 22	Hour : 0	Minute : 59	Second : 55
+Player Command: fpson
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 22	Hour : 0	Minute : 59	Second : 57
+Player Command: fps
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 22	Hour : 0	Minute : 59	Second : 57
+Player Command: data
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 35	Second : 51
+Player Command: yell 
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 35	Second : 54
+Player Command: yell ol
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 35	Second : 57
+Player Command: yell l
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 36	Second : 0
+Player Command: yell lmfao
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 36	Second : 5
+Player Command: yellllll 4
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 36	Second : 6
+Player Command: yle
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 36	Second : 10
+Player Command: dataon
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 36	Second : 11
+Player Command: dataoff
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 36	Second : 13
+Player Command: fps
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 36	Second : 14
+Player Command: fpson
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 0	Minute : 36	Second : 17
+Player Command: shop 44
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 6	Minute : 13	Second : 16
+Player Command: start
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 6	Minute : 13	Second : 30
+Player Command: db1d21@axb
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 6	Minute : 14	Second : 20
+Player Command: dbd21@axb
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 6	Minute : 15	Second : 40
+Player Command: star
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 6	Minute : 15	Second : 43
+Player Command: start
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 6	Minute : 28	Second : 28
+Player Command: start
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 6	Minute : 28	Second : 38
+Player Command: c%%gzjgg2e
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 6	Minute : 29	Second : 10
+Player Command: end
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 6	Minute : 29	Second : 13
+Player Command: start
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 6	Minute : 30	Second : 29
+Player Command: start
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 6	Minute : 30	Second : 32
+Player Command: start
+--------------------------------------------------
+Year : 2017	Month : 7	Day : 28	Hour : 6	Minute : 30	Second : 45
+Player Command: lol
+--------------------------------------------------

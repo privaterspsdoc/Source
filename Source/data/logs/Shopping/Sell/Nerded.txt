@@ -1,0 +1,22 @@
+
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 45	Second : 26
+Nerded Has Sold item: 1163, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 47	Second : 59
+Nerded Has Sold item: 9144, Quantity 150
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 49	Second : 43
+Nerded Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 49	Second : 49
+Nerded Has Sold item: 1161, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 49	Second : 50
+Nerded Has Sold item: 1123, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 49	Second : 50
+Nerded Has Sold item: 1073, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 49	Second : 52
+Nerded Has Sold item: 1199, Quantity 10
+--------------------------------------------------

@@ -1,0 +1,22 @@
+
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 35	Second : 56
+Kibz Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 35	Second : 57
+Kibz Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 35	Second : 57
+Kibz Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 35	Second : 57
+Kibz Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 37	Second : 7
+Kibz Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 37	Second : 7
+Kibz Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 6	Minute : 37	Second : 10
+Kibz Has Sold item: 1897, Quantity 10
+--------------------------------------------------

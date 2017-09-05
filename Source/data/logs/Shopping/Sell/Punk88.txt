@@ -1,0 +1,94 @@
+
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 44	Second : 32
+Punk88 Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 44	Second : 34
+Punk88 Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 44	Second : 35
+Punk88 Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 44	Second : 36
+Punk88 Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 44	Second : 37
+Punk88 Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 44	Second : 38
+Punk88 Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 44	Second : 39
+Punk88 Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 44	Second : 40
+Punk88 Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 44	Second : 42
+Punk88 Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 44	Second : 43
+Punk88 Has Sold item: 2497, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 47	Second : 39
+Punk88 Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 47	Second : 40
+Punk88 Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 47	Second : 40
+Punk88 Has Sold item: 544, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 47	Second : 41
+Punk88 Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 47	Second : 42
+Punk88 Has Sold item: 561, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 47	Second : 43
+Punk88 Has Sold item: 561, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 47	Second : 44
+Punk88 Has Sold item: 561, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 4	Minute : 47	Second : 45
+Punk88 Has Sold item: 561, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 52	Second : 46
+Punk88 Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 5	Minute : 52	Second : 48
+Punk88 Has Sold item: 1150, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 13	Second : 30
+Punk88 Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 13	Second : 31
+Punk88 Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 13	Second : 36
+Punk88 Has Sold item: 1080, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 13	Second : 39
+Punk88 Has Sold item: 2607, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 13	Second : 40
+Punk88 Has Sold item: 2607, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 13	Second : 42
+Punk88 Has Sold item: 2603, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 13	Second : 44
+Punk88 Has Sold item: 2611, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 13	Second : 50
+Punk88 Has Sold item: 2629, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 13	Second : 51
+Punk88 Has Sold item: 7358, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 13	Second : 52
+Punk88 Has Sold item: 2601, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 28	Hour : 3	Minute : 13	Second : 54
+Punk88 Has Sold item: 7346, Quantity 10
+--------------------------------------------------

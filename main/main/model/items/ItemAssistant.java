@@ -1312,7 +1312,16 @@ public class ItemAssistant {
 			break;
 		}
 	}
-
+	public static String getItemName2(int ItemID) {
+		for (int i = 0; i < Config.ITEM_LIMIT; i++) {
+			if (Server.itemHandler.ItemList[i] != null) {
+				if (Server.itemHandler.ItemList[i].itemId == ItemID) {
+					return Server.itemHandler.ItemList[i].itemName;
+				}
+			}
+		}
+		return "Unarmed";
+	}
 	/**
 	 * Special attack bar filling amount.
 	 **/

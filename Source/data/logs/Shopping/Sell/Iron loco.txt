@@ -1,0 +1,172 @@
+
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 7	Second : 17
+Iron loco Has Sold item: 950, Quantity 3
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 7	Second : 18
+Iron loco Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 7	Second : 22
+Iron loco Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 7	Second : 23
+Iron loco Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 7	Second : 24
+Iron loco Has Sold item: 1897, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 7	Second : 25
+Iron loco Has Sold item: 1897, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 8	Second : 31
+Iron loco Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 8	Second : 32
+Iron loco Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 8	Second : 32
+Iron loco Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 12	Second : 8
+Iron loco Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 12	Second : 9
+Iron loco Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 12	Second : 9
+Iron loco Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 14	Second : 15
+Iron loco Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 14	Second : 15
+Iron loco Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 14	Second : 15
+Iron loco Has Sold item: 1635, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 15	Second : 40
+Iron loco Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 15	Second : 41
+Iron loco Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 15	Second : 41
+Iron loco Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 28	Second : 25
+Iron loco Has Sold item: 1320, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 28	Second : 27
+Iron loco Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 28	Second : 28
+Iron loco Has Sold item: 4104, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 28	Second : 28
+Iron loco Has Sold item: 4090, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 28	Second : 28
+Iron loco Has Sold item: 4597, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 28	Second : 29
+Iron loco Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 28	Second : 30
+Iron loco Has Sold item: 4094, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 28	Second : 30
+Iron loco Has Sold item: 2352, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 28	Second : 31
+Iron loco Has Sold item: 1150, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 28	Second : 31
+Iron loco Has Sold item: 1248, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 28	Second : 31
+Iron loco Has Sold item: 4676, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 28	Second : 32
+Iron loco Has Sold item: 1080, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 28	Second : 32
+Iron loco Has Sold item: 4092, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 28	Second : 32
+Iron loco Has Sold item: 1150, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 28	Second : 33
+Iron loco Has Sold item: 4102, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 28	Second : 34
+Iron loco Has Sold item: 1148, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 56	Second : 11
+Iron loco Has Sold item: 1148, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 56	Second : 12
+Iron loco Has Sold item: 4588, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 56	Second : 12
+Iron loco Has Sold item: 1320, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 56	Second : 13
+Iron loco Has Sold item: 1080, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 56	Second : 14
+Iron loco Has Sold item: 1713, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 56	Second : 15
+Iron loco Has Sold item: 1713, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 56	Second : 15
+Iron loco Has Sold item: 1730, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 56	Second : 16
+Iron loco Has Sold item: 1728, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 56	Second : 16
+Iron loco Has Sold item: 1726, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 56	Second : 17
+Iron loco Has Sold item: 1732, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 56	Second : 17
+Iron loco Has Sold item: 1334, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 56	Second : 18
+Iron loco Has Sold item: 1150, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 56	Second : 19
+Iron loco Has Sold item: 1726, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 56	Second : 20
+Iron loco Has Sold item: 1248, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 56	Second : 20
+Iron loco Has Sold item: 1732, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 56	Second : 21
+Iron loco Has Sold item: 1732, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 56	Second : 22
+Iron loco Has Sold item: 1732, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 56	Second : 23
+Iron loco Has Sold item: 1732, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 0	Minute : 56	Second : 24
+Iron loco Has Sold item: 1732, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 23	Second : 34
+Iron loco Has Sold item: 860, Quantity 320
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 23	Second : 39
+Iron loco Has Sold item: 856, Quantity 421
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 23	Second : 44
+Iron loco Has Sold item: 854, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 4	Minute : 23	Second : 48
+Iron loco Has Sold item: 852, Quantity 107
+--------------------------------------------------

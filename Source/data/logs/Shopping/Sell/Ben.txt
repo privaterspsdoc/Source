@@ -1,0 +1,4 @@
+
+Year : 2015	Month : 5	Day : 20	Hour : 7	Minute : 42	Second : 5
+Ben Has Sold item: 4587, Quantity 5
+--------------------------------------------------

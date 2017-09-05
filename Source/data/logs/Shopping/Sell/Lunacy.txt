@@ -1,0 +1,1363 @@
+
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 28	Second : 2
+Lunacy Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 28	Second : 6
+Lunacy Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 28	Second : 7
+Lunacy Has Sold item: 1213, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 28	Second : 9
+Lunacy Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 28	Second : 18
+Lunacy Has Sold item: 536, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 28	Second : 20
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 28	Second : 21
+Lunacy Has Sold item: 536, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 28	Second : 23
+Lunacy Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 28	Second : 27
+Lunacy Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 28	Second : 28
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 28	Second : 30
+Lunacy Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 28	Second : 31
+Lunacy Has Sold item: 1754, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 28	Second : 32
+Lunacy Has Sold item: 1213, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 28	Second : 34
+Lunacy Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 28	Second : 35
+Lunacy Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 28	Second : 36
+Lunacy Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 38	Second : 49
+Lunacy Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 38	Second : 51
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 38	Second : 52
+Lunacy Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 38	Second : 54
+Lunacy Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 38	Second : 55
+Lunacy Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 38	Second : 57
+Lunacy Has Sold item: 1754, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 52	Second : 20
+Lunacy Has Sold item: 4089, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 52	Second : 25
+Lunacy Has Sold item: 4093, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 52	Second : 27
+Lunacy Has Sold item: 4091, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 52	Second : 28
+Lunacy Has Sold item: 4113, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 52	Second : 29
+Lunacy Has Sold item: 4101, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 1	Minute : 52	Second : 31
+Lunacy Has Sold item: 4103, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 48	Second : 6
+Lunacy Has Sold item: 4111, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 48	Second : 8
+Lunacy Has Sold item: 4113, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 48	Second : 9
+Lunacy Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 48	Second : 11
+Lunacy Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 48	Second : 13
+Lunacy Has Sold item: 4094, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 48	Second : 14
+Lunacy Has Sold item: 4089, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 48	Second : 15
+Lunacy Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 48	Second : 17
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 48	Second : 19
+Lunacy Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 48	Second : 20
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 48	Second : 22
+Lunacy Has Sold item: 4675, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 56	Second : 13
+Lunacy Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 56	Second : 15
+Lunacy Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 56	Second : 16
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 56	Second : 17
+Lunacy Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 2	Minute : 56	Second : 18
+Lunacy Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 8	Second : 39
+Lunacy Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 8	Second : 40
+Lunacy Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 8	Second : 42
+Lunacy Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 8	Second : 43
+Lunacy Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 8	Second : 44
+Lunacy Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 8	Second : 45
+Lunacy Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 8	Second : 49
+Lunacy Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 8	Second : 50
+Lunacy Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 8	Second : 51
+Lunacy Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 8	Second : 53
+Lunacy Has Sold item: 830, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 8	Second : 57
+Lunacy Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 8	Second : 58
+Lunacy Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 20	Hour : 3	Minute : 18	Second : 38
+Lunacy Has Sold item: 562, Quantity 28
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 9	Second : 30
+Lunacy Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 9	Second : 31
+Lunacy Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 9	Second : 33
+Lunacy Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 9	Second : 33
+Lunacy Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 9	Second : 36
+Lunacy Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 9	Second : 37
+Lunacy Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 9	Second : 38
+Lunacy Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 39	Second : 17
+Lunacy Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 39	Second : 19
+Lunacy Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 39	Second : 19
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 53	Second : 35
+Lunacy Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 53	Second : 37
+Lunacy Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 53	Second : 39
+Lunacy Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 53	Second : 40
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 53	Second : 41
+Lunacy Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 53	Second : 42
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 53	Second : 43
+Lunacy Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 0	Second : 0
+Lunacy Has Sold item: 1751, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 0	Second : 6
+Lunacy Has Sold item: 1751, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 0	Second : 9
+Lunacy Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 0	Second : 11
+Lunacy Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 11	Second : 29
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 11	Second : 31
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 11	Second : 33
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 11	Second : 34
+Lunacy Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 2	Minute : 27	Second : 38
+Lunacy Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 2	Minute : 27	Second : 39
+Lunacy Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 2	Minute : 27	Second : 39
+Lunacy Has Sold item: 1333, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 34	Second : 55
+Lunacy Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 34	Second : 57
+Lunacy Has Sold item: 950, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 34	Second : 59
+Lunacy Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 40	Second : 9
+Lunacy Has Sold item: 950, Quantity 50
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 40	Second : 12
+Lunacy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 40	Second : 14
+Lunacy Has Sold item: 951, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 41	Second : 11
+Lunacy Has Sold item: 1635, Quantity 2
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 41	Second : 16
+Lunacy Has Sold item: 1635, Quantity 25
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 42	Second : 53
+Lunacy Has Sold item: 1635, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 46	Second : 52
+Lunacy Has Sold item: 1635, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 48	Second : 26
+Lunacy Has Sold item: 1635, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 49	Second : 32
+Lunacy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 49	Second : 36
+Lunacy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 49	Second : 37
+Lunacy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 50	Second : 41
+Lunacy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 50	Second : 42
+Lunacy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 50	Second : 43
+Lunacy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 57	Second : 10
+Lunacy Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 57	Second : 13
+Lunacy Has Sold item: 7650, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 57	Second : 15
+Lunacy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 57	Second : 17
+Lunacy Has Sold item: 1635, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 3	Minute : 58	Second : 19
+Lunacy Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 0	Second : 2
+Lunacy Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 0	Second : 3
+Lunacy Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 0	Second : 4
+Lunacy Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 7	Second : 40
+Lunacy Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 7	Second : 41
+Lunacy Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 7	Second : 43
+Lunacy Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 9	Second : 6
+Lunacy Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 9	Second : 7
+Lunacy Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 9	Second : 8
+Lunacy Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 44	Second : 49
+Lunacy Has Sold item: 1727, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 46	Second : 29
+Lunacy Has Sold item: 1729, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 46	Second : 31
+Lunacy Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 47	Second : 37
+Lunacy Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 47	Second : 38
+Lunacy Has Sold item: 1725, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 48	Second : 17
+Lunacy Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 48	Second : 18
+Lunacy Has Sold item: 1731, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 48	Second : 22
+Lunacy Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 49	Second : 12
+Lunacy Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 49	Second : 14
+Lunacy Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 49	Second : 15
+Lunacy Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 50	Second : 22
+Lunacy Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 50	Second : 23
+Lunacy Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 51	Second : 32
+Lunacy Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 51	Second : 33
+Lunacy Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 51	Second : 34
+Lunacy Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 59	Second : 0
+Lunacy Has Sold item: 4094, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 59	Second : 2
+Lunacy Has Sold item: 4111, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 59	Second : 2
+Lunacy Has Sold item: 4093, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 4	Minute : 59	Second : 4
+Lunacy Has Sold item: 1616, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 22	Second : 11
+Lunacy Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 23	Second : 21
+Lunacy Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 24	Second : 17
+Lunacy Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 25	Second : 15
+Lunacy Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 26	Second : 37
+Lunacy Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 27	Second : 34
+Lunacy Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 6	Minute : 57	Second : 27
+Lunacy Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 12	Second : 3
+Lunacy Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 12	Second : 4
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 12	Second : 19
+Lunacy Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 19	Second : 34
+Lunacy Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 19	Second : 37
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 19	Second : 44
+Lunacy Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 19	Second : 46
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 31	Second : 43
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 31	Second : 44
+Lunacy Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 31	Second : 46
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 31	Second : 48
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 43	Second : 14
+Lunacy Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 7	Minute : 43	Second : 15
+Lunacy Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 1	Second : 24
+Lunacy Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 1	Second : 26
+Lunacy Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 1	Second : 28
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 41	Second : 14
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 41	Second : 16
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 41	Second : 17
+Lunacy Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 41	Second : 19
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 41	Second : 21
+Lunacy Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 41	Second : 23
+Lunacy Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 41	Second : 24
+Lunacy Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 41	Second : 45
+Lunacy Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 55	Second : 30
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 55	Second : 33
+Lunacy Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 55	Second : 34
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 55	Second : 37
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 59	Second : 40
+Lunacy Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 59	Second : 42
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 8	Minute : 59	Second : 43
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 11	Second : 26
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 11	Second : 28
+Lunacy Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 11	Second : 29
+Lunacy Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 11	Second : 31
+Lunacy Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 30	Second : 33
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 30	Second : 34
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 30	Second : 36
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 34	Second : 30
+Lunacy Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 34	Second : 31
+Lunacy Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 34	Second : 32
+Lunacy Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 45	Second : 51
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 45	Second : 53
+Lunacy Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 45	Second : 55
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 45	Second : 57
+Lunacy Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 45	Second : 58
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 45	Second : 59
+Lunacy Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 9	Minute : 46	Second : 0
+Lunacy Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 2	Second : 46
+Lunacy Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 2	Second : 46
+Lunacy Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 2	Second : 48
+Lunacy Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 2	Second : 49
+Lunacy Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 2	Second : 50
+Lunacy Has Sold item: 1149, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 2	Second : 51
+Lunacy Has Sold item: 1079, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 2	Second : 52
+Lunacy Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 14	Second : 31
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 14	Second : 32
+Lunacy Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 14	Second : 32
+Lunacy Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 23	Second : 0
+Lunacy Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 23	Second : 2
+Lunacy Has Sold item: 1751, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 34	Second : 33
+Lunacy Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 34	Second : 33
+Lunacy Has Sold item: 4587, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 34	Second : 35
+Lunacy Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 34	Second : 36
+Lunacy Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 55	Second : 46
+Lunacy Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 55	Second : 47
+Lunacy Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 55	Second : 48
+Lunacy Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 55	Second : 50
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 55	Second : 51
+Lunacy Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 55	Second : 53
+Lunacy Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 55	Second : 54
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 10	Minute : 55	Second : 55
+Lunacy Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 4	Second : 22
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 4	Second : 23
+Lunacy Has Sold item: 1615, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 21	Hour : 11	Minute : 4	Second : 23
+Lunacy Has Sold item: 1247, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 2	Second : 37
+Lunacy Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 2	Second : 38
+Lunacy Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 2	Second : 40
+Lunacy Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 13	Second : 43
+Lunacy Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 13	Second : 45
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 13	Second : 46
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 22	Second : 59
+Lunacy Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 23	Second : 3
+Lunacy Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 23	Second : 4
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 23	Second : 5
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 36	Second : 34
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 36	Second : 35
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 36	Second : 36
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 36	Second : 38
+Lunacy Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 47	Second : 11
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 47	Second : 12
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 47	Second : 14
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 57	Second : 2
+Lunacy Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 57	Second : 4
+Lunacy Has Sold item: 5698, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 9	Minute : 57	Second : 5
+Lunacy Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 15	Second : 47
+Lunacy Has Sold item: 1604, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 15	Second : 48
+Lunacy Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 16	Second : 5
+Lunacy Has Sold item: 4153, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 16	Second : 7
+Lunacy Has Sold item: 4129, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 16	Second : 9
+Lunacy Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 16	Second : 10
+Lunacy Has Sold item: 1163, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 56	Second : 30
+Lunacy Has Sold item: 1712, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 57	Second : 41
+Lunacy Has Sold item: 1712, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 58	Second : 30
+Lunacy Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 58	Second : 31
+Lunacy Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 10	Minute : 58	Second : 33
+Lunacy Has Sold item: 1712, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 55	Second : 45
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 55	Second : 46
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 11	Minute : 55	Second : 48
+Lunacy Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 1	Second : 8
+Lunacy Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 57	Second : 45
+Lunacy Has Sold item: 1163, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 0	Minute : 57	Second : 47
+Lunacy Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 6	Second : 49
+Lunacy Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 6	Second : 51
+Lunacy Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 22	Second : 24
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 22	Second : 26
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 22	Second : 27
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 22	Second : 29
+Lunacy Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 25	Second : 42
+Lunacy Has Sold item: 1319, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 37	Second : 3
+Lunacy Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 37	Second : 4
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 37	Second : 6
+Lunacy Has Sold item: 5698, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 1	Minute : 37	Second : 7
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 8	Second : 2
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 8	Second : 3
+Lunacy Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 8	Second : 5
+Lunacy Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 8	Second : 6
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 16	Second : 14
+Lunacy Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 16	Second : 15
+Lunacy Has Sold item: 1754, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 16	Second : 16
+Lunacy Has Sold item: 1615, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 16	Second : 17
+Lunacy Has Sold item: 365, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 16	Second : 19
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 16	Second : 20
+Lunacy Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 16	Second : 21
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 16	Second : 23
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 32	Second : 4
+Lunacy Has Sold item: 4153, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 32	Second : 5
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 32	Second : 7
+Lunacy Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 32	Second : 8
+Lunacy Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 32	Second : 10
+Lunacy Has Sold item: 1163, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 43	Second : 47
+Lunacy Has Sold item: 1601, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 43	Second : 48
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 43	Second : 53
+Lunacy Has Sold item: 4153, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 43	Second : 57
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 54	Second : 58
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 54	Second : 59
+Lunacy Has Sold item: 1754, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 55	Second : 0
+Lunacy Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 55	Second : 2
+Lunacy Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 55	Second : 3
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 2	Minute : 55	Second : 5
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 2	Second : 7
+Lunacy Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 2	Second : 8
+Lunacy Has Sold item: 1754, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 2	Second : 10
+Lunacy Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 2	Second : 11
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 2	Second : 12
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 2	Second : 14
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 12	Second : 38
+Lunacy Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 12	Second : 39
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 12	Second : 41
+Lunacy Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 12	Second : 42
+Lunacy Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 12	Second : 43
+Lunacy Has Sold item: 1754, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 27	Second : 49
+Lunacy Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 27	Second : 50
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 27	Second : 52
+Lunacy Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 27	Second : 55
+Lunacy Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 27	Second : 56
+Lunacy Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 27	Second : 59
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 40	Second : 31
+Lunacy Has Sold item: 1333, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 40	Second : 32
+Lunacy Has Sold item: 1247, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 54	Second : 44
+Lunacy Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 54	Second : 45
+Lunacy Has Sold item: 1602, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 3	Minute : 54	Second : 46
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 3	Second : 42
+Lunacy Has Sold item: 1163, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 3	Second : 43
+Lunacy Has Sold item: 1602, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 36	Second : 58
+Lunacy Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 37	Second : 0
+Lunacy Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 37	Second : 2
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 37	Second : 3
+Lunacy Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 37	Second : 6
+Lunacy Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 37	Second : 8
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 37	Second : 9
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 37	Second : 10
+Lunacy Has Sold item: 1615, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 53	Second : 12
+Lunacy Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 53	Second : 13
+Lunacy Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 53	Second : 17
+Lunacy Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 53	Second : 19
+Lunacy Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 53	Second : 21
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 4	Minute : 53	Second : 22
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 5	Second : 35
+Lunacy Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 5	Second : 38
+Lunacy Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 5	Second : 40
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 5	Second : 41
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 5	Second : 42
+Lunacy Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 5	Second : 44
+Lunacy Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 5	Second : 45
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 12	Second : 44
+Lunacy Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 12	Second : 46
+Lunacy Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 12	Second : 47
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 12	Second : 47
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 12	Second : 57
+Lunacy Has Sold item: 4587, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 45	Second : 56
+Lunacy Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 45	Second : 57
+Lunacy Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 45	Second : 59
+Lunacy Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 46	Second : 0
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 46	Second : 1
+Lunacy Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 46	Second : 2
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 5	Minute : 46	Second : 3
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 8	Second : 4
+Lunacy Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 8	Second : 5
+Lunacy Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 8	Second : 6
+Lunacy Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 8	Second : 8
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 8	Second : 9
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 8	Second : 11
+Lunacy Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 8	Second : 12
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 32	Second : 28
+Lunacy Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 32	Second : 29
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 32	Second : 31
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 32	Second : 32
+Lunacy Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 32	Second : 32
+Lunacy Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 6	Minute : 32	Second : 34
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 27	Second : 6
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 27	Second : 8
+Lunacy Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 27	Second : 13
+Lunacy Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 27	Second : 16
+Lunacy Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 27	Second : 17
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 27	Second : 18
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 7	Minute : 27	Second : 19
+Lunacy Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 7	Second : 45
+Lunacy Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 7	Second : 47
+Lunacy Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 7	Second : 48
+Lunacy Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 7	Second : 50
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 7	Second : 51
+Lunacy Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 7	Second : 52
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 21	Second : 13
+Lunacy Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 21	Second : 15
+Lunacy Has Sold item: 4587, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 21	Second : 16
+Lunacy Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 21	Second : 18
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 21	Second : 19
+Lunacy Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 21	Second : 23
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 22	Hour : 8	Minute : 21	Second : 24
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 8	Minute : 58	Second : 24
+Lunacy Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 25	Second : 43
+Lunacy Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 25	Second : 45
+Lunacy Has Sold item: 1333, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 25	Second : 49
+Lunacy Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 25	Second : 51
+Lunacy Has Sold item: 1147, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 25	Second : 52
+Lunacy Has Sold item: 1319, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 9	Minute : 25	Second : 54
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 2	Second : 21
+Lunacy Has Sold item: 1514, Quantity 450
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 10	Minute : 2	Second : 28
+Lunacy Has Sold item: 384, Quantity 50
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 2	Minute : 53	Second : 40
+Lunacy Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 12	Second : 46
+Lunacy Has Sold item: 7651, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 12	Second : 48
+Lunacy Has Sold item: 7651, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 23	Hour : 3	Minute : 12	Second : 49
+Lunacy Has Sold item: 7651, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 3	Second : 14
+Lunacy Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 21	Second : 40
+Lunacy Has Sold item: 1185, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 56	Second : 24
+Lunacy Has Sold item: 4091, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 4	Minute : 56	Second : 25
+Lunacy Has Sold item: 4093, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 11	Minute : 56	Second : 51
+Lunacy Has Sold item: 7650, Quantity 28
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 11	Minute : 57	Second : 0
+Lunacy Has Sold item: 7650, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 11	Minute : 58	Second : 17
+Lunacy Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 11	Minute : 58	Second : 18
+Lunacy Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 11	Minute : 58	Second : 19
+Lunacy Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 11	Minute : 59	Second : 13
+Lunacy Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 24	Hour : 11	Minute : 59	Second : 15
+Lunacy Has Sold item: 7650, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 1	Minute : 42	Second : 44
+Lunacy Has Sold item: 7650, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 0	Minute : 53	Second : 23
+Lunacy Has Sold item: 1149, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 0	Minute : 53	Second : 25
+Lunacy Has Sold item: 1079, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 0	Minute : 53	Second : 27
+Lunacy Has Sold item: 1319, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 0	Minute : 53	Second : 28
+Lunacy Has Sold item: 1147, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 0	Minute : 53	Second : 30
+Lunacy Has Sold item: 1247, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 15	Second : 52
+Lunacy Has Sold item: 1712, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 16	Second : 29
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 17	Second : 4
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 17	Second : 39
+Lunacy Has Sold item: 1712, Quantity 267
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 18	Second : 28
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 19	Second : 16
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 20	Second : 8
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 21	Second : 24
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 22	Second : 51
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 23	Second : 35
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 24	Second : 28
+Lunacy Has Sold item: 1712, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 25	Second : 59
+Lunacy Has Sold item: 1712, Quantity 28
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 27	Second : 12
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 28	Second : 32
+Lunacy Has Sold item: 1712, Quantity 267
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 30	Second : 9
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 34	Second : 50
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 37	Second : 50
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 42	Second : 51
+Lunacy Has Sold item: 7650, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 43	Second : 21
+Lunacy Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 43	Second : 23
+Lunacy Has Sold item: 1613, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 43	Second : 24
+Lunacy Has Sold item: 7650, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 45	Second : 1
+Lunacy Has Sold item: 1712, Quantity 27
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 45	Second : 48
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 46	Second : 41
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 47	Second : 27
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 48	Second : 11
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 48	Second : 46
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 49	Second : 28
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 50	Second : 59
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 51	Second : 35
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 52	Second : 26
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 53	Second : 47
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 54	Second : 33
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 55	Second : 16
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 57	Second : 10
+Lunacy Has Sold item: 1712, Quantity 26
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 10	Minute : 59	Second : 27
+Lunacy Has Sold item: 1712, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 25	Hour : 11	Minute : 0	Second : 16
+Lunacy Has Sold item: 1712, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 1	Minute : 34	Second : 51
+Lunacy Has Sold item: 859, Quantity 1
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 9	Minute : 25	Second : 19
+Lunacy Has Sold item: 1113, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 9	Minute : 25	Second : 21
+Lunacy Has Sold item: 1163, Quantity 5
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 29	Hour : 2	Minute : 55	Second : 36
+Lunacy Has Sold item: 860, Quantity 1600
+--------------------------------------------------

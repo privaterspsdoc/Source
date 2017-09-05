@@ -1,0 +1,31 @@
+
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 28	Second : 48
+Spider Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 28	Second : 55
+Spider Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 28	Second : 56
+Spider Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 28	Second : 58
+Spider Has Sold item: 1897, Quantity 10
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 30	Second : 24
+Spider Has Sold item: 1897, Quantity 28
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 31	Second : 25
+Spider Has Sold item: 1897, Quantity 28
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 32	Second : 37
+Spider Has Sold item: 1897, Quantity 28
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 32	Second : 41
+Spider Has Sold item: 950, Quantity 28
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 33	Second : 36
+Spider Has Sold item: 950, Quantity 28
+--------------------------------------------------
+Year : 2015	Month : 5	Day : 27	Hour : 2	Minute : 40	Second : 9
+Spider Has Sold item: 5340, Quantity 1
+--------------------------------------------------

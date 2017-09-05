@@ -1,0 +1,4 @@
+
+Year : 2015	Month : 5	Day : 29	Hour : 3	Minute : 46	Second : 26
+Broski Has Sold item: 1897, Quantity 10
+--------------------------------------------------
