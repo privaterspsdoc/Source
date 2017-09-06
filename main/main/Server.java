@@ -1,15 +1,12 @@
 package main;
 
-
+import org.jboss.netty.bootstrap.ServerBootstrap;
+import org.jboss.netty.channel.socket.nio.NioServerSocketChannelFactory;
+import org.jboss.netty.util.HashedWheelTimer;
 import java.io.IOException;
 import java.net.InetSocketAddress;
 import java.text.DecimalFormat;
 import java.util.concurrent.Executors;
-
-import org.jboss.netty.bootstrap.ServerBootstrap;
-import org.jboss.netty.channel.socket.nio.NioServerSocketChannelFactory;
-import org.jboss.netty.util.HashedWheelTimer;
-
 import main.clip.region.ObjectDef;
 import main.clip.region.Region;
 import main.event.CycleEventHandler;
@@ -26,7 +23,6 @@ import main.model.players.PlayerHandler;
 import main.model.players.clan.ClanManager;
 import main.net.Connection;
 import main.net.PipelineFactory;
-import main.util.DatabaseConnection;
 import main.util.log.Logger;
 import main.world.ItemHandler;
 import main.world.ObjectHandler;
