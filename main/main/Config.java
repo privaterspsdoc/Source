@@ -18,7 +18,7 @@ public class Config {
     /**
      * JSON Drop System
      */
-    public static final int DROP_RATE = 1;//Test commit
+    public static final int DROP_RATE = 1;
 
     /**
      * Enable/Disable Staking
@@ -171,7 +171,7 @@ public class Config {
     /**
      * The level in which you can not teleport in the wild, and higher.
      */
-    public static final int NO_TELEPORT_WILD_LEVEL = 5;
+    public static final int NO_TELEPORT_WILD_LEVEL = 19;
 
     /**
      * The timer in which you are skulled goes away. Seconds x2 Ex. 60x2=120

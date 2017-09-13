@@ -31,7 +31,7 @@ public class NPCHandler {
 	public static int maxListedNPCs = 10000;
 	public static int maxNPCDrops = 10000;
 	public static NPC npcs[] = new NPC[maxNPCs];
-
+private Client c;
 	public NPCHandler() {
 		for (int i = 0; i < maxNPCs; i++) {
 			npcs[i] = null;
@@ -97,7 +97,55 @@ public class NPCHandler {
                         return false;
         }
 }
-
+      	public void checkMa(int i) {
+		if(npcs[i] != null) {
+                    //try {
+			int playerId = npcs[i].killedBy;
+                        
+			if(PlayerHandler.players[playerId] != null) {
+				Client c = (Client) PlayerHandler.players[playerId];
+                            switch (c.roundNpc) {
+                                case 2:
+                                    c.sendMessage("1  "+c.roundNpc +" "+ c.spawned);
+                                    spawnNpc(c, 908, 3106, 3934, 0, 1, 30, 24, 70, 60, true, true);
+                                    c.spawned = true;
+                                    c.roundNpc = 3;
+                                    break;
+                                case 3:
+                                    c.sendMessage("2  "+c.roundNpc +" "+ c.spawned);
+                                    spawnNpc(c, 909, 3106, 3934, 0, 1, 60, 24, 70, 60, true, true);
+                                    c.spawned = true;
+                                    c.roundNpc = 4;
+                                    break;
+                                case 4:
+                                    spawnNpc(c, 910, 3106, 3934, 0, 1, 80, 15, 70, 60, true, true);
+                                    c.sendMessage(" 3  "+c.roundNpc +" "+ c.spawned);
+                                    c.spawned = true;
+                                    c.roundNpc = 5;
+                                    break;
+                                case 5:
+                                    spawnNpc(c, 911, 3106, 3934, 0, 1, 140, 19, 70, 60, true, true);
+                                    c.sendMessage("4  "+c.roundNpc +" "+ c.spawned);
+                                    c.spawned = true;
+                                    c.roundNpc = 6;
+                                    break;
+                                case 6:
+                                    c.getPA().movePlayer(2539, 4712, 0);
+                                    c.getDH().sendDialogues(169, 905);
+                                    c.magearenaC +=1;
+                                    c.sendMessage("@dre@You've completed your achievement task, "+c.taskcomplete+"/13 Tasks complete.");
+                                    c.taskcomplete+= 1;
+                                    c.roundNpc = 0;
+                                    c.maRound = 2;
+                                    break;
+                                default:
+                                    break;
+                            }
+			}
+                       // } catch(Exception e) {
+			//}
+		}
+        }
 	public static void spawnNpc2(int npcType, int x, int y, int heightLevel,
 			int WalkingType, int HP, int maxHit, int attack, int defence) {
 		// first, search for a free slot
@@ -788,10 +836,10 @@ public class NPCHandler {
 		    return 2731;
 	 
 		case 908:
-		    return 128;
+		    return 132;
 	 
 		case 909:
-		    return 143;
+		    return 5319;
 	 
 		case 911:
 		    return 64;
@@ -1665,6 +1713,7 @@ public class NPCHandler {
 	}
 
 	public int getDeadEmote(int i) {
+            Client c = (Client)Server.playerHandler.players[npcs[i].killedBy];
 		for (int npc = 2015; npc < 2021; npc++) {
 			if(NPCHandler.npcs[i].npcType == npc) {
 			return 	5555;
@@ -1676,6 +1725,7 @@ public class NPCHandler {
 			}
 			}
 		switch (npcs[i].npcType) {
+               
 		// pest control portals
 		case 6142:
 		case 6143:
@@ -1832,6 +1882,19 @@ public class NPCHandler {
 		    return 2925;
 	 
 		case 1265:
+                case 1267:
+                    try { 
+                    if (c.crabKills < 50 ){
+                    c.crabKills += 1;
+                      if(c.crabKills == 50){
+                            c.sendMessage("@dre@You've completed your achievement task, "+c.taskcomplete+"/13 Tasks complete.");
+                            c.taskcomplete+= 1;
+                     }                   
+                     }
+                     } catch(Exception e) {
+                     }
+                    
+                        
 		    return 1314;
 	 
 		case 118:
@@ -1975,12 +2038,16 @@ public class NPCHandler {
 		    return 2638;
 	 
 		case 908:
+                       Client d = (Client) PlayerHandler.players[npcs[i].spawnedBy];
+                            checkMa(i);
 		    return 131;
 	 
 		case 909:
-		    return 146;
+                            checkMa(i);
+		   return 5321;
 	 
 		case 911:
+                            checkMa(i);
 		    return 67;
 	 
 		case 60:
@@ -2037,6 +2104,16 @@ public class NPCHandler {
 		    return 1518;
 	 
 		case 1615:
+                    try {
+                            if (c.abbieskilled < 100 ){
+                    c.abbieskilled += 1;
+                      if(c.abbieskilled == 100){
+                            c.sendMessage("@dre@You've completed your achievement task, "+c.taskcomplete+"/13 Tasks complete.");
+                            c.taskcomplete+= 1;
+                                                }
+                    }
+                     } catch (Exception e){
+                        }
 		    return 1538;
 	 
 		case 3406:
@@ -2176,6 +2253,15 @@ public class NPCHandler {
 		    return 67;
 	 
 		case 941:
+                    if (c.dragKills < 100) {
+                    c.dragKills+= 1;
+                      if(c.crabKills == 100){
+                            c.sendMessage("@dre@You've completed your achievement task, "+c.taskcomplete+"/13 Tasks complete.");
+                            c.taskcomplete+= 1;
+                                                }
+                    }
+                    
+                     return 92;
 		case 55:
 		case 53:
 		case 4669:
@@ -2350,8 +2436,14 @@ public class NPCHandler {
 			case 1831://Cave Slime
 			return 1792;
 
+                        
+ 
 			case 907://Kolodion
+                            checkMa(i);
+
+                                return 714;
 			case 910://Kolodion
+                            checkMa(i);
 			case 2497://Tribesman
 			return 714;
 
@@ -2883,7 +2975,7 @@ public class NPCHandler {
 		case 908:
 			return 129;
 		case 909:
-			return 147;
+			return 5328;
 		case 911:
 			return 65;
 
@@ -3030,7 +3122,7 @@ public class NPCHandler {
 		case 423:
 		case 424:
 			return 5574;
-
+             
 		case 60:
 		case 64:
 		case 59:
@@ -3218,7 +3310,12 @@ public class NPCHandler {
 		case 2559:
 		case 2560:
 			return 3;
-
+   case 907:
+                    case 908:
+                    case 909:
+                    case 910:
+                    case 911:
+			return 4;
 		case 2745:
 			if (npcs[i].attackType == 1 || npcs[i].attackType == 2)
 				return 5;
@@ -3242,6 +3339,12 @@ public class NPCHandler {
 		if (isZombie(i)) 
 			return -1;
 		switch (npcs[i].npcType) {
+                    case 909:
+                    case 908:
+                    case 907:
+                    case 910:
+                    case 911:
+                        return 10;
 		case 2881:
 		case 2882:
 		case 2883:
@@ -3379,7 +3482,11 @@ public class NPCHandler {
 	}
 
 	public void process() {
+            
 		for (int i = 0; i < maxNPCs; i++) {
+                     
+                                  
+                             
 			if (npcs[i] == null)
 				continue;
 			npcs[i].clearUpdateFlags();
@@ -3388,6 +3495,8 @@ public class NPCHandler {
 		for (int i = 0; i < maxNPCs; i++) {
 			if (npcs[i] != null) {
 				NPC npc = npcs[i];
+                             
+
                         Client petOwner = (Client) PlayerHandler.players[npc.summonedBy];
                         if (petOwner == null && npc.summoned)
                         {
@@ -3430,6 +3539,7 @@ public class NPCHandler {
 						}
 					} else {
 						if (c != null && npcs[i].summoner == true) {
+                                                      
 							if (!PlayerHandler.players[npcs[i].spawnedBy]
 									.goodDistance(
 											npcs[i].getX(),
@@ -3813,6 +3923,13 @@ public class NPCHandler {
 	public void handleJadDeath(int i) {
 		Client c = (Client) PlayerHandler.players[npcs[i].spawnedBy];
 		c.getItems().addItem(6570, 1);
+                     if (c.firecapeObtained < 1 ){
+                                                   c.firecapeObtained++;
+                                                   if(c.firecapeObtained == 1){
+                                                   c.sendMessage("@dre@You've completed your achievement task, "+c.taskcomplete+"/13 Tasks complete.");
+                                                   c.taskcomplete+= 1;
+                                                }
+                                                    }
 		c.sendMessage("Congratulations on completing the fight caves minigame!");
 		c.getPA().resetTzhaar();
 		c.waveId = 300;
@@ -4372,19 +4489,22 @@ public class NPCHandler {
 			return;
 		Client c = (Client) PlayerHandler.players[npcs[i].killedBy];
 		if (c != null) {
-			if (npcs[i].npcType == 912 || npcs[i].npcType == 913
-					|| npcs[i].npcType == 914)
+         
+			if (npcs[i].npcType == 912 || npcs[i].npcType == 913|| npcs[i].npcType == 914)
 				c.magePoints += 1;
 			Drop[] possibleDrops = new Drop[drops.length];
 			int possibleDropsCount = 0;
 			for (Drop drop : drops) {
-				if (drop.getRate() == 100)
+                            try {
+				if (drop.getRate() > 99)
 					sendDrop(killer, drop, i);
 				else {
 					if ((Misc.random(99) + 1) <= drop.getRate() * 1.0)
 						possibleDrops[possibleDropsCount++] = drop;
 				}
+			 } catch(Exception e) {
 			}
+		}
 			if (possibleDropsCount > 0)
 				sendDrop(killer,
 						possibleDrops[Misc.random(possibleDropsCount - 1)], i);
@@ -4553,107 +4673,101 @@ public class NPCHandler {
 
 
 
-	public void appendSlayerExperience(int i) {
-		int npc = 0;
-		Client c = (Client) PlayerHandler.players[npcs[i].killedBy];
-		if (c != null) {
-			if (c.slayerTask == npcs[i].npcType) {
-				c.taskAmount--;
-				c.getPA().addSkillXP(npcs[i].MaxHP * Config.SLAYER_EXPERIENCE,
-						18);
-				c.getPA()
-						.sendFrame126(
-								"@or1@Task: @gre@"
-										+ c.taskAmount
-										+ " "
-										+ Server.npcHandler.getNpcListName(c.slayerTask)
-										+ " ", 29168);
-				if (c.taskAmount <= 0) {
-					if (c.combatLevel < 50) {
-						c.getPA().addSkillXP(
-								(npcs[i].MaxHP * 8) * Config.SLAYER_EXPERIENCE,
-								18);
-						c.slayerTask = -1;
-						c.slayerPoints += 5;
-						c.getPA().sendFrame126(
-								"@or1@Slayer Points: @gre@" + c.slayerPoints
-										+ " ", 29167);
-						c.sendMessage("You completed your low level slayer task. Please see a slayer master to get a new one.");
-						c.sendMessage("Also you have received @red@5 @bla@slayer points for this.");
-						// c.getItems().addItem(995, 250000);
-						if (c.playerEquipment[c.playerHat] == 13263) {
-							c.slayerPoints += 12;
-							c.getPA().addSkillXP(
-									(npcs[i].MaxHP * 5)
-											* Config.SLAYER_EXPERIENCE, 18);
-							c.sendMessage("@red@You've recieved a bonus of xp and 12 slayer points because wearing slayer helmet.");
-						}
-					} else if (c.combatLevel >= 50 && c.combatLevel <= 90) {
-						c.getPA()
-								.addSkillXP(
-										(npcs[i].MaxHP * 12)
-												* Config.SLAYER_EXPERIENCE, 18);
-						c.slayerTask = -1;
-						c.slayerPoints += 10;
-						c.getPA().sendFrame126(
-								"@or1@Slayer Points: @gre@" + c.slayerPoints
-										+ " ", 7339);
-						c.sendMessage("You completed your @blu@medium@bla@ level slayer task. Please see a slayer master to get a new one.");
-						c.sendMessage("Also you have received @blu@10 @bla@slayer points for this.");
-						// c.getItems().addItem(995, 500000);
-						if (c.playerEquipment[c.playerHat] == 13263) {
-							c.slayerPoints += 12;
-							c.getPA().addSkillXP(
-									(npcs[i].MaxHP * 5)
-											* Config.SLAYER_EXPERIENCE, 18);
-							c.sendMessage("@red@You've recieved a bonus of xp and 12 slayer points because wearing slayer helmet.");
-						}
-					} else if (c.combatLevel > 90 && c.combatLevel <= 138) {
-						c.getPA()
-								.addSkillXP(
-										(npcs[i].MaxHP * 12)
-												* Config.SLAYER_EXPERIENCE, 18);
-						c.slayerTask = -1;
-						c.slayerPoints += 15;
-						c.getPA().sendFrame126(
-								"@or1@Slayer Points: @gre@" + c.slayerPoints
-										+ " ", 7339);
-						c.sendMessage("You completed your @red@high@bla@ level slayer task. Please see a slayer master to get a new one.");
-						c.sendMessage("Also you have received @red@15 @bla@slayer points for this.");
-						// c.getItems().addItem(995, 1000000);
-						if (c.playerEquipment[c.playerHat] == 13263) {
-							c.slayerPoints += 12;
-							c.getPA().addSkillXP(
-									(npcs[i].MaxHP * 5)
-											* Config.SLAYER_EXPERIENCE, 18);
-							c.sendMessage("@red@You've recieved a bonus of xp and 12 slayer points because wearing slayer helmet.");
-						}
-					} else if (c.combatLevel >= 100 && c.eliteTask == true) {
-						c.getPA()
-						.addSkillXP(
-								(npcs[i].MaxHP * 12)
-										* Config.SLAYER_EXPERIENCE, 18);
-				c.slayerTask = -1;
-				c.slayerPoints += 20;
-				c.getPA().sendFrame126(
-						"@or1@Slayer Points: @gre@" + c.slayerPoints
-								+ " ", 7339);
-				c.sendMessage("You completed your @red@elite@bla@ level slayer task. Please see a slayer master to get a new one.");
-				c.sendMessage("Also you have received @red@20 @bla@slayer points for this.");
-				c.eliteTask = false;
-				// c.getItems().addItem(995, 1000000);
-				if (c.playerEquipment[c.playerHat] == 13263) {
-					c.slayerPoints += 22;
-					c.getPA().addSkillXP(
-							(npcs[i].MaxHP * 5)
-									* Config.SLAYER_EXPERIENCE, 18);
-					c.sendMessage("@red@You've recieved a bonus of xp and 22 slayer points because wearing slayer helmet.");
-				}
-					}
-				}
-			}
-		}
-	}
+	   public void appendSlayerExperience(int i) {
+        int npc = 0;
+        Client c = (Client) PlayerHandler.players[npcs[i].killedBy];
+             if (c != null) {
+            if (c.slayerTask == npcs[i].npcType) {
+                c.taskAmount--;
+                c.getPA().addSkillXP(npcs[i].MaxHP * Config.SLAYER_EXPERIENCE,
+                        18);
+                c.getPA().sendFrame126( "@or1@Task: @gre@" + c.taskAmount+ " "+ Server.npcHandler.getNpcListName(c.slayerTask)+ " ", 29168);
+                if (c.taskAmount <= 0) {
+                    if (c.combatLevel < 50) {
+                        c.getPA().addSkillXP((npcs[i].MaxHP * 8) * Config.SLAYER_EXPERIENCE,18);
+                        c.slayerTask = -1;
+                        c.slayerPoints += 5;
+                        c.sendMessage("You've completed your @red@Easy@bla@ task, and you have received @red@5 @bla@Slayer points.");
+                        c.sendMessage("Speak to a slayer master to receive a new task.");
+                        // c.getItems().addItem(995, 250000);
+                        if (c.slayertasks < 10 && c.slayertasks != 10) {
+                            c.slayertasks += 1;
+                            
+                              if(c.slayertasks == 10){
+                            c.taskcomplete+= 1;
+                            c.sendMessage("You've completed your achievement task, "+c.taskcomplete+"/13 Tasks complete.");
+                                                }
+                        }
+                        if (c.playerEquipment[c.playerHat] == 13263) {
+                            c.slayerPoints += 12;
+                            c.getPA().addSkillXP(
+                                    (npcs[i].MaxHP * 5)
+                                    * Config.SLAYER_EXPERIENCE, 18);
+                            c.sendMessage("@red@You've recieved a bonus of xp and 12 slayer points because wearing slayer helmet.");
+                        }
+                    } else if (c.combatLevel >= 50 && c.combatLevel <= 90) {
+                        c.getPA()
+                                .addSkillXP((npcs[i].MaxHP * 12)* Config.SLAYER_EXPERIENCE, 18);
+                        c.slayerTask = -1;
+                        c.slayerPoints += 10;
+                                 c.sendMessage("You've completed your @red@Medium@bla@ task, and you have received @red@10 @bla@Slayer points.");
+                        c.sendMessage("Speak to a slayer master to receive a new task.");
+                        // c.getItems().addItem(995, 500000);
+                        if (c.slayertasks < 10 && c.slayertasks != 10) {
+                            c.slayertasks += 1;
+                              if(c.slayertasks == 10){
+                            c.taskcomplete+= 1;
+                            c.sendMessage("You've completed your achievement task, "+c.taskcomplete+"/13 Tasks complete.");
+                                                }
+                        }
+                        if (c.playerEquipment[c.playerHat] == 13263) {
+                            c.slayerPoints += 12;
+                            c.getPA().addSkillXP((npcs[i].MaxHP * 5)* Config.SLAYER_EXPERIENCE, 18);
+                            c.sendMessage("@red@You've recieved a bonus of xp and 12 slayer points because wearing slayer helmet.");
+                        }
+                    } else if (c.combatLevel > 90 && c.combatLevel <= 126) {
+                        c.getPA().addSkillXP((npcs[i].MaxHP * 12)* Config.SLAYER_EXPERIENCE, 18);
+                        c.slayerTask = -1;
+                        c.slayerPoints += 15;
+                                c.sendMessage("You've completed your @red@Hard@bla@ task, and you have received @red@15 @bla@Slayer points.");
+                        c.sendMessage("Speak to a slayer master to receive a new task.");
+                        if (c.slayertasks < 10 && c.slayertasks != 10) {
+                            c.slayertasks += 1;
+                            if(c.slayertasks == 10){
+                             c.taskcomplete+= 1;
+                            c.sendMessage("You've completed your achievement task, "+c.taskcomplete+"/13 Tasks complete.");
+                                                }
+                        }
+                        // c.getItems().addItem(995, 1000000);
+                        if (c.playerEquipment[c.playerHat] == 13263) {
+                            c.slayerPoints += 12;
+                            c.getPA().addSkillXP((npcs[i].MaxHP * 5)* Config.SLAYER_EXPERIENCE, 18);
+                            c.sendMessage("@red@You've recieved a bonus of xp and 12 slayer points because wearing slayer helmet.");
+                        }
+                    } else if (c.combatLevel >= 100 && c.eliteTask == true) {
+                        c.getPA().addSkillXP((npcs[i].MaxHP * 12)* Config.SLAYER_EXPERIENCE, 18);
+                        c.slayerTask = -1;
+                        c.slayerPoints += 20;
+                        c.sendMessage("You've completed your @red@Elite@bla@ task, and you have received @red@15 @bla@Slayer points.");
+                        c.sendMessage("Speak to a slayer master to receive a new task.");
+                         if (c.slayertasks < 10 && c.slayertasks != 10) {
+                            c.slayertasks += 1;
+                              if(c.slayertasks == 10){
+                                  c.taskcomplete+= 1;
+                            c.sendMessage("You've completed your achievement task, "+c.taskcomplete+"/13 Tasks complete.");
+                                                }
+                        }
+                        c.eliteTask = false;
+                        if (c.playerEquipment[c.playerHat] == 13263) {
+                            c.slayerPoints += 22;
+                            c.getPA().addSkillXP((npcs[i].MaxHP * 5)* Config.SLAYER_EXPERIENCE, 18);
+                            c.sendMessage("@red@You've recieved a bonus of xp and 22 slayer points because wearing slayer helmet.");
+                        }
+                    }
+                }
+            }
+        }
+    }
 			
 	
 	/**
@@ -4842,7 +4956,29 @@ public class NPCHandler {
 				npcs[i].attackType = 0;
 			}
 			break;
-		
+		    case 909:
+                        case 908:
+			npcs[i].attackType = 2;
+			npcs[i].endGfx = 78;
+			break;
+
+                         case 911:
+                         case 910:
+                        int ran1 = Misc.random(5);
+			npcs[i].attackType = 2;
+			if(ran1 == 0) {
+                                npcs[i].attackType = 2;
+                                npcs[i].endGfx = 77;
+			}
+			if(ran1 == 1) {
+                                npcs[i].attackType = 2;
+                                npcs[i].endGfx = 76;
+			}
+                        else  {
+                                npcs[i].attackType = 2;
+                                npcs[i].endGfx = 78;
+			}
+			break;
 		case 3499:
 			int random5 = Misc.random(2);
 			if (random5 == 0) {

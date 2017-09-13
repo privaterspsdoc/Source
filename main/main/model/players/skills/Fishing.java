@@ -93,6 +93,13 @@ public class Fishing extends SkillHandler {
 							}
 						}
 						if (c.playerSkillProp[10][1] > 0) {
+                                                   if (c.lobstersFished < 100 ){
+                                                   c.lobstersFished++;
+                                                   if(c.lobstersFished == 100){
+                                                   c.sendMessage("@dre@You've completed your achievement task, "+c.taskcomplete+"/13 Tasks complete.");
+                                                   c.taskcomplete+= 1;
+                                                }
+                                                    }
 							c.sendMessage("You catch a "
 									+ c.getItems().getItemName(
 											c.playerSkillProp[10][1]) + ".");

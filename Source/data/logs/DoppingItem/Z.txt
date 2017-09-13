@@ -11,3 +11,60 @@ Z Dropped item: 1515, Quantity: 0
 Year : 2017	Month : 7	Day : 30	Hour : 9	Minute : 10	Second : 44
 Z Dropped item: 255, Quantity: 0
 --------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 18	Second : 29
+Z Dropped item: 305, Quantity: 0
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 18	Second : 29
+Z Dropped item: 303, Quantity: 0
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 24	Second : 17
+Z Dropped item: 1511, Quantity: 0
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 25	Second : 21
+Z Dropped item: 1511, Quantity: 0
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 25	Second : 22
+Z Dropped item: 1511, Quantity: 0
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 25	Second : 23
+Z Dropped item: 1511, Quantity: 0
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 25	Second : 24
+Z Dropped item: 1511, Quantity: 0
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 10	Hour : 11	Minute : 51	Second : 31
+Z Dropped item: 229, Quantity: 0
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 10	Hour : 11	Minute : 52	Second : 5
+Z Dropped item: 12654, Quantity: 0
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 10	Hour : 11	Minute : 52	Second : 16
+Z Dropped item: 12654, Quantity: 0
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 10	Hour : 11	Minute : 57	Second : 36
+Z Dropped item: 618, Quantity: 0
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 10	Hour : 11	Minute : 57	Second : 41
+Z Dropped item: 618, Quantity: 0
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 10	Hour : 11	Minute : 57	Second : 43
+Z Dropped item: 1623, Quantity: 0
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 10	Hour : 11	Minute : 57	Second : 50
+Z Dropped item: 1621, Quantity: 0
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 10	Hour : 11	Minute : 57	Second : 55
+Z Dropped item: 1621, Quantity: 0
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 10	Hour : 11	Minute : 57	Second : 59
+Z Dropped item: 1621, Quantity: 0
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 11	Hour : 9	Minute : 34	Second : 59
+Z Dropped item: 6585, Quantity: 0
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 11	Hour : 9	Minute : 35	Second : 45
+Z Dropped item: 6585, Quantity: 0
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 11	Hour : 9	Minute : 35	Second : 51
+Z Dropped item: 6585, Quantity: 0
+--------------------------------------------------

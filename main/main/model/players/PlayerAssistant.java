@@ -2968,6 +2968,12 @@ public class PlayerAssistant {
                         12123);
                 sendFrame126("Your slayer level is now "
                         + getLevelForXP(c.playerXP[skill]) + ".", 12124);
+                                  if (c.getLevelForXP(c.playerXP[18]) == 70 ){
+                                                   c.sendMessage("@dre@You've completed your achievement task, "+c.taskcomplete+"/13 Tasks complete.");
+                                                   c.taskcomplete+= 1;
+                                                    }
+                  
+
                 c.sendMessage("Congratulations, you just advanced a slayer level.");
                 sendFrame164(12122);
                 if (getLevelForXP(c.playerXP[skill]) == 99) {

@@ -19,10 +19,12 @@ import main.event.CycleEventHandler;
 import main.event.Event;
 import main.event.EventContainer;
 import main.event.EventManager;
+import main.misc.AchievementDiaries;
 import main.model.items.Item;
 import main.model.items.ItemAssistant;
 import main.model.items.bank.Bank;
 import main.model.minigames.Barrows;
+import main.model.minigames.MageArena;
 import main.model.minigames.PestControl;
 import main.model.npcs.NPCHandler;
 import main.model.npcs.Zulrah;
@@ -184,6 +186,10 @@ public class Client extends Player {
     }
 
     private Map<Integer, TinterfaceText> interfaceText = new HashMap<Integer, TinterfaceText>();
+
+    public void sendMessage(int selftimer) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 
     public class TinterfaceText {
 
@@ -760,7 +766,7 @@ public class Client extends Player {
             Summoning().SummonNewNPC(lastsummon);
         }
         getPA().showOption(4, 0, "Follow", 4);
-        getPA().showOption(5, 0, "Trade with", 3);
+        getPA().showOption(5, 0, "Trade with", 3);     
         getItems().resetItems(3214);
         getItems().sendWeapon(playerEquipment[playerWeapon],
                 getItems().getItemName(playerEquipment[playerWeapon]));
@@ -903,6 +909,7 @@ public class Client extends Player {
 
     @Override
     public void process() {
+        AchievementDiaries.run(this);
         if (inTheArena() && duelStatus == 0) {
             sendMessage("You have been moved to the challenge area, possibly due to a bug.");
             getPA().movePlayer(3366, 3268, 0);
@@ -1039,15 +1046,13 @@ public class Client extends Player {
             getPA().sendFrame126("(1-25 Players to Start)", 21122);
             getPA().sendFrame126("Pest Points: " + pcPoints + "", 21123);
             getPA().walkableInterface(21119);
-        } else if (inPcGame() && PestControl.gameTimer < 0) {
-            getPA().movePlayer(3086, 3493, 0);
-            sendMessage("Sorry for moving you, but you logged into a forbidden area.");
-        } else if (inPcGame()) {
+        } else 
+         if (inPcGame()) {
             for (j = 0; j < NPCHandler.npcs.length; j++) {
                 if (NPCHandler.npcs[j] != null) {
                     if (NPCHandler.npcs[j].npcType == 6142) {
                         if (NPCHandler.npcs[j].isDead) {
-                            getPA().sendFrame126("Dead", 21111);
+                            getPA().sendFrame126("   @red@-", 21111);
                         } else {
                             getPA().sendFrame126(
                                     "" + NPCHandler.npcs[j].HP + "", 21111);
@@ -1055,7 +1060,7 @@ public class Client extends Player {
                     }
                     if (NPCHandler.npcs[j].npcType == 6143) {
                         if (NPCHandler.npcs[j].isDead) {
-                            getPA().sendFrame126("Dead", 21112);
+                            getPA().sendFrame126("   @red@-", 21112);
                         } else {
                             getPA().sendFrame126(
                                     "" + NPCHandler.npcs[j].HP + "", 21112);
@@ -1063,7 +1068,7 @@ public class Client extends Player {
                     }
                     if (NPCHandler.npcs[j].npcType == 6144) {
                         if (NPCHandler.npcs[j].isDead) {
-                            getPA().sendFrame126("Dead", 21113);
+                            getPA().sendFrame126("   @red@-", 21113);
                         } else {
                             getPA().sendFrame126(
                                     "" + NPCHandler.npcs[j].HP + "", 21113);
@@ -1071,7 +1076,7 @@ public class Client extends Player {
                     }
                     if (NPCHandler.npcs[j].npcType == 6145) {
                         if (NPCHandler.npcs[j].isDead) {
-                            getPA().sendFrame126("Dead", 21114);
+                            getPA().sendFrame126("   @red@-", 21114);
                         } else {
                             getPA().sendFrame126(
                                     "" + NPCHandler.npcs[j].HP + "", 21114);
@@ -1086,7 +1091,7 @@ public class Client extends Player {
                 getPA().sendFrame126("@gre@" + pcDamage + "", 21116);
             }
             getPA().sendFrame126(
-                    "Time remaining: " + PestControl.gameTimer + "", 21117);
+                    "<img=6>Time remaining: " + PestControl.gameTimer + "", 21117);
             getPA().walkableInterface(21100);
         } else if (inDuelArena()) {
             getPA().walkableInterface(201);
@@ -1238,7 +1243,11 @@ public class Client extends Player {
     public Future<?> getCurrentTask() {
         return currentTask;
     }
+ private MageArena mageArena = new MageArena(this);
 
+        public MageArena getMa() {
+		return mageArena;
+	}
     public synchronized Stream getInStream() {
         return inStream;
     }

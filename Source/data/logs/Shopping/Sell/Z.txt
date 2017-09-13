@@ -1,0 +1,16 @@
+
+Year : 2017	Month : 8	Day : 6	Hour : 0	Minute : 54	Second : 22
+Z Has Sold item: 1613, Quantity 10
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 6	Hour : 0	Minute : 54	Second : 23
+Z Has Sold item: 1622, Quantity 10
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 0	Minute : 59	Second : 17
+Z Has Sold item: 1511, Quantity 1
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 0	Minute : 59	Second : 18
+Z Has Sold item: 1511, Quantity 5
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 0	Minute : 59	Second : 18
+Z Has Sold item: 1511, Quantity 10
+--------------------------------------------------

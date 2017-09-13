@@ -285,6 +285,117 @@ public class DialogueHandler {
 					"Banker");
 			c.nextChat = 0;
 			break;
+                           /**
+		* Mage Arena - Kolodion
+		**/
+                    case 150:
+                        sendPlayerChat1("Hello there. What is this place?");
+                        c.nextChat = 151;
+                        break;
+                    case 151:
+                        sendNpcChat3("I am the great Kolodian, master of battle magic, and", "this is my battle arena. Top wizards travel from all over", "DivineRS to fight here.", 905, "Kolodion");
+                        c.nextChat = 152;
+                        break;
+                    case 152:
+			sendPlayerChat1("Can I fight here?");
+			c.nextChat = 153;
+                        break;
+                    case 153:
+                        sendNpcChat3("My arena is open to any high level wizard, but this is", "no game. Many wizards fall in this arena, never to rise", "again. The strongest mages have been destroyed.", 905, "Kolodion");
+                        c.nextChat = 154;
+                        break;
+                    case 154:
+                        sendNpcChat1("If you're sure you want in?", 905, "Kolodion");
+                        c.nextChat = 155;
+                        break;
+		case 155:
+			sendOption2("Yes indeedy.", "No I don't.");
+			c.maIndeedyOption = true;
+			c.nextChat = 0;
+			break;
+		case 156:
+			sendPlayerChat1("Yes indeedy.");
+			c.nextChat = 157;
+			break;
+                case 157:
+                        sendNpcChat1("Good, good. You have a healthy sense of competition.", 905, "Kolodion");
+                        c.nextChat = 158;
+                        break;
+                case 158:
+                        sendNpcChat4("Remember, traveller - in my arena, hand-to-hand", "combat is useless. Your strength will diminish as you", "enter the arena, but the spells you can learn are", "amongst the most powerful in all of RuneScape.", 905, "Kolodion");
+                        c.nextChat = 159;
+                        break;
+                case 159:
+                        sendNpcChat1("But before I can accept you in, we must duel.", 905, "Kolodion");
+                        c.nextChat = 160;
+                        break;
+		case 160:
+			sendOption2("Okay, let's fight.", "No thanks.");
+			c.maOption = true;
+			c.nextChat = 0;
+			break;
+		case 161:
+			sendPlayerChat1("Okay, let's fight.");
+                        c.maRound = 1;
+                        PlayerSave.saveGame(c);
+			c.nextChat = 163;
+			break;
+		case 162:
+			sendPlayerChat1("No thanks.");
+			c.nextChat = 0;
+			break;
+                case 163:
+                       sendNpcChat1("I must first check that you are up to scratch.", 905, "Kolodion");
+                      c.nextChat = 164;
+                       break;
+                    case 164:
+			sendPlayerChat1("You don't need to worry about that.");
+			c.nextChat = 165;
+                case 165:
+                        sendNpcChat4("Not just any magician can enter - only the most", "powerful and most feared. Before you can use the", "power of this arena, you must prove yourself against", "me.", 905, "Kolodion");
+                        c.nextChat = 166;
+                        break;
+		case 166:
+			c.getMa().startMa();
+			c.nextChat = 0;
+			break;
+		case 167:
+			sendPlayerChat1("No I don't.");
+			c.nextChat = 0;
+			break;
+		case 168:
+			// itemMessage("Quest Complete", "Speak with Kolodion.", 2412, 250);
+			c.nextChat = 0;
+			PlayerSave.saveGame(c);
+                        break;
+                case 169:
+                        sendNpcChat2("Well done, young adventurer; you truly are a worthy", "battle mage.", 905, "Kolodion");
+                        c.nextChat = 0;
+                        break;
+                 case 170:
+                        sendPlayerChat1("Hello, Kolodion.");
+                        c.nextChat = 171;
+                        break;
+                    case 171:
+                        sendNpcChat1("Hello, young mage. You're a tough one.", 905, "Kolodion");
+                        c.nextChat = 172;
+                        break;
+                    case 172:
+			sendPlayerChat1("What now?");
+			c.nextChat = 173;
+                        break;
+                    case 173:
+                        sendNpcChat3("Step into the magic pool. It will take you to a chamber.", "There, you must decide which god you will represent in", "the arena.", 905, "Kolodion");
+                        c.nextChat = 174;
+                        break;
+                    case 174:
+			sendPlayerChat1("Thanks, Kolodion.");
+			c.nextChat = 175;
+                        break;
+                    case 175:
+                        sendNpcChat1("That's what I'm here for.", 905, "Kolodion");
+                        c.nextChat = 0;
+                        break;
 		case 200:
 			c.getDH().sendOption5("Rock Crabs", "Slayer Monsters", "Slayer Tower", "Brimhaven Dungeon", "Taverley Dungeon");
 			c.dialogueAction = 200;

@@ -4,6 +4,7 @@ import main.Config;
 import main.net.Connection;
 import main.Server;
 import main.clip.region.Region;
+import main.misc.AchievementDiaries;
 import main.model.npcs.NPCHandler;
 import main.model.players.Client;
 import main.model.players.Player;
@@ -12,19 +13,24 @@ import main.model.players.PlayerSave;
 import main.util.Misc;
 import main.world.ItemHandler;
 import main.world.PublicEvent;
+import main.model.npcs.NPCHandler;
 
 public class OwnerCommands {
 
 	public static void execute(Client player, String command) {
-		
+
 		if (command.startsWith("object")) {
 			try {
 				String[] args = command.split(" ", 3);
 				int id = Integer.parseInt(args[1]);
 				player.getPA().object(id, player.absX, player.absY, 0, 10);
-			} catch(Exception e) {
+			} catch(NumberFormatException e) {
 			}
 		}
+        
+                if (command.startsWith("t")) {
+                  player.getMa().startMa();
+                }
 		if (command.startsWith("interface")) {
 			String[] args = command.split(" ");
 			player.getPA().showInterface(Integer.parseInt(args[1]));

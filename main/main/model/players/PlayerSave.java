@@ -229,11 +229,36 @@ public class PlayerSave {
                             p.randomCoffin = Integer.parseInt(token2);
                         } else if (token.equals("barrows-killcount")) {
                             p.barrowsKillCount = Integer.parseInt(token2);
-                            /* PKing by Ardi */
                         } else if (token.equals("safeTimer")) {
                             p.safeTimer = Integer.parseInt(token2);
                         } else if (token.equals("pkp")) {
                             p.pkp = Integer.parseInt(token2);
+                        } else if (token.equals("logsCut")) {
+                            p.logsCut = Integer.parseInt(token2);
+                        } else if (token.equals("lobstersFished")) {
+                            p.lobstersFished = Integer.parseInt(token2);
+                        } else if (token.equals("crabKills")) {
+                            p.crabKills = Integer.parseInt(token2);
+                        } else if (token.equals("itemsCol")) {
+                            p.itemsCol = Integer.parseInt(token2);
+                        } else if (token.equals("dragKills")) {
+                            p.dragKills= Integer.parseInt(token2);
+                        } else if (token.equals("gamesWon")) {
+                            p.gamesWon= Integer.parseInt(token2);
+                        } else if (token.equals("abbieskilled")) {
+                            p.abbieskilled= Integer.parseInt(token2);
+                        } else if (token.equals("bonesonalt")) {
+                            p.bonesonalt= Integer.parseInt(token2);
+                        } else if (token.equals("magearenaC")) {
+                            p.magearenaC= Integer.parseInt(token2);
+                        } else if (token.equals("firecapeObtained")) {
+                            p. firecapeObtained= Integer.parseInt(token2);
+                        } else if (token.equals("hasPet")) {
+                            p. hasPet= Integer.parseInt(token2);   
+                        } else if (token.equals("taskcomplete")) {
+                            p. taskcomplete= Integer.parseInt(token2);
+                        } else if (token.equals("slayertasks")) {
+                            p. slayertasks= Integer.parseInt(token2);
                         } else if (token.equals("vote-points")) {
                             p.votePoints = Integer.parseInt(token2);
                         } else if (token.equals("amount-donated")) {
@@ -250,7 +275,7 @@ public class PlayerSave {
                             p.KC = Integer.parseInt(token2);
                         } else if (line.startsWith("DC")) {
                             p.DC = Integer.parseInt(token2);
-                            /* END PKing by Ardi */
+                         
                         } else if (token.equals("teleblock-length")) {
                             p.teleBlockDelay = System.currentTimeMillis();
                             p.teleBlockLength = Integer.parseInt(token2);
@@ -307,7 +332,9 @@ public class PlayerSave {
                              */
                         } else if (token.equals("mute-end")) {
                             p.muteEnd = Long.parseLong(token2);
-                        } else if (token.equals("slayerTask")) {
+                        } else if (token.equals("eventPoints")) {
+                            p.eventPoints = Integer.parseInt(token2);
+                        }else if (token.equals("slayerTask")) {
                             p.slayerTask = Integer.parseInt(token2);
                         } else if (token.equals("slayerPoints")) {
                             p.slayerPoints = Integer.parseInt(token2);
@@ -532,7 +559,7 @@ public class PlayerSave {
             characterfile.write(Integer.toString(p.lastLoginDate), 0, Integer
                     .toString(p.lastLoginDate).length());
             characterfile.newLine();
-            characterfile.write("slayerPoints = ", 0, 14);
+            characterfile.write("slayerPoints = ", 0, 15);
             characterfile.write(Integer.toString(p.slayerPoints), 0, Integer
                     .toString(p.slayerPoints).length());
             characterfile.newLine();
@@ -568,12 +595,11 @@ public class PlayerSave {
             characterfile.write(Integer.toString(p.chestsLooted), 0, Integer
                     .toString(p.chestsLooted).length());
             characterfile.newLine();
-            /* PKing by Ardi */
-            characterfile.write("KC = ", 0, 4);
+            characterfile.write("KC = ", 0, 5);
             characterfile.write(Integer.toString(p.KC), 0,
                     Integer.toString(p.KC).length());
             characterfile.newLine();
-            characterfile.write("DC = ", 0, 4);
+            characterfile.write("DC = ", 0, 5);
             characterfile.write(Integer.toString(p.DC), 0,
                     Integer.toString(p.DC).length());
             characterfile.newLine();
@@ -581,6 +607,60 @@ public class PlayerSave {
             characterfile.write(Integer.toString(p.pkp), 0,
                     Integer.toString(p.pkp).length());
             characterfile.newLine();
+            characterfile.newLine();
+            characterfile.write("logsCut = ", 0, 10);
+            characterfile.write(Integer.toString(p.logsCut), 0,
+                    Integer.toString(p.logsCut).length());
+                characterfile.newLine();
+            characterfile.write("lobstersFished = ", 0, 17);
+            characterfile.write(Integer.toString(p.lobstersFished), 0,
+                    Integer.toString(p.lobstersFished).length());
+                characterfile.newLine();
+            characterfile.write("crabKills = ", 0, 12);
+            characterfile.write(Integer.toString(p.crabKills), 0,
+                    Integer.toString(p.crabKills).length());
+            characterfile.newLine();
+            characterfile.write("itemsCol = ", 0, 11);
+            characterfile.write(Integer.toString(p.itemsCol), 0,
+                    Integer.toString(p.itemsCol).length());
+            characterfile.newLine();
+            characterfile.write("dragKills = ", 0, 12);
+            characterfile.write(Integer.toString(p.dragKills), 0,
+                    Integer.toString(p.dragKills).length());
+            characterfile.newLine();
+            characterfile.write("gamesWon = ", 0, 11);
+            characterfile.write(Integer.toString(p.gamesWon), 0,
+                    Integer.toString(p.gamesWon).length());
+            characterfile.newLine();
+            characterfile.write("abbieskilled = ", 0, 15);
+            characterfile.write(Integer.toString(p.abbieskilled), 0,
+                    Integer.toString(p.abbieskilled).length());
+            characterfile.newLine();
+            characterfile.write("bonesonalt = ", 0, 13);
+            characterfile.write(Integer.toString(p.bonesonalt), 0,
+                    Integer.toString(p.bonesonalt).length());
+            characterfile.newLine();
+            characterfile.write("magearenaC = ", 0, 13);
+            characterfile.write(Integer.toString(p.magearenaC), 0,
+                    Integer.toString(p.magearenaC).length());
+            characterfile.newLine();
+            characterfile.write("firecapeObtained = ", 0, 19);
+            characterfile.write(Integer.toString(p.firecapeObtained), 0,
+                    Integer.toString(p.firecapeObtained).length());
+            characterfile.newLine();
+            characterfile.write("hasPet = ", 0, 9);
+            characterfile.write(Integer.toString(p.hasPet), 0,
+                    Integer.toString(p.hasPet).length());
+            characterfile.newLine();
+            characterfile.write("slayertasks = ", 0, 14);
+            characterfile.write(Integer.toString(p.slayertasks), 0,
+                    Integer.toString(p.slayertasks).length());
+            characterfile.newLine();
+            characterfile.write("taskcomplete = ", 0, 15);
+            characterfile.write(Integer.toString(p.taskcomplete), 0,
+                    Integer.toString(p.taskcomplete).length());
+            characterfile.newLine();
+             characterfile.newLine();
             characterfile.write("vote-points = ", 0, 14);
             characterfile.write(Integer.toString(p.votePoints), 0,
                     Integer.toString(p.votePoints).length());
@@ -597,7 +677,6 @@ public class PlayerSave {
             characterfile.write(Integer.toString(p.donPoints), 0, Integer
                     .toString(p.donPoints).length());
             characterfile.newLine();
-            /* END PKing by Ardi */
             characterfile.write("safeTimer = ", 0, 12);
             characterfile.write(Integer.toString(p.safeTimer), 0, Integer.toString(p.safeTimer).length());
             characterfile.newLine();
@@ -631,6 +710,7 @@ public class PlayerSave {
             characterfile.write("resize = ", 0, 9);
             characterfile.write(Boolean.toString(p.resize), 0, Boolean
                     .toString(p.resize).length());
+            characterfile.newLine();
             characterfile.write("Dfs-Charge = ", 0, 13);
             characterfile.write(Integer.toString(p.dfsCharge), 0, Integer.toString(p.dfsCharge).length());
             characterfile.newLine();
@@ -713,6 +793,10 @@ public class PlayerSave {
             characterfile.write("mute-end = ", 0, 11);
             characterfile.write(Long.toString(p.muteEnd), 0,
                     Long.toString(p.muteEnd).length());
+            characterfile.newLine();
+                        characterfile.write("eventPoints = ", 0, 14);
+            characterfile.write(Long.toString(p.eventPoints), 0,
+                    Integer.toString(p.eventPoints).length());
             characterfile.newLine();
             characterfile.write("slayerTask = ", 0, 13);
             characterfile.write(Integer.toString(p.slayerTask), 0, Integer

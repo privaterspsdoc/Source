@@ -5,3 +5,117 @@ Z Has clicked item: 526
 Year : 2017	Month : 7	Day : 30	Hour : 9	Minute : 10	Second : 42
 Z Has clicked item: 205
 --------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 10	Minute : 12	Second : 16
+Z Has clicked item: 217
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 41	Second : 53
+Z Has clicked item: 536
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 49	Second : 12
+Z Has clicked item: 536
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 33	Second : 33
+Z Has clicked item: 2436
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 33	Second : 33
+Z Has clicked item: 2440
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 33	Second : 34
+Z Has clicked item: 2440
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 33	Second : 34
+Z Has clicked item: 2440
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 33	Second : 34
+Z Has clicked item: 157
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 42	Second : 50
+Z Has clicked item: 157
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 42	Second : 51
+Z Has clicked item: 2442
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 42	Second : 51
+Z Has clicked item: 145
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 42	Second : 51
+Z Has clicked item: 145
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 42	Second : 51
+Z Has clicked item: 145
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 42	Second : 55
+Z Has clicked item: 385
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 42	Second : 58
+Z Has clicked item: 385
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 43	Second : 2
+Z Has clicked item: 385
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 43	Second : 3
+Z Has clicked item: 385
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 43	Second : 4
+Z Has clicked item: 385
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 48	Second : 16
+Z Has clicked item: 385
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 56	Second : 22
+Z Has clicked item: 159
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 56	Second : 28
+Z Has clicked item: 2442
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 56	Second : 31
+Z Has clicked item: 163
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 56	Second : 32
+Z Has clicked item: 147
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 56	Second : 33
+Z Has clicked item: 147
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 56	Second : 33
+Z Has clicked item: 147
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 56	Second : 33
+Z Has clicked item: 149
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 56	Second : 33
+Z Has clicked item: 149
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 56	Second : 34
+Z Has clicked item: 149
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 57	Second : 0
+Z Has clicked item: 385
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 8	Hour : 11	Minute : 57	Second : 0
+Z Has clicked item: 161
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 9	Hour : 0	Minute : 6	Second : 57
+Z Has clicked item: 165
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 9	Hour : 0	Minute : 7	Second : 6
+Z Has clicked item: 385
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 9	Hour : 0	Minute : 7	Second : 22
+Z Has clicked item: 385
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 9	Hour : 0	Minute : 7	Second : 23
+Z Has clicked item: 385
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 9	Hour : 0	Minute : 7	Second : 23
+Z Has clicked item: 385
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 9	Hour : 0	Minute : 7	Second : 29
+Z Has clicked item: 385
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 9	Hour : 0	Minute : 7	Second : 31
+Z Has clicked item: 385
+--------------------------------------------------
+Year : 2017	Month : 8	Day : 9	Hour : 0	Minute : 11	Second : 6
+Z Has clicked item: 213
+--------------------------------------------------

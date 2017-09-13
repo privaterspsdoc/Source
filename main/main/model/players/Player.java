@@ -91,10 +91,30 @@ public abstract class Player {
     public boolean completedPrayerDiary;
 
     public int runsDone;
-
+    public static int maRound = 0;
+    public boolean maOption = false,maIndeedyOption = false;
     public int potsMade;
+    /**
+     * AchievementDiaries
+     */
+    public int lobstersFished;
+    public int crabKills;
+    public int itemsCol;
+    public int dragKills;
+    public int gamesWon;
+    public int abbieskilled;
+    public int bonesonalt;
+    public int magearenaC;
+    public int firecapeObtained;
+    public int hasPet;
+    public int logsCut;
+    public int slayertasks;
+    public int taskcomplete;
 
-    /*Duo Slayer*/
+    /*
+    *end achievenemtndiaries
+    */
+      /*Duo Slayer*/
     public int duoTask = -1, duoTaskAmount = -1;
     public int duoPoints;
     public WeakReference<Player> duoPartner;
@@ -261,6 +281,7 @@ public abstract class Player {
     public int leatherType = -1;
     public boolean isWc;
     public int homeTele = 0;
+        public int eventPoints;
     public int homeTeleDelay = 0;
 
     public boolean wcing;

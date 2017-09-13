@@ -12,7 +12,7 @@ import main.model.players.*;
 
 public class PublicEvent {
 	
-	public static String randomChar[] = {"a", "b", "p", "d", "e", "f", "g", "h", "i", "k", "x", "1", "2", "3", "$","%","@", "8","9","0"};
+	public static String randomChar[] = {"a", "b", "c", "d", "e", "m", "g", "h", "i", "k", "x", "1", "2", "3", "_","%","@", "5","9","0"};
 	public static boolean firstEventInProgress = false;
 	public static String firstString = "";
 	public static int rewardId;
@@ -29,22 +29,20 @@ public class PublicEvent {
 	}
 	
 	public static void processEntry(Client player, String command) {
+            
 		if(!firstEventInProgress)
 			return;
 		if(command.equals(firstString)) {
 			firstEventInProgress = false;
 			lastEventTimer = 0;
-			player.getItems().addItem(rewardId, rewardAmount);
-			if(rewardAmount == 1) {
+			player.eventPoints += rewardAmount;
 				isRunning = false;
-				serverMessage("<img=6><col=154360>"+player.playerName.substring(0,1).toUpperCase() + player.playerName.substring(1) + " has won a "+ItemAssistant.getItemName2(rewardId)+"!</col></img>");
-			} else {
-				String extra = "s";
-				if(ItemAssistant.getItemName2(rewardId).endsWith("s"))
-					extra = "";
-				isRunning = false;
-				serverMessage("<img=6><col=154360>"+player.playerName.substring(0,1).toUpperCase() + player.playerName.substring(1) + " has won "+rewardAmount+" "+ItemAssistant.getItemName2(rewardId)+""+extra+"!</col></img>");
-			}
+                               if (rewardAmount == 1) {
+				serverMessage("<col=a230ff>"+player.playerName.substring(0,1).toUpperCase() + player.playerName.substring(1) + " has claimed "+rewardAmount+" event point, better luck next time!</col></img>");
+                                } else {
+                                serverMessage("<col=a230ff>"+player.playerName.substring(0,1).toUpperCase() + player.playerName.substring(1) + " has claimed "+rewardAmount+" event points, better luck next time!</col></img>");
+                               }
+                               
 			rewardId = 0;
 			rewardAmount = 0;
 		}
@@ -52,120 +50,53 @@ public class PublicEvent {
 	
 	public static String newFirstString() {
 		String returns = "";
-		while(returns.length() < 10)
+		while(returns.length() < 5)
 			returns += randomChar[Misc.random(randomChar.length - 1)];
 		return returns;
 	}
 	
-	public static String constructFirstYell() {
+	public static String constructFirstYell(Client c) {
+           
+           eventEnded(c);
 		if(rewardAmount == 1)
-			return "<img=6><col=154360>The first person to type </col><col=34495e>::"+firstString+"</col> <col=154360>will receive a "+ItemAssistant.getItemName2(rewardId)+"!</img></col>";
+			return "<col=a230ff>The first person to type </col><col=34495e>::"+firstString+"</col> <col=a230ff>will receive "+rewardAmount+" point!</col>";
 		if(ItemAssistant.getItemName2(rewardId).endsWith("s"))
-			return "<img=6><col=154360>The first person to type </col><col=34495e>::"+firstString+"</col> <col=154360>will receive "+rewardAmount+" "+ItemAssistant.getItemName2(rewardId)+"!</img></col>";
-		return "<img=6><col=154360>The first person to type </col><col=34495e>::"+firstString+"</col><col=154360> will receive "+rewardAmount+" "+ItemAssistant.getItemName2(rewardId)+"s!</img></col>";
+			return "<col=a230ff>The first person to type </col><col=34495e>::"+firstString+"</col> <col=a230ff>will receive "+rewardAmount+" event points!</col>";
+		return "<col=a230ff>The first person to type </col><col=34495e>::"+firstString+"</col><col=a230ff0> will receive "+rewardAmount+" event points!</col>";
 	}
 	
-	public static void generateReward() {
+	public static void generateReward(Client c) {
 		int rewardLevel = Misc.random(50);
 		if(rewardLevel < 40) {
 			rewardLevel = 1;
-		} else if(rewardLevel < 49) {
-			rewardLevel = 2;
-		} else if(rewardLevel == 50) {
-			rewardLevel = 3;
-		} else {
-			rewardLevel = 1;
-		}
+                }
 		switch(rewardLevel) {
 			case 1:
-				switch(Misc.random(3)) {
+				switch(Misc.random(13)) {
 					case 0:
-						rewardId = 995;
-						rewardAmount = (Misc.random(3) + 1) * 500000;
-					break;
-					case 1:
-						rewardId = 533;
-						rewardAmount = (Misc.random(14) + 1) * 10;
-					break;
-					case 2:
-						rewardId = 1624;
-						rewardAmount = (Misc.random(9) + 1) * 10;
-					break;
-					case 3:
-						rewardId = 1740;
-						rewardAmount = (Misc.random(19) + 1) * 10;
+						         rewardAmount += 15;
 					break;
 					
-				}
+                                }
 			break;
-			case 2:
-				switch(Misc.random(3)) {
-					case 0:
-						rewardId = 995;
-						rewardAmount = (Misc.random(15) + 5) * 50000;
-					break;
-					case 1:
-						rewardId = 537;
-						rewardAmount = (Misc.random(14) + 6) * 10;
-					break;
-					case 2:
-						rewardId = 1622;
-						rewardAmount = (Misc.random(10) + 10) * 10;
-					break;
-					case 3:
-						rewardId = 386;
-						rewardAmount = (Misc.random(80) + 20) * 10;
-					break;
-					
-				}
-			break;
-			case 3:
-				switch(Misc.random(5)) {
-					case 0:
-						rewardId = 995;
-						rewardAmount = (Misc.random(50) + 10) * 100000;
-					break;
-					case 1:
-						rewardId = 537;
-						rewardAmount = (Misc.random(100) + 30) * 10;
-					break;
-					case 2:
-						rewardId = 4151;
-						rewardAmount = 1;
-					break;
-					case 3:
-						rewardId = 1053;
-						rewardAmount = 1;
-					break;
-					case 4:
-						rewardId = 1055;
-						rewardAmount = 1;
-					break;
-					case 5:
-						rewardId = 1057;
-						rewardAmount = 1;
-					break;
-					case 6:
-						rewardId = 6585;
-						rewardAmount = 1;
-					break;
-				}
-			break;
+
 		}
-	}
+	
+        }
 	
 	public static void executeFirstEvent() {
+            Client c = (Client)main.model.players.PlayerHandler.players[0];
 		forceFirst = false;
 		firstString = newFirstString();
-		generateReward();
+		generateReward(c);
 		firstEventInProgress = true;
 		isRunning = true;
 		lastEventTimer = 600;
-		serverMessage(constructFirstYell());
+		serverMessage(constructFirstYell(c));
 	}
 	
 	public static void process() {
-		if((Misc.random(12000) == 0 || forceFirst) && !firstEventInProgress)
+		if((Misc.random(5) == 0 || forceFirst) && !firstEventInProgress)
 			executeFirstEvent();
 		if(lastEventTimer > 0)
 			lastEventTimer --;
@@ -183,10 +114,8 @@ public class PublicEvent {
 	}
 	static int count1 = 11;
 	static int i = 7;
-	
 	public static void eventEnded(Client c) {
 		int Timer = count1 + i;
-		//c.getPA().sendFrame126("vengtimer:" + Timer, 0);
 			CycleEventHandler.getSingleton().addEvent(c, new CycleEvent() {
 				int count = 18;
 				@Override
@@ -207,8 +136,7 @@ public class PublicEvent {
 							Client c2 = (Client)PlayerHandler.players[j];
 						}
 					}
-					c.getPA().sendFrame126("", 0);
-					c.sendMessage("<img=6><col=154360>The event is now over.</col>");
+					//c.sendMessage("<col=a230ff>Event over, nobody was quick enough in time.");
 				} 
 		
 				

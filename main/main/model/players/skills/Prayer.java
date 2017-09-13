@@ -31,10 +31,13 @@ public class Prayer {
 		public void bonesOnAltar2(final int id, int amount) {
 			if(amount >= 1 && c.usingAltar && c.getItems().playerHasItem(id,1)) {
 				c.getItems().deleteItem(id, c.getItems().getItemSlot(id), 1);
-				if (id == 536 && c.bonesUsed < 250) {
-					c.bonesUsed += 1;
-				c.sendMessage("You have used " + c.bonesUsed + "/250");
-				}
+                                        if (c.bonesonalt < 100 ){
+                                                   c.bonesonalt++;
+                                                   if(c.bonesonalt == 100){
+                                                   c.sendMessage("@dre@You've completed your achievement task, "+c.taskcomplete+"/13 Tasks complete.");
+                                                   c.taskcomplete+= 1;
+                                                }
+                                        }
 				c.sendMessage("The gods are pleased with your offering.");
 				c.getPA().addSkillXP(getExp(id)*2*Config.PRAYER_EXPERIENCE, 5);
 				c.startAnimation(896);
@@ -55,11 +58,14 @@ public class Prayer {
 				public void execute(CycleEventContainer altar) {
 					if (boneAmount > 0&&c.usingAltar && c.getItems().playerHasItem(id,1)) {
 						boneAmount--; 
-						if (id == 536 && c.bonesUsed < 250) {
-						c.bonesUsed += 1;
-						c.sendMessage("You have used " + c.bonesUsed + "/250");
-						}
 						c.getItems().deleteItem(id, c.getItems().getItemSlot(id), 1);
+                                                        if (c.bonesonalt < 100 ){
+                                                   c.bonesonalt++;
+                                                   if(c.bonesonalt == 100){
+                                                   c.sendMessage("@dre@You've completed your achievement task, "+c.taskcomplete+"/13 Tasks complete.");
+                                                   c.taskcomplete+= 1;
+                                                }
+                                                        }
 						c.sendMessage("The gods are pleased with your offering.");
 						c.getPA().addSkillXP(getExp(id)*2*Config.PRAYER_EXPERIENCE, 5);
 						c.startAnimation(896);
@@ -85,6 +91,13 @@ public class Prayer {
 
 	public void bonesOnAltar(int id) {
 		c.getItems().deleteItem(id, c.getItems().getItemSlot(id), 1);
+                   if (c.bonesonalt < 100 ){
+                                                   c.bonesonalt++;
+                                                   if(c.bonesonalt == 100){
+                                                   c.sendMessage("@dre@You've completed your achievement task, "+c.taskcomplete+"/13 Tasks complete.");
+                                                   c.taskcomplete+= 1;
+                                                }
+                                                    }
 		c.sendMessage("The gods are pleased with your offering.");
 		c.getPA().addSkillXP(getExp(id) * 4 * Config.PRAYER_EXPERIENCE, 5);
 	}

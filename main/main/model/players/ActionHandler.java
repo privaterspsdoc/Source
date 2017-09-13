@@ -34,6 +34,7 @@ public class ActionHandler {
 			return;
 		}
 		switch (objectType) {
+                    		
 		case 26969:
 			c.getPA().sendFrame126("The Bank of Zaros - Deposit Box", 7421);
 			c.getPA().sendFrame248(4465, 197);
@@ -1364,6 +1365,21 @@ public class ActionHandler {
 		}
 	
 		switch (npcType) {
+                    case 905:
+                switch (c.maRound) {
+                    case 0:
+                        c.getDH().sendDialogues(150, 905);
+                        break;
+                    case 2:
+                        c.getDH().sendDialogues(170, 905);
+                        break;
+                    case 1:
+                        c.getDH().sendDialogues(160, 905);
+                        break;
+                    default:
+                        break;
+                }
+				break;
 		case 2024:
 			c.getDH().sendDialogues(400, npcType);
 			c.dialogueAction = 438;
@@ -1591,15 +1607,7 @@ public class ActionHandler {
 	
 	public void store(int i, int npcType)
 	{
-
-
-	switch(npcType) {
-	case 6807:
-	if(Server.npcHandler.npcs[i].npcId == c.summoningnpcid) {
-	c.sendMessage("You are now storing items inside your npc");
-		c.Summoning().store();
-	}
-	break;
+            switch(npcType) {
 	}
 	}
 

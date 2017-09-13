@@ -31,6 +31,27 @@ public class ClickingButtons implements PacketType {
             Misc.println(c.playerName + " - actionbutton: " + actionButtonId);
         }
         switch (actionButtonId) {
+           /* case 114121:
+                	c.getPA().showInterface(8134);
+			c.flushOutStream();
+                        c.getPA().sendFrame126("@dre@<img=6> - Woodcutting Diaries -</img> <img=6></img>", 8145);
+			c.getPA().sendFrame126("", 8149);
+                        c.getPA().sendFrame126("thrttr", 8144);
+                        c.getPA().sendFrame126("@dre@"+c.logsCut+"/100 Normal logs",8147);
+			c.getPA().sendFrame126("@dre@"+c.logsCut+"/100 Maple logs", 8148);
+			c.getPA().sendFrame126("@dre@"+c.logsCut+"/100 Normal logs", 8149);
+			c.getPA().sendFrame126("@dre@"+c.logsCut+"/100 Normal logs", 8150);
+			c.getPA().sendFrame126("@dre@"+c.logsCut+"/100 Normal logs", 8151);
+			c.getPA().sendFrame126("5", 8152);
+			c.getPA().sendFrame126("6", 8153);
+			c.getPA().sendFrame126("7", 8154);
+			c.getPA().sendFrame126("8", 8155);
+			c.getPA().sendFrame126("9", 8156);
+			c.getPA().sendFrame126("10", 8157);
+			c.getPA().sendFrame126("11", 8158);
+			c.getPA().sendFrame126("12", 8159);
+			c.getPA().sendFrame126("13", 8160); // replace the numbers with your text, between the ""
+                break;*/
             case 3189:
                 if (c.splitChat == false) {
                     c.getPA().sendFrame36(502, 1);
@@ -2134,6 +2155,14 @@ public class ClickingButtons implements PacketType {
                 break;
 
             case 9157:
+                	if(c.maOption) {
+					c.getDH().sendDialogues(161, -1);
+					c.maOption = false;
+				}
+                                if(c.maIndeedyOption) {
+					c.getDH().sendDialogues(156, -1);
+					c.maIndeedyOption = false;
+				}
                 if (c.dialogueAction == 4343) {
                     c.headIconPk = 0;
                     c.isSkulled = true;
@@ -2429,6 +2458,14 @@ public class ClickingButtons implements PacketType {
                 break;
 
             case 9158:
+                      if(c.maOption) {
+					c.getDH().sendDialogues(162, -1);
+					c.maOption = false;
+				}
+                                if(c.maIndeedyOption) {
+					c.getDH().sendDialogues(166, -1);
+					c.maIndeedyOption = false;
+				}
                 if (c.dialogueAction == 4343) {
                     c.getPA().removeAllWindows();
                     break;

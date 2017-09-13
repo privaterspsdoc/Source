@@ -5,6 +5,7 @@ import main.Server;
 import main.event.CycleEvent;
 import main.event.CycleEventContainer;
 import main.event.CycleEventHandler;
+import main.misc.AchievementDiaries;
 import main.model.players.Client;
 import main.model.players.PlayerHandler;
 import main.util.Misc;
@@ -84,7 +85,18 @@ public class Woodcutting extends SkillHandler {
 														* WOODCUTTING_XP, 8);
 									}
 									if (c.playerSkillProp[8][6] > 0) {
-										c.sendMessage("You get some logs.");		
+                                                                            if (c.logsCut < 100) {
+                                                                                int tc;
+                                                                               tc = c.taskcomplete + 1;
+                                                                                c.logsCut++;
+                                                                                 if(c.logsCut == 100){
+                                                                                 c.sendMessage("@dre@You've completed your achievement task, "+tc+"/13 Tasks complete.");
+                                                                                 c.taskcomplete+= 1;
+                                                                               
+                                                                                }
+                                                                            }
+										c.sendMessage("You get some logs.");	
+                                                                               
 									}
 									deleteTime(c);
 									if (!hasAxe(c)) {

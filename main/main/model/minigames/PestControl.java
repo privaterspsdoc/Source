@@ -95,18 +95,29 @@ public class PestControl {
 					Client c = (Client) PlayerHandler.players[j];
 					c.getPA().movePlayer(2657, 2639, 0);
 					if (won && c.pcDamage > 15) {
-						c.sendMessage("You earn four pest control points and 15,000 GP for defeating the monsters.");
+                                            if (c.gamesWon < 10) {
+                                                c.gamesWon +=1;
+                                            if(c.gamesWon == 10) {
+                                                    
+                                        c.sendMessage("@dre@You've completed your achivement task, "+c.taskcomplete+"/13 Tasks complete.");
+                                        c.taskcomplete+= 1;
+                                                
+                                                }
+                                            }
+                                                c.getPA().movePlayer(2657, 2639, 0);
+						c.sendMessage("You earn @red@4@bla@ pest control points and @red@10,000 coins@bla@.");
 						c.pcPoints += 4;
 						c.playerLevel[3] = c.getLevelForXP(c.playerXP[3]);
 						c.playerLevel[5] = c.getLevelForXP(c.playerXP[5]);
 						c.specAmount = 10;
-						c.getItems().addItem(995, 15000);
+						c.getItems().addItem(995, 10000);
 						c.getPA().refreshSkill(3);
 						c.getPA().refreshSkill(5);
 					} else if (won) {
+                                            c.getPA().movePlayer(2657, 2639, 0);
 						c.sendMessage("The void knights notice your lack of zeal.");
-						//c.sendMessage("Next time, try causing more damage.");
 					} else {
+                                             c.getPA().movePlayer(2657, 2639, 0);
 						c.sendMessage("Sadly, you did not destroy all of the portals.");
 					}
 					c.pcDamage = 0;
